@@ -3,7 +3,7 @@
     "path": "/.env",
     "category": "env-config",
     "first_seen": "2026-02-27T02:36:27Z",
-    "hit_count": 3
+    "hit_count": 5
   },
   {
     "path": "/test.php",
@@ -141,7 +141,7 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 10
+    "hit_count": 12
   },
   {
     "path": "/abc.php",
@@ -1503,7 +1503,7 @@
     "path": "/txets.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T10:03:16Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/wp-content/txets.php",
@@ -1521,7 +1521,7 @@
     "path": "/theme/assets/plugins/jquery-file-upload/server/php/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T11:15:05Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/f.php",
@@ -2997,6 +2997,60 @@
     "path": "/e31hmf9b.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T21:21:51Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/'%20+%20escapeHtml(data.url)%20+%20'",
+    "category": "sql-injection",
+    "first_seen": "2026-02-27T22:51:02Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/'%20+%20escapeHtml(s.url)%20+%20'",
+    "category": "sql-injection",
+    "first_seen": "2026-02-27T22:51:02Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/index.php",
+    "category": "php-probes",
+    "first_seen": "2026-02-27T23:04:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/wordpress/wp-login.php",
+    "category": "php-probes",
+    "first_seen": "2026-02-28T01:44:52Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/blog/wp-login.php",
+    "category": "php-probes",
+    "first_seen": "2026-02-28T01:44:53Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/wp/wp-login.php",
+    "category": "php-probes",
+    "first_seen": "2026-02-28T01:44:53Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/cms/wp-login.php",
+    "category": "php-probes",
+    "first_seen": "2026-02-28T01:44:53Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/backup/mysql.sql",
+    "category": "backup-files",
+    "first_seen": "2026-02-28T02:11:35Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/back/backup.sql",
+    "category": "backup-files",
+    "first_seen": "2026-02-28T02:11:35Z",
     "hit_count": 1
   }
 ]

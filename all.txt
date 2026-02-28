@@ -1,3 +1,5 @@
+/'%20+%20escapeHtml(data.url)%20+%20'
+/'%20+%20escapeHtml(s.url)%20+%20'
 /.env
 /.well-known/acme-challenge/index.php
 /.well-known/admin.php
@@ -114,6 +116,8 @@
 /ay.php
 /b.php
 /ba.php
+/back/backup.sql
+/backup/mysql.sql
 /baixy.php
 /bak.php
 /bal.php
@@ -130,6 +134,7 @@
 /bless7.php
 /bless8.php
 /bless9.php
+/blog/wp-login.php
 /bolt.php
 /boots.php
 /bs1.php
@@ -145,6 +150,7 @@
 /class.1.php
 /classwithtostring.php
 /clcdu.php
+/cms/wp-login.php
 /config.php
 /contact.php
 /contact_tpl.php
@@ -236,6 +242,7 @@
 /images/index.php
 /in.php
 /inc.php
+/index.php
 /index/function.php
 /info.php
 /ini.php
@@ -374,6 +381,7 @@
 /wk/index.php
 /wolv.php
 /wordpress/wp-admin/setup-config.php
+/wordpress/wp-login.php
 /work.php
 /wp-2019.php
 /wp-access.php
@@ -455,6 +463,7 @@
 /wp-trackback.php
 /wp-update.php
 /wp.php
+/wp/wp-login.php
 /wp5.php
 /wp9.php
 /wp_bqLC0MQe.php
