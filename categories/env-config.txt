@@ -1,2 +1,9 @@
 /.env
+/.env.local
+/.env.production
+/.env.save
+/.git/config
 //.env
+//.git/HEAD
+/api/.env
+/app/.env
