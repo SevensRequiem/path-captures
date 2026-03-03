@@ -1,4 +1,16 @@
+/$(pwd)/docker-compose.yml
 /.circleci/config.yml
+/.kube/config
+/.kube/credentials
+/.kube/secrets.yaml
 /Dockerfile
+/app/docker-compose.yml
+/attacker/docker-compose.yml
+/circleci/.circleci/settings.yml
+/docker-compose.dev.yml
 /docker-compose.override.yml
+/docker-compose.prod.yml
+/docker-compose.yaml
 /docker-compose.yml
+/var/task/docker-compose.yaml
+/var/task/docker-compose.yml
