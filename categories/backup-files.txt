@@ -6,6 +6,7 @@
 /.save
 /1.sql
 /2025.sql
+/2026.sql
 /admin_panel.sql
 /admincp.sql
 /administrator.sql
@@ -15,6 +16,7 @@
 /app.sql
 /app/etc/local.xml.bak
 /back/backup.sql
+/back/dump.sql
 /back/mysql.sql
 /back/sql.sql
 /back/www.sql
@@ -75,6 +77,7 @@
 /install.sql
 /key.sql
 /keys.sql
+/live.sql
 /local.sql
 /localhost.sql
 /main.sql
@@ -96,6 +99,7 @@
 /public_html1.sql
 /public_html_1.sql
 /restore/dump.sql
+/restore/mysql.sql
 /restore/sql.sql
 /server.sql
 /settings.sql
@@ -116,7 +120,21 @@
 /update.sql
 /user.sql
 /user1.sql
+/user_1.sql
+/userpanel.sql
+/users.sql
+/users1.sql
+/users_1.sql
+/wallet.sql
 /web.sql
+/web1.sql
+/web2.sql
+/web3.sql
+/web_2.sql
+/webconfig.sql
+/website.sql
+/website1.sql
+/website2.sql
 /wordpress.sql
 /wp-content/backup/data.sql
 /wp-content/backup/database.sql
@@ -142,4 +160,7 @@
 /wp-content/uploads/dbdump.sql
 /wp-content/uploads/mysql.sql
 /wp-content/wordpress.sql
+/www-backup.sql
 /www.sql
+/www1.sql
+/www2.sql
