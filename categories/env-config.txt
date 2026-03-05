@@ -197,6 +197,7 @@
 /adminapp/.env
 /adminer/.env
 /administrator/.env
+/administrator/.git/config
 /agora/.env
 /alpha/.env
 /anaconda/.env
@@ -208,6 +209,8 @@
 /api/.env.sample
 /api/.env.save
 /api/.git/config
+/api/shared/.env
+/api/shared/config/.env
 /api/src/.env
 /api/v1/.env
 /api/v2/.env
@@ -237,6 +240,7 @@
 /apps/client/.env
 /asset_img/.env
 /assets/.env
+/assets/.git/config
 /audio/.env
 /aws/.env
 /awstats/.env
@@ -252,17 +256,21 @@
 /back/.env
 /backend/.env
 /backend/.env.local
+/backend/.git/config
 /backend/config/.env
 /backend/src/.env
 /backendfinaltest/.env
 /backup/.env
+/backup/.git/config
 /base_dir/.env
 /basic-network/.env
+/beta/.git/config
 /bgoldd/.env
 /bitcoind/.env
 /blankon/.env
 /blob/.env
 /blog/.env
+/blog/.git/config
 /blog/wp-content/themes/.git/config
 /blogs/.env
 /blue/.env
@@ -273,6 +281,7 @@
 /boxes/oracle-vagrant-boxes/OLCNE/.env
 /bucoffea/.env
 /build/.env
+/build/.git/config
 /cardea/backend/.env
 /cdw-backend/.env
 /cgi-bin/.env
@@ -297,6 +306,7 @@
 /clld_dir/.env
 /cloud/.env
 /cms/.env
+/cms/.git/config
 /code/api/.env
 /code/web/.env
 /codenames-frontend/.env
@@ -333,6 +343,7 @@
 /database/.env
 /dataset1/.env
 /dataset2/.env
+/debug/.git/config
 /default/.env
 /delivery/.env
 /demo-app/.env
@@ -342,12 +353,14 @@
 /dev-env/.env
 /dev/.env
 /dev/.env.local
+/dev/.git/config
 /dev_env/.env
 /developer/.env
 /developerslv/.env
 /development/.env
 /directories/.env
 /dist/.env
+/dist/.git/config
 /django-blog/.env
 /django/.env
 /django_project_path/.env
@@ -368,11 +381,13 @@
 /docker/postgres/.env
 /docker/webdav/.env
 /docs/.env
+/docs/.git/config
 /dodoswap-client/.env
 /dotfiles/.env
 /download/.env
 /downloads/.env
 /drupal/.env
+/drupal/.git/config
 /e2e/.env
 /en/.env
 /engine/.env
@@ -387,6 +402,7 @@
 /error/.env
 /errors/.env
 /example/.env
+/example/.git/config
 /example02-golang-package/import-underscore/.env
 /example27-how-to-load-env/sample01/.env
 /example27-how-to-load-env/sample02/.env
@@ -443,6 +459,7 @@
 /front/.env
 /front/src/.env
 /frontend/.env
+/frontend/.git/config
 /frontend/momentum-fe/.env
 /frontend/react/.env
 /frontend/vue/.env
@@ -451,6 +468,7 @@
 /ftpmaster/.env
 /functions/.env
 /gcp/.env
+/git/.git/config
 /github-connect/.env
 /google/.env
 /grems-api/.env
@@ -465,6 +483,7 @@
 /hotpot-app-frontend/.env
 /htdocs/.env
 /html/.env
+/html/.git/config
 /http/.env
 /httpboot/.env
 /httpdocs/.env
@@ -480,6 +499,7 @@
 /javascript/.env
 /jenkins/.env
 /joomla/.env
+/joomla/.git/config
 /js-plugin/.env
 /js/.env
 /jsrelay/.env
@@ -490,6 +510,7 @@
 /kodenames-server/.env
 /kolab-syncroton/.env
 /kubernetes/.env
+/kyc/.env
 /lab/.env
 /lambda/.env
 /laravel/.env
@@ -520,12 +541,14 @@
 /logging/.env
 /login/.env
 /logs/.env
+/logs/.git/config
 /magento/.env
 /mail/.env
 /mailer/.env
 /mailinabox/.env
 /mailman/.env
 /main/.env
+/main/.git/config
 /main_user/.env
 /manual/.env
 /master/.env
@@ -551,6 +574,7 @@
 /new/.env.local
 /new/.env.production
 /new/.env.staging
+/new/.git/config
 /news-app/.env
 /next/.env
 /nginx-server/.env
@@ -560,6 +584,7 @@
 /node_modules/.env
 /nuxt/.env
 /old/.env
+/old/.git/config
 /oldsanta/.env
 /opencart/.env
 /ops/vagrant/.env
@@ -604,8 +629,10 @@
 /private/.env
 /processor/.env
 /prod/.env
+/prod/.git/config
 /product/.env.staging
 /production/.env
+/production/.git/config
 /projbackend/.env
 /project/.env
 /project_root/.env
@@ -615,6 +642,7 @@
 /pt8/library-backend-gql/.env
 /pub/.env
 /public/.env
+/public/.git/config
 /public_html/.env
 /public_root/.env
 /question2/.env
@@ -642,6 +670,7 @@
 /robots/.env
 /root/.env
 /root/.git-credentials
+/root/.git/config
 /rosterBack/.env
 /roundcube/.env
 /roundcubemail/.env
@@ -652,6 +681,7 @@
 /s-with-me-front/.env
 /s3/.env.bak
 /saas/.env
+/sample/.git/config
 /samples/chatroom/chatroom-spa/.env
 /samples/docker/deploymentscripts/.env
 /script/.env
@@ -686,8 +716,10 @@
 /shopware/.env
 /site-library/.env
 /site/.env
+/site/.git/config
 /sitemaps/.env
 /sites/.env
+/sites/.git/config
 /sitestatic/.env
 /source/.env
 /sources/.env
@@ -695,6 +727,7 @@
 /spearmint/.env
 /spikes/config-material-app/.env
 /src/.env
+/src/.git/config
 /src/__tests__/__fixtures__/instanceWithDependentSteps/.env
 /src/__tests__/__fixtures__/typeScriptIntegrationProject/.env
 /src/__tests__/__fixtures__/typeScriptProject/.env
@@ -716,6 +749,7 @@
 /stackato-pkg/.env
 /stag/.env
 /staging/.env
+/staging/.git/config
 /staging/api/.env
 /staging/backend/.env
 /staging/frontend/.env
@@ -723,6 +757,7 @@
 /static-html/.env
 /static-root/.env
 /static/.env
+/static/.git/config
 /static_prod/.env
 /static_root/.env
 /static_user/.env
@@ -743,12 +778,14 @@
 /temanr10/.env
 /temanr9/.env
 /temp/.env
+/temp/.git/config
 /template/.env
 /templates/.env
 /terraform/.env
 /test-network/.env
 /test-network/addOrg3/.env
 /test/.env
+/test/.git/config
 /test/aries-js-worker/fixtures/.env
 /test/bdd/fixtures/adapter-rest/.env
 /test/bdd/fixtures/agent-rest/.env
@@ -788,6 +825,7 @@
 /thumbs/.env
 /tiedostot/.env
 /tmp/.env
+/tmp/.git/config
 /tmp/config/.env
 /tools/.env
 /ts/prime/.env
@@ -801,7 +839,10 @@
 /urlmem-app/.env
 /user/.env.staging
 /v1/.env
+/v1/.git/config
 /v2/.env
+/v2/.git/config
+/v3/.git/config
 /var/backup/.env
 /var/www/.env
 /var/www/html/.env
@@ -822,6 +863,7 @@
 /vue_CRM/.env
 /web-dist/.env
 /web/.env
+/web/.git/config
 /webroot_path/.env
 /website/.env
 /websocket/.env
@@ -832,7 +874,9 @@
 /windows/tests/9.2.x/.env
 /windows/tests/9.3.x/.env
 /wordpress/.env
+/wordpress/.git/config
 /workspace/.env
+/wp-admin/.git/config
 /wp-config
 /wp-config.bak
 /wp-config.bak1
@@ -844,8 +888,10 @@
 /wp-content/themes/.git/config
 /wp-login/.env
 /wp/.env
+/wp/.git/config
 /www-data/.env
 /www/.env
+/www/.git/config
 /xampp/.env
 /xx-final/vue-heroes/.env
 /zmusic-frontend/.env

@@ -1,5 +1,6 @@
 /$(pwd)/docker-compose.yml
 /.circleci/config.yml
+/.circleci/configs/development.yml
 /.kube/config
 /.kube/credentials
 /.kube/secrets.yaml
