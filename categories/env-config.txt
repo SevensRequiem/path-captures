@@ -16,6 +16,8 @@
 /.env-sample
 /.env.2
 /.env.aws
+/.env.aws.ses
+/.env.aws_ses
 /.env.back
 /.env.backup
 /.env.bak
@@ -37,11 +39,15 @@
 /.env.hidden
 /.env.hide
 /.env.js
+/.env.json
 /.env.key
 /.env.live
 /.env.local
 /.env.mail
+/.env.mailgun
+/.env.mandrill
 /.env.old
+/.env.postmark
 /.env.prod
 /.env.prod.local
 /.env.prod.mail
@@ -51,11 +57,24 @@
 /.env.sample
 /.env.save
 /.env.sendgrid
+/.env.sendgrid.local
+/.env.sendgrid.production
+/.env.ses
+/.env.ses.development
+/.env.ses.local
+/.env.ses.production
+/.env.ses.staging
 /.env.sh
 /.env.smtp
+/.env.sparkpost
 /.env.stage
 /.env.staging
+/.env.stripe
+/.env.stripe.local
+/.env.stripe.production
+/.env.stripe.test
 /.env.swp
+/.env.template
 /.env.test
 /.env.test.local
 /.env.test.sample
@@ -65,12 +84,14 @@
 /.env.uat
 /.env.vite
 /.env.www
+/.env/.env.bak
 /.env~
 /.git
 /.git-askpass.sh
 /.git-credentials
 /.git-secret
 /.git/
+/.git/%2econfig
 /.git/COMMIT_EDITMSG
 /.git/FETCH_HEAD
 /.git/HEAD
@@ -86,6 +107,7 @@
 /.git/index
 /.git/info
 /.git/info/exclude
+/.git/logs/
 /.git/logs/HEAD
 /.git/logs/refs/heads/main
 /.git/logs/refs/heads/master
@@ -95,6 +117,7 @@
 /.git/objects/info
 /.git/objects/pack
 /.git/packed-refs
+/.git/refs/
 /.git/refs/heads/main
 /.git/refs/heads/master
 /.git/refs/remotes/origin/HEAD
@@ -264,6 +287,7 @@
 /backup/.git/config
 /base_dir/.env
 /basic-network/.env
+/beta/.env
 /beta/.git/config
 /bgoldd/.env
 /bitcoind/.env
@@ -319,6 +343,8 @@
 /config/.env.dev
 /config/.env.local
 /config/.env.production
+/config/.env.ses
+/config/.env.smtp
 /containers/.env
 /content/.env
 /contracts/.env
@@ -343,6 +369,7 @@
 /database/.env
 /dataset1/.env
 /dataset2/.env
+/db/.env
 /debug/.git/config
 /default/.env
 /delivery/.env
@@ -471,6 +498,7 @@
 /git/.git/config
 /github-connect/.env
 /google/.env
+/graphql/.env
 /grems-api/.env
 /grems-frontend/.env
 /hasura/.env
@@ -495,6 +523,7 @@
 /img/.env
 /includes/.env
 /install/.env
+/internal/.env
 /items/.env
 /javascript/.env
 /jenkins/.env
@@ -532,6 +561,7 @@
 /letsencrypt/.env
 /lib/.env
 /libraries/.env
+/library/.env
 /libs/.env
 /linux/.env
 /local/.env
@@ -567,6 +597,7 @@
 /msks/.env
 /munki_repo/.env
 /music/.env
+/myproject/.env
 /name/.env
 /nest/.env
 /new-js/.env
@@ -577,10 +608,12 @@
 /new/.git/config
 /news-app/.env
 /next/.env
+/nextjs-app/.env
 /nginx-server/.env
 /nginx/.env
 /niffler-frontend/.env
 /noVNC/.env
+/node-api/.env
 /node_modules/.env
 /nuxt/.env
 /old/.env
@@ -651,6 +684,7 @@
 /rails-api/react-app/.env
 /rails/.env
 /rasax/.env
+/react-app/.env
 /react/.env
 /react_todo/.env
 /redmine/.env
@@ -688,6 +722,7 @@
 /scripts/.env
 /scripts/fvt/.env
 /secrets/.env
+/secure/.env
 /selfish-darling-backend/.env
 /sendgrid_email/.env
 /serve-browserbench/.env
@@ -736,6 +771,7 @@
 /src/assembly/.env
 /src/character-service/.env
 /src/client/mobile/.env
+/src/config/.env
 /src/core/tests/dotenv-files/.env
 /src/gameprovider-service/.env
 /src/main/front-end/.env
@@ -843,6 +879,7 @@
 /v2/.env
 /v2/.git/config
 /v3/.git/config
+/var/.env
 /var/backup/.env
 /var/www/.env
 /var/www/html/.env

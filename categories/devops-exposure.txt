@@ -1,10 +1,12 @@
 /$(pwd)/docker-compose.yml
 /.circleci/config.yml
 /.circleci/configs/development.yml
+/.circleci/stripe.env
 /.kube/config
 /.kube/credentials
 /.kube/secrets.yaml
 /Dockerfile
+/Jenkinsfile
 /app/docker-compose.yml
 /attacker/docker-compose.yml
 /circleci/.circleci/settings.yml
