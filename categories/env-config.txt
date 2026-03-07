@@ -11,6 +11,7 @@
 /.docker/.env
 /.docker/laravel/app/.env
 /.env
+/.env-config.js
 /.env-db
 /.env-example
 /.env-sample
@@ -79,6 +80,7 @@
 /.env.test.local
 /.env.test.sample
 /.env.testing
+/.env.tmp
 /.env.travis
 /.env.txt
 /.env.uat
@@ -107,6 +109,7 @@
 /.git/index
 /.git/info
 /.git/info/exclude
+/.git/logs
 /.git/logs/
 /.git/logs/HEAD
 /.git/logs/refs/heads/main
@@ -117,6 +120,7 @@
 /.git/objects/info
 /.git/objects/pack
 /.git/packed-refs
+/.git/refs
 /.git/refs/
 /.git/refs/heads/main
 /.git/refs/heads/master
@@ -130,6 +134,7 @@
 /.htaccess.save
 /.htpasswd
 /.idea/.env
+/.svn
 /.svn/
 /.svn/LOCK
 /.svn/README.txt

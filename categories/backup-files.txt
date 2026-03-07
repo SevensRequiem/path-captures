@@ -57,6 +57,7 @@
 /core/config.bak
 /daily_backup.sql
 /data.sql
+/data/backup.sql
 /database.sql
 /database1.sql
 /database_1.sql
@@ -161,6 +162,7 @@
 /users.sql
 /users1.sql
 /users_1.sql
+/var/backups/db.sql
 /wallet.sql
 /web.sql
 /web1.sql

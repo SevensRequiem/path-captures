@@ -121,16 +121,34 @@
 /.vite/
 /.vscode/
 /.vscode/settings.json
+/.vscode/sftp.json
 /.well-known/
 /.well-known/discord
 /.yarnrc
 /.zshenv
+//2018/wp-includes/wlwmanifest.xml
+//2019/wp-includes/wlwmanifest.xml
+//blog/wp-includes/wlwmanifest.xml
+//cms/wp-includes/wlwmanifest.xml
+//media/wp-includes/wlwmanifest.xml
+//news/wp-includes/wlwmanifest.xml
+//shop/wp-includes/wlwmanifest.xml
+//site/wp-includes/wlwmanifest.xml
+//sito/wp-includes/wlwmanifest.xml
+//test/wp-includes/wlwmanifest.xml
+//web/wp-includes/wlwmanifest.xml
+//website/wp-includes/wlwmanifest.xml
+//wordpress/wp-includes/wlwmanifest.xml
 //wp-content/plugins/erinyani/
 //wp-includes/css/dist/
 //wp-includes/js/dist/
 //wp-includes/js/jquery/
 //wp-includes/js/tinymce/themes/inlite/
 //wp-includes/l10n/
+//wp-includes/wlwmanifest.xml
+//wp/wp-includes/wlwmanifest.xml
+//wp1/wp-includes/wlwmanifest.xml
+//wp2/wp-includes/wlwmanifest.xml
 /Booking/Default.aspx
 /CHANGELOG.md
 /Gemfile
@@ -219,6 +237,7 @@
 /app/config/stripe.yml
 /app/info
 /app/settings_stripe.py
+/apple-touch-icon-precomposed.png
 /apple-touch-icon.png
 /application-dev.properties
 /application-prod.properties
@@ -226,6 +245,7 @@
 /application.properties
 /application.yml
 /appsettings.json
+/archive
 /artisan
 /assets/index-GquDNGwd.js
 /assets/index-[hash].js
@@ -233,6 +253,7 @@
 /assets/js/app.f8ec9fb3.js
 /assets/js/app.js
 /assets/vendor-[hash].js
+/auth/login
 /auth0.json
 /auth0_config.json
 /aws-config.json
@@ -625,6 +646,7 @@
 /home
 /htaccess.txt
 /httpd.conf
+/humans.txt
 /iam/ses_policy.json
 /iam/ses_send_email.json
 /iam/ses_send_raw_email.json
@@ -701,6 +723,7 @@
 /lib/stripe.ts
 /license.key
 /license.txt
+/llms.txt
 /local.settings.json
 /local_settings.py
 /log.txt
@@ -768,6 +791,7 @@
 /manifest.json
 /master_key.txt
 /mc_api_key.txt
+/media/system/js/core.js
 /member/space/company/info.txt
 /memcached.conf
 /messagebird.json
@@ -896,6 +920,7 @@
 /redis.yml
 /redis_password.txt
 /redis_url.txt
+/register
 /remove.sh
 /requirements.txt
 /robots.txt
@@ -957,6 +982,7 @@
 /secrets/sparkpost.json
 /secrets/stripe.json
 /secure/config
+/security.txt
 /segment.json
 /selfsigned.crt
 /selfsigned.key
@@ -1123,6 +1149,7 @@
 /ssl_certificate.key
 /sso_config.json
 /stack.json
+/staff
 /staging-api/
 /staging/
 /start.sh
@@ -1206,6 +1233,7 @@
 /templates/mandrill/
 /templates/sendgrid/
 /templates/sparkpost/
+/terms
 /terraform.tfstate
 /terraform.tfvars
 /terraform/
@@ -1223,6 +1251,9 @@
 /test/
 /test1
 /testing/
+/theme/default/assets/compoments.js
+/theme/default/assets/umi.js
+/theme/metron/js/metron.js
 /tmp/
 /tmp/logs
 /tmp/sessions/
@@ -1239,6 +1270,7 @@
 /user/config/config.js
 /user/controllers/index.js
 /user/login
+/user/umi.min.js
 /utils/aws_ses.js
 /utils/mailer.js
 /utils/mandrill.js
@@ -1328,6 +1360,7 @@
 /wp-includes/images/media/
 /wp-includes/js/crop/
 /wp-includes/js/jquery/
+/wp-includes/js/jquery/jquery.js
 /wp-includes/js/jquery/ui/
 /wp-includes/js/plupload/
 /wp-includes/js/thickbox/
