@@ -131,8 +131,10 @@
 /.zshenv
 //2018/wp-includes/wlwmanifest.xml
 //2019/wp-includes/wlwmanifest.xml
+//2020/wp-includes/wlwmanifest.xml
 //blog/wp-includes/wlwmanifest.xml
 //cms/wp-includes/wlwmanifest.xml
+//contact
 //media/wp-includes/wlwmanifest.xml
 //news/wp-includes/wlwmanifest.xml
 //shop/wp-includes/wlwmanifest.xml
@@ -1381,6 +1383,7 @@
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/phpinfo
 /wp-content/plugins/sendgrid_keys.json
+/wp-content/plugins/woocommerce/readme.txt
 /wp-content/plugins/wp-mail-smtp/sendgrid_keys.json
 /wp-content/sendgrid_keys.json
 /wp-content/themes/
@@ -1444,6 +1447,7 @@
 /wp-includes/js/thickbox/
 /wp-includes/js/tinymce/skins/lightgray/
 /wp-includes/js/tinymce/themes/
+/wp-includes/js/tinymce/themes/inlite/
 /wp-includes/php-compat/
 /wp-includes/pomo/
 /wp-includes/random_compat/

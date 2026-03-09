@@ -245,6 +245,7 @@
 /apis/.env
 /app-order-client/.env
 /app/.env
+/app/.env.back
 /app/.env.example
 /app/.env.local
 /app/.env.production
@@ -385,6 +386,7 @@
 /dev-env/.env
 /dev/.env
 /dev/.env.local
+/dev/.env/new/.env
 /dev/.git/config
 /dev_env/.env
 /developer/.env
@@ -592,6 +594,7 @@
 /mentorg-lava-docker/.env
 /micro-app-react-communication/.env
 /micro-app-react/.env
+/migrate/.env
 /mindsweeper/gui/.env
 /minified/.env
 /misc/.env
