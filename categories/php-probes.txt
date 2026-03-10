@@ -61,11 +61,13 @@
 //aa.php
 //about.php
 //about/function.php
+//accesson.php
 //admin/function.php
 //adminfuns.php
 //alfa.php
 //an.php
 //assets/css/index.php
+//assets/images/accesson.php
 //autoload_classmap.php
 //av.php
 //aww.php
@@ -315,7 +317,9 @@
 /abouts.php
 /abt.php
 /ac.php
+/access.php
 /accesson.php
+/account.php
 /acfipnci.php
 /acp.php
 /ad.php
@@ -519,6 +523,7 @@
 /atombil.php
 /atomlib.php
 /atx.php
+/audio.php
 /auth.php
 /autodiagnosis.php
 /autogooey.php
@@ -641,6 +646,7 @@
 /calendar/index.php
 /callback.php
 /card.php
+/cart.php
 /cbrfo.php
 /cc.php
 /ccou.php
@@ -725,6 +731,7 @@
 /colors/tfileman.php
 /colour.php
 /comdofuns.php
+/comment.php
 /common/config.php
 /composer.php
 /conf/config.php
@@ -814,6 +821,7 @@
 /contacts.php
 /content.php
 /control.php
+/controller.php
 /controllers/BillingController.php
 /controllers/CheckoutController.php
 /controllers/EmailController.php
@@ -838,6 +846,7 @@
 /core/lib/Drupal.php
 /core3.php
 /core885.php
+/credential.php
 /credits.php
 /cron.php
 /crop/admin.php
@@ -864,6 +873,7 @@
 /d12.php
 /daff42833e.php
 /dapa.php
+/dashboard.php
 /dashboard/i.php
 /dashboard/info.php
 /dashboard/phpinfo.php
@@ -880,6 +890,7 @@
 /de_fb_uploads/b.php
 /debug.php
 /debuggen.php
+/decrypt.php
 /dedi1.php
 /deepseek_d.php
 /default.php
@@ -943,6 +954,7 @@
 /elp.php
 /email.php
 /en.php
+/encrypt.php
 /end.php
 /endpoints/index.php
 /env.php
@@ -960,6 +972,7 @@
 /erty.php
 /etc/postfixadmin/config.inc.php
 /evatusmk.php
+/event.php
 /events/sendgrid.php
 /events/stripe.php
 /ex.php
@@ -983,6 +996,7 @@
 /fcr.php
 /fe5.php
 /feed-rsss.php
+/feedback.php
 /feeds.php
 /feokc.php
 /fetch.php
@@ -1035,6 +1049,7 @@
 /files/autoload_classmap.php
 /filesss.php
 /filesystems.php
+/firewall.php
 /first.php
 /fix.php
 /fix/as.php
@@ -1047,6 +1062,7 @@
 /fonts/index.php
 /fopen.php
 /forbidals.php
+/forum.php
 /fosil.php
 /fot.php
 /fox.php
@@ -1072,6 +1088,7 @@
 /g9qam3.php
 /gaigu.php
 /galex.php
+/gallery.php
 /gawean.PhP7
 /gdftps.php
 /gdn.php
@@ -1130,6 +1147,7 @@
 /h2h.php
 /ha.php
 /hans.php
+/hash.php
 /hb02ugyh.php
 /he.php
 /header.php
@@ -1163,6 +1181,7 @@
 /husky301.php
 /hzz.php
 /i.php
+/identity.php
 /ihipj.php
 /iikklegv.php
 /iko.php
@@ -1235,6 +1254,7 @@
 /install/install.php
 /installer.php
 /interactivity-api-class.php
+/invoice.php
 /ioxi-o.php
 /ioxi-o1.php
 /ioxi-o2.php
@@ -1344,6 +1364,7 @@
 /login.php
 /login8.php
 /login_up.php
+/logout.php
 /logs.php
 /lol.php
 /loli.php
@@ -1386,6 +1407,7 @@
 /mbg.php
 /mcs.php
 /mds.php
+/media.php
 /media/dog.php
 /media/filemanager/dialog.php
 /media/index.php
@@ -1412,6 +1434,7 @@
 /module.audio-video.riff-set.php
 /modules/contrib/sendgrid_mail/sendgrid_mail.settings.php
 /modules/mod_footer.php
+/modules/mod_simplefileuploadv1.3/elements/index.php
 /momo.php
 /mon.php
 /moon.php
@@ -1489,6 +1512,7 @@
 /options-writing.php
 /options.php
 /opts.php
+/order.php
 /ot.php
 /otuz1.php
 /ov.php
@@ -1508,9 +1532,11 @@
 /past1.php
 /path.php
 /paths.php
+/payment.php
 /payment_config.php
 /pent.php
 /pepe.php
+/permission.php
 /pgxfoqte.php
 /phUploader.php
 /php-details.php
@@ -1555,6 +1581,7 @@
 /pi.php5
 /pinfo.php
 /pixelpages/application/views/auth/common/about.php7
+/player.php
 /plss3.php
 /plugin.php
 /plugins.php
@@ -1568,6 +1595,8 @@
 /pn.php
 /png.php
 /pola.php
+/policy.php
+/poll.php
 /pop.php
 /portal/phpinfo.php
 /post.php
@@ -1579,6 +1608,7 @@
 /pridmag/waf_defender.php
 /print/bkindex.php
 /private/config.php
+/process.php
 /product.php
 /profile.php
 /providers/index.php
@@ -1589,12 +1619,14 @@
 /public.php
 /public/bnn_.php.php
 /public/files/assets/ckeditor/kcfinder/browse.php
+/public/files/index.php
 /public/hi.php
 /public/index.php
 /public/mah.php.php
 /public/rip.php
 /public/vx.php
 /public/wp-blog.php
+/public/wp-content/index.php
 /purna.php
 /pwnd-1/admin.php
 /pwnd-1/pwnd.php
@@ -1621,18 +1653,22 @@
 /re.php
 /readme.php
 /red.php
+/register.php
 /release_info.php
 /rep.php
 /repair.php
 /repeater.php
+/request.php
 /requirements.php
 /rere.php
 /resources/views/errors/404.blade.php
 /resources/views/errors/500.blade.php
 /resources/views/welcome.blade.php
 /resp.php
+/response.php
 /rest-api.php
 /rest.php
+/restore.php
 /revision.php
 /revslider/includes/external/page/index.php
 /reyna.php
@@ -1645,6 +1681,7 @@
 /room.php
 /root.php
 /ropyx.php
+/router.php
 /routes.php
 /rpk.php
 /rrr.php
@@ -1653,6 +1690,7 @@
 /rt.php
 /rtx.php
 /rum.php
+/runtime.php
 /rus.php
 /rz.php
 /rzki.php
@@ -1723,6 +1761,7 @@
 /shell20211028.php
 /shell20250630.php
 /shelp.php
+/shipping.php
 /shlo.php
 /shop.php
 /shop/phpinfo.php
@@ -1732,6 +1771,7 @@
 /sid3.php
 /sidwsi.php
 /sidwso.php
+/signature.php
 /signon.php
 /sim.php
 /sim.php/wp-includes/certificates/plugins.php
@@ -1769,6 +1809,7 @@
 /st.php
 /sto.php
 /storage/framework/favicon.php
+/stream.php
 /stripe_webhook.php
 /sts.php
 /sty.php
@@ -1791,6 +1832,7 @@
 /t.php
 /t00l.php
 /ta0ol.php
+/task.php
 /tax.php
 /tcp.php
 /teamx.php
@@ -1880,6 +1922,7 @@
 /torsa1.php
 /tox.php
 /tphp.php
+/tracking.php
 /trd.php
 /trx24.php
 /tt.php
@@ -1943,6 +1986,7 @@
 /v.php
 /v2.php
 /v3.php
+/validate.php
 /vanda.php
 /var/www/config.php
 /var/www/wallet/index.php
@@ -1955,6 +1999,7 @@
 /verify.php
 /version.php
 /vgtyu.php
+/video.php
 /view-more/ioxi.php
 /view.php
 /views/form/tmpl/size.php
@@ -2010,6 +2055,7 @@
 /wordpress/wp-content/plugins/test.php
 /wordpress/wp-login.php
 /work.php
+/worker.php
 /worksec.php
 /wp-2019.php
 /wp-22.php
@@ -2088,6 +2134,7 @@
 /wp-admin/includes/autodiagnosis.php
 /wp-admin/includes/class-core-upgrader-first.php
 /wp-admin/includes/cloud.php
+/wp-admin/includes/colour.php
 /wp-admin/includes/hp2.php
 /wp-admin/includes/index.php
 /wp-admin/includes/pt.php
@@ -2201,6 +2248,7 @@
 /wp-content/cache/wp-post-data.php
 /wp-content/cc13.php
 /wp-content/ccs.php
+/wp-content/classwithtostring.php
 /wp-content/content.php
 /wp-content/db-status.php
 /wp-content/edit.php
@@ -2374,6 +2422,7 @@
 /wp-includes/ID3/index.php
 /wp-includes/ID3/mariju.php
 /wp-includes/ID3/send.php
+/wp-includes/ID3/simi.php
 /wp-includes/ID3/sx.php
 /wp-includes/IXR/222.php
 /wp-includes/IXR/about.php
@@ -2401,6 +2450,7 @@
 /wp-includes/Requests/Text/admin.php
 /wp-includes/Requests/about.php
 /wp-includes/Requests/alfa-rex.php
+/wp-includes/Requests/index.php
 /wp-includes/Requests/library.php
 /wp-includes/Requests/library/index.php
 /wp-includes/Requests/library/upload.php
@@ -2421,6 +2471,7 @@
 /wp-includes/Text/Diff/Engine/index.php
 /wp-includes/Text/Diff/Engine/sx.php
 /wp-includes/Text/Diff/Engine/wp.php
+/wp-includes/Text/Diff/Renderer/index.php
 /wp-includes/Text/Diff/Renderer/install.php
 /wp-includes/Text/Diff/index.php
 /wp-includes/Text/about.php
@@ -2435,10 +2486,12 @@
 /wp-includes/assets/about.php
 /wp-includes/assets/autoload_classmap.php
 /wp-includes/assets/index.php
+/wp-includes/bk/index.php
 /wp-includes/block-patterns/about.php
 /wp-includes/block-patterns/index.php
 /wp-includes/block-supports/index.php
 /wp-includes/blocks/about.php
+/wp-includes/blocks/calendar/index.php
 /wp-includes/blocks/categories/wp-blog.php
 /wp-includes/blocks/media-text/index.php
 /wp-includes/blocks/post-template/txets.php
@@ -2486,6 +2539,7 @@
 /wp-includes/js/index.php
 /wp-includes/js/jcrop/Jcrop.php
 /wp-includes/js/jcrop/atomlib.php
+/wp-includes/js/jquery/jquery.php
 /wp-includes/js/tinymce/plugins/panel.php
 /wp-includes/js/tinymce/plugins/system.php
 /wp-includes/js/tinymce/plugins/wp-activate.php
@@ -2510,12 +2564,16 @@
 /wp-includes/postnews.php
 /wp-includes/qw.php
 /wp-includes/random/certificates/plugins/security.php
+/wp-includes/random_compat/index.php
 /wp-includes/repeater.php
 /wp-includes/rest-api/about.php
 /wp-includes/rest-api/index.php
+/wp-includes/rest-api/search/index.php
 /wp-includes/rest-api/txets.php
 /wp-includes/sitemaps/about.php
 /wp-includes/sitemaps/autoload_classmap.php
+/wp-includes/sitemaps/providers/index.php
+/wp-includes/sitemaps/wp-conflg.php
 /wp-includes/style-engine.php
 /wp-includes/style-engine/about.php
 /wp-includes/style-engine/autoload_classmap.php
@@ -2573,6 +2631,7 @@
 /wp-themes.php
 /wp-trackback.php
 /wp-update.php
+/wp-user.php
 /wp-x.php
 /wp-xmlmp.php
 /wp-xrm.php

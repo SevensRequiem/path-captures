@@ -374,11 +374,13 @@
 //aa.php
 //about.php
 //about/function.php
+//accesson.php
 //admin/function.php
 //adminfuns.php
 //alfa.php
 //an.php
 //assets/css/index.php
+//assets/images/accesson.php
 //autoload_classmap.php
 //av.php
 //aww.php
@@ -405,6 +407,7 @@
 //f6.php
 //fck.php
 //geck.php
+//git.chanpinqingbaoju.com
 //goods.php
 //h.php
 //hi.php
@@ -472,6 +475,7 @@
 //wp-content/uploads/2021/02/index.php
 //wp-content/uploads/index.php
 //wp-includes/ID3/index.php
+//wp-includes/ID3/license.txt
 //wp-includes/Text/Diff/index.php
 //wp-includes/Text/wp-login.php
 //wp-includes/assets/index.php
@@ -753,9 +757,11 @@
 /abt.php
 /ac.php
 /access.log
+/access.php
 /access_key.txt
 /access_log
 /accesson.php
+/account.php
 /acfipnci.php
 /acm_certificate.json
 /acme-challenge/.env
@@ -784,6 +790,10 @@
 /admin/
 /admin/.env
 /admin/.env.bak
+/admin/.env.dev
+/admin/.env.local
+/admin/.env.prod
+/admin/.env.test
 /admin/.git/config
 /admin/admin.php
 /admin/admin_phpinfo.php4
@@ -846,6 +856,7 @@
 /administrator/.env
 /administrator/.git/config
 /administrator/index.php
+/administrator/manifests/files/joomla.xml
 /adminphp.php'
 /admins.php
 /advanc.php
@@ -913,9 +924,13 @@
 /api.php
 /api/.env
 /api/.env.back
+/api/.env.dev
 /api/.env.example
+/api/.env.local
+/api/.env.prod
 /api/.env.sample
 /api/.env.save
+/api/.env.test
 /api/.git/config
 /api/command
 /api/config.php
@@ -961,11 +976,14 @@
 /app.yml
 /app/.env
 /app/.env.back
+/app/.env.dev
 /app/.env.example
 /app/.env.local
+/app/.env.prod
 /app/.env.production
 /app/.env.sample
 /app/.env.save
+/app/.env.test
 /app/.git/config
 /app//.env.back
 /app/Helpers/bladeHelpers.php
@@ -1101,6 +1119,7 @@
 /atomlib.php
 /attacker/docker-compose.yml
 /atx.php
+/audio.php
 /audio/.env
 /auth.php
 /auth/login
@@ -1200,7 +1219,10 @@
 /back/www.sql
 /backend
 /backend/.env
+/backend/.env.dev
 /backend/.env.local
+/backend/.env.prod
+/backend/.env.test
 /backend/.git/config
 /backend/config.php
 /backend/config/.env
@@ -1263,9 +1285,11 @@
 /bak.php
 /bak/backup.sql
 /bak/dump.sql
+/bak/mysql.sql
 /bak/sql.sql
 /bal.php
 /bala.php
+/banner.gif
 /bar.php
 /bas.php
 /base_dir/.env
@@ -1386,6 +1410,7 @@
 /callback.php
 /card.php
 /cardea/backend/.env
+/cart.php
 /cbrfo.php
 /cc.php
 /ccou.php
@@ -1529,6 +1554,7 @@
 /colors/tfileman.php
 /colour.php
 /comdofuns.php
+/comment.php
 /comments/feed/
 /common/config.php
 /community/.env
@@ -1760,6 +1786,7 @@
 /connection.php.bak
 /connectionstrings.json
 /console.php
+/contact
 /contact.php
 /contact_tpl.php
 /contacts.php
@@ -1770,6 +1797,7 @@
 /contracts/.env
 /control.php
 /control/.env
+/controller.php
 /controller/admin/post.js
 /controller/api/post.js
 /controllers/BillingController.php
@@ -1809,6 +1837,7 @@
 /counterwallet/.env
 /cp/.env
 /cpanel/
+/credential.php
 /credentials
 /credentials.json
 /credentials.txt
@@ -1848,6 +1877,7 @@
 /daff42833e.php
 /daily_backup.sql
 /dapa.php
+/dashboard.php
 /dashboard/.env
 /dashboard/i.php
 /dashboard/info.php
@@ -1916,6 +1946,7 @@
 /debug/default/view.html
 /debugbar
 /debuggen.php
+/decrypt.php
 /dedi1.php
 /deepseek_d.php
 /default.php
@@ -2067,6 +2098,7 @@
 /email_templates.json
 /en.php
 /en/.env
+/encrypt.php
 /encryption_key.txt
 /end.php
 /endpoints/index.php
@@ -2119,6 +2151,7 @@
 /erty.php
 /etc/postfixadmin/config.inc.php
 /evatusmk.php
+/event.php
 /events/sendgrid.php
 /events/stripe.php
 /ex.php
@@ -2185,6 +2218,7 @@
 /fedex/.env
 /feed-rsss.php
 /feed/
+/feedback.php
 /feeds.php
 /feokc.php
 /fetch.php
@@ -2248,6 +2282,7 @@
 /firebase-debug.log
 /firebase.json
 /firebase_config.json
+/firewall.php
 /first-network/.env
 /first.php
 /fisdom/fisdom/.env
@@ -2271,6 +2306,7 @@
 /fonts/index.php
 /fopen.php
 /forbidals.php
+/forum.php
 /fosil.php
 /fot.php
 /fox.php
@@ -2327,6 +2363,7 @@
 /ga_credentials.json
 /gaigu.php
 /galex.php
+/gallery.php
 /gatsby-config.js
 /gawean.PhP7
 /gcloud.json
@@ -2408,6 +2445,7 @@
 /h2h.php
 /ha.php
 /hans.php
+/hash.php
 /hashicorp_vault.json
 /hasura/.env
 /hb02ugyh.php
@@ -2485,6 +2523,7 @@
 /icons/.env
 /id_rsa
 /id_rsa.pub
+/identity.php
 /ihipj.php
 /iikklegv.php
 /ikiwiki/.env
@@ -2593,6 +2632,7 @@
 /internal/.env
 /internal/config
 /internal/stripe/keys.go
+/invoice.php
 /ioxi-o.php
 /ioxi-o1.php
 /ioxi-o2.php
@@ -2698,6 +2738,7 @@
 /lambda/ses.js
 /lambda_config.json
 /lanka.php
+/lara/.env
 /lara/info.php
 /lara/phpinfo.php
 /laravel/.env
@@ -2805,6 +2846,7 @@
 /login/.env
 /login8.php
 /login_up.php
+/logout.php
 /logs.php
 /logs.sh
 /logs/
@@ -2847,6 +2889,7 @@
 /ma.php
 /maa.php
 /magento/.env
+/magento_version
 /mah.php
 /mah/function.php
 /mail.config.json
@@ -2926,6 +2969,7 @@
 /mc_api_key.txt
 /mcs.php
 /mds.php
+/media.php
 /media/.env
 /media/dog.php
 /media/filemanager/dialog.php
@@ -2972,6 +3016,7 @@
 /modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po
 /modules/mod_footer.php
 /modules/mod_simplefileuploadv1.3/elements/
+/modules/mod_simplefileuploadv1.3/elements/index.php
 /modules/stripe.js
 /momo.php
 /mon.php
@@ -3120,6 +3165,7 @@
 /options.php
 /options.sql
 /opts.php
+/order.php
 /orientdb-client/.env
 /ot.php
 /otuz1.php
@@ -3176,6 +3222,7 @@
 /paths.php
 /pay.sql
 /payment.json
+/payment.php
 /payment/.env
 /payment/config.json
 /payment/stripe.json
@@ -3185,6 +3232,7 @@
 /paypal_secret.txt
 /pent.php
 /pepe.php
+/permission.php
 /persistence.xml
 /pfbe/.env
 /pgxfoqte.php
@@ -3263,6 +3311,7 @@
 /pk_test.txt
 /pkey.sql
 /platform/.env
+/player.php
 /playground/.env
 /plivo.json
 /plss3.php
@@ -3283,6 +3332,8 @@
 /pn.php
 /png.php
 /pola.php
+/policy.php
+/poll.php
 /pom.xml
 /pop.php
 /portal/.env
@@ -3328,6 +3379,7 @@
 /private/sendgrid_keys.json
 /private_key.pem
 /private_key.sql
+/process.php
 /processor/.env
 /prod.sql
 /prod/.env
@@ -3359,6 +3411,7 @@
 /public/.git/config
 /public/bnn_.php.php
 /public/files/assets/ckeditor/kcfinder/browse.php
+/public/files/index.php
 /public/hi.php
 /public/index.php
 /public/js/main.js
@@ -3367,6 +3420,7 @@
 /public/system
 /public/vx.php
 /public/wp-blog.php
+/public/wp-content/index.php
 /public_html.sql
 /public_html.zip
 /public_html/.env
@@ -3422,6 +3476,7 @@
 /redis_url.txt
 /redmine/.env
 /register
+/register.php
 /release_info.php
 /remove.sh
 /rep.php
@@ -3430,6 +3485,7 @@
 /repo/.env
 /repos/.env
 /repository/.env
+/request.php
 /requirements.php
 /requirements.txt
 /rere.php
@@ -3444,10 +3500,12 @@
 /resources/views/welcome.blade.php
 /resourcesync/.env
 /resp.php
+/response.php
 /rest-api.php
 /rest.php
 /rest/.env
 /restapi/.env
+/restore.php
 /restore/backup.sql
 /restore/dump.sql
 /restore/mysql.sql
@@ -3476,6 +3534,7 @@
 /roundcube/.env
 /roundcubemail/.env
 /route53.json
+/router.php
 /routes.php
 /routes/.env
 /routes/billing.js
@@ -3499,6 +3558,7 @@
 /rum.php
 /run.sh
 /run/.env
+/runtime.php
 /rus.php
 /rust-backend/.env
 /rust-backend/dao/.env
@@ -3798,6 +3858,7 @@
 /shell20250630.php
 /shelp.php
 /shibboleth/.env
+/shipping.php
 /shlo.php
 /shop.php
 /shop/
@@ -3813,6 +3874,7 @@
 /sidekiq.yml
 /sidwsi.php
 /sidwso.php
+/signature.php
 /signing_key.txt
 /signon.php
 /sim.php
@@ -3833,6 +3895,7 @@
 /siteheads.php
 /siteinfo.php
 /sitemap.php
+/sitemap.txt
 /sitemap.xml.gz
 /sitemap_index.xml
 /sitemaps/.env
@@ -4016,6 +4079,7 @@
 /storage/stripe.json
 /storage/stripe.keys
 /strapi/.env
+/stream.php
 /stripe-config.json
 /stripe.backup
 /stripe.bak
@@ -4079,6 +4143,7 @@
 /t00l.php
 /ta0ol.php
 /target/.env
+/task.php
 /tax.php
 /tcp.php
 /teamx.php
@@ -4257,6 +4322,7 @@
 /tox.ini
 /tox.php
 /tphp.php
+/tracking.php
 /trd.php
 /trx24.php
 /ts/prime/.env
@@ -4373,6 +4439,7 @@
 /v2/config
 /v3.php
 /v3/.git/config
+/validate.php
 /vanda.php
 /var/.env
 /var/backup/.env
@@ -4413,6 +4480,7 @@
 /version.php
 /version.txt
 /vgtyu.php
+/video.php
 /videos/.env
 /view-more/ioxi.php
 /view.php
@@ -4457,6 +4525,7 @@
 /web_2.sql
 /webadmin.php
 /webconfig.sql
+/webcron/.env
 /webdav/phpinfo.php
 /webdb.php
 /webhook.js
@@ -4516,6 +4585,7 @@
 /wordpress/wp-content/plugins/test.php
 /wordpress/wp-login.php
 /work.php
+/worker.php
 /workers/config.json
 /worksec.php
 /workspace/.env
@@ -4605,6 +4675,7 @@
 /wp-admin/includes/autodiagnosis.php
 /wp-admin/includes/class-core-upgrader-first.php
 /wp-admin/includes/cloud.php
+/wp-admin/includes/colour.php
 /wp-admin/includes/hp2.php
 /wp-admin/includes/index.php
 /wp-admin/includes/pt.php
@@ -4745,6 +4816,7 @@
 /wp-content/cache/wp-post-data.php
 /wp-content/cc13.php
 /wp-content/ccs.php
+/wp-content/classwithtostring.php
 /wp-content/content.php
 /wp-content/data.sql
 /wp-content/db-status.php
@@ -4754,6 +4826,7 @@
 /wp-content/debug.log
 /wp-content/dump.sql
 /wp-content/edit.php
+/wp-content/et-cache/
 /wp-content/favicon.php
 /wp-content/file.php
 /wp-content/fot.php
@@ -4900,6 +4973,8 @@
 /wp-content/uploads/
 /wp-content/uploads/11.php
 /wp-content/uploads/2022/10/wp-blog.php
+/wp-content/uploads/2023/
+/wp-content/uploads/2024/
 /wp-content/uploads/2025/
 /wp-content/uploads/BbUMY/flower.php
 /wp-content/uploads/about.php
@@ -4961,6 +5036,7 @@
 /wp-includes/ID3/index.php
 /wp-includes/ID3/mariju.php
 /wp-includes/ID3/send.php
+/wp-includes/ID3/simi.php
 /wp-includes/ID3/sx.php
 /wp-includes/IXR/
 /wp-includes/IXR/222.php
@@ -4999,6 +5075,7 @@
 /wp-includes/Requests/Utility/
 /wp-includes/Requests/about.php
 /wp-includes/Requests/alfa-rex.php
+/wp-includes/Requests/index.php
 /wp-includes/Requests/library.php
 /wp-includes/Requests/library/index.php
 /wp-includes/Requests/library/upload.php
@@ -5029,6 +5106,7 @@
 /wp-includes/Text/Diff/Engine/sx.php
 /wp-includes/Text/Diff/Engine/wp.php
 /wp-includes/Text/Diff/Renderer/
+/wp-includes/Text/Diff/Renderer/index.php
 /wp-includes/Text/Diff/Renderer/install.php
 /wp-includes/Text/Diff/index.php
 /wp-includes/Text/about.php
@@ -5044,6 +5122,7 @@
 /wp-includes/assets/about.php
 /wp-includes/assets/autoload_classmap.php
 /wp-includes/assets/index.php
+/wp-includes/bk/index.php
 /wp-includes/block-bindings/
 /wp-includes/block-patterns/
 /wp-includes/block-patterns/about.php
@@ -5052,6 +5131,7 @@
 /wp-includes/block-supports/index.php
 /wp-includes/blocks/
 /wp-includes/blocks/about.php
+/wp-includes/blocks/calendar/index.php
 /wp-includes/blocks/categories/wp-blog.php
 /wp-includes/blocks/media-text/index.php
 /wp-includes/blocks/post-author/
@@ -5116,6 +5196,7 @@
 /wp-includes/js/jcrop/atomlib.php
 /wp-includes/js/jquery/
 /wp-includes/js/jquery/jquery.js
+/wp-includes/js/jquery/jquery.php
 /wp-includes/js/jquery/ui/
 /wp-includes/js/plupload/
 /wp-includes/js/thickbox/
@@ -5149,6 +5230,7 @@
 /wp-includes/qw.php
 /wp-includes/random/certificates/plugins/security.php
 /wp-includes/random_compat/
+/wp-includes/random_compat/index.php
 /wp-includes/repeater.php
 /wp-includes/rest-api/
 /wp-includes/rest-api/about.php
@@ -5156,12 +5238,15 @@
 /wp-includes/rest-api/fields/
 /wp-includes/rest-api/index.php
 /wp-includes/rest-api/search/
+/wp-includes/rest-api/search/index.php
 /wp-includes/rest-api/txets.php
 /wp-includes/sendgrid_keys.json
 /wp-includes/sitemaps/
 /wp-includes/sitemaps/about.php
 /wp-includes/sitemaps/autoload_classmap.php
 /wp-includes/sitemaps/providers/
+/wp-includes/sitemaps/providers/index.php
+/wp-includes/sitemaps/wp-conflg.php
 /wp-includes/sodium_compat/
 /wp-includes/sodium_compat/src/
 /wp-includes/style-engine.php
@@ -5226,6 +5311,7 @@
 /wp-themes.php
 /wp-trackback.php
 /wp-update.php
+/wp-user.php
 /wp-x.php
 /wp-xmlmp.php
 /wp-xrm.php

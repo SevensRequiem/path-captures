@@ -221,6 +221,10 @@
 /admin-panel/.env
 /admin/.env
 /admin/.env.bak
+/admin/.env.dev
+/admin/.env.local
+/admin/.env.prod
+/admin/.env.test
 /admin/.git/config
 /adminapp/.env
 /adminer/.env
@@ -233,9 +237,13 @@
 /api-server/.env
 /api/.env
 /api/.env.back
+/api/.env.dev
 /api/.env.example
+/api/.env.local
+/api/.env.prod
 /api/.env.sample
 /api/.env.save
+/api/.env.test
 /api/.git/config
 /api/shared/.env
 /api/shared/config/.env
@@ -246,11 +254,14 @@
 /app-order-client/.env
 /app/.env
 /app/.env.back
+/app/.env.dev
 /app/.env.example
 /app/.env.local
+/app/.env.prod
 /app/.env.production
 /app/.env.sample
 /app/.env.save
+/app/.env.test
 /app/.git/config
 /app//.env.back
 /app/client/.env
@@ -284,7 +295,10 @@
 /back-end/app/.env
 /back/.env
 /backend/.env
+/backend/.env.dev
 /backend/.env.local
+/backend/.env.prod
+/backend/.env.test
 /backend/.git/config
 /backend/config/.env
 /backend/src/.env
@@ -549,6 +563,7 @@
 /kyc/.env
 /lab/.env
 /lambda/.env
+/lara/.env
 /laravel/.env
 /laravel/.env.local
 /laravel/.env.production
@@ -909,6 +924,7 @@
 /web-dist/.env
 /web/.env
 /web/.git/config
+/webcron/.env
 /webroot_path/.env
 /website/.env
 /websocket/.env
