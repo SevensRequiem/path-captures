@@ -6,6 +6,12 @@
 /$(pwd)/.env.staging
 /$(pwd)/.git/config
 /$(pwd)/docker-compose.yml
+/%22/assets/js/ambient.js
+/%22/assets/js/ascii-header.js
+/%22/assets/js/cookies.js
+/%22/assets/js/shared.js
+/%22/assets/js/status.js
+/%22/assets/js/theme.js
 /%c0
 /%c0/
 /'%20+%20escapeHtml(data.url)%20+%20'
@@ -535,6 +541,7 @@
 /133.php
 /144.php
 /155.php
+/16.php
 /166.php
 /1a.php
 /1aa.php
@@ -582,6 +589,7 @@
 /6oaex9.php
 /6zhiiv.php
 /7.php
+/742.php
 /7DHoKtiS2sQ.php
 /7wom.php
 /8.php
@@ -597,6 +605,7 @@
 /:8080/.env
 /:8081/.env
 /:8443/.env
+/@vite/env
 /ALFA_DATA/
 /AdditionalConfiguration.php
 /Admin/uploads/
@@ -747,6 +756,7 @@
 /abc.php
 /abcd.php
 /abe.php
+/about
 /about.PHP
 /about.php
 /about.php525
@@ -771,6 +781,7 @@
 /actions-server/.env
 /activation_key.txt
 /actuator/
+/actuator/env
 /ad.php
 /ad2.php
 /add.php
@@ -826,6 +837,7 @@
 /admin/login.php
 /admin/phpinfo.php
 /admin/phpmyadmin.php
+/admin/plugins/jquery-file-upload/server/php/index.php
 /admin/plugins/kcfinder/upload.php
 /admin/server_info.php
 /admin/settings.ini
@@ -866,6 +878,7 @@
 /agora/.env
 /ah25.php
 /ahax.php
+/aifa.php
 /aigcpsba.php
 /aj.php
 /ajax-actions.php
@@ -918,6 +931,7 @@
 /apache2.php
 /apc.php
 /api-docs.json
+/api-docs/swagger.json
 /api-key.txt
 /api-server/.env
 /api.key
@@ -1061,6 +1075,7 @@
 /ar.php
 /archivarix.cms.php
 /archive
+/archive.php
 /arig.php
 /array.php
 /article.php
@@ -1136,7 +1151,9 @@
 /ave.php
 /avim.php
 /aw.php
+/awh.php
 /awi.php
+/aws-config.js
 /aws-config.json
 /aws-credentials.php
 /aws-credentials.sh
@@ -1145,6 +1162,7 @@
 /aws-secret.yaml
 /aws.backup
 /aws.bak
+/aws.config.js
 /aws.config.json
 /aws.json
 /aws.key
@@ -1411,6 +1429,7 @@
 /card.php
 /cardea/backend/.env
 /cart.php
+/cash.php
 /cbrfo.php
 /cc.php
 /ccou.php
@@ -1786,6 +1805,7 @@
 /connection.php.bak
 /connectionstrings.json
 /console.php
+/console/
 /contact
 /contact.php
 /contact_tpl.php
@@ -2075,6 +2095,7 @@
 /ec2.json
 /ec2_key.pem
 /ec2_keypair.pem
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 /edit-tags.php
 /edit-wolf.php
 /edit.php
@@ -2381,6 +2402,7 @@
 /gelay.php
 /gems.php
 /get.php
+/getcmd
 /getcpuutil.php-bakworking
 /gettest.php
 /gfd.php
@@ -2428,6 +2450,7 @@
 /graphql.php
 /graphql/
 /graphql/.env
+/graphql/api
 /graphql/schema
 /great.php
 /grems-api/.env
@@ -2632,6 +2655,7 @@
 /internal/.env
 /internal/config
 /internal/stripe/keys.go
+/invisi.php
 /invoice.php
 /ioxi-o.php
 /ioxi-o1.php
@@ -2774,6 +2798,7 @@
 /legal/.env
 /lemonldap-ng-doc/.env
 /lemonldap-ng-fr-doc/.env
+/leon.php
 /letsencrypt/.env
 /leu.php
 /leuk.php
@@ -2841,6 +2866,7 @@
 /log/development.log
 /logging/.env
 /logi.php
+/login.action
 /login.php
 /login/
 /login/.env
@@ -3119,6 +3145,7 @@
 /nuxt/.env
 /nw.php
 /nw2.php
+/nw_ok.php
 /nyan.php
 /nzv.php
 /o.php
@@ -3130,6 +3157,7 @@
 /ocxla.php
 /of.php
 /oiko6u.php
+/oirsbfkm.php
 /oivcl.php
 /ok.php
 /ok356.php
@@ -3707,6 +3735,7 @@
 /seoplugins/index.php
 /seotheme/mar.php
 /serve-browserbench/.env
+/server
 /server-info
 /server-info.php
 /server-status
@@ -3841,6 +3870,7 @@
 /setup-config.php
 /setup.php
 /setup.py
+/setup/
 /setup/index.php
 /setup/setup.php
 /sf.php
@@ -3896,6 +3926,7 @@
 /siteinfo.php
 /sitemap.php
 /sitemap.txt
+/sitemap.xml
 /sitemap.xml.gz
 /sitemap_index.xml
 /sitemaps/.env
@@ -4119,10 +4150,14 @@
 /submitticket.php
 /subscriptions/stripe.json
 /support.php
+/swagger-ui.html
 /swagger.js
 /swagger.json
 /swagger.yaml
 /swagger/
+/swagger/index.html
+/swagger/swagger-ui.html
+/swagger/v1/swagger.json
 /swallowable.php
 /sx.php
 /sxb.php
@@ -4148,6 +4183,7 @@
 /tcp.php
 /teamx.php
 /teee.php
+/telescope/requests
 /temanr10/.env
 /temanr9/.env
 /temp.php
@@ -4277,6 +4313,7 @@
 /themes.php
 /themes/fitnessbase/404.php
 /themes/index.php
+/themes/tenant/css/purple-login.css
 /themes/twentytwentytwo/index.php
 /thoms.php
 /thui.php
@@ -4316,12 +4353,14 @@
 /too.php
 /tool.php
 /tool/view/phpinfo.view.php
+/tools.php
 /tools/.env
 /tools/phpinfo.php
 /torsa1.php
 /tox.ini
 /tox.php
 /tphp.php
+/trace.axd
 /tracking.php
 /trd.php
 /trx24.php
@@ -4436,9 +4475,12 @@
 /v2.php
 /v2/.env
 /v2/.git/config
+/v2/_catalog
+/v2/api-docs
 /v2/config
 /v3.php
 /v3/.git/config
+/v3/api-docs
 /validate.php
 /vanda.php
 /var/.env
@@ -4540,6 +4582,7 @@
 /webhooks/sparkpost.php
 /webhooks/stripe.php
 /webhooks/stripe_events.php
+/webjars/swagger-ui/index.html
 /webpack-stats.json
 /webpack.config.js
 /webpack.config.json
@@ -4860,6 +4903,7 @@
 /wp-content/mu-plugins-old/
 /wp-content/mu-plugins/
 /wp-content/mysql.sql
+/wp-content/panel.php
 /wp-content/plugin.php
 /wp-content/plugins/
 /wp-content/plugins/.git/config
@@ -4900,6 +4944,7 @@
 /wp-content/plugins/plugin/index.php
 /wp-content/plugins/press/wp-class.php
 /wp-content/plugins/pwnd-1/pwnd.php
+/wp-content/plugins/pwnd//ioxi-o.php
 /wp-content/plugins/pwnd/acp.php
 /wp-content/plugins/pwnd/as.php
 /wp-content/plugins/revslider/includes/external/page/index.php
@@ -5327,6 +5372,7 @@
 /wp/wp-includes//index.php
 /wp/wp-includes/menu.php
 /wp/wp-login.php
+/wp11.php
 /wp4.php
 /wp5.php
 /wp9.php
@@ -5386,6 +5432,7 @@
 /www1.sql
 /www2.sql
 /wxo.php
+/wziar1.php
 /x%20.php
 /x.php
 /x/
