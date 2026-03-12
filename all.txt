@@ -12,6 +12,7 @@
 /%22/assets/js/shared.js
 /%22/assets/js/status.js
 /%22/assets/js/theme.js
+/%E3%81%AE.php
 /%c0
 /%c0/
 /'%20+%20escapeHtml(data.url)%20+%20'
@@ -351,11 +352,14 @@
 /.well-known/pki-validation/a.php
 /.well-known/pki-validation/about.php
 /.well-known/pki-validation/cloud.php
+/.well-known/pki-validation/gu.php
 /.well-known/pki-validation/index.php
 /.well-known/pki-validation/moon.php
+/.well-known/pki-validation/rafa.php
 /.well-known/pki-validation/xmrlpc.php
 /.well-known/s1.php
 /.well-known/security.php
+/.well-known/security.txt
 /.well-known/wp-cron.php
 /.well-known/wp-login.php
 /.well-known/xleet.php
@@ -449,6 +453,7 @@
 //templates/beez/index.php
 //test.php
 //test/wp-includes/wlwmanifest.xml
+//tfm.php
 //thui.php
 //u88.php
 //user.php
@@ -519,6 +524,7 @@
 /06.php
 /07-accessing-data/begin/vue-heroes/.env
 /07-accessing-data/end/vue-heroes/.env
+/0771dccd2958b85d48125d146d77e038akc.php
 /08-routing/begin/vue-heroes/.env
 /08-routing/end/vue-heroes/.env
 /09-managing-state/begin/vue-heroes/.env
@@ -527,6 +533,7 @@
 /0byte.php
 /0o0.php
 /0x.php
+/0x1949.php
 /1.php
 /1.sql
 /10.php
@@ -543,6 +550,7 @@
 /155.php
 /16.php
 /166.php
+/19.php
 /1a.php
 /1aa.php
 /1index.php
@@ -561,6 +569,7 @@
 /3-sequelize/final/.env
 /31_structure_tests/.env
 /333.php
+/34.php
 /3YuwLn4aJ9T.php
 /403.php
 /404.php
@@ -593,6 +602,7 @@
 /7DHoKtiS2sQ.php
 /7wom.php
 /8.php
+/8573.php
 /87.php
 /887re4.php
 /8o82nc.php
@@ -713,6 +723,7 @@
 /_astro/[chunk-name].[hash].js
 /_backup/
 /_config/config.php
+/_debugbar/
 /_debugbar/open
 /_dev
 /_ignition/
@@ -764,6 +775,7 @@
 /about/function.php
 /aboutc.php
 /abouts.php
+/abrand.php
 /abt.php
 /ac.php
 /access.log
@@ -773,6 +785,7 @@
 /accesson.php
 /account.php
 /acfipnci.php
+/achan
 /acm_certificate.json
 /acme-challenge/.env
 /acme/.env
@@ -874,10 +887,12 @@
 /advanc.php
 /adyen.json
 /ae.php
+/aer.php
 /agg.php
 /agora/.env
 /ah25.php
 /ahax.php
+/ai.php
 /aifa.php
 /aigcpsba.php
 /aj.php
@@ -915,6 +930,7 @@
 /amp.php
 /amplify/.config/local-aws-info.json
 /amplify/team-provider-info.json
+/amwxl.php
 /an.php
 /an7.php
 /an8.php
@@ -1151,10 +1167,12 @@
 /ave.php
 /avim.php
 /aw.php
+/awdld.php
 /awh.php
 /awi.php
 /aws-config.js
 /aws-config.json
+/aws-credentials
 /aws-credentials.php
 /aws-credentials.sh
 /aws-credentials.txt
@@ -1333,6 +1351,7 @@
 /bitrix/admin/phpinfo.php
 /bitrix/php_interface/dbconn.php.bak
 /bk.php
+/bkyac.php
 /black.php
 /blackmini.php
 /blankon/.env
@@ -1383,6 +1402,7 @@
 /boxes/oracle-vagrant-boxes/Kubernetes/.env
 /boxes/oracle-vagrant-boxes/OLCNE/.env
 /braintree.json
+/brand.php
 /brc.php
 /broadcasting.php
 /browse.php
@@ -1413,6 +1433,7 @@
 /byp7.php
 /byp8.php
 /bypass.php
+/byypas.php
 /c.php
 /c4.php
 /c99.php
@@ -1426,6 +1447,7 @@
 /cah.php
 /calendar/index.php
 /callback.php
+/camara.php
 /card.php
 /cardea/backend/.env
 /cart.php
@@ -1961,10 +1983,13 @@
 /debug.txt.gz
 /debug.xml
 /debug.zip
+/debug/
 /debug/.git/config
+/debug/default/index
 /debug/default/view
 /debug/default/view.html
 /debugbar
+/debugbar/
 /debuggen.php
 /decrypt.php
 /dedi1.php
@@ -1977,6 +2002,7 @@
 /delete.sql
 /delivery/.env
 /delpaths.php
+/demo
 /demo-app/.env
 /demo/
 /demo/.env
@@ -2065,6 +2091,7 @@
 /downloads/.env
 /dox.php
 /dr.php
+/drhunthq.php
 /dropdown.php
 /drupal/.env
 /drupal/.git/config
@@ -2347,6 +2374,8 @@
 /frontend/web/debug/default/view
 /frontendfinaltest/.env
 /fs.php
+/fs6.php
+/fs7.php
 /fsgdjkl.php
 /ftp.php
 /ftp.txt
@@ -2459,6 +2488,7 @@
 /grsiuk.php
 /gssdd.php
 /gtc.php
+/gu.php
 /guk.php
 /gulpfile.js
 /gzak2w.php
@@ -2509,10 +2539,12 @@
 /hinfofuns.php
 /hiquido.com/index.php
 /hkweu.php
+/hnikt.php
 /ho/wpup.php
 /hochladen.form.php
 /hoket.php
 /home
+/home.html
 /home.php
 /home/*/.git-credentials
 /home/.env
@@ -2520,6 +2552,7 @@
 /horde/.env
 /horeg.php
 /hotpot-app-frontend/.env
+/hots.php
 /hplfuns.php
 /hplsmbly.php
 /htaccess.php
@@ -2649,6 +2682,7 @@
 /installer.php
 /instance/config.py
 /instance/sendgrid_keys.py
+/intall.php
 /interactivity-api-class.php
 /internal-api/
 /internal/
@@ -2702,6 +2736,7 @@
 /js/chunks/[chunk-name].[hash].js
 /js/contact_me.js
 /js/filemanager/dialog.php
+/js/fm.php
 /js/kcfinder/upload.php
 /js/main.js
 /js/tinymce/plugins/filemanager/dialog.php
@@ -2748,6 +2783,7 @@
 /kolab-syncroton/.env
 /kolda.php
 /konfig.php
+/krntz.php
 /kubernetes/
 /kubernetes/.env
 /kyc/.env
@@ -2790,6 +2826,7 @@
 /lb.php
 /lc.php
 /lcahmwsz.php
+/lclnqiii.php
 /lcomernbootcamp/projbackend/.env
 /leafer-app/.env
 /ledger_sync/.env
@@ -3042,6 +3079,7 @@
 /modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po
 /modules/mod_footer.php
 /modules/mod_simplefileuploadv1.3/elements/
+/modules/mod_simplefileuploadv1.3/elements/filemanager.php
 /modules/mod_simplefileuploadv1.3/elements/index.php
 /modules/stripe.js
 /momo.php
@@ -3097,6 +3135,7 @@
 /nest/.env
 /netlify.toml
 /network.php
+/new
 /new-js/.env
 /new.php
 /new.sql
@@ -3265,6 +3304,7 @@
 /pfbe/.env
 /pgxfoqte.php
 /phUploader.php
+/phina.php
 /php-details.php
 /php-info.php
 /php-information
@@ -3446,9 +3486,11 @@
 /public/mah.php.php
 /public/rip.php
 /public/system
+/public/vendor/laravel-filemanager/js/script.js
 /public/vx.php
 /public/wp-blog.php
 /public/wp-content/index.php
+/public/ws49.php
 /public_html.sql
 /public_html.zip
 /public_html/.env
@@ -3468,6 +3510,7 @@
 /qkvbqnne.php
 /qoepq.php
 /qq.php
+/qqjki.php
 /question2/.env
 /queue.json
 /queue.php
@@ -3479,6 +3522,7 @@
 /rabbitmq.conf
 /rabbitmq.json
 /radio.php
+/rafa.php
 /rails-api/react-app/.env
 /rails/.env
 /randkeyword.PhP7
@@ -3752,6 +3796,7 @@
 /server/config/database.js
 /server/laravel/.env
 /server/mandrill.js
+/server/php/index.php
 /server/postmark.js
 /server/s3.js
 /server/sendgrid.js
@@ -4512,6 +4557,7 @@
 /vendor/filemanager/dialog.php
 /vendor/github.com/gobuffalo/envy/.env
 /vendor/github.com/subosito/gotenv/.env
+/vendor/laravel-filemanager/js/script.js
 /vendor/phpunit/phpunit/src/Util/PHP/
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /vendor/symfony/debug/debug.php
@@ -4522,6 +4568,7 @@
 /version.php
 /version.txt
 /vgtyu.php
+/vhwwnrnmqc.php
 /video.php
 /videos/.env
 /view-more/ioxi.php
@@ -4531,12 +4578,14 @@
 /vite.config.ts
 /vm-docker-compose/.env
 /vod_installer/.env
+/vrhiw.php
 /vtmlkgps.php
 /vue-end/vue-til/.env
 /vue/.env
 /vue/vuecli/.env
 /vue_CRM/.env
 /vv.php
+/vvvb.php
 /vx.php
 /vxrl.php
 /vynypyss.php
@@ -4550,6 +4599,7 @@
 /wander.php
 /wc49.php
 /wdf.php
+/we-es-o.php
 /we.php
 /we2.php
 /web-dist/.env
@@ -4561,6 +4611,7 @@
 /web/.git/config
 /web/api/config.js
 /web/debug/default/view
+/web/wp-login.php
 /web1.sql
 /web2.sql
 /web3.sql
@@ -4599,6 +4650,7 @@
 /well-known/.env
 /wen.php
 /wercker.yml
+/wgift1.php
 /whturk/.env
 /wi.php
 /widgets/about.php
@@ -4616,6 +4668,7 @@
 /wolf-shell.php
 /wolv.php
 /wonder.php
+/wordpress
 /wordpress.sql
 /wordpress/
 /wordpress/.env
@@ -4632,6 +4685,7 @@
 /workers/config.json
 /worksec.php
 /workspace/.env
+/wp
 /wp-2019.php
 /wp-22.php
 /wp-4doption1.php
@@ -4990,7 +5044,9 @@
 /wp-content/themes/haha.php
 /wp-content/themes/hideo/network.php
 /wp-content/themes/index.php
+/wp-content/themes/pridmag/34.php
 /wp-content/themes/pridmag/db.php
+/wp-content/themes/pridmag/js.php
 /wp-content/themes/security.php
 /wp-content/themes/sendgrid_keys.json
 /wp-content/themes/seotheme/db.php
@@ -5315,10 +5371,13 @@
 /wp-includes/widgets/system.php
 /wp-includes/widgets/txets.php
 /wp-includes/wp-blog-header.php
+/wp-includes/wp-class.php
 /wp-includes/wp-includes/
 /wp-index.php
 /wp-info.php
 /wp-is.php
+/wp-json/
+/wp-json/wp/v2/posts
 /wp-konfig.backup.php
 /wp-konfig.php
 /wp-l0gin.php
@@ -5339,6 +5398,7 @@
 /wp-monamon.php
 /wp-p.php7
 /wp-p2r3q9c8k4.php
+/wp-png.php
 /wp-rdf.php
 /wp-scxy.php
 /wp-session.php
@@ -5349,14 +5409,17 @@
 /wp-sing.php
 /wp-singin.php
 /wp-spow.php
+/wp-tap.php
 /wp-tem.php
 /wp-the.php
 /wp-the1.php
 /wp-theme.php
 /wp-themes.php
+/wp-tot.php
 /wp-trackback.php
 /wp-update.php
 /wp-user.php
+/wp-wlx.php
 /wp-x.php
 /wp-xmlmp.php
 /wp-xrm.php
@@ -5380,6 +5443,7 @@
 /wp_filemanager.php
 /wp_jVML8V37.php
 /wpc.php
+/wpc2.php
 /wpls.php
 /wpo.php
 /wpp-config.php~
@@ -5396,6 +5460,7 @@
 /ws36.php
 /ws43.php
 /ws46.php
+/ws47.php
 /ws49.php
 /ws55.php
 /ws59.php
@@ -5410,6 +5475,8 @@
 /ws79.php
 /ws80.php
 /ws81.php
+/ws83.php
+/ws84.php
 /wsa.php
 /wsd.php
 /wsheet1.php
@@ -5452,6 +5519,7 @@
 /xda.php
 /xdebug.php
 /xdebug_info.php
+/xenium4.php
 /xex.php
 /xin1.php
 /xinfo.php
@@ -5476,7 +5544,9 @@
 /xqq.php
 /xr.php
 /xrp.php
+/xs.php
 /xsas.php
+/xtsr.php
 /xv.php
 /xv23.php
 /xx-final/vue-heroes/.env
@@ -5522,6 +5592,7 @@
 /zwso.php
 /zxin.php
 /zz.php
+/zz8.php
 /zzxy.php
 /~/.git-credentials
 /~norapump/hah.php

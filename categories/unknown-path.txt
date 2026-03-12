@@ -132,6 +132,7 @@
 /.well-known/
 /.well-known/discord
 /.well-known/pki-validation/
+/.well-known/security.txt
 /.well-knownold/
 /.yarnrc
 /.zshenv
@@ -189,6 +190,7 @@
 /__pycache__/
 /_astro/[chunk-name].[hash].js
 /_backup/
+/_debugbar/
 /_debugbar/open
 /_dev
 /_ignition/
@@ -211,6 +213,7 @@
 /access.log
 /access_key.txt
 /access_log
+/achan
 /acm_certificate.json
 /activation_key.txt
 /actuator/
@@ -288,6 +291,7 @@
 /auth0_config.json
 /aws-config.js
 /aws-config.json
+/aws-credentials
 /aws-credentials.sh
 /aws-credentials.txt
 /aws-secret.json
@@ -572,9 +576,13 @@
 /debug.txt.gz
 /debug.xml
 /debug.zip
+/debug/
+/debug/default/index
 /debug/default/view
 /debug/default/view.html
 /debugbar
+/debugbar/
+/demo
 /demo/
 /deploy.sh
 /deployment-config.json
@@ -687,6 +695,7 @@
 /helpers/utility.js
 /hibernate.cfg.xml
 /home
+/home.html
 /htaccess.txt
 /httpd.conf
 /humans.txt
@@ -864,6 +873,7 @@
 /mysql_credentials.json
 /mytest/astech_robot.js
 /netlify.toml
+/new
 /new/
 /newrelic.ini
 /newrelic.yml
@@ -961,6 +971,7 @@
 /public.key
 /public/js/main.js
 /public/system
+/public/vendor/laravel-filemanager/js/script.js
 /public_html.zip
 /queue.json
 /rabbitmq.conf
@@ -1370,6 +1381,7 @@
 /vault_token.txt
 /vendor/
 /vendor/composer/installed.json
+/vendor/laravel-filemanager/js/script.js
 /vendor/phpunit/phpunit/src/Util/PHP/
 /vendors~main.f286c0f60bdc707d91a8.bundle.js
 /venv/
@@ -1389,9 +1401,11 @@
 /webpack.config.js
 /webpack.config.json
 /wercker.yml
+/wordpress
 /wordpress/
 /wordpress/wp-admin/maint/
 /workers/config.json
+/wp
 /wp-admin/
 /wp-admin/css/
 /wp-admin/css/colors/
@@ -1505,6 +1519,8 @@
 /wp-includes/theme-compat/
 /wp-includes/widgets/
 /wp-includes/wp-includes/
+/wp-json/
+/wp-json/wp/v2/posts
 /wp/
 /www.zip
 /x/
