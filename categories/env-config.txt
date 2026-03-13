@@ -24,6 +24,7 @@
 /.env.bak
 /.env.bak.save
 /.env.bkp
+/.env.config
 /.env.credentials
 /.env.default
 /.env.dev
@@ -39,6 +40,7 @@
 /.env.example
 /.env.hidden
 /.env.hide
+/.env.int
 /.env.js
 /.env.json
 /.env.key
@@ -54,7 +56,9 @@
 /.env.prod.mail
 /.env.production
 /.env.production.local
+/.env.project
 /.env.py
+/.env.qa
 /.env.sample
 /.env.save
 /.env.sendgrid
@@ -174,9 +178,18 @@
 /:8080/.env
 /:8081/.env
 /:8443/.env
+/ADMIN/.env
+/API/.env
+/APP/.env
+/Api/.env
 /Archipel/.env
 /Assignment3/.env
 /Assignment4/.env
+/BACK/.env
+/BACKEND/.env
+/BE/.env
+/Backend/.env
+/Be/.env
 /Chai/.env
 /ClientApp/.env
 /CodeGolf.Web/ClientApp/.env
@@ -234,6 +247,8 @@
 /alpha/.env
 /anaconda/.env
 /ansible/.env
+/api-backend/.env
+/api-node/.env
 /api-server/.env
 /api/.env
 /api/.env.back
@@ -292,8 +307,11 @@
 /babel-plugin-dotenv/test/fixtures/filename/.env
 /babel-plugin-dotenv/test/fixtures/override-value/.env
 /babel-plugin-dotenv/test/fixtures/prod-env/.env
+/back-api/.env
+/back-end/.env
 /back-end/app/.env
 /back/.env
+/backend-api/.env
 /backend/.env
 /backend/.env.dev
 /backend/.env.local
@@ -307,6 +325,7 @@
 /backup/.git/config
 /base_dir/.env
 /basic-network/.env
+/be/.env
 /beta/.env
 /beta/.git/config
 /bgoldd/.env
@@ -382,6 +401,7 @@
 /cronlab/.env
 /cryo_project/.env
 /css/.env
+/current/.env
 /custom/.env
 /d/.env
 /dashboard/.env
@@ -403,6 +423,7 @@
 /dev/.env/new/.env
 /dev/.git/config
 /dev_env/.env
+/develop/.env
 /developer/.env
 /developerslv/.env
 /development/.env
@@ -447,6 +468,7 @@
 /environments/local/.env
 /environments/production/.env
 /envs/.env
+/erp/.env
 /error/.env
 /errors/.env
 /example/.env
@@ -483,6 +505,7 @@
 /fastlane/.env
 /favicons/.env
 /favs/.env
+/fe/.env
 /fedex/.env
 /fhir-api/.env
 /files/.env
@@ -586,6 +609,7 @@
 /library/.env
 /libs/.env
 /linux/.env
+/lms/.env
 /local/.env
 /localhost/.env
 /locally/.env
@@ -603,6 +627,8 @@
 /main/.git/config
 /main_user/.env
 /manual/.env
+/market/.env
+/marketing/.env
 /master/.env
 /media/.env
 /memcached/.env
@@ -637,7 +663,12 @@
 /niffler-frontend/.env
 /noVNC/.env
 /node-api/.env
+/node/.env
+/node/api/.env
+/node/backend/.env
 /node_modules/.env
+/nodeapi/.env
+/nodeweb/.env
 /nuxt/.env
 /old/.env
 /old/.git/config
@@ -686,6 +717,7 @@
 /processor/.env
 /prod/.env
 /prod/.git/config
+/product/.env
 /product/.env.staging
 /production/.env
 /production/.git/config
@@ -697,10 +729,12 @@
 /pt2/countries/src/.env
 /pt8/library-backend-gql/.env
 /pub/.env
+/public-api/.env
 /public/.env
 /public/.git/config
 /public_html/.env
 /public_root/.env
+/qa/.env
 /question2/.env
 /qv-frontend/.env
 /rabbitmq-cluster/.env
@@ -750,6 +784,8 @@
 /sendgrid_email/.env
 /serve-browserbench/.env
 /server/.env
+/server/api/.env
+/server/backend/.env
 /server/config/.env
 /server/laravel/.env
 /server/src/persistence/.env
@@ -807,6 +843,7 @@
 /st-js-be-2020-movies-two/.env
 /stackato-pkg/.env
 /stag/.env
+/stage/.env
 /staging/.env
 /staging/.git/config
 /staging/api/.env
@@ -822,6 +859,7 @@
 /static_user/.env
 /staticfiles/.env
 /stats/.env
+/stg/.env
 /storage/.env
 /storage/.env.local
 /storage/app/private/.env
@@ -896,11 +934,13 @@
 /upload/.env
 /uploads/.env
 /urlmem-app/.env
+/user/.env
 /user/.env.staging
 /v1/.env
 /v1/.git/config
 /v2/.env
 /v2/.git/config
+/v3/.env
 /v3/.git/config
 /var/.env
 /var/backup/.env
