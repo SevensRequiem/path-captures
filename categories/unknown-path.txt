@@ -177,6 +177,7 @@
 /.vscode/sftp.json
 /.well-known
 /.well-known/
+/.well-known/acme-challenge/
 /.well-known/discord
 /.well-known/pki-validation/
 /.well-known/security.txt
@@ -204,6 +205,7 @@
 //wp-content/plugins/erinyani/
 //wp-includes/ID3/license.txt
 //wp-includes/css/dist/
+//wp-includes/fonts/
 //wp-includes/js/dist/
 //wp-includes/js/jquery/
 //wp-includes/js/tinymce/themes/inlite/
@@ -742,6 +744,7 @@
 /credentials.txt
 /credentials.yml
 /cron.sh
+/css.phphmgm.ir
 /dashboard/*
 /data.tar.gz
 /database.tar.gz
@@ -1773,6 +1776,7 @@
 /wp-admin/css/colors/
 /wp-admin/css/colors/coffee/
 /wp-admin/css/colors/ectoplasm/
+/wp-admin/css/colors/midnight/
 /wp-admin/css/colors/ocean/
 /wp-admin/images/
 /wp-admin/includes/
@@ -1786,6 +1790,7 @@
 /wp-content/
 /wp-content/backup/sendgrid_keys.json
 /wp-content/cache/
+/wp-content/css/
 /wp-content/debug.log
 /wp-content/et-cache/
 /wp-content/languages/
@@ -1816,6 +1821,7 @@
 /wp-includes/
 /wp-includes/ID3
 /wp-includes/ID3/
+/wp-includes/IXR
 /wp-includes/IXR/
 /wp-includes/PHPMailer/
 /wp-includes/Requests/
@@ -1842,6 +1848,7 @@
 /wp-includes/block-patterns/
 /wp-includes/block-supports/
 /wp-includes/blocks/
+/wp-includes/blocks/button
 /wp-includes/blocks/post-author/
 /wp-includes/certificates/
 /wp-includes/css/
@@ -1878,6 +1885,7 @@
 /wp-includes/sodium_compat/
 /wp-includes/sodium_compat/src/
 /wp-includes/style-engine/
+/wp-includes/theme-compat
 /wp-includes/theme-compat/
 /wp-includes/widgets/
 /wp-includes/wp-includes/

@@ -259,6 +259,7 @@
 /api/.env.sample
 /api/.env.save
 /api/.env.test
+/api/.envadmin/.env
 /api/.git/config
 /api/shared/.env
 /api/shared/config/.env
@@ -384,6 +385,7 @@
 /config/.env.production
 /config/.env.ses
 /config/.env.smtp
+/configuration/.env
 /containers/.env
 /content/.env
 /contracts/.env
