@@ -1,4 +1,6 @@
+/.aws/credentials.backup
 /.aws/credentials.bak
+/.aws/credentials.old
 /.backup
 /.bak
 /.old
@@ -16,6 +18,8 @@
 /api_key.sql
 /app.sql
 /app/etc/local.xml.bak
+/application.properties.bak
+/application.yml.bak
 /aws.backup
 /aws.bak
 /aws.old
@@ -42,6 +46,7 @@
 /bak/dump.sql
 /bak/mysql.sql
 /bak/sql.sql
+/config.backup
 /config.bak
 /config.ini.bak
 /config.js.bak
@@ -132,6 +137,9 @@
 /ses.bak
 /ses.old
 /ses_credentials.bak
+/settings.backup
+/settings.bak
+/settings.old
 /settings.sql
 /shutin.network.sql
 /shutin.sql

@@ -49,7 +49,9 @@
 /.aws/config
 /.aws/config.yaml
 /.aws/credentials
+/.aws/credentials.backup
 /.aws/credentials.bak
+/.aws/credentials.old
 /.aws/credentials/admin/.env
 /.aws/s3/config.json
 /.aws/secret_access_key.txt
@@ -80,6 +82,7 @@
 /.circleci/stripe.env
 /.classpath
 /.codefresh/
+/.config/.env
 /.config/config.json
 /.docker/
 /.docker/.env
@@ -175,6 +178,8 @@
 /.env.uat
 /.env.vite
 /.env.www
+/.env.yml
+/.env.~
 /.env/.env.bak
 /.env1
 /.env_1
@@ -498,6 +503,7 @@
 //new.php
 //new/index.php
 //news/wp-includes/wlwmanifest.xml
+//nw.php
 //orouu.php
 //pms
 //products/about.php
@@ -1114,6 +1120,7 @@
 /api/.env.example
 /api/.env.local
 /api/.env.prod
+/api/.env.production
 /api/.env.sample
 /api/.env.save
 /api/.env.test
@@ -1220,6 +1227,9 @@
 /app/config/stripe.php
 /app/config/stripe.yml
 /app/docker-compose.yml
+/app/etc/config.local.php
+/app/etc/config.php
+/app/etc/env.local.php
 /app/etc/env.php
 /app/etc/local.xml.bak
 /app/frontend/.env
@@ -1239,6 +1249,8 @@
 /app1-static/.env
 /app2-static/.env
 /app_dev.php
+/app_dev.php/_configurator
+/app_dev.php/_profiler
 /app_dev.php/_profiler/open
 /app_dev.php/_profiler/phpinfo
 /app_dir/.env
@@ -1251,10 +1263,26 @@
 /application.config.php
 /application.log
 /application.properties
+/application.properties.bak
 /application.yml
+/application.yml.bak
 /application/.env
 /application/.env.sample
 /application/.env.save
+/application/config/autoload.php
+/application/config/config.php
+/application/config/constants.php
+/application/config/constants.php/
+/application/config/database.php
+/application/config/doctypes.php
+/application/config/email.php
+/application/config/encryption.php
+/application/config/foreign_chars.php
+/application/config/hooks.php
+/application/config/migration.php
+/application/config/mimes.php
+/application/config/profiler.php
+/application/config/routes.php
 /apps/.env
 /apps/client/.env
 /appsettings.Development.json
@@ -1337,6 +1365,7 @@
 /audio/.env
 /auth.php
 /auth/*
+/auth/.env
 /auth/login
 /auth0.json
 /auth0_config.json
@@ -1525,6 +1554,7 @@
 /backup_2024.sql
 /backup_2025.sql
 /backups/
+/backups/.env
 /backups/backup.sql
 /backups/dump.sql
 /backups/mysql.sql
@@ -1542,6 +1572,7 @@
 /banner.gif
 /bar.php
 /bas.php
+/base/.env
 /base_dir/.env
 /basic-network/.env
 /baxa1.phP8
@@ -1611,6 +1642,7 @@
 /bolt.php
 /boltt.php
 /bookchain-client/.env
+/boom.php
 /boots.php
 /bootstrap.php
 /bootstrap/.env
@@ -1844,6 +1876,7 @@
 /conf.yaml
 /conf/.env
 /conf/config.php
+/config.backup
 /config.bak
 /config.env
 /config.inc
@@ -1880,11 +1913,17 @@
 /config/.env.production
 /config/.env.ses
 /config/.env.smtp
+/config/acl.config.php
 /config/analytics.json
+/config/app.default.php
 /config/app.js
 /config/app.php
+/config/app_local.php
+/config/application.config.php
 /config/application.yml
 /config/auth.php
+/config/autoload/global.php
+/config/autoload/local.php
 /config/aws
 /config/aws.ini
 /config/aws.json
@@ -1901,9 +1940,11 @@
 /config/aws_s3.php
 /config/billing.php
 /config/binance.php
+/config/bootstrap.php
 /config/braintree.php
 /config/broadcasting.php
 /config/cache.php
+/config/cli_bootstrap.php
 /config/cloudwatch.json
 /config/cognito.json
 /config/cognito.yml
@@ -1923,10 +1964,12 @@
 /config/credentials.yml
 /config/credentials.yml.enc
 /config/cryptomus.php
+/config/database.config.php
 /config/database.json
 /config/database.php
 /config/database.yml
 /config/default.json
+/config/development.config.php
 /config/dynamodb.json
 /config/dynamodb.yml
 /config/elasticache.json
@@ -1971,6 +2014,7 @@
 /config/packages/sendgrid.yaml
 /config/parameters.yml
 /config/parameters.yml.dist
+/config/paths.php
 /config/payment.php
 /config/payment.yml
 /config/payment/stripe.json
@@ -1981,10 +2025,13 @@
 /config/postmark.php
 /config/postmark.yml
 /config/private/sendgrid_keys.json
+/config/production.config.php
 /config/production.json
 /config/queue.php
 /config/rds.yml
+/config/requirements.php
 /config/route53.json
+/config/routes.php
 /config/s3.json
 /config/s3.yml
 /config/s3_config.json
@@ -1992,6 +2039,7 @@
 /config/secrets.yml
 /config/secrets/dev/sendgrid_keys.json
 /config/secrets/prod/sendgrid_keys.json
+/config/security.config.php
 /config/sendgrid
 /config/sendgrid.development.json
 /config/sendgrid.js
@@ -2050,6 +2098,7 @@
 /config/stripe.yaml
 /config/stripe.yml
 /config/stripe_connect.yml
+/config/test.config.php
 /config/test.json
 /config/twilio.php
 /config/utils.js
@@ -2304,6 +2353,7 @@
 /dev/env.js
 /dev/index.php
 /dev/info.php
+/dev/phpinfo.php
 /dev1s.php
 /dev_env/.env
 /dev_settings.py
@@ -2319,6 +2369,7 @@
 /dir.php
 /directories/.env
 /disagreed.php
+/display.php
 /dist/.env
 /dist/.git/config
 /dist/default.php
@@ -2336,6 +2387,7 @@
 /doc/.env
 /docker-cloud.yml
 /docker-compose.dev.yml
+/docker-compose.ecs.yml
 /docker-compose.override.yml
 /docker-compose.prod.yml
 /docker-compose.yaml
@@ -2362,9 +2414,11 @@
 /docs/.env
 /docs/.git/config
 /docs/i.php
+/document.php
 /dodoswap-client/.env
 /dom.php
 /domains.php
+/door.php
 /doppler.json
 /dotfiles/.env
 /doti.php
@@ -2426,6 +2480,7 @@
 /elf.php
 /elp.php
 /email.php
+/email/.env
 /email/mandrill.json
 /email/postmark.json
 /email/sendgrid.json
@@ -2470,6 +2525,7 @@
 /environment
 /environment.php
 /environment.ts
+/environments/.env
 /environments/local/.env
 /environments/production/.env
 /envrc
@@ -2549,6 +2605,7 @@
 /f8.php
 /facebook_oauth.json
 /fai.php
+/fast.php
 /fastlane/.env
 /fastly.json
 /fasx.php
@@ -2679,6 +2736,7 @@
 /frontend/react/.env
 /frontend/vue/.env
 /frontend/web/debug/default/view
+/frontend_dev.php/$
 /frontendfinaltest/.env
 /fs.php
 /fs6.php
@@ -2889,6 +2947,13 @@
 /httpboot/.env
 /httpd.conf
 /httpdocs/.env
+/https%3A/github.com/SevensRequiem
+/https%3A/requiem.moe
+/https%3A/requiem.moe/
+/https%3A/requiem.moe/rss
+/https%3A/steamcommunity.com/id/SevensRequiem
+/https%3A/www.youtube.com/%40SevensRequiem
+/https%3A/x.com/sevensrequiem
 /humans.txt
 /husky301.php
 /hzz.php
@@ -2958,6 +3023,7 @@
 /includes/config.php
 /includes/configure.php
 /includes/db.php
+/ind.php
 /indeex.php
 /index-dev.php
 /index-test.php
@@ -2966,6 +3032,7 @@
 /index.js
 /index.php
 /index.php/login
+/index.php/phpinfo
 /index.php~
 /index.sql
 /index.ts
@@ -3011,6 +3078,7 @@
 /install.sh
 /install.sql
 /install/.env
+/install/index.php
 /install/install.php
 /installer.php
 /instance/config.py
@@ -3212,6 +3280,7 @@
 /license.key
 /license.php
 /license.txt
+/like.php
 /lindex.php
 /link.php
 /linkpreview/db.php
@@ -3254,6 +3323,7 @@
 /login.php
 /login/
 /login/.env
+/login/index.php
 /login8.php
 /login_up.php
 /logout.php
@@ -3285,6 +3355,8 @@
 /logs/stripe_webhook.log
 /lol.php
 /loli.php
+/look.php
+/love.php
 /loxi-o.php
 /lp6.php
 /lqnykose.php
@@ -3346,6 +3418,7 @@
 /mamzi.php
 /man.php
 /manage/*
+/manage/.env
 /manager.php
 /mandrill-config.json
 /mandrill.backup
@@ -3550,6 +3623,7 @@
 /nw2.php
 /nw_ok.php
 /nyan.php
+/nz.php
 /nzv.php
 /o.php
 /oauth.json
@@ -3614,6 +3688,7 @@
 /ova.php
 /owncloud/.env
 /ox.php
+/oxshell.php
 /p.php
 /p23duw.php
 /package-lock.json
@@ -3861,6 +3936,7 @@
 /project/settings/payment.py
 /project_root/.env
 /projects/*
+/projects/.env
 /protected/.env
 /providers/index.php
 /prv8.php
@@ -3879,6 +3955,7 @@
 /public/.env
 /public/.git/config
 /public/bnn_.php.php
+/public/file.php
 /public/files/assets/ckeditor/kcfinder/browse.php
 /public/files/index.php
 /public/hi.php
@@ -3921,6 +3998,7 @@
 /queue.php
 /qv-frontend/.env
 /qySIWF6TJbv.php
+/r.php
 /r3x.php
 /r4f_1.php
 /rabbitmq-cluster/.env
@@ -3943,6 +4021,7 @@
 /react-app/.env
 /react/.env
 /react_todo/.env
+/read.php
 /readme.html
 /readme.md
 /readme.php
@@ -3954,6 +4033,7 @@
 /redis_password.txt
 /redis_url.txt
 /redmine/.env
+/reels.php
 /register
 /register.php
 /release_info.php
@@ -3968,6 +4048,7 @@
 /requirements.php
 /requirements.txt
 /rere.php
+/resource/.env
 /resources/.env
 /resources/docker/.env
 /resources/docker/mysql/.env
@@ -4061,6 +4142,7 @@
 /rt.php
 /rtx.php
 /rum.php
+/run.php
 /run.sh
 /run/.env
 /runtime.php
@@ -4352,10 +4434,13 @@
 /session.php
 /sessions/
 /sessions/.env
+/settings.backup
+/settings.bak
 /settings.gradle
 /settings.inc.php
 /settings.ini
 /settings.json
+/settings.old
 /settings.php
 /settings.php.bak
 /settings.php.old
@@ -4450,6 +4535,7 @@
 /sk_live.txt
 /sk_test.txt
 /sky-pro/js.php
+/sl.php
 /slider.php
 /small.php
 /smaxx.php
@@ -4460,6 +4546,7 @@
 /smtp.json
 /smtp.php
 /smtp.yml
+/smtp/.env
 /smtp_config.json
 /smtp_config.php
 /smtp_config.yml
@@ -4635,6 +4722,7 @@
 /storage/sparkpost_templates.json
 /storage/stripe.json
 /storage/stripe.keys
+/store
 /strapi/.env
 /stream.php
 /stripe-config.json
@@ -4734,6 +4822,7 @@
 /temp/info.php
 /temp1.php
 /tempfuns.php
+/template.php
 /template.yaml
 /template/
 /template/.env
@@ -4987,6 +5076,7 @@
 /uploads/v2.php
 /uploadx.php
 /urlmem-app/.env
+/usa.php
 /user.php
 /user.sql
 /user/*
@@ -5397,6 +5487,7 @@
 /wp-admin/themes.php
 /wp-admin/txets.php
 /wp-admin/user-new.php
+/wp-admin/user.php
 /wp-admin/user/
 /wp-admin/user/about.php
 /wp-admin/user/cloud.php
@@ -5487,6 +5578,7 @@
 /wp-content/fot.php
 /wp-content/fullbackup.sql
 /wp-content/fullwebsite.sql
+/wp-content/function.php
 /wp-content/gallery/20160513-delelott/photo-gallery/thumb/admin.php
 /wp-content/gallery/about.php
 /wp-content/halo.php
@@ -5652,6 +5744,7 @@
 /wp-content/uploads/db.sql
 /wp-content/uploads/db_backup.sql
 /wp-content/uploads/dbdump.sql
+/wp-content/uploads/dropdown.php
 /wp-content/uploads/footer.php
 /wp-content/uploads/gravity_forms/g/e/e/a/Casper.php
 /wp-content/uploads/hel.php
@@ -5751,6 +5844,7 @@
 /wp-includes/Requests/library/index.php
 /wp-includes/Requests/library/upload.php
 /wp-includes/Requests/src/Cookie/
+/wp-includes/Requests/src/Response/1.php
 /wp-includes/Requests/src/Response/about.php
 /wp-includes/SimplePie/
 /wp-includes/SimplePie/Cache/
@@ -5842,6 +5936,7 @@
 /wp-includes/header.php
 /wp-includes/html-api/
 /wp-includes/html-api/index.php
+/wp-includes/html-api/photo.php
 /wp-includes/images.php
 /wp-includes/images/
 /wp-includes/images/about.php
@@ -5957,6 +6052,7 @@
 /wp-info.php
 /wp-is.php
 /wp-json/
+/wp-json/wp/v2/
 /wp-json/wp/v2/posts
 /wp-json/wp/v2/users
 /wp-kd4xalrg7m.php

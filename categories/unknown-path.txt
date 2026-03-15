@@ -914,6 +914,13 @@
 /home/*/.netrc
 /htaccess.txt
 /httpd.conf
+/https%3A/github.com/SevensRequiem
+/https%3A/requiem.moe
+/https%3A/requiem.moe/
+/https%3A/requiem.moe/rss
+/https%3A/steamcommunity.com/id/SevensRequiem
+/https%3A/www.youtube.com/%40SevensRequiem
+/https%3A/x.com/sevensrequiem
 /humans.txt
 /iam/ses_policy.json
 /iam/ses_send_email.json
@@ -1593,6 +1600,7 @@
 /storage/sparkpost_templates.json
 /storage/stripe.json
 /storage/stripe.keys
+/store
 /stripe-config.json
 /stripe-credentials.json
 /stripe-keys.json
@@ -1890,6 +1898,7 @@
 /wp-includes/widgets/
 /wp-includes/wp-includes/
 /wp-json/
+/wp-json/wp/v2/
 /wp-json/wp/v2/posts
 /wp-json/wp/v2/users
 /wp/

@@ -8,6 +8,7 @@
 /.bitbucket/.env
 /.c9/metadata/environment/.env
 /.circleci/.env
+/.config/.env
 /.docker/.env
 /.docker/laravel/app/.env
 /.env
@@ -90,6 +91,8 @@
 /.env.uat
 /.env.vite
 /.env.www
+/.env.yml
+/.env.~
 /.env/.env.bak
 /.env~
 /.git
@@ -256,6 +259,7 @@
 /api/.env.example
 /api/.env.local
 /api/.env.prod
+/api/.env.production
 /api/.env.sample
 /api/.env.save
 /api/.env.test
@@ -298,6 +302,7 @@
 /assets/.env
 /assets/.git/config
 /audio/.env
+/auth/.env
 /aws/.env
 /awstats/.env
 /azure/.env
@@ -324,6 +329,8 @@
 /backendfinaltest/.env
 /backup/.env
 /backup/.git/config
+/backups/.env
+/base/.env
 /base_dir/.env
 /basic-network/.env
 /be/.env
@@ -460,6 +467,7 @@
 /drupal/.env
 /drupal/.git/config
 /e2e/.env
+/email/.env
 /en/.env
 /engine/.env
 /env/.env
@@ -467,6 +475,7 @@
 /env/dockers/php-apache/.env
 /env/example/.env
 /env/template/.env
+/environments/.env
 /environments/local/.env
 /environments/production/.env
 /envs/.env
@@ -628,6 +637,7 @@
 /main/.env
 /main/.git/config
 /main_user/.env
+/manage/.env
 /manual/.env
 /market/.env
 /marketing/.env
@@ -726,6 +736,7 @@
 /projbackend/.env
 /project/.env
 /project_root/.env
+/projects/.env
 /protected/.env
 /psnlink/.env
 /pt2/countries/src/.env
@@ -750,6 +761,7 @@
 /repo/.env
 /repos/.env
 /repository/.env
+/resource/.env
 /resources/.env
 /resources/docker/.env
 /resources/docker/mysql/.env
@@ -817,6 +829,7 @@
 /sites/.env
 /sites/.git/config
 /sitestatic/.env
+/smtp/.env
 /source/.env
 /sources/.env
 /sources/api/.env
