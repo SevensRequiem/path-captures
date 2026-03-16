@@ -300,6 +300,7 @@
 /_vti_bin/*
 /_waku/*
 /a/
+/aaabbbccc
 /about
 /access.log
 /access_key.txt
@@ -346,6 +347,7 @@
 /api-docs/swagger.json
 /api-key.txt
 /api.key
+/api.zip
 /api_keys.json
 /api_keys.txt
 /api_keys/sendgrid_keys.json
@@ -361,10 +363,12 @@
 /app.ts
 /app.yaml
 /app.yml
+/app.zip
 /app/*
 /app/.terraform/terraform.tfstate
 /app/amplify.yaml
 /app/amplify.yml
+/app/app.zip
 /app/config.js
 /app/config.json
 /app/config/development.ini
@@ -476,6 +480,7 @@
 /azure-pipelines.yml
 /b
 /backend
+/backend.zip
 /backend/config.js
 /backend/config/common.js
 /backend/config/constants.js
@@ -596,6 +601,7 @@
 /config.ts
 /config.yaml
 /config.yml
+/config.zip
 /config/analytics.json
 /config/app.js
 /config/application.yml
@@ -831,6 +837,7 @@
 /env.ts
 /env.txt
 /env.yaml
+/env.zip
 /env/
 /environment
 /environment.ts
@@ -909,6 +916,7 @@
 /hibernate.cfg.xml
 /home
 /home.html
+/home.zip
 /home/*/.aws/credentials
 /home/*/.gitconfig
 /home/*/.netrc
@@ -1229,6 +1237,7 @@
 /project/settings/payment.py
 /projects/*
 /public.key
+/public.zip
 /public/js/main.js
 /public/stripe.js
 /public/system
@@ -1385,6 +1394,7 @@
 /server.log
 /server.sh
 /server.ts
+/server.zip
 /server/app.js
 /server/config.js
 /server/config/common.js
@@ -1508,6 +1518,7 @@
 /software/install-updates.cgi
 /software/update.cgi
 /sonar-project.properties
+/source.zip
 /sparkpost.conf
 /sparkpost.ini
 /sparkpost.json
