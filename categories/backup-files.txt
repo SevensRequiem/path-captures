@@ -1,3 +1,5 @@
+/%2egit/config.bak
+/%2egit/config.old
 /.aws/credentials.backup
 /.aws/credentials.bak
 /.aws/credentials.old
@@ -31,6 +33,7 @@
 /backup.bak
 /backup.sql
 /backup/backup.sql
+/backup/database_credentials.sql
 /backup/dump.sql
 /backup/mysql.sql
 /backup/sql.sql

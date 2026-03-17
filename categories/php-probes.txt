@@ -18,6 +18,7 @@
 /.well-known/about.php
 /.well-known/about/function.php
 /.well-known/acme-challenge/LA.php
+/.well-known/acme-challenge/about.php
 /.well-known/acme-challenge/admin.php
 /.well-known/acme-challenge/autoload_classmap.php
 /.well-known/acme-challenge/cloud.php
@@ -32,6 +33,7 @@
 /.well-known/content.php
 /.well-known/core.php
 /.well-known/db-status.php
+/.well-known/file.php
 /.well-known/gecko-litespeed.php
 /.well-known/home.php
 /.well-known/hp2.php
@@ -204,6 +206,7 @@
 /1.php
 /10.php
 /100.kb.php
+/100.php
 /10266.php
 /1061.php
 /11.php
@@ -214,6 +217,7 @@
 /123.php
 /13.php
 /133.php
+/13k.php
 /144.php
 /155.php
 /16.php
@@ -249,6 +253,7 @@
 /4pocjn.php
 /4wj632p1.php
 /4z78sSq3VE2.php
+/5.php
 /504.php
 /520.php
 /55.php
@@ -276,10 +281,12 @@
 /887re4.php
 /8o82nc.php
 /8xyz.php
+/990.php
 /999.php
 /9FM3suPlwtZ.php
 /9v6.php
 /ALFA_DATA/autoload_classmap.php
+/ALFA_DATA/index.php
 /AdditionalConfiguration.php
 /Alex-Cross.php
 /Angelv2.php
@@ -378,6 +385,7 @@
 /admin-post.php
 /admin.php
 /admin.php.old.bak
+/admin.php7
 /admin.phphttps://www-vn500.com/inputs.php
 /admin/admin.php
 /admin/admin_phpinfo.php4
@@ -488,6 +496,7 @@
 /apc.php
 /api.php
 /api/config.php
+/api/index.php/v1/config/application
 /api/info.php
 /api/objects/codes.php.save
 /api/phpinfo.php
@@ -564,6 +573,7 @@
 /array.php
 /article.php
 /as.php
+/as/function.php
 /as1337.php
 /as4AaPasd.php
 /asa.php
@@ -660,6 +670,7 @@
 /baxa1.phP8
 /baxa1.php
 /bb.php
+/bb5.php
 /bbK8Qd6nhc.php
 /bd.php
 /ben.php
@@ -885,9 +896,12 @@
 /config/database.config.php
 /config/database.php
 /config/development.config.php
+/config/discord.php
 /config/email.php
 /config/env.php
 /config/filesystems.php
+/config/github.php
+/config/gitlab.php
 /config/laravolt/css/index.php
 /config/logging.php
 /config/mail.php
@@ -900,6 +914,7 @@
 /config/mail/sparkpost.php
 /config/mailchimp.php
 /config/mailchimp_transactional.php
+/config/mailer_dsn.php
 /config/mailgun.php
 /config/mailjet.php
 /config/mandrill.php
@@ -927,6 +942,7 @@
 /config/session.php
 /config/settings.inc.php
 /config/settings.php
+/config/slack.php
 /config/sms.php
 /config/smtp.php
 /config/sparkpost.php
@@ -1258,6 +1274,7 @@
 /gawean.PhP7
 /gdftps.php
 /gdn.php
+/ge.php
 /gebase.php
 /gec.php
 /geck.php
@@ -1407,6 +1424,7 @@
 /index.bak.php
 /index.php
 /index.php/login
+/index.php/module/action/param1/$%7B@print%28env%29%7D
 /index.php/phpinfo
 /index.php~
 /index/admin.php
@@ -1519,6 +1537,8 @@
 /lanka.php
 /lara/info.php
 /lara/phpinfo.php
+/laravel/config/mail.php
+/laravel/config/services.php
 /laravel/info.php
 /law.php
 /law10.php
@@ -1739,6 +1759,7 @@
 /order.php
 /ot.php
 /otuz1.php
+/output.php
 /ov.php
 /ova-tools.php
 /ova-wso.php
@@ -1857,6 +1878,7 @@
 /public/hi.php
 /public/index.php
 /public/mah.php.php
+/public/makeasmtp.php
 /public/phpinfo.php
 /public/rip.php
 /public/vx.php
@@ -1884,9 +1906,11 @@
 /r4f_1.php
 /radio.php
 /rafa.php
+/rand.php
 /randkeyword.PhP7
 /randkeyword.PhP7/
 /randkeyword.php
+/randoms.php
 /raw.php
 /rawrpw.php
 /re.php
@@ -2079,6 +2103,7 @@
 /sxb.php
 /sxdfrt.php
 /sxo.php
+/symfony/config/secrets/dev/dev.encrypt.php
 /sys.php
 /system.php
 /system/logs/dz1.php
@@ -2372,6 +2397,7 @@
 /wp-admin/css/bolt.php
 /wp-admin/css/colors/about.php
 /wp-admin/css/colors/blue//1.php
+/wp-admin/css/colors/blue/admin.php
 /wp-admin/css/colors/blue/atomlib.php
 /wp-admin/css/colors/blue/blue.php
 /wp-admin/css/colors/blue/cloud.php
@@ -2390,6 +2416,7 @@
 /wp-admin/css/colors/light/about.php
 /wp-admin/css/colors/midnight/about.php
 /wp-admin/css/colors/midnight/admin.php
+/wp-admin/css/colors/midnight/colors.php
 /wp-admin/css/colors/nux.php
 /wp-admin/css/colors/ocean/about.php
 /wp-admin/css/colors/sunrise/index.php
@@ -2479,6 +2506,11 @@
 /wp-admin/network/user-new.php
 /wp-admin/network/wp-conflg.php
 /wp-admin/network/xmrlpc.php
+/wp-admin/nz.php
+/wp-admin/options.php
+/wp-admin/output.php
+/wp-admin/pages.php
+/wp-admin/post.php
 /wp-admin/postnews.php
 /wp-admin/privacy.php
 /wp-admin/radio.php
@@ -2514,6 +2546,7 @@
 /wp-class.php
 /wp-comments-post.php
 /wp-conf.php
+/wp-config-backup.php
 /wp-config-sample.php
 /wp-config-sample.php.bak
 /wp-config.backup.php
@@ -2535,6 +2568,7 @@
 /wp-content/banners/about.php
 /wp-content/blogs.dir/about.php
 /wp-content/bnm.php
+/wp-content/cache/index.php
 /wp-content/cache/min/1/wp-content/plugins/test.php
 /wp-content/cache/min/1/wp-content/plugins/users.php
 /wp-content/cache/min/1/wp-content/themes/admin.php
@@ -2572,14 +2606,18 @@
 /wp-content/languages/themes/login.php
 /wp-content/languages/themes/num.php
 /wp-content/languages/themes/wp-links-opml.php
+/wp-content/languages/wp-login.php
 /wp-content/maintenance.php
 /wp-content/memberfuns.php
 /wp-content/module.php
+/wp-content/nz.php
+/wp-content/output.php
 /wp-content/panel.php
 /wp-content/plugin.php
 /wp-content/plugins//about.php
 /wp-content/plugins/Cache/Cache.php
 /wp-content/plugins/Ultimate_VC_Addons/assets/alfa-rex.php7
+/wp-content/plugins/WordPressCore/include.php
 /wp-content/plugins/WordPressCore/index.php
 /wp-content/plugins/aaa.php
 /wp-content/plugins/about.php
@@ -2604,6 +2642,7 @@
 /wp-content/plugins/index.php
 /wp-content/plugins/instabuilder2/cache/plugins/moon.php
 /wp-content/plugins/linkpreview/db.php
+/wp-content/plugins/linkpreview/index.php
 /wp-content/plugins/load.php
 /wp-content/plugins/module.php
 /wp-content/plugins/molongui-authorship/includes/compat/plugins/db-status.php
@@ -2622,6 +2661,7 @@
 /wp-content/plugins/seoo/wsoyanz1.php
 /wp-content/plugins/seoplugins/db.php
 /wp-content/plugins/seoplugins/mar.php
+/wp-content/plugins/woocommerce/woocommerce.php
 /wp-content/plugins/wp-activate.php
 /wp-content/plugins/wp-diambar/includes/loadme.php
 /wp-content/plugins/wp-load.php
@@ -2635,6 +2675,7 @@
 /wp-content/plugins/yanierin/akcc.php
 /wp-content/post.php
 /wp-content/postnews.php
+/wp-content/product.php
 /wp-content/radio.php
 /wp-content/repeater.php
 /wp-content/sallu.php
@@ -2645,6 +2686,7 @@
 /wp-content/themes/about.php
 /wp-content/themes/admin.php
 /wp-content/themes/alera/alpha.php
+/wp-content/themes/astra/inc/ki1k.php
 /wp-content/themes/config.php
 /wp-content/themes/core.php
 /wp-content/themes/digital-download/new.php
@@ -2678,7 +2720,9 @@
 /wp-content/upgrade/class_api.php
 /wp-content/upgrade/index.php
 /wp-content/uploads/11.php
+/wp-content/uploads/2022/10/upload.php
 /wp-content/uploads/2022/10/wp-blog.php
+/wp-content/uploads/2025/03/themes.php
 /wp-content/uploads/BbUMY/flower.php
 /wp-content/uploads/about.php
 /wp-content/uploads/admin.php
@@ -2690,8 +2734,11 @@
 /wp-content/uploads/gravity_forms/g/e/e/a/Casper.php
 /wp-content/uploads/hel.php
 /wp-content/uploads/index.php
+/wp-content/uploads/index.php/wp-includes/Text/
 /wp-content/uploads/my.php
 /wp-content/uploads/option.php
+/wp-content/uploads/system_core.php
+/wp-content/uploads/users.php
 /wp-content/uploads/wp-activate.php
 /wp-content/uploads/wp-booter.php
 /wp-content/uploads/wp-login.php
@@ -2743,6 +2790,7 @@
 /wp-includes/IXR/index.php
 /wp-includes/IXR/moon.php
 /wp-includes/IXR/nux.php
+/wp-includes/IXR/nz.php
 /wp-includes/IXR/povoy.php
 /wp-includes/IXR/pu8.php
 /wp-includes/IXR/pu9.php
@@ -2800,10 +2848,12 @@
 /wp-includes/assets/about.php
 /wp-includes/assets/autoload_classmap.php
 /wp-includes/assets/index.php
+/wp-includes/autoload_classmap.php
 /wp-includes/bk/index.php
 /wp-includes/block-patterns/about.php
 /wp-includes/block-patterns/index.php
 /wp-includes/block-supports/index.php
+/wp-includes/block-supports/nz.php
 /wp-includes/blocks/about.php
 /wp-includes/blocks/calendar/index.php
 /wp-includes/blocks/categories/wp-blog.php
@@ -2814,12 +2864,14 @@
 /wp-includes/certificates/about.php
 /wp-includes/certificates/chosen.php
 /wp-includes/certificates/index.php
+/wp-includes/certificates/plugins.php
 /wp-includes/class-controller-theme-comment.php
 /wp-includes/class-wp.php
 /wp-includes/css//index.php
 /wp-includes/css//xc.php
 /wp-includes/css/1.php
 /wp-includes/css/autoload_classmap.php
+/wp-includes/css/dist/preferences/wp-login.php
 /wp-includes/css/index.php
 /wp-includes/customize/about.php
 /wp-includes/customize/amaxx.php
@@ -2831,6 +2883,7 @@
 /wp-includes/fonts/autoload_classmap.php
 /wp-includes/fonts/index.php
 /wp-includes/fonts/log404.php
+/wp-includes/fonts/nz.php
 /wp-includes/fonts/wp-login.php
 /wp-includes/functions.php
 /wp-includes/header.php
@@ -2870,9 +2923,11 @@
 /wp-includes/new.php
 /wp-includes/num.php
 /wp-includes/nux.php
+/wp-includes/nz.php
 /wp-includes/oQGWC1HLhE5.php
 /wp-includes/option.php
 /wp-includes/options.php
+/wp-includes/output.php
 /wp-includes/php-compat/chosen.php
 /wp-includes/pomo.php
 /wp-includes/pomo/about.php
@@ -2901,6 +2956,7 @@
 /wp-includes/style-engine/wp-conflg.php
 /wp-includes/style.php
 /wp-includes/sx.php
+/wp-includes/theme-compat/chosen.php
 /wp-includes/theme-compat/index.php
 /wp-includes/theme-compat/wp-login.php
 /wp-includes/themes/uploads/config.php
@@ -2925,6 +2981,7 @@
 /wp-links.php
 /wp-links.php/wp-content/plugins/wp-content
 /wp-links.php/wp-content/plugins/wp-content/uploa
+/wp-links.php/wp-content/plugins/wp-content/uploa/
 /wp-load.php
 /wp-login.php
 /wp-logout.php

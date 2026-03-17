@@ -48,6 +48,7 @@
 /.env.live
 /.env.local
 /.env.mail
+/.env.mailer
 /.env.mailgun
 /.env.mandrill
 /.env.old
@@ -328,6 +329,7 @@
 /backend/src/.env
 /backendfinaltest/.env
 /backup/.env
+/backup/.env.backup.2024
 /backup/.git/config
 /backups/.env
 /base/.env
@@ -441,6 +443,7 @@
 /dist/.git/config
 /django-blog/.env
 /django/.env
+/django/.env.prod
 /django_project_path/.env
 /doc/.env
 /docker-compose/.env
@@ -599,6 +602,7 @@
 /lambda/.env
 /lara/.env
 /laravel/.env
+/laravel/.env.example
 /laravel/.env.local
 /laravel/.env.production
 /laravel/.env.staging
@@ -683,6 +687,7 @@
 /nodeweb/.env
 /nuxt/.env
 /old/.env
+/old/.env.old
 /old/.git/config
 /oldsanta/.env
 /opencart/.env
@@ -755,6 +760,7 @@
 /rails/.env
 /rasax/.env
 /react-app/.env
+/react-app/.env.production
 /react/.env
 /react_todo/.env
 /redmine/.env
@@ -798,6 +804,7 @@
 /sendgrid_email/.env
 /serve-browserbench/.env
 /server/.env
+/server/.env.production
 /server/api/.env
 /server/backend/.env
 /server/config/.env
@@ -885,6 +892,7 @@
 /styles/.env
 /stylesheets/.env
 /symfony/.env
+/symfony/.env.local
 /system-config/.env
 /system/.env
 /target/.env
