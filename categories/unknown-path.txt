@@ -1497,9 +1497,11 @@
 /signup
 /site.zip
 /site_backup.rar
+/sitemap-index.xml
 /sitemap.txt
 /sitemap.xml
 /sitemap.xml.gz
+/sitemap/sitemap.xml
 /sitemap_index.xml
 /sites/default/files/
 /sk_live.txt
@@ -1798,6 +1800,7 @@
 /wp-admin/css/colors/coffee/
 /wp-admin/css/colors/ectoplasm/
 /wp-admin/css/colors/midnight/
+/wp-admin/css/colors/modern/
 /wp-admin/css/colors/ocean/
 /wp-admin/images/
 /wp-admin/includes/
@@ -1854,6 +1857,7 @@
 /wp-includes/Requests/Response/
 /wp-includes/Requests/Transport/
 /wp-includes/Requests/Utility/
+/wp-includes/Requests/library/
 /wp-includes/Requests/src/Cookie/
 /wp-includes/SimplePie/
 /wp-includes/SimplePie/Cache/
@@ -1869,6 +1873,7 @@
 /wp-includes/block-patterns/
 /wp-includes/block-supports/
 /wp-includes/blocks/
+/wp-includes/blocks/block/
 /wp-includes/blocks/button
 /wp-includes/blocks/post-author/
 /wp-includes/certificates/
@@ -1914,6 +1919,7 @@
 /wp-json/wp/v2/
 /wp-json/wp/v2/posts
 /wp-json/wp/v2/users
+/wp-login
 /wp/
 /wp_mail_smtp.ini
 /www.zip
