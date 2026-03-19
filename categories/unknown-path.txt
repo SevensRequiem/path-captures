@@ -86,6 +86,8 @@
 /.envs
 /.eslintrc
 /.flaskenv
+/.ftp-config.json
+/.ftp-sync.json
 /.ftpconfig
 /.ghc.environment
 /.gitattributes
@@ -156,6 +158,7 @@
 /.serverless/ses.json
 /.settings.json
 /.settings/
+/.sftp-config.json
 /.sparkpost
 /.ssh/id_rsa
 /.ssh/id_rsa.pub
@@ -173,6 +176,8 @@
 /.vercel/functions/*
 /.vite/
 /.vscode/
+/.vscode/ftp-config.json
+/.vscode/ftp-sync.json
 /.vscode/settings.json
 /.vscode/sftp.json
 /.well-known
@@ -415,6 +420,7 @@
 /assets/js/app.f8ec9fb3.js
 /assets/js/app.js
 /assets/vendor-[hash].js
+/audio/DOWNFVLL%20-%20BROKEN.mp3
 /auth/*
 /auth/login
 /auth0.json
@@ -867,6 +873,8 @@
 /form/*
 /fr/*
 /frontend/web/debug/default/view
+/ftp-config.json
+/ftp-sync.json
 /ftp.txt
 /full_backup.zip
 /functions/email/mandrill.js
@@ -1071,6 +1079,7 @@
 /main.yml
 /maintenance.html
 /makima.jpg
+/manage.py
 /manage/*
 /mandrill-config.json
 /mandrill.conf
@@ -1656,6 +1665,7 @@
 /system/
 /system/config
 /t1
+/t1/assets/load/p.mp3
 /teams/*
 /telescope/requests
 /template.yaml
@@ -1922,6 +1932,7 @@
 /wp-login
 /wp/
 /wp_mail_smtp.ini
+/wsg
 /www.zip
 /x/
 /yarn-debug.log
