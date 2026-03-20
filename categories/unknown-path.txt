@@ -946,6 +946,7 @@
 /iam_credentials.json
 /iam_policy.json
 /iam_role.json
+/id_ed25519
 /id_rsa
 /id_rsa.pub
 /images/
@@ -1130,6 +1131,7 @@
 /nexmo.json
 /nginx.conf
 /node_modules/
+/nonexistent_path_1773942172
 /notifications/*
 /now.json
 /npm-debug.log
@@ -1239,6 +1241,7 @@
 /private/sendgrid_keys
 /private/sendgrid_keys.json
 /private_key.pem
+/privatekey.pem
 /proc/index.cgi
 /prod/config.js
 /prod_settings.py
@@ -1255,6 +1258,7 @@
 /public_html.zip
 /publish/*
 /queue.json
+/r
 /rabbitmq.conf
 /rabbitmq.json
 /razorpay.json
@@ -1807,6 +1811,7 @@
 /wp-admin/css/
 /wp-admin/css/colors
 /wp-admin/css/colors/
+/wp-admin/css/colors/blue/
 /wp-admin/css/colors/coffee/
 /wp-admin/css/colors/ectoplasm/
 /wp-admin/css/colors/midnight/
@@ -1839,6 +1844,8 @@
 /wp-content/plugins/sendgrid_keys.json
 /wp-content/plugins/woocommerce/readme.txt
 /wp-content/plugins/wp-mail-smtp/sendgrid_keys.json
+/wp-content/plugins/xt
+/wp-content/plugins/xt/
 /wp-content/sendgrid_keys.json
 /wp-content/themes/
 /wp-content/themes/classic/inc/
@@ -1905,6 +1912,7 @@
 /wp-includes/js/jquery/ui/
 /wp-includes/js/plupload/
 /wp-includes/js/thickbox/
+/wp-includes/js/tinymce/plugins/compat3x/css/
 /wp-includes/js/tinymce/skins/lightgray/
 /wp-includes/js/tinymce/themes/
 /wp-includes/js/tinymce/themes/inlite/

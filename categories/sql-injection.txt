@@ -1,6 +1,11 @@
 /$%7Bnew%20javax.script.ScriptEngineManager%28%29.getEngineByName%28%27nashorn%27%29.eval%28%27cat%20confluence.cfg.xml%27%29%7D/
+/'
+/'%20+%20encodeURI(post.image_fallback)%20+%20'
+/'%20+%20encodeURI(post.thumbnail%20%7C%7C%20post.image)%20+%20'
+/'%20+%20encodeURI(r.image)%20+%20'
 /'%20+%20escapeHtml(data.url)%20+%20'
 /'%20+%20escapeHtml(s.url)%20+%20'
+/assets/music/Don't%20Look%20At%20Me.mp3
 /s/031323e29323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /s/032313e2433313e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /s/0323e25323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties

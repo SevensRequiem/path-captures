@@ -35,6 +35,10 @@
 /%E3%81%AE.php
 /%c0
 /%c0/
+/'
+/'%20+%20encodeURI(post.image_fallback)%20+%20'
+/'%20+%20encodeURI(post.thumbnail%20%7C%7C%20post.image)%20+%20'
+/'%20+%20encodeURI(r.image)%20+%20'
 /'%20+%20escapeHtml(data.url)%20+%20'
 /'%20+%20escapeHtml(s.url)%20+%20'
 /*
@@ -819,6 +823,7 @@
 /App/favicon.php
 /Archipel/.env
 /Assets/
+/Assets/item.php
 /Assignment3/.env
 /Assignment4/.env
 /BACK/.env
@@ -1014,6 +1019,7 @@
 /about.php525
 /about.php7
 /about/function.php
+/about0077.php
 /aboutc.php
 /abouts.php
 /abrand.php
@@ -1100,6 +1106,7 @@
 /admin/index.php
 /admin/index_upload.php
 /admin/info.php
+/admin/jQuery-File-Upload/server/php/index.php
 /admin/jquery-file-upload/server/php/index.php
 /admin/kcfinder/browse.php
 /admin/kcfinder/upload.php
@@ -1130,6 +1137,7 @@
 /admin_phpinfo.php
 /admina.php
 /adminapp/.env
+/adminblue.php
 /admincp.sql
 /adminer-4.2.5-mysql-en.php
 /adminer-4.3.1-mysql-sk.php
@@ -1184,8 +1192,11 @@
 /albin.php
 /alexantr/filemanager.php
 /alf4.php
+/alfa-rex.PhP7
 /alfa-rex.php
+/alfa-rex.php56
 /alfa-rex.php7
+/alfa-rex.php8
 /alfa-rex1.php
 /alfa-rex2.php
 /alfa-rex2.php7
@@ -1537,11 +1548,13 @@
 /assets/js/jquery-file-upload/server/php/index.php
 /assets/kcfinder/browse.php
 /assets/kcfinder/upload.php
+/assets/music/Don't%20Look%20At%20Me.mp3
 /assets/plugins/elfinder/connectors/php/connector.php
 /assets/plugins/filemanager/dialog.php
 /assets/plugins/kcfinder/browse.php
 /assets/plugins/kcfinder/upload.php
 /assets/script.js.php
+/assets/server/php/index.php
 /assets/vendor-[hash].js
 /astab.php
 /astra/inc/fm.php
@@ -1933,6 +1946,7 @@
 /ca-bundle.crt
 /ca.php
 /ca4.php
+/caca.php
 /cache-compat.php
 /cache.php
 /cache/
@@ -1942,6 +1956,7 @@
 /calendar/index.php
 /callback.php
 /camara.php
+/campaign/.env
 /card.php
 /cardea/backend/.env
 /cart
@@ -2722,6 +2737,7 @@
 /crop/uword.php
 /cryo_project/.env
 /cs.php
+/csc.php
 /css.php
 /css.phphmgm.ir
 /css/.env
@@ -3261,6 +3277,7 @@
 /fonts/fontawesome-webfont.php
 /fonts/index.php
 /fonts/install.php
+/footer.php
 /fopen.php
 /forbidals.php
 /form
@@ -3384,6 +3401,7 @@
 /gitlab-ci.yml
 /gjm.php
 /gk.php
+/gkk.php
 /gkl.php
 /gl.php
 /glass.php
@@ -3397,6 +3415,7 @@
 /gnkadgiz.php
 /go.php
 /goat.php
+/goat1.php
 /god.php
 /god4m.php
 /goh.php
@@ -3537,6 +3556,7 @@
 /iam_role.json
 /icon/.env
 /icons/.env
+/id_ed25519
 /id_rsa
 /id_rsa.pub
 /identity.php
@@ -3665,6 +3685,7 @@
 /info2.php
 /info3.php
 /info4.php
+/infoo.php
 /infophp.php
 /infos.php
 /infra/aws.tf
@@ -4129,6 +4150,7 @@
 /mbg.php
 /mc_api_key.txt
 /mcs.php
+/mctnmiik.php
 /mds.php
 /media.php
 /media/*
@@ -4177,6 +4199,7 @@
 /moded.php
 /models/indexx.php
 /module.audio-video.riff-set.php
+/module.php
 /module/info/include/mysql/phpcms_info.sql
 /modules/
 /modules/contrib/sendgrid_mail/sendgrid_mail.module
@@ -4230,6 +4253,7 @@
 /muzu.php
 /mws.php
 /mx.php
+/mxxx.php
 /my.php
 /my_env/chakaash.py
 /my_env/newsletter.py
@@ -4301,6 +4325,7 @@
 /nodeapi/.env
 /nodeweb/.env
 /nokswnuh.php
+/nonexistent_path_1773942172
 /note.php
 /notifications/*
 /now.json
@@ -4534,6 +4559,7 @@
 /phpmyadmin/
 /phpmyadmin/index.php
 /phpmyadmin/setup/index.php
+/phps.php
 /phpsysinfo
 /phpsysinfo.php
 /phpsysinfo/info.php
@@ -4631,6 +4657,7 @@
 /private/sendgrid_keys.json
 /private_key.pem
 /private_key.sql
+/privatekey.pem
 /proc/index.cgi
 /process.php
 /processor/.env
@@ -4721,6 +4748,7 @@
 /queue.php
 /qv-frontend/.env
 /qySIWF6TJbv.php
+/r
 /r.php
 /r3x.php
 /r4f_1.php
@@ -5455,6 +5483,7 @@
 /stack.json
 /stackato-pkg/.env
 /staff
+/staff/.env
 /stag/.env
 /stage/.env
 /staging-api/
@@ -5623,6 +5652,7 @@
 /system_core.php
 /system_log.php
 /t.php
+/t.php7
 /t00l.php
 /t1
 /t1/assets/load/p.mp3
@@ -5911,6 +5941,7 @@
 /upload/.env
 /upload/bilder/cong.php
 /upload/image/
+/upload/image/flower.php
 /uploads/
 /uploads/.env
 /uploads/ak.php
@@ -6237,6 +6268,7 @@
 /wp-admin/css/colors.php
 /wp-admin/css/colors/
 /wp-admin/css/colors/about.php
+/wp-admin/css/colors/blue/
 /wp-admin/css/colors/blue//1.php
 /wp-admin/css/colors/blue/abc.php
 /wp-admin/css/colors/blue/about.php
@@ -6492,6 +6524,9 @@
 /wp-config.bak
 /wp-config.bak1
 /wp-config.old
+/wp-config.php
+/wp-config.php.bak
+/wp-config.php.old
 /wp-config.txt
 /wp-configs.php
 /wp-configss.php
@@ -6762,6 +6797,8 @@
 /wp-content/plugins/wp-smtp/wp-smtp-settings.php
 /wp-content/plugins/wp-smtp/wp-smtp.php
 /wp-content/plugins/wp-theme-editor/include.php
+/wp-content/plugins/xt
+/wp-content/plugins/xt/
 /wp-content/plugins/yanierin/akc.php
 /wp-content/plugins/yanierin/akcc.php
 /wp-content/post.php
@@ -7178,6 +7215,7 @@
 /wp-includes/css/install.php
 /wp-includes/css/litespeed.php
 /wp-includes/css/wp-login.php
+/wp-includes/css/xm.php
 /wp-includes/customize/
 /wp-includes/customize/about.php
 /wp-includes/customize/amaxx.php
@@ -7278,6 +7316,7 @@
 /wp-includes/js/thickbox/
 /wp-includes/js/thickbox/about.php
 /wp-includes/js/tinymce/langs/about.php
+/wp-includes/js/tinymce/plugins/compat3x/css/
 /wp-includes/js/tinymce/plugins/fullscreen/about.php
 /wp-includes/js/tinymce/plugins/panel.php
 /wp-includes/js/tinymce/plugins/system.php
@@ -7305,6 +7344,7 @@
 /wp-includes/mani.php
 /wp-includes/module.php
 /wp-includes/ms-file.php
+/wp-includes/ms-pie.php
 /wp-includes/network.php
 /wp-includes/new.php
 /wp-includes/num.php
@@ -7605,6 +7645,7 @@
 /xmy.php
 /xmzrp.php
 /xnty.php
+/xocx.php
 /xoot.php
 /xp.php
 /xpass.php
@@ -7654,6 +7695,7 @@
 /yussef.php
 /z.php
 /z60.php
+/zample.php
 /zaza.php
 /zbqxoidn.php
 /zc-104.php
