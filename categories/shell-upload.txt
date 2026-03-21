@@ -2,6 +2,7 @@
 /api/command
 /api/exec
 /api/tools/shell
+/cmd/api/stripe.go
 /cmd/testdata/expected/dot_env/.env
 /shell/
 /wp-content/plugins/shell/

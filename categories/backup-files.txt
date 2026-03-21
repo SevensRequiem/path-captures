@@ -1,3 +1,4 @@
+/%2eenv.save
 /%2egit/config.bak
 /%2egit/config.old
 /.aws/credentials.backup
@@ -8,6 +9,7 @@
 /.old
 /.orig
 /.save
+/.stripe.bak
 /.terraform/terraform.tfstate.backup
 /1.sql
 /2025.sql
@@ -36,7 +38,9 @@
 /backup/database_credentials.sql
 /backup/dump.sql
 /backup/mysql.sql
+/backup/payment.bak
 /backup/sql.sql
+/backup/stripe.old
 /backup/www.sql
 /backup_2024.sql
 /backup_2025.sql
@@ -57,6 +61,7 @@
 /config.jsp.bak
 /config.old
 /config.sql
+/config.stripe.old
 /config1.sql
 /config2.sql
 /config_1.sql
@@ -161,6 +166,7 @@
 /sql_1.sql
 /stripe.backup
 /stripe.bak
+/stripe.json.backup
 /stripe.json.bak
 /stripe.old
 /stripe.save
