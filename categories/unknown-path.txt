@@ -47,6 +47,7 @@
 /.amplify/
 /.amplifyrc
 /.api_keys
+/.aws
 /.aws-sam/
 /.aws/
 /.aws/%2econfig
@@ -197,6 +198,7 @@
 /.terraform/credentials.tfrc.json
 /.terraform/stripe.tfstate
 /.terraform/terraform.tfstate
+/.tmb/
 /.travis.yml
 /.vault-token
 /.venv
@@ -215,6 +217,7 @@
 /.well-known/discord
 /.well-known/pki-validation/
 /.well-known/security.txt
+/.well-known/webfinger
 /.well-knownold/
 /.yarnrc
 /.zshenv
@@ -253,6 +256,7 @@
 /:27018
 /:27019
 /:28017
+/@fs/etc/passwd
 /@vite/client
 /@vite/env
 /ALFA_DATA/
@@ -368,6 +372,7 @@
 /admin/config/database.js
 /admin/constant.js
 /admin/constants.js
+/admin/controller/extension/
 /admin/controller/extension/extension/
 /admin/controllers/merchant.js
 /admin/controllers/partner.js
@@ -698,6 +703,7 @@
 /config.properties
 /config.py
 /config.rb
+/config.toml
 /config.ts
 /config.yaml
 /config.yml
@@ -1012,7 +1018,10 @@
 /feature_flags.json
 /feed/
 /fetch
+/file/g/cdfd20ae-c3c7-4631-b17a-205ff4c44501.jpg
+/file/req/71d80293-70eb-4790-8596-f233ca73430c.jpg
 /file/v/4ce81ec8-082c-4d15-bd13-71dc08f9b301.png
+/file/x/dea8da5b-e251-4ba2-ab1f-fd6a092f402d.png
 /files/
 /filezilla.xml
 /fin/
@@ -1085,6 +1094,7 @@
 /home/*/.aws/credentials
 /home/*/.gitconfig
 /home/*/.netrc
+/home/.aws/credentials
 /home/admin/.aws/credentials
 /home/ec2-user/.aws/credentials
 /home/ubuntu/.aws/credentials
@@ -1303,6 +1313,7 @@
 /modules/contrib/sendgrid_mail/sendgrid_mail.module
 /modules/contrib/sendgrid_mail/sendgrid_mail.services.yml
 /modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po
+/modules/mod_footer/tmpl/
 /modules/mod_simplefileuploadv1.3/elements/
 /modules/stripe.js
 /mongo.yml
@@ -1385,6 +1396,7 @@
 /parameters.yml
 /parameters.yml.dist
 /partner/config/config.js
+/patriotic/wp-includes/images/smilies/
 /payment
 /payment.env
 /payment.json
@@ -1514,6 +1526,7 @@
 /robots.txt
 /rollup.config.js
 /root/.aws/config
+/root/.aws/credential
 /root/.aws/credentials
 /root/.boto
 /root/.gitconfig
@@ -1770,6 +1783,7 @@
 /sitemap.xml.gz
 /sitemap/sitemap.xml
 /sitemap_index.xml
+/sitemaps.xml
 /sites/default/files/
 /sk_live.txt
 /sk_test.txt
@@ -1980,6 +1994,7 @@
 /theme/metron/js/metron.js
 /themes/tenant/css/purple-login.css
 /threads/*
+/thumb/mu/680a6cd23c4322da8bf78b40
 /tmp/
 /tmp/config
 /tmp/config.cfg
@@ -2130,6 +2145,7 @@
 /wp-content/mu-plugins/
 /wp-content/plugins/
 /wp-content/plugins/WordPressCore/
+/wp-content/plugins/erinyani/
 /wp-content/plugins/hello-dolly/
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/phpinfo
@@ -2189,6 +2205,7 @@
 /wp-includes/certificates/
 /wp-includes/css/
 /wp-includes/css/buttons.css
+/wp-includes/css/dist/
 /wp-includes/customize/
 /wp-includes/fonts/
 /wp-includes/html-api/
@@ -2200,6 +2217,7 @@
 /wp-includes/js/
 /wp-includes/js/codemirror/
 /wp-includes/js/crop/
+/wp-includes/js/dist/
 /wp-includes/js/jquery/
 /wp-includes/js/jquery/jquery.js
 /wp-includes/js/jquery/ui/
@@ -2209,6 +2227,7 @@
 /wp-includes/js/tinymce/skins/lightgray/
 /wp-includes/js/tinymce/themes/
 /wp-includes/js/tinymce/themes/inlite/
+/wp-includes/l10n/
 /wp-includes/php-compat/
 /wp-includes/pomo/
 /wp-includes/random_compat/
@@ -2239,6 +2258,7 @@
 /wsg
 /www.zip
 /x/
+/xleet
 /yarn-debug.log
 /yarn-error.log
 /yarn.lock

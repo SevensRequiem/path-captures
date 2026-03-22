@@ -46,6 +46,7 @@
 /.env.bkp
 /.env.brevo
 /.env.cfg
+/.env.ci
 /.env.compose
 /.env.conf
 /.env.config
@@ -56,6 +57,7 @@
 /.env.current
 /.env.default
 /.env.demo
+/.env.deploy
 /.env.dev
 /.env.dev.backup
 /.env.dev.local
@@ -69,6 +71,7 @@
 /.env.dvc
 /.env.email
 /.env.example
+/.env.example.local
 /.env.hidden
 /.env.hide
 /.env.ini
@@ -113,6 +116,7 @@
 /.env.py
 /.env.qa
 /.env.rc
+/.env.release
 /.env.remote
 /.env.sample
 /.env.save

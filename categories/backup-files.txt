@@ -45,6 +45,7 @@
 /backup_2024.sql
 /backup_2025.sql
 /backups/backup.sql
+/backups/database.sql
 /backups/dump.sql
 /backups/mysql.sql
 /backups/sql.sql
@@ -62,6 +63,7 @@
 /config.old
 /config.sql
 /config.stripe.old
+/config/db.sql
 /config1.sql
 /config2.sql
 /config_1.sql
@@ -72,6 +74,7 @@
 /daily_backup.sql
 /data.sql
 /data/backup.sql
+/data/dump.sql
 /database.sql
 /database1.sql
 /database_1.sql
@@ -162,6 +165,7 @@
 /sparkpost.old
 /sql.sql
 /sql/backup.sql
+/sql/db.sql
 /sql1.sql
 /sql_1.sql
 /stripe.backup
