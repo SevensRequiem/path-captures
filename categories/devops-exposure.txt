@@ -13,6 +13,8 @@
 /attacker/docker-compose%2eyml
 /attacker/docker-compose.yml
 /circleci/.circleci/settings.yml
+/config/docker-compose.prod.yml
+/config/dockerfile
 /docker-compose%2eyml
 /docker-compose.dev.yml
 /docker-compose.ecs.yml
