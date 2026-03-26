@@ -474,6 +474,8 @@
 /archive
 /articles/*
 /artisan
+/as/function/wp-admin/
+/aspera/faspex/wp-admin/
 /asset-manifest.json
 /assets/
 /assets/images/
@@ -837,6 +839,7 @@
 /configs/routes-4aug.js
 /configs/routes.js
 /configs/s3_config.json
+/configuration/info.xml
 /configure.sh
 /connected_accounts.json
 /connectionstrings.json
@@ -877,6 +880,7 @@
 /dashboard
 /dashboard/*
 /data.tar.gz
+/data/admin/allowurl.txt
 /database.ini
 /database.json
 /database.tar.gz
@@ -961,6 +965,7 @@
 /dump.tar.gz
 /dynamodb.json
 /dynamodb_config.json
+/e/data/js/ajax.js
 /eb-config.yml
 /eb.config
 /ec2.json
@@ -986,6 +991,7 @@
 /en
 /en/*
 /encryption_key.txt
+/enhancecp
 /env
 /env.cfg
 /env.example
@@ -1021,6 +1027,7 @@
 /feature_flags.json
 /feed/
 /fetch
+/file/b/12cf55d3-bba3-45d3-859a-d2ececbe91ca.jpeg
 /file/g/9919d5d2-bc3f-4382-9479-3ffad84e6d98.gif
 /file/g/cdfd20ae-c3c7-4631-b17a-205ff4c44501.jpg
 /file/req/71d80293-70eb-4790-8596-f233ca73430c.jpg
@@ -1029,6 +1036,7 @@
 /files/
 /filezilla.xml
 /fin/
+/fin/catalog.html
 /firebase-adminsdk.json
 /firebase-debug.log
 /firebase.json
@@ -2170,6 +2178,7 @@
 /wp-content/themes/twentytwentyfour/
 /wp-content/upgrade
 /wp-content/upgrade/
+/wp-content/upload/
 /wp-content/uploads/
 /wp-content/uploads/2023/
 /wp-content/uploads/2024/

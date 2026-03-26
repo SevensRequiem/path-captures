@@ -1106,6 +1106,7 @@
 /sitemaps/.env
 /sites/.env
 /sites/.git/config
+/sites/all/libraries/mailchimp/.env
 /sitestatic/.env
 /smtp/.env
 /source/.env
@@ -1316,6 +1317,7 @@
 /wordpress/.env
 /wordpress/.git/config
 /workspace/.env
+/wp-admin/.env
 /wp-admin/.git/config
 /wp-config
 /wp-config.bak
@@ -1338,6 +1340,7 @@
 /xampp/.env.local
 /xampp/.env.production
 /xampp/.env.staging
+/xaturing.net/.env
 /xx-final/vue-heroes/.env
 /zmusic-frontend/.env
 /~/.git-credentials
