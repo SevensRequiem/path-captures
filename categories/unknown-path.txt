@@ -252,6 +252,7 @@
 //wp/wp-includes/wlwmanifest.xml
 //wp1/wp-includes/wlwmanifest.xml
 //wp2/wp-includes/wlwmanifest.xml
+/1
 /2021/01/16/upload-and-download-file-using-multipart-form-over-http/
 /:27017
 /:27018
@@ -261,6 +262,7 @@
 /@vite/client
 /@vite/env
 /ALFA_DATA/
+/ALFA_DATA/alfacgiapi/
 /API.md
 /API/common.js
 /API/config.js
@@ -272,8 +274,17 @@
 /Assets/
 /BackEnd/config.js
 /Booking/Default.aspx
+/BrutalShell/
 /CHANGELOG.md
+/Cache/
+/Content/
+/Content/Type/
+/Cookie/
 /DOCS.md
+/Diff/
+/Diff/Engine/
+/Diff/Engine/Engine/
+/Diff/Renderer/
 /Docker.md
 /Far/catalog.html
 /Gemfile
@@ -296,6 +307,7 @@
 /Thumbs.db
 /VERSION
 /WEB-INF/web.xml
+/WordPressCore/
 /YK_KZ_Base.js
 /[...catchAll]
 /[[...optional]]
@@ -392,8 +404,10 @@
 /adminer/
 /administrator/
 /administrator/manifests/files/joomla.xml
+/ads.txt
 /adyen.json
 /ah25
+/ai.txt
 /akia_ses.txt
 /amplify/.config/local-aws-info.json
 /amplify/team-provider-info.json
@@ -635,6 +649,7 @@
 /build/
 /build/_app/immutable/chunks/[chunk].[hash].js
 /build/_app/immutable/entry/app.[hash].js
+/build/asset-manifest.json
 /build/entry.client-[hash].js
 /build/main.ba0c34b7.js
 /build/routes/index-[hash].js
@@ -670,6 +685,7 @@
 /chunk-B2FODB4I.js
 /chunks/main.js
 /circle.yml
+/ckeditor/plugins/fontawesome/dialogs/
 /client/stripe.config.js
 /cloud/Scraper.js
 /cloudflare.json
@@ -701,9 +717,11 @@
 /config.inc
 /config.ini
 /config.js
+/config.js.map
 /config.json
 /config.local
 /config.local.php_old
+/config.phpinfo
 /config.prod.ini
 /config.properties
 /config.py
@@ -1023,7 +1041,9 @@
 /export.json
 /facebook_oauth.json
 /fastly.json
+/favicon-32x32.png
 /favicon.ico
+/fb
 /feature_flags.json
 /feed/
 /fetch
@@ -1062,6 +1082,8 @@
 /functions/ses.js
 /functions/stripe.js
 /functions/webhook.js
+/fwc
+/fzh
 /ga_credentials.json
 /gatsby-config.js
 /gcloud.json
@@ -1130,14 +1152,17 @@
 /iam_credentials.json
 /iam_policy.json
 /iam_role.json
+/icons/favicon.ico
 /id_ed25519
 /id_rsa
 /id_rsa.pub
 /images/
+/images/01.jpg
 /images/stories/
 /img/684ce3cbdda416072ef65c4a
 /img/68507e601764a789a5b3687b
 /img/689e441b770bf9ef1d418fb3
+/img/wp-admin/
 /imgix.json
 /include/
 /include/ckeditor/images/addon.gif
@@ -1323,6 +1348,7 @@
 /messagebird.json
 /messages/*
 /metrics
+/mini
 /mixpanel.json
 /mobile/config/stripe.json
 /modules/
@@ -1523,6 +1549,7 @@
 /register
 /remove.sh
 /requirements.txt
+/res/favicon.ico
 /rest/*
 /rest/credential-translation
 /rest/credentials-for-node
@@ -1562,6 +1589,8 @@
 /routes/stripe.js
 /routes/webhook.js
 /run.sh
+/runtime-config.js
+/runtime-config.js.map
 /s3-credentials.json
 /s3.credentials
 /s3.js
@@ -1695,6 +1724,7 @@
 /servers/link.cgi
 /servers/save.cgi
 /service-worker.js
+/service-worker.js.map
 /service.grp
 /service.pwd
 /service/email_service.py
@@ -1760,6 +1790,8 @@
 /settings.conf
 /settings.gradle
 /settings.ini
+/settings.js
+/settings.js.map
 /settings.json
 /settings.py
 /settings.xml
@@ -1958,6 +1990,8 @@
 /stripe_webhook_secret.txt
 /subscribe
 /subscriptions/stripe.json
+/sw.js
+/sw.js.map
 /swagger-ui.html
 /swagger.js
 /swagger.json
@@ -2180,7 +2214,12 @@
 /wp-content/upgrade/
 /wp-content/upload/
 /wp-content/uploads/
+/wp-content/uploads/2020/10/official-logo-512x512.png
+/wp-content/uploads/2022/
 /wp-content/uploads/2023/
+/wp-content/uploads/2023/02/1677572030-814390417fe413b.png
+/wp-content/uploads/2023/08/
+/wp-content/uploads/2023/08/logo-gold.png
 /wp-content/uploads/2024/
 /wp-content/uploads/2025/
 /wp-content/uploads/sendgrid_keys.json
@@ -2224,6 +2263,8 @@
 /wp-includes/css/
 /wp-includes/css/buttons.css
 /wp-includes/css/dist/
+/wp-includes/css/dist/block-library/
+/wp-includes/css/dist/widgets/
 /wp-includes/customize/
 /wp-includes/fonts/
 /wp-includes/html-api/
@@ -2270,8 +2311,10 @@
 /wp-json/wp/v2/
 /wp-json/wp/v2/posts
 /wp-json/wp/v2/users
+/wp-links-opml
 /wp-login
 /wp/
+/wp/wp-admin/includes/
 /wp_mail_smtp.ini
 /wsg
 /www.zip

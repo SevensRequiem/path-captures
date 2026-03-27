@@ -188,6 +188,7 @@
 /.git/config.bak
 /.git/config.old
 /.git/config~
+/.git/credentials
 /.git/db.sql
 /.git/description
 /.git/dump.sql
@@ -211,6 +212,7 @@
 /.git/objects/info
 /.git/objects/info/packs
 /.git/objects/pack
+/.git/objects/pack/
 /.git/packed-refs
 /.git/refs
 /.git/refs/
@@ -1107,6 +1109,7 @@
 /sites/.env
 /sites/.git/config
 /sites/all/libraries/mailchimp/.env
+/sites/default/.env
 /sitestatic/.env
 /smtp/.env
 /source/.env
@@ -1183,6 +1186,7 @@
 /style/.env
 /styles/.env
 /stylesheets/.env
+/supabase/.env
 /symfony/.env
 /symfony/.env.local
 /system-config/.env
@@ -1329,6 +1333,8 @@
 /wp-content/.git/config
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
+/wp-content/uploads/2024/.env
+/wp-content/uploads/2025/.env
 /wp-login/.env
 /wp/.env
 /wp/.git/config
