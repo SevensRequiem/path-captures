@@ -120,6 +120,7 @@
 //about.php
 //about/function.php
 //accesson.php
+//admin.php
 //admin/function.php
 //adminfuns.php
 //alfa.php
@@ -230,6 +231,7 @@
 //x.php
 //xmlrpc.php
 //xve22.php
+//xwpg.php
 //xxzdc.php
 //xza.php
 //yanz.php
@@ -286,6 +288,7 @@
 /18299.php
 /1877.php
 /19.php
+/190.php
 /1998.php
 /1a.php
 /1aa.php
@@ -449,6 +452,7 @@
 /OpVq6.php
 /Ov-Simple1.php
 /PFBC/Form.php
+/Public/initJs.php
 /Q.php
 /Q73BO.php
 /Quotqw4MU9n.php
@@ -507,6 +511,7 @@
 /aa-also-nonexistent-7183.php
 /aa.php
 /aa17.php
+/aa21.php
 /aaa.php
 /aaaa.php
 /aahana/worksec.php
@@ -524,6 +529,7 @@
 /about.php7
 /about/function.php
 /about0077.php
+/about2.php
 /about3.php
 /abouta.php
 /aboutc.php
@@ -609,6 +615,9 @@
 /admin/upload/css.php
 /admin/user_data.php
 /admin/view.php
+/admin/webadmin.php
+/admin/wp-config.php
+/admin/wp-config.php.old
 /admin1.php
 /admin404.php
 /admin836.php
@@ -730,6 +739,8 @@
 /apache2.php
 /apc.php
 /api.php
+/api.php/
+/api.php/index/system
 /api/config.php
 /api/config/mail.php
 /api/db_dump.php
@@ -795,6 +806,7 @@
 /app/config/aws_ses.php
 /app/config/brevo.php
 /app/config/config.php
+/app/config/database.php~
 /app/config/mailchimp.php
 /app/config/mailgun.php
 /app/config/mailjet.php
@@ -830,6 +842,7 @@
 /application/config/constants.php
 /application/config/constants.php/
 /application/config/database.php
+/application/config/database.php~
 /application/config/doctypes.php
 /application/config/email.php
 /application/config/email_config.php
@@ -1034,6 +1047,8 @@
 /backup/settings.php
 /backup/temp.php
 /backup/test.php
+/backup/wp-config.php
+/backup/wp-config.php.old
 /backup/xampp/info.php
 /backup/xampp/phpinfo.php
 /backups/config/mail.php
@@ -1134,6 +1149,7 @@
 /blue.php
 /bluejackets.php
 /blurbs.php
+/blurbs13.php
 /blurbs15.php
 /blurbs18.php
 /bm.php
@@ -1195,6 +1211,8 @@
 /bs4.PhP7
 /bsg-management/php.php
 /btx25.php
+/bu6.php
+/bu7.php
 /bu8.php
 /buc.php
 /budmachine/web/s.php
@@ -1395,6 +1413,7 @@
 /come.php
 /command.php
 /comment.php
+/common.php
 /common/api/phpinfo.php
 /common/asdf.php
 /common/backend/info.php
@@ -1436,6 +1455,7 @@
 /conf/backend/phpinfo.php
 /conf/backup/phpinfo.php
 /conf/config.php
+/conf/config.php~
 /conf/crm/info.php
 /conf/current/info.php
 /conf/develop/phpinfo.php
@@ -1456,6 +1476,7 @@
 /config-backup.php
 /config.inc.php
 /config.inc.php.bak
+/config.inc.php~
 /config.php
 /config.php-eb
 /config.php.bak
@@ -1518,6 +1539,7 @@
 /config/config.inc.php.bak
 /config/config.php
 /config/config.php.bak
+/config/config.php~
 /config/config_global.php.bak
 /config/config_ucenter.php.bak
 /config/convertkit.php
@@ -1528,6 +1550,7 @@
 /config/customerio.php
 /config/database.config.php
 /config/database.php
+/config/database.php~
 /config/debug.php
 /config/dev/email.php
 /config/dev/info.php
@@ -1812,6 +1835,8 @@
 /config/view.php
 /config/web.php
 /config/webhook.php
+/config/wp-config.php
+/config/wp-config.php.old
 /config/xampp/phpinfo.php
 /config/yahoo.php
 /config/yahoo_mail.php
@@ -1880,6 +1905,8 @@
 /core/lib/Drupal.php
 /core/phpinfo.php
 /core/settings.php
+/core/wp-config.php
+/core/wp-config.php.old
 /core3.php
 /core885.php
 /coverme.php
@@ -1912,6 +1939,7 @@
 /crm/test.php
 /crm/time.php
 /crm/xampp/info.php
+/cro.php
 /cron.php
 /cron/api/phpinfo.php
 /cron/backup/info.php
@@ -1966,6 +1994,7 @@
 /css/slider.php
 /css/smoothness/images/index.php
 /css/xmrlpc.php
+/csv.php
 /ctex1.php
 /ctfbe.php
 /cu.php
@@ -2017,9 +2046,11 @@
 /data.php
 /data/config.inc.php.bak
 /data/config/mail.php
+/database.inc.php~
 /database.php
 /date.php
 /db-cache.php
+/db.inc.php~
 /db.php
 /dbadmin.php
 /dbc.php
@@ -2275,6 +2306,7 @@
 /ebahvhhh.php
 /ebs.php
 /ebs.php7
+/edit-comments.php
 /edit-tags.php
 /edit-wolf.php
 /edit.php
@@ -2369,6 +2401,7 @@
 /exchange_config.php
 /execute.php
 /explorer/index_.php
+/export.php
 /ext.php
 /ext/settings.php
 /extension/extension/Not_Found.php
@@ -2515,6 +2548,7 @@
 /fm1.php
 /fodds.php
 /fog/management/index.php
+/fonts/admin-ajax.php
 /fonts/database.php
 /fonts/fontawesome-webfont.php
 /fonts/index.php
@@ -2797,6 +2831,7 @@
 /images/class-config.php
 /images/class.php
 /images/cloud.php
+/images/config.php
 /images/fm.php7
 /images/footer.php
 /images/images/about.php
@@ -2829,6 +2864,7 @@
 /img/cloud.php
 /img/post.php
 /img/xmrlpc.php
+/import.php
 /impressum.php
 /impressumde.php
 /impressumen.php
@@ -2836,12 +2872,15 @@
 /inc.config.php
 /inc.php
 /inc/config.php
+/inc/config.php~
 /include.php
 /include/bussubmit.php
 /include/config.php
 /include/install.php
+/includes.php
 /includes/brevo.php
 /includes/config.php
+/includes/config.php~
 /includes/config/email.php
 /includes/config/mail.php
 /includes/configure.php
@@ -2868,6 +2907,7 @@
 /index.php/login
 /index.php/module/action/param1/$%7B@print%28env%29%7D
 /index.php/phpinfo
+/index.php/sign
 /index.php~
 /index/admin.php
 /index/function.php
@@ -3131,6 +3171,7 @@
 /lclnqiii.php
 /leaf.php
 /leet.php
+/leftDao.php
 /legacy/config/mail.php
 /leon.php
 /let.php
@@ -3226,6 +3267,8 @@
 /lms/services/phpinfo.php
 /lms/test.php
 /lo.php
+/load-scripts.php
+/load-styles.php
 /load.php
 /localconf.php
 /locale.php
@@ -3255,6 +3298,7 @@
 /loud.php
 /love.php
 /low.php
+/lowpr.php
 /loxi-o.php
 /lp6.php
 /lqnykose.php
@@ -3428,6 +3472,7 @@
 /mda.php
 /mds.php
 /me.php
+/media-new.php
 /media.php
 /media/api/phpinfo.php
 /media/backup/phpinfo.php
@@ -3545,6 +3590,7 @@
 /nansa.php
 /nation.php
 /natural.php
+/nav-menus.php
 /nbm.php
 /nc4.php
 /ne2026.php
@@ -3679,7 +3725,11 @@
 /oo.php
 /oowyi.php
 /opotv.php
+/options-discussion.php
 /options-general.php
+/options-media.php
+/options-permalink.php
+/options-privacy.php
 /options-reading.php
 /options-writing.php
 /options.php
@@ -3780,6 +3830,8 @@
 /pixelpages/application/views/auth/common/about.php7
 /player.php
 /plss3.php
+/plugin-editor.php
+/plugin-install.php
 /plugin-install.php.INFECTED.php
 /plugin.php
 /plugins.php
@@ -3822,6 +3874,7 @@
 /portal/temp.php
 /portal/test.php
 /portal/xampp/info.php
+/post-new.php
 /post.php
 /postmark-config.php
 /postmark.php
@@ -3837,6 +3890,7 @@
 /pridmag/waf_defender.php
 /print/bkindex.php
 /priv.php
+/privacy.php
 /private/config.php
 /private/config/mail.php
 /private/env.php
@@ -3933,6 +3987,7 @@
 /prv8.php
 /prv8shell.php
 /ps.php
+/ps78.php
 /pu.php
 /pu1.php
 /pu8.php
@@ -4054,6 +4109,7 @@
 /qqq.php
 /qrujpzwl.php
 /qsntqiho.php
+/queryVersion.php
 /queue.php
 /qvaaq.php
 /qySIWF6TJbv.php
@@ -4174,6 +4230,7 @@
 /sadd.php
 /sagym.php
 /saka.phP7
+/sale.php
 /sallu.php
 /samfa.php
 /samiri.php
@@ -4197,6 +4254,7 @@
 /sd.php
 /sdm.php
 /sdsa.php
+/search.php
 /searchl.php
 /sec.php
 /secure/config/mail.php
@@ -4321,6 +4379,7 @@
 /ses_settings.php
 /session.php
 /settings.inc.php
+/settings.inc.php~
 /settings.php
 /settings.php.bak
 /settings.php.old
@@ -4371,6 +4430,8 @@
 /sim.php/wp-includes/certificates/plugins.php
 /simple.php
 /simple/function.php
+/site-editor.php
+/site-health.php
 /site-title/index.php
 /site/adminer.php
 /site/config.php
@@ -4381,6 +4442,8 @@
 /site/index-dev.php
 /site/phpinfo.php
 /site/settings.php
+/site/wp-config.php
+/site/wp-config.php.old
 /site2.php
 /siteheads.php
 /siteinfo.php
@@ -4473,6 +4536,8 @@
 /src/settings.php
 /src/temp.php
 /src/time.php
+/src/wp-config.php
+/src/wp-config.php.old
 /src/xampp/info.php
 /srx.php
 /ss.php
@@ -4548,6 +4613,7 @@
 /styll.php
 /subdom/ant/makeasmtp.php
 /submitticket.php
+/sukce.php
 /sup.php
 /support.php
 /surgezkj.php
@@ -4566,6 +4632,7 @@
 /symfony/config/secrets/dev/dev.encrypt.php
 /sys.php
 /system.php
+/system/config/database.php~
 /system/config/email.php
 /system/library/mail.php
 /system/logs/dz1.php
@@ -4772,6 +4839,7 @@
 /too.php
 /tool.php
 /tool/view/phpinfo.view.php
+/tool1.php
 /tools.php
 /tools/mail.php
 /tools/phpinfo.php
@@ -4835,6 +4903,7 @@
 /unfrnd.php
 /unit.php
 /unloathness.php
+/unzipper.php
 /up.php
 /up/main.php
 /up4.php
@@ -4871,8 +4940,12 @@
 /uploads/v2.php
 /uploads/xsec.php
 /uploadx.php
+/uploartg.php
+/uploaxa1.php
 /us.php
 /usa.php
+/user-edit.php
+/user-new.php
 /user.php
 /user/api/info.php
 /user/api/phpinfo.php
@@ -4893,6 +4966,7 @@
 /user/phpinfo.php
 /user/phpversion.php
 /user/pinfo.php
+/user/reg.php
 /user/server/phpinfo.php
 /user/service/phpinfo.php
 /user/services/info.php
@@ -5039,6 +5113,8 @@
 /web/temp.php
 /web/test.php
 /web/time.php
+/web/wp-config.php
+/web/wp-config.php.old
 /web/wp-login.php
 /web/xampp/info.php
 /webadmin.php
@@ -5156,6 +5232,7 @@
 /wp-admin/class-db.php
 /wp-admin/classwithtostring.php
 /wp-admin/cloud.php
+/wp-admin/config.php
 /wp-admin/css/11.php
 /wp-admin/css/222.php
 /wp-admin/css/about.php
@@ -5438,10 +5515,12 @@
 /wp-config.php.backup
 /wp-config.php.bak
 /wp-config.php.bak1
+/wp-config.php.bkp
 /wp-config.php.new
 /wp-config.php.old
 /wp-config.php.orig
 /wp-config.php.save
+/wp-config.php.swp
 /wp-config.php.txt
 /wp-config.php~
 /wp-configs.php
@@ -5546,6 +5625,7 @@
 /wp-content/plugins/apikey/mar.php
 /wp-content/plugins/atomlib.php
 /wp-content/plugins/autoload_classmap.php
+/wp-content/plugins/awesome-coming-soon/come.php
 /wp-content/plugins/background-image-cropper/tmpls.php
 /wp-content/plugins/beteng83/ws78.php
 /wp-content/plugins/beteng84/ws79.php
@@ -5598,6 +5678,7 @@
 /wp-content/plugins/module.php
 /wp-content/plugins/molongui-authorship/includes/compat/plugins/db-status.php
 /wp-content/plugins/newsletter-sendinblue/newsletter-sendinblue.php
+/wp-content/plugins/not/includes/about.php
 /wp-content/plugins/panel.php
 /wp-content/plugins/phpad/as.php
 /wp-content/plugins/phpadmin/as.php
@@ -5641,6 +5722,7 @@
 /wp-content/plugins/seoplugins/index.php
 /wp-content/plugins/seoplugins/mar.php
 /wp-content/plugins/simple-mail/simple-mail.php
+/wp-content/plugins/simple/simple.php
 /wp-content/plugins/smtp-mail/smtp-mail.php
 /wp-content/plugins/sparkpost-mail/sparkpost-mail.php
 /wp-content/plugins/sparkpost/includes/settings.php
@@ -5698,6 +5780,7 @@
 /wp-content/test.php
 /wp-content/themes.php
 /wp-content/themes/6566deq1/classmap.php
+/wp-content/themes/aahana/json.php
 /wp-content/themes/aahana/worksec.php
 /wp-content/themes/about.php
 /wp-content/themes/admin.php
@@ -6296,6 +6379,7 @@
 /wp-login.php
 /wp-logout.php
 /wp-logs.php
+/wp-lourika.php
 /wp-magic.php
 /wp-mail.php
 /wp-mails.php
@@ -6326,6 +6410,7 @@
 /wp-spow.php
 /wp-ssfc.php
 /wp-start.php
+/wp-su.php
 /wp-tap.php
 /wp-tem.php
 /wp-the.php
@@ -6367,6 +6452,7 @@
 /wp_jVML8V37.php
 /wp_mna.php
 /wp_wlx.php
+/wpb.php
 /wpc.php
 /wpc2.php
 /wpls.php
@@ -6423,6 +6509,7 @@
 /ws84.php
 /ws85.php
 /ws86.php
+/ws87.php
 /ws88.php
 /wsa.php
 /wsad.php
@@ -6453,6 +6540,7 @@
 /www/mail.php
 /wwx.php
 /wxdxn.php
+/wxfyf.php
 /wxo.php
 /wziar.php
 /wziar1.php
