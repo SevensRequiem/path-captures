@@ -150,6 +150,8 @@
 /.env.stripe.test
 /.env.swo
 /.env.swp
+/.env.tar
+/.env.tar.gz
 /.env.temp
 /.env.template
 /.env.test
@@ -176,6 +178,9 @@
 /.git-askpass.sh
 /.git-credentials
 /.git-secret
+/.git.tar
+/.git.tar.gz
+/.git.zip
 /.git/
 /.git/%2econfig
 /.git/.env
@@ -1326,10 +1331,13 @@
 /wp-admin/.env
 /wp-admin/.git/config
 /wp-config
+/wp-config-backup.tar
 /wp-config.bak
 /wp-config.bak1
 /wp-config.old
 /wp-config.orig
+/wp-config.tar
+/wp-config.tar.gz
 /wp-config.txt
 /wp-config.zip
 /wp-content/.env
