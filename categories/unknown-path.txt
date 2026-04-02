@@ -283,6 +283,7 @@
 //media/wp-includes/wlwmanifest.xml
 //news/
 //news/wp-includes/wlwmanifest.xml
+//nsfw
 //shop/wp-includes/wlwmanifest.xml
 //site/
 //site/wp-includes/wlwmanifest.xml
@@ -383,6 +384,7 @@
 /META-INF/context.xml
 /Makefile
 /NOTES.md
+/NSFW/
 /Pipfile
 /Pipfile.lock
 /Procfile
@@ -442,6 +444,7 @@
 /_next/static/env.js
 /_old/
 /_profiler/
+/_profiler/app/config/parameters.yml
 /_profiler/empty/search/results
 /_profiler/latest
 /_profiler/phpinfo
@@ -626,6 +629,7 @@
 /appsettings.Test.json
 /appsettings.json
 /archive
+/archive.tar.gz
 /archive.zip
 /articles/*
 /artisan
@@ -796,7 +800,9 @@
 /azure/payment-config.json
 /b
 /b/
+/back.tar
 /back.tar.gz
+/back.zip
 /back_up.zip
 /backend
 /backend.zip
@@ -939,6 +945,7 @@
 /backwpup.tar
 /backwpup.tar.gz
 /backwpup.zip
+/bak.tar
 /bak.tar.gz
 /bak.zip
 /balancer-manager
@@ -955,6 +962,7 @@
 /bin.zip
 /bitbucket-pipelines.yml
 /bkp.tar
+/bkp.tar.gz
 /bkp.zip
 /blocks/group/
 /blog
@@ -1262,6 +1270,7 @@
 /configuration/info.xml
 /configure.sh
 /connected_accounts.json
+/connectionstrings.config
 /connectionstrings.json
 /console
 /console/
@@ -2391,6 +2400,7 @@
 /project.zip
 /project/config/stripe.py
 /project/settings/payment.py
+/projects
 /projects/*
 /properties.ini
 /properties.zip
@@ -3463,6 +3473,8 @@
 /wp-admin/network/
 /wp-admin/sendgrid_keys.json
 /wp-admin/user/
+/wp-archive.tar
+/wp-archive.tar.gz
 /wp-archive.zip
 /wp-backup.tar
 /wp-backup.tar.gz
@@ -3665,7 +3677,11 @@
 /wp-login.tar
 /wp-login.tar.gz
 /wp-login.zip
+/wp-old.tar
 /wp-old.tar.gz
+/wp-old.zip
+/wp-site.tar
+/wp-site.tar.gz
 /wp-site.zip
 /wp-snapshots.tar
 /wp-snapshots.tar.gz
@@ -3678,6 +3694,9 @@
 /wp.zip
 /wp/
 /wp/wp-admin/includes/
+/wp_archive.tar
+/wp_archive.tar.gz
+/wp_archive.zip
 /wp_backup.tar
 /wp_backup.tar.gz
 /wp_backup.zip
