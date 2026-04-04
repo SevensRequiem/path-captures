@@ -144,6 +144,7 @@
 /.environment
 /.envrc
 /.envs
+/.envs/.production/.django
 /.eslintrc
 /.flaskenv
 /.ftp-config.json
@@ -1157,6 +1158,7 @@
 /config/dynamodb.json
 /config/dynamodb.yml
 /config/elasticache.json
+/config/env
 /config/env.js
 /config/env.json
 /config/env/sendgrid.env
@@ -3097,6 +3099,7 @@
 /swagger/v1/swagger.json
 /symfony.zip
 /symfony/_profiler/phpinfo
+/symfony/public/_profiler/phpinfo
 /sync.zip
 /sys.zip
 /sysinfo.cgi

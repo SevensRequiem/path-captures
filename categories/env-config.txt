@@ -1112,6 +1112,7 @@
 /site/.git/HEAD
 /site/.git/config
 /site/.git/logs/HEAD
+/site/all/libraries/mailchimp/.env
 /sitemaps/.env
 /sites/.env
 /sites/.git/config
@@ -1198,6 +1199,7 @@
 /symfony/.env.local
 /system-config/.env
 /system/.env
+/systems/.env
 /target/.env
 /temanr10/.env
 /temanr9/.env
