@@ -589,11 +589,14 @@
 /.terraform/terraform.tfstate
 /.terraform/terraform.tfstate.backup
 /.tmb/
+/.tmb/8.php
+/.tmb/a5.php
 /.tmb/admin.php
 /.tmb/cloud.php
 /.tmb/doc.php
 /.tmb/dropdown.php
 /.tmb/index.php
+/.tmb/nano.php
 /.trash7206/index.php
 /.trash7309/index.php
 /.travis.yml
@@ -617,7 +620,10 @@
 /.well-known/1.php
 /.well-known/11.php
 /.well-known/222.php
+/.well-known/7.php
+/.well-known/8.php
 /.well-known/Hd.php
+/.well-known/a5.php
 /.well-known/aa.php
 /.well-known/about.php
 /.well-known/about/function.php
@@ -656,6 +662,7 @@
 /.well-known/db-status.php
 /.well-known/discord
 /.well-known/dropdown.php
+/.well-known/f35.php
 /.well-known/file.php
 /.well-known/gecko-litespeed.php
 /.well-known/header.php
@@ -704,6 +711,7 @@
 /.well-known/save.php
 /.well-known/security.php
 /.well-known/security.txt
+/.well-known/simple.php
 /.well-known/themes.php
 /.well-known/webfinger
 /.well-known/wincust.php
@@ -997,6 +1005,7 @@
 //byte.php
 //c.php
 //c99.php
+//cacheee.php
 //cannonical.php
 //category.php
 //cc.php
@@ -1516,6 +1525,7 @@
 /13.php
 /133.php
 /1337.php
+/133927/8.php
 /13ede.php
 /13k.php
 /14.php
@@ -1650,6 +1660,7 @@
 /2TlRXt7OgIM.php
 /2clas.php
 /2dlLsTa1rz9.php
+/2e754/a5.php
 /2eaa2.php
 /2fe.php
 /2gz1dxix.php
@@ -1810,6 +1821,7 @@
 /Assignment3/.env
 /Assignment4/.env
 /Astagaaaaa.php
+/Aus/
 /Auth.php
 /Auth/index.php
 /AxAo.php
@@ -2206,6 +2218,7 @@
 /acme/.env
 /acme_challenges/.env
 /acp.php
+/act.php
 /actions-server/.env
 /actions/*
 /activation_key.txt
@@ -2266,6 +2279,7 @@
 /admin/app.js.bak
 /admin/assets/plugins/jQuery-File-Upload/server/php/index.php
 /admin/assets/plugins/kcfinder/upload.php
+/admin/assets/plugins/plupload/examples/upload.php
 /admin/backup.sql
 /admin/ckeditor/kcfinder/browse.php
 /admin/cmd
@@ -2372,6 +2386,7 @@
 /administrator/
 /administrator/.env
 /administrator/.git/config
+/administrator/7.php
 /administrator/components/com_acymailing/acymailing.php
 /administrator/components/com_jnews/jnews.php
 /administrator/components/com_mail/config.php
@@ -2494,6 +2509,7 @@
 /amplify/team-provider-info.json
 /amplitude.zip
 /amwxl.php
+/amxloxxr.php
 /amya985.php
 /an.php
 /an7.php
@@ -3505,6 +3521,7 @@
 /bbn.php
 /bby.php
 /bd.php
+/bdktk.php
 /be/.env
 /beence.php
 /ben.php
@@ -3699,6 +3716,7 @@
 /bs2.php
 /bs4.PhP7
 /bsg-management/php.php
+/bthil.php
 /btx25.php
 /bu6.php
 /bu7.php
@@ -3734,6 +3752,7 @@
 /bv3.php
 /bv7binary.php
 /bwjjt.php
+/bx.php
 /by.php
 /byel.php
 /byp.php
@@ -3839,6 +3858,9 @@
 /cgi-bin/.env
 /cgi-bin/1.php
 /cgi-bin/404.php
+/cgi-bin/7.php
+/cgi-bin/8.php
+/cgi-bin/a5.php
 /cgi-bin/about.php
 /cgi-bin/admin.php
 /cgi-bin/autoload_classmap.php
@@ -3940,6 +3962,19 @@
 /class-wp-font-library.php
 /class-wp-font-utils.php
 /class-wp-hook-ajax-response.php
+/class-wp-html-active-formatting-elements.php
+/class-wp-html-attribute-token.php
+/class-wp-html-decoder.php
+/class-wp-html-doctype-info.php
+/class-wp-html-open-elements.php
+/class-wp-html-processor-state.php
+/class-wp-html-processor.php
+/class-wp-html-span.php
+/class-wp-html-stack-event.php
+/class-wp-html-tag-processor.php
+/class-wp-html-text-replacement.php
+/class-wp-html-token.php
+/class-wp-html-unsupported-exception.php
 /class-wp-http-proxy-list.php
 /class-wp-image.php
 /class-wp-l10n-cache.php
@@ -3980,6 +4015,7 @@
 /classwithtostring.php
 /claw.php
 /clcdu.php
+/cli/7.php
 /cli_bootstrap.php
 /click.php
 /client-app/.env
@@ -4781,6 +4817,7 @@
 /config/zoho_mail.php
 /config1.sql
 /config2.sql
+/configPCJ/f35.php
 /config_1.sql
 /config_dev.php
 /configmap.yml
@@ -5720,6 +5757,7 @@
 /duplicator.tar.gz
 /duplicator.zip
 /duqyhfnlbcr.php
+/dx.php
 /dynamodb.json
 /dynamodb_config.json
 /dyqvcfqv.php
@@ -5746,6 +5784,7 @@
 /ec2.json
 /ec2_key.pem
 /ec2_keypair.pem
+/eclac.php
 /ecommerce.zip
 /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 /ecs/task-credentials
@@ -5814,6 +5853,7 @@
 /en.php
 /en/*
 /en/.env
+/enacting.php
 /enclas.php
 /encrypt.php
 /encrypted.zip
@@ -6086,6 +6126,7 @@
 /file-gertdxz.php
 /file.php
 /file/b/12cf55d3-bba3-45d3-859a-d2ececbe91ca.jpeg
+/file/b/67c5dfdb-4678-4672-9d23-5e097886f674.jpeg
 /file/function.php
 /file/g/9919d5d2-bc3f-4382-9479-3ffad84e6d98.gif
 /file/g/cdfd20ae-c3c7-4631-b17a-205ff4c44501.jpg
@@ -6387,6 +6428,7 @@
 /ggb.php
 /ggfi.php
 /gh.php
+/ghhjh.php
 /ghost.zip
 /ghreshttryu.php
 /gi.php
@@ -6420,6 +6462,7 @@
 /gmail_settings.php
 /gmo.php
 /gnkadgiz.php
+/gnmlc.php
 /go.php
 /goat.php
 /goat1.php
@@ -6464,6 +6507,7 @@
 /graphql/schema
 /graphql/test
 /great.php
+/greateb.php
 /green.php
 /grems-api/.env
 /grems-frontend/.env
@@ -6656,6 +6700,7 @@
 /html/.env
 /html/.git/HEAD
 /html/.git/config
+/html5-named-character-references.php
 /htto.php
 /http/.env
 /httpboot/.env
@@ -6768,6 +6813,7 @@
 /images/news_event/1.php7
 /images/photo.php
 /images/send.php
+/images/simple.php
 /images/stories/
 /images/stories/themes.php
 /images/upload.php
@@ -6815,6 +6861,7 @@
 /includes.php
 /includes.sql
 /includes/.env
+/includes/7.php
 /includes/brevo.php
 /includes/config.php
 /includes/config.php~
@@ -6852,6 +6899,7 @@
 /index.sql
 /index.ts
 /index.zip
+/index/8.php
 /index/admin.php
 /index/function.php
 /index/lock.php
@@ -7008,6 +7056,7 @@
 /izusdinh.php
 /j.php
 /jTweH3qMp7D.php
+/jafub.php
 /jak.php
 /jal.php
 /jancok.php
@@ -8123,6 +8172,7 @@
 /nbm.php
 /nc4.php
 /ncljSH4JfCF.php
+/nco.php
 /ne2026.php
 /neo4j.zip
 /nest/.env
@@ -8261,6 +8311,7 @@
 /nsexz.php
 /nsfw
 /ntaps.php
+/nti.php
 /nucqsqeg.php
 /num.php
 /nux.php
@@ -8297,6 +8348,7 @@
 /office365.php
 /ogifomnzqnlvwh5womfjirvaCdefault.php
 /ohayo.php
+/ohfiw.php
 /oiko6u.php
 /oirsbfkm.php
 /oivcl.php
@@ -8526,6 +8578,7 @@
 /paypal_client_id.txt
 /paypal_secret.txt
 /pcloud.zip
+/pcp/simple.php
 /pdi.php
 /pe9rsn.php
 /pent.php
@@ -8626,6 +8679,7 @@
 /pinterest.zip
 /pipeline.zip
 /pixelpages/application/views/auth/common/about.php7
+/pjkkq.php
 /pk_live.txt
 /pk_test.txt
 /pkey.sql
@@ -8648,6 +8702,7 @@
 /plugins.zip
 /plugins/
 /plugins/.env
+/plugins/7.php
 /plugins/Cache/footer.php
 /plugins/DaoZM.php
 /plugins/admin.php
@@ -8915,6 +8970,7 @@
 /projects/.env
 /properties.ini
 /properties.zip
+/prosell2.php
 /protected.zip
 /protected/.env
 /protected/config/mail.php
@@ -9130,8 +9186,10 @@
 /qw_03b4ad31.php
 /qwe.php
 /qySIWF6TJbv.php
+/qyffk.php
 /r
 /r.php
+/r/
 /r0x.php
 /r2.php
 /r3grt7.php
@@ -10154,6 +10212,7 @@
 /sns.json
 /sns.yml
 /sns_credentials.json
+/snus.php
 /soap.zip
 /soc/
 /social.zip
@@ -11707,6 +11766,7 @@
 /wefile.php
 /welcom.php
 /well-known/.env
+/well-known/nano.php
 /wen.php
 /weoci.php
 /wer.php
@@ -11798,6 +11858,7 @@
 /wordpress/
 /wordpress/.env
 /wordpress/.git/config
+/wordpress/8.php
 /wordpress/clo.php
 /wordpress/update/wpupex.php
 /wordpress/wp-admin/includes/wordpress/wp-admin/includes/admin-filters.php
@@ -11865,6 +11926,7 @@
 /wp-admin/.wp_be8.php
 /wp-admin/1.php
 /wp-admin/404.php
+/wp-admin/8.php
 /wp-admin/YP1cuvy6WrD.php
 /wp-admin/a.php
 /wp-admin/about.php
@@ -12114,6 +12176,7 @@
 /wp-admin/memberfuns.php
 /wp-admin/meta/
 /wp-admin/ms-edit.php
+/wp-admin/nano.php
 /wp-admin/network/
 /wp-admin/network/about.php
 /wp-admin/network/admin.php
@@ -12279,8 +12342,10 @@
 /wp-content/.git/HEAD
 /wp-content/.git/config
 /wp-content/1.php
+/wp-content/8.php
 /wp-content/ALFA_DATA/alfacgiapi/bypass.php
 /wp-content/V2_xml.php
+/wp-content/a5.php
 /wp-content/about.php
 /wp-content/admin-header.php
 /wp-content/admin.php
@@ -12514,6 +12579,7 @@
 /wp-content/plugins/postman-smtp/Postman/Postman-Config.php
 /wp-content/plugins/postman-smtp/postman-smtp.php
 /wp-content/plugins/press/wp-class.php
+/wp-content/plugins/profile-builder/readme.txt
 /wp-content/plugins/pwnd-1/admin.php
 /wp-content/plugins/pwnd-1/dedi1.php
 /wp-content/plugins/pwnd-1/install.php
@@ -12877,6 +12943,7 @@
 /wp-includes/120f9.php
 /wp-includes/222.php
 /wp-includes/404.php
+/wp-includes/8.php
 /wp-includes/ID3
 /wp-includes/ID3/
 /wp-includes/ID3//file.php
@@ -13022,6 +13089,7 @@
 /wp-includes/Text/wp-login.php
 /wp-includes/Text/wp.php
 /wp-includes/Text/xwx1.php
+/wp-includes/a5.php
 /wp-includes/about.php
 /wp-includes/admin.php
 /wp-includes/app.php
@@ -13289,6 +13357,7 @@
 /wp-includes/module.php
 /wp-includes/ms-file.php
 /wp-includes/ms-pie.php
+/wp-includes/nano.php
 /wp-includes/nav-menu.php
 /wp-includes/network.php
 /wp-includes/new.php
@@ -13526,6 +13595,7 @@
 /wp-spow.php
 /wp-ssfc.php
 /wp-start.php
+/wp-stat.php
 /wp-su.php
 /wp-supports.php
 /wp-system.php
@@ -13543,6 +13613,7 @@
 /wp-trackback.php
 /wp-true.php
 /wp-turn.php
+/wp-tymanage.php
 /wp-update.php
 /wp-upload.php
 /wp-uploads.tar
@@ -13947,8 +14018,10 @@
 /zse.php
 /zsec.php
 /zsz.php
+/zt2.php
 /ztv.php
 /zu.php
+/zwq.php
 /zwq13.php
 /zwso.php
 /zx.php
