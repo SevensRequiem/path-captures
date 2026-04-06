@@ -837,6 +837,7 @@
 /libraries/.env
 /library/.env
 /libs/.env
+/libs/.git/config
 /linux/.env
 /live/.env
 /live/.env.local
@@ -876,6 +877,7 @@
 /micro-app-react-communication/.env
 /micro-app-react/.env
 /microservices/.env
+/microservices/.git/config
 /migrate/.env
 /mindsweeper/gui/.env
 /minified/.env
@@ -926,6 +928,7 @@
 /orientdb-client/.env
 /outputs/.env
 /owncloud/.env
+/packages/.git/config
 /packages/api/.env
 /packages/app/.env
 /packages/client/.env

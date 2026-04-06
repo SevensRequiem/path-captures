@@ -275,11 +275,14 @@
 //2018/wp-includes/wlwmanifest.xml
 //2019/wp-includes/wlwmanifest.xml
 //2020/wp-includes/wlwmanifest.xml
+//2021/wp-includes/wlwmanifest.xml
 //blog/
+//blog/robots.txt
 //blog/wp-includes/wlwmanifest.xml
 //cdn.js
 //cms/wp-includes/wlwmanifest.xml
 //contact
+//feed/
 //git.chanpinqingbaoju.com
 //media/wp-includes/wlwmanifest.xml
 //news/
@@ -439,11 +442,14 @@
 /_next/static/chunks/app/layout-a908fe02173ed4b1.js
 /_next/static/chunks/framework-[hash].js
 /_next/static/chunks/main-app-[hash].js
+/_next/static/chunks/main.js.map
 /_next/static/chunks/pages/_app-a9fba37d935ce3f3.js
 /_next/static/chunks/pages/_app-d1b5411bacd03f02.js
 /_next/static/chunks/pages/_app-d25b242610000153a081.js
+/_next/static/chunks/pages/dashboard.js.map
 /_next/static/chunks/webpack-[hash].js
 /_next/static/env.js
+/_next/static/runtime/runtime-main.js.map
 /_old/
 /_profiler/
 /_profiler/app/config/parameters.yml
@@ -567,6 +573,7 @@
 /app
 /app-7d66de919618d3830635.js
 /app.js
+/app.js.map
 /app.log
 /app.py
 /app.tar
@@ -1485,7 +1492,10 @@
 /dist.tar
 /dist.tar.gz
 /dist.zip
+/dist/app.js.map
+/dist/bundle.js.map
 /dist/js/app.[hash].js
+/dist/main.js.map
 /distribution.zip
 /division.zip
 /django.zip
@@ -1818,6 +1828,7 @@
 /include/ckeditor/images/addon.gif
 /index.html
 /index.js
+/index.js.map
 /index.ts
 /index.zip
 /inetpub.tar
@@ -1828,6 +1839,7 @@
 /info.log
 /info.php_
 /info.txt
+/info/
 /infra/aws.tf
 /infra/ses.tf
 /infra/terraform.tfvars
@@ -2051,6 +2063,7 @@
 /main.b610bd7c7b9b7a47.js
 /main.dev.js
 /main.js
+/main.js.map
 /main.tar
 /main.tar.gz
 /main.tf
@@ -2425,6 +2438,7 @@
 /public/backup.zip
 /public/bucket.json
 /public/env.js
+/public/js/app.js.map
 /public/js/main.js
 /public/s3-bucket.json
 /public/s3.json
@@ -2996,6 +3010,7 @@
 /static/env.js
 /static/js/*.chunk.js
 /static/js/2.ca066a4b.chunk.js
+/static/js/app.js.map
 /static/js/main.11bc02d8.chunk.js
 /static/js/main.1b34ee2a.js
 /static/js/main.335d17a0.js
@@ -3008,6 +3023,8 @@
 /static/js/main.8c18b542.js
 /static/js/main.bfa51071.js
 /static/js/main.ef8ecb99.chunk.js
+/static/js/main.js.map
+/static/js/vendor.js.map
 /statistics.zip
 /storage/app/keys/stripe.key
 /storage/app/stripe.json
@@ -3297,6 +3314,7 @@
 /vault.json
 /vault_token.txt
 /vendor.js
+/vendor.js.map
 /vendor.tar
 /vendor.tar.gz
 /vendor.zip
@@ -3479,6 +3497,7 @@
 /wp-admin/meta/
 /wp-admin/network/
 /wp-admin/sendgrid_keys.json
+/wp-admin/user
 /wp-admin/user/
 /wp-archive.tar
 /wp-archive.tar.gz
@@ -3725,6 +3744,7 @@
 /wwwroot.tar
 /wwwroot.tar.gz
 /wwwroot.zip
+/x
 /x/
 /xamarin.zip
 /xleet
