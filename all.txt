@@ -50,6 +50,7 @@
 /%62ackend/%2eenv
 /%63areers_not_hosted
 /%68ome/%61dmin/%2eaws/%63redentials
+/%E2%9D%A5.php
 /%E3%81%AE.php
 /%E5%B9%B3%E4%BB%AE%E5%90%8Ds.php
 /%c0
@@ -666,6 +667,7 @@
 /.well-known/dropdown.php
 /.well-known/f35.php
 /.well-known/file.php
+/.well-known/file.php/
 /.well-known/gecko-litespeed.php
 /.well-known/header.php
 /.well-known/home.php
@@ -946,6 +948,7 @@
 //admin-demo/index.php
 //admin.php
 //admin/function.php
+//admina.php
 //adminer.php
 //adminfuns.php
 //administrator.php
@@ -1657,9 +1660,11 @@
 /222.php
 /22625814acb09634e45d67c98c55a6a2f6e2532c_0.file.painel.html.php
 /22c.php
+/22name.php
 /22xc.php
 /233.php
 /24.php
+/24name.php
 /26.php
 /29rc7ExgS6p.php
 /2FpTObEIH9L.php
@@ -2151,6 +2156,8 @@
 /_waku/*
 /a.php
 /a/
+/a/catalog.json
+/a/index.json
 /a/index.php
 /a1.php
 /a1vx.php
@@ -2219,6 +2226,7 @@
 /accesson1.php
 /account
 /account.php
+/account/.env
 /accueil.php
 /acfdr.php
 /acfipnci.php
@@ -3206,6 +3214,8 @@
 /b
 /b.php
 /b/
+/b/catalog.json
+/b/index.json
 /b0.php
 /b1a3k.php
 /b1ack.php
@@ -3525,8 +3535,10 @@
 /balancer-manager
 /baltrum/pics/vcss.gif
 /ban.php
+/bank/.env
 /banner.gif
 /bar.php
+/bardbdze.php
 /bas.php
 /base.php
 /base.zip
@@ -3609,6 +3621,7 @@
 /bitrix/php_interface/dbconn.php.bak
 /biyaqllb.php
 /bj.php
+/bjeni.php
 /bjfl.php
 /bk.php
 /bk/index.php
@@ -3675,10 +3688,13 @@
 /blurbs18.php
 /bm.php
 /bn.php
+/bngv.php
 /bnm.php
 /bnn_.php
 /bnnof6.php
 /bo.php
+/boards.json
+/bogles.php
 /bolt.php
 /boltt.php
 /bonita76.php
@@ -4102,6 +4118,7 @@
 /cloudinary.json
 /cloudinary_url.txt
 /cloudwatch.json
+/clque.php
 /clss.php
 /cmd.php
 /cmd/api/stripe.go
@@ -5141,6 +5158,7 @@
 /css/colors/blue/index.php
 /css/cong.php
 /css/css.php
+/css/database.php
 /css/fan.php
 /css/file.php
 /css/hekokstyle.php
@@ -5149,6 +5167,7 @@
 /css/item.php
 /css/media-widget-vide02.php
 /css/plugins.php
+/css/shlo.php
 /css/slider.php
 /css/smoothness/images/index.php
 /css/xmrlpc.php
@@ -5221,6 +5240,7 @@
 /danon.php
 /dapa.php
 /dark_shell.php
+/dash/.env
 /dashboard
 /dashboard.php
 /dashboard.zip
@@ -6253,6 +6273,9 @@
 /first-network/.env
 /first.php
 /fisdom/fisdom/.env
+/fit/
+/fit/catalog.json
+/fit/index.json
 /fix.php
 /fix/as.php
 /fix/up.php
@@ -6414,6 +6437,9 @@
 /fz.php
 /fzh
 /g.php
+/g/
+/g/catalog.json
+/g/index.json
 /g3.php
 /g6shell.php
 /g6sshell.php
@@ -6943,6 +6969,7 @@
 /index.html
 /index.js
 /index.js.map
+/index.json
 /index.old.php
 /index.php
 /index.php/ci_environment
@@ -7953,6 +7980,7 @@
 /marketing/time.php
 /marketing/xampp/phpinfo.php
 /mas.php
+/mas80.php
 /mass.php
 /master.sql
 /master.tar
@@ -8010,6 +8038,7 @@
 /mek.php
 /member/space/company/info.txt
 /memberfuns.php
+/members/.env
 /memcached.conf
 /memcached/.env
 /mentorg-lava-docker/.env
@@ -8021,6 +8050,7 @@
 /messages/*
 /meta-method.php
 /meta.php
+/meta/catalog.json
 /metadata/computeMetadata/v1
 /metadata/instance
 /metadata/instance/compute/
@@ -8171,6 +8201,9 @@
 /mt/byp.php
 /mt/pekok.php
 /mtrje.php
+/mu/
+/mu/catalog.json
+/mu/index.json
 /multirole.php
 /munki_repo/.env
 /muse.php
@@ -8846,6 +8879,7 @@
 /postmark_webhook.php
 /postnews.php
 /posts
+/posts.json
 /posts/*
 /pouhg.php
 /pouyaserver.php
@@ -9111,6 +9145,7 @@
 /public/moon.php
 /public/phpinfo.php
 /public/pinfo.php
+/public/plugins/plupload/examples/upload.php
 /public/rip.php
 /public/s3-bucket.json
 /public/s3.json
@@ -9192,6 +9227,7 @@
 /q9IT6sbFnEt.php
 /qIg2RZtUL1l.php
 /qV9GbcJwZgK.php
+/qa.php
 /qa.zip
 /qa/.env
 /qa/.env.local
@@ -9234,6 +9270,7 @@
 /qkvbqnne.php
 /qoepq.php
 /qq.php
+/qqa.php
 /qqjki.php
 /qqkbfujk.php
 /qqq.php
@@ -9293,6 +9330,7 @@
 /rds.json
 /rds_credentials.json
 /re.php
+/rea889y.php
 /react-app/.env
 /react-app/.env.production
 /react-native.zip
@@ -9483,6 +9521,7 @@
 /ru.php
 /ruabjw00.php
 /ruby.zip
+/rujgeote.php
 /rum.php
 /run.php
 /run.sh
@@ -10727,6 +10766,7 @@
 /subdom/ant/makeasmtp.php
 /subdomain.zip
 /submitticket.php
+/subs/pics/qa.php
 /subscribe
 /subscriptions/stripe.json
 /success.php
@@ -10822,9 +10862,11 @@
 /tcp.php
 /tdsaz.php
 /te.php
+/tea.php
 /team.zip
 /teams/*
 /teamx.php
+/tech/catalog.json
 /techl.php
 /teee.php
 /telegram.zip
@@ -11208,6 +11250,7 @@
 /tt.php
 /ttRc68YLe0tB.php
 /tuhixyxq.php
+/turkshell.php
 /tutorial.zip
 /tuyul.php
 /twenty.php
@@ -11329,6 +11372,7 @@
 /upload/k2l66g.php
 /upload/login.php
 /upload/medialibrary
+/upload/wp-info.php
 /upload2.php
 /uploader.php
 /uploads.tar
@@ -11457,11 +11501,14 @@
 /uuwno.php
 /uvlyi.php
 /uvygonziqtx.php
+/uwu2.php
 /ux.zip
 /uxijj.php
 /v.php
 /v/
 /v/catalog.html
+/v/catalog.json
+/v/index.json
 /v1.php
 /v1.zip
 /v1/*
@@ -11859,6 +11906,7 @@
 /weoci.php
 /wer.php
 /wercker.yml
+/wert.php
 /wfile.php
 /wfsjt.php
 /wft.php
@@ -11976,6 +12024,7 @@
 /worm0.PhP7
 /wp
 /wp-0.php
+/wp-0fsdhv.php
 /wp-1.php
 /wp-1ogin.php
 /wp-2018.php
@@ -11992,6 +12041,7 @@
 /wp-4doption1.php
 /wp-4dvn1ew.php
 /wp-4qtafzz.php
+/wp-4sd6kt.php
 /wp-64wscx6shd.php
 /wp-74mt77k.php
 /wp-Blogs.php
@@ -12371,6 +12421,7 @@
 /wp-blog-header.php
 /wp-blog.php
 /wp-blogs.php
+/wp-bugs.php
 /wp-cache.php
 /wp-cc.php
 /wp-ccv.php
@@ -12633,6 +12684,7 @@
 /wp-content/plugins/easy-wp-smtp/easy-wp-smtp.php
 /wp-content/plugins/easy-wp-smtp/includes/class-easywpsmtp-admin-settings.php
 /wp-content/plugins/easy-wp-smtp/includes/class-easywpsmtp-admin.php
+/wp-content/plugins/edaewni/index.php
 /wp-content/plugins/elementor/assets/lib/pickr/themes/system.php
 /wp-content/plugins/elementor/wp-wjvngrh.php
 /wp-content/plugins/envato-css.php
@@ -13942,6 +13994,8 @@
 /x%20.php
 /x.php
 /x/
+/x/catalog.json
+/x/index.json
 /x/index.php
 /x/test.php
 /x0rg.php

@@ -343,6 +343,7 @@
 /Web/siteMariage/.env
 /__tests__/test-become/.env
 /_static/.env
+/account/.env
 /acme-challenge/.env
 /acme/.env
 /acme_challenges/.env
@@ -480,6 +481,7 @@
 /backup/.git/config
 /backup/.git/logs/HEAD
 /backups/.env
+/bank/.env
 /base/.env
 /base_dir/.env
 /basic-network/.env
@@ -603,6 +605,7 @@
 /current/.env.staging
 /custom/.env
 /d/.env
+/dash/.env
 /dashboard/.env
 /data/.env
 /database/.env
@@ -872,6 +875,7 @@
 /marketing/.env.staging
 /master/.env
 /media/.env
+/members/.env
 /memcached/.env
 /mentorg-lava-docker/.env
 /micro-app-react-communication/.env

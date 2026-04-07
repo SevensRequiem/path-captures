@@ -462,6 +462,8 @@
 /_vti_bin/*
 /_waku/*
 /a/
+/a/catalog.json
+/a/index.json
 /aWs-cOdEcOmMiT/
 /aaabbbccc
 /about
@@ -809,6 +811,8 @@
 /azure/payment-config.json
 /b
 /b/
+/b/catalog.json
+/b/index.json
 /back.tar
 /back.tar.gz
 /back.zip
@@ -981,6 +985,7 @@
 /blog.zip
 /blog/[year]/[month]/[slug]
 /bluehost.zip
+/boards.json
 /boot.zip
 /bower_components.zip
 /box.zip
@@ -1654,6 +1659,9 @@
 /firebase-debug.log
 /firebase.json
 /firebase_config.json
+/fit/
+/fit/catalog.json
+/fit/index.json
 /fixtures.zip
 /flask.zip
 /flutter.zip
@@ -1689,6 +1697,9 @@
 /functions/webhook.js
 /fwc
 /fzh
+/g/
+/g/catalog.json
+/g/index.json
 /ga_credentials.json
 /gallery.zip
 /game.zip
@@ -1829,6 +1840,7 @@
 /index.html
 /index.js
 /index.js.map
+/index.json
 /index.ts
 /index.zip
 /inetpub.tar
@@ -2109,6 +2121,7 @@
 /messagebird.json
 /messages.zip
 /messages/*
+/meta/catalog.json
 /metadata/computeMetadata/v1
 /metadata/instance
 /metadata/instance/compute/
@@ -2163,6 +2176,9 @@
 /monitoring/config.yaml
 /monitoring/config.yml
 /mssql.zip
+/mu/
+/mu/catalog.json
+/mu/index.json
 /music.js
 /music.zip
 /my_env/chakaash.py
@@ -2374,6 +2390,7 @@
 /postmark_server_token.txt
 /postmark_token.txt
 /posts
+/posts.json
 /posts/*
 /pre-production.zip
 /preferences.zip
@@ -3132,6 +3149,7 @@
 /tasks.zip
 /team.zip
 /teams/*
+/tech/catalog.json
 /telegram.zip
 /telescope/requests
 /temp.tar
@@ -3273,6 +3291,8 @@
 /ux.zip
 /v/
 /v/catalog.html
+/v/catalog.json
+/v/index.json
 /v1.zip
 /v1/*
 /v1/admin/
@@ -3746,6 +3766,8 @@
 /wwwroot.zip
 /x
 /x/
+/x/catalog.json
+/x/index.json
 /xamarin.zip
 /xleet
 /xml.zip
