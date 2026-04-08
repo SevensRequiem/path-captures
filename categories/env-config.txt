@@ -505,9 +505,11 @@
 /boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 /boxes/oracle-vagrant-boxes/Kubernetes/.env
 /boxes/oracle-vagrant-boxes/OLCNE/.env
+/brevo/.env
 /bucoffea/.env
 /build/.env
 /build/.git/config
+/bulk/.env
 /campaign/.env
 /cardea/backend/.env
 /cdw-backend/.env
@@ -580,6 +582,7 @@
 /core/.git/HEAD
 /core/.git/config
 /core/.git/logs/HEAD
+/core/Database/.env
 /core/Datavase/.env
 /core/app/.env
 /core/persistence/.env
@@ -720,6 +723,7 @@
 /examples/with-universal-configuration-build-time/.env
 /exapi/.env
 /export/.env
+/express/.env
 /fastlane/.env
 /favicons/.env
 /favs/.env
@@ -760,6 +764,7 @@
 /ftp/.env
 /ftpmaster/.env
 /functions/.env
+/gateway/.env
 /gcp/.env
 /git/.git/config
 /github-connect/.env
@@ -858,12 +863,16 @@
 /magento/.env
 /mail/.env
 /mailer/.env
+/mailgun/.env
 /mailinabox/.env
+/mailing/.env
+/mailjet/.env
 /mailman/.env
 /main/.env
 /main/.git/config
 /main_user/.env
 /manage/.env
+/mandrill/.env
 /manual/.env
 /market/.env
 /market/.env.local
@@ -880,6 +889,7 @@
 /mentorg-lava-docker/.env
 /micro-app-react-communication/.env
 /micro-app-react/.env
+/microservice/.env
 /microservices/.env
 /microservices/.git/config
 /migrate/.env
@@ -904,6 +914,7 @@
 /new/.env.staging
 /new/.git/config
 /news-app/.env
+/newsletter/.env
 /next/.env
 /nextjs-app/.env
 /nginx-server/.env
@@ -917,6 +928,8 @@
 /node_modules/.env
 /nodeapi/.env
 /nodeweb/.env
+/notifications/.env
+/notify/.env
 /nuxt/.env
 /old/.env
 /old/.env.local
@@ -964,6 +977,7 @@
 /portal/.env.staging
 /post-deployment/.vscode/.env
 /postfixadmin/.env
+/postmark/.env
 /prestashop/.env
 /preview-env/.env
 /preview/.env
@@ -1026,6 +1040,7 @@
 /redmine/.env
 /register/.env
 /release/.env
+/releases/.env
 /releases/current/.env
 /repo/.env
 /repos/.env
@@ -1066,6 +1081,7 @@
 /secrets/.env
 /secure/.env
 /selfish-darling-backend/.env
+/sender/.env
 /sendgrid/.env
 /sendgrid_email/.env
 /serve-browserbench/.env
@@ -1098,6 +1114,7 @@
 /services/registry/.env
 /services/simcore/.env
 /services/traefik/.env
+/ses/.env
 /sessions/.env
 /shared/.env
 /shared/config/.env
@@ -1107,6 +1124,7 @@
 /shop/.env.production
 /shop/.env.staging
 /shop/.env/crm/.env
+/shopify/.env
 /shopware/.env
 /site-library/.env
 /site/.env
@@ -1130,6 +1148,7 @@
 /source/.env
 /sources/.env
 /sources/api/.env
+/sparkpost/.env
 /spearmint/.env
 /spikes/config-material-app/.env
 /src/.env
@@ -1176,6 +1195,7 @@
 /staging/api/.env
 /staging/backend/.env
 /staging/frontend/.env
+/staging2/.env
 /static-collected/.env
 /static-html/.env
 /static-root/.env
@@ -1265,6 +1285,7 @@
 /tmp/.git/config
 /tmp/config/.env
 /tools/.env
+/transactional/.env
 /ts/prime/.env
 /ubuntu/.env
 /ui/.env

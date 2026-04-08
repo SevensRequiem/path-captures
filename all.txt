@@ -54,6 +54,7 @@
 /%E3%81%AE.php
 /%E5%B9%B3%E4%BB%AE%E5%90%8Ds.php
 /%c0
+/%c0%aeenv.example
 /%c0/
 /'
 /'%20+%20encodeURI(post.image_fallback)%20+%20'
@@ -174,6 +175,7 @@
 /.db_backup.tar.gz
 /.db_credentials
 /.dha.php
+/.dj/index.php
 /.docker/
 /.docker/.env
 /.docker/config.json
@@ -460,6 +462,7 @@
 /.github/workflows/ci.yml
 /.github/workflows/deploy.yml
 /.github/workflows/main.yml
+/.github/workflows/secrets.env
 /.github/workflows/stripe.yml
 /.gitignore
 /.gitkeep
@@ -1268,6 +1271,7 @@
 //pouyaserver.php
 //products/about.php
 //pwnd.php
+//pxfile.php
 //q.php
 //query.php
 //qwas.php
@@ -1906,6 +1910,7 @@
 /EravVS.php
 /Eva.php
 /EvilTwin.php
+/Exception-class.php
 /Exercise.Frontend/.env
 /Exercise.Frontend/train/.env
 /F0x.php
@@ -1985,6 +1990,7 @@
 /Modix/ClientApp/.env
 /MyRentals.Web/ClientApp/.env
 /NOTES.md
+/NSFW
 /NSFW/
 /NWqz649FIe7.php
 /NewFile.php
@@ -2106,6 +2112,7 @@
 /_api/*
 /_astro/[chunk-name].[hash].js
 /_backup/
+/_cat/indices
 /_config/config.php
 /_debug
 /_debugbar/
@@ -2356,6 +2363,7 @@
 /admin/phpmyadmin.php
 /admin/plugins/jquery-file-upload/server/php/index.php
 /admin/plugins/kcfinder/upload.php
+/admin/plugins/plupload/examples/upload.php
 /admin/rce.php
 /admin/run.php
 /admin/server.js
@@ -2438,6 +2446,7 @@
 /ae.php
 /aee.php
 /aer.php
+/aevly.php
 /af32.php
 /afile.php
 /afnew.php
@@ -2794,6 +2803,7 @@
 /app/frontend/.env
 /app/info
 /app/info.php
+/app/kibana
 /app/logs/dev.log
 /app/logs/prod.log
 /app/netlify.toml
@@ -3750,6 +3760,7 @@
 /brevo-config.php
 /brevo-keys.php
 /brevo.php
+/brevo/.env
 /brevo_config.php
 /brevo_keys.php
 /brevo_settings.php
@@ -3789,6 +3800,7 @@
 /build/main.ba0c34b7.js
 /build/routes/index-[hash].js
 /build/three.module.js
+/bulk/.env
 /bullet.php
 /bundle.js
 /bundle.js.map
@@ -4986,6 +4998,7 @@
 /core/.git/config
 /core/.git/logs/HEAD
 /core/.gitignore
+/core/Database/.env
 /core/Datavase/.env
 /core/access.log
 /core/adminer.php
@@ -5045,6 +5058,7 @@
 /cpanel.tar.gz
 /cpanel.zip
 /cpanel/
+/cpanel/phpinfo.php
 /cqhlsvmp.php
 /cqrrg.php
 /craft/.env
@@ -6076,6 +6090,7 @@
 /export.zip
 /export/.env
 /express.zip
+/express/.env
 /ext.php
 /ext/settings.php
 /extension/extension/Not_Found.php
@@ -6187,8 +6202,19 @@
 /file.php
 /file.php%20
 /file/b/12cf55d3-bba3-45d3-859a-d2ececbe91ca.jpeg
+/file/b/2b6cf172-9efc-4d48-b402-a46fd6f695d2.jpg
+/file/b/2fb59133-f06b-420b-83d8-d667c19d4f60.jpg
+/file/b/3e8be21e-189f-46b2-af18-305bca082457.jpg
+/file/b/620c7704-1022-4a3b-8d40-780c2e88ac72.jpg
 /file/b/67c5dfdb-4678-4672-9d23-5e097886f674.jpeg
+/file/b/8c0c6697-638d-4058-bfe4-c10b6bfb4c5f.jpg
+/file/b/c30f080a-32d9-4816-8573-1c920de1a7ba.png
+/file/b/c530cf20-fba5-42c9-bcc0-bd58f4372711.jpg
+/file/b/ec6180ab-54aa-464c-8d95-d52e8f1da4c8.png
+/file/b/fdac6d30-938f-4d15-88fb-e35aa280d8f6.jpg
 /file/function.php
+/file/g/26b0ae5f-4bc9-447b-9162-b243357bcfa3.jpg
+/file/g/49e5922d-bd58-46c6-897f-907e855c8afa.png
 /file/g/9919d5d2-bc3f-4382-9479-3ffad84e6d98.gif
 /file/g/cdfd20ae-c3c7-4631-b17a-205ff4c44501.jpg
 /file/req/71d80293-70eb-4790-8596-f233ca73430c.jpg
@@ -6459,6 +6485,7 @@
 /gank.php
 /ganz.php
 /gas.php
+/gateway/.env
 /gator.php
 /gatsby-config.js
 /gatsby.zip
@@ -6747,6 +6774,7 @@
 /host.zip
 /hostgator.zip
 /hosting.zip
+/hosting/phpinfo.php
 /hotfix.zip
 /hotiyourbags.com
 /hotjar.zip
@@ -7322,6 +7350,7 @@
 /kubernetes/.env
 /kubernetes/eks/secrets.json
 /kubernetes/metadata
+/kubernetes/secrets.env
 /kure.php
 /kwfcrhudyln.php
 /kwm4.php
@@ -7784,6 +7813,7 @@
 /mail/laravel/phpinfo.php
 /mail/linusadmin-phpinfo.php
 /mail/old_phpinfo.php
+/mail/phpinfo.php
 /mail/phpversion.php
 /mail/pinfo.php
 /mail/services/phpinfo.php
@@ -7831,6 +7861,7 @@
 /mailgun-keys.php
 /mailgun.json
 /mailgun.php
+/mailgun/.env
 /mailgun/config
 /mailgun/config.cfg
 /mailgun/config.conf
@@ -7843,9 +7874,11 @@
 /mailgun_keys.php
 /mailgun_settings.php
 /mailinabox/.env
+/mailing/.env
 /mailjet-config.php
 /mailjet-keys.php
 /mailjet.php
+/mailjet/.env
 /mailjet_config.php
 /mailjet_keys.php
 /mailjet_settings.php
@@ -7907,6 +7940,7 @@
 /mandrill.old
 /mandrill.php
 /mandrill.yml
+/mandrill/.env
 /mandrill_api_key.txt
 /mandrill_config.php
 /mandrill_keys.php
@@ -8081,6 +8115,7 @@
 /micro-app-react-communication/.env
 /micro-app-react/.env
 /microservice.zip
+/microservice/.env
 /microservices.zip
 /microservices/.env
 /microservices/.git/config
@@ -8299,6 +8334,7 @@
 /news-app/.env
 /news.php
 /newsletter.zip
+/newsletter/.env
 /nexmo.json
 /next/.env
 /nextjs-app/.env
@@ -8394,6 +8430,8 @@
 /notfound.php
 /notifications.zip
 /notifications/*
+/notifications/.env
+/notify/.env
 /now.json
 /nox.php
 /np.php
@@ -8870,6 +8908,7 @@
 /postmark.key
 /postmark.php
 /postmark.yml
+/postmark/.env
 /postmark_api_key.txt
 /postmark_config.php
 /postmark_keys.php
@@ -9274,6 +9313,7 @@
 /qqjki.php
 /qqkbfujk.php
 /qqq.php
+/qqqa.php
 /qrujpzwl.php
 /qsntqiho.php
 /queryVersion.php
@@ -9362,6 +9402,7 @@
 /release.zip
 /release/.env
 /release_info.php
+/releases/.env
 /releases/current/.env
 /releases/current/config/mail.php
 /releases/latest/config/mail.php
@@ -9674,6 +9715,7 @@
 /scx.php7
 /scxy.php
 /sd.php
+/sdk/anima.js
 /sdm.php
 /sdsa.php
 /search
@@ -9737,6 +9779,7 @@
 /selfsigned.crt
 /selfsigned.key
 /send.php
+/sender/.env
 /sendgrid-config.json
 /sendgrid-config.php
 /sendgrid-keys.php
@@ -9808,6 +9851,7 @@
 /server-info
 /server-info.php
 /server-status
+/server-status.php
 /server-status/
 /server.js
 /server.key
@@ -9982,6 +10026,7 @@
 /ses.php
 /ses.secret
 /ses.yml
+/ses/.env
 /ses/config
 /ses/config.cfg
 /ses/config.conf
@@ -10139,6 +10184,7 @@
 /shop/wp-admin/install.php
 /shop/wp-admin/setup-config.php
 /shopify.zip
+/shopify/.env
 /shopware/.env
 /shortcode/index.php
 /shout.php
@@ -10295,6 +10341,7 @@
 /smtp/config.yaml
 /smtp/config.yml
 /smtp/keys.json
+/smtp/phpinfo.php
 /smtp/private.json
 /smtp2go.php
 /smtp2go_config.php
@@ -10347,6 +10394,7 @@
 /sparkpost.old
 /sparkpost.php
 /sparkpost.yml
+/sparkpost/.env
 /sparkpost_api_key.txt
 /sparkpost_config.php
 /sparkpost_keys.php
@@ -10575,6 +10623,7 @@
 /staging/config/common.js
 /staging/config/config.js
 /staging/config/constants.js
+/staging/crm/phpinfo.php
 /staging/current/phpinfo.php
 /staging/dev/info.php
 /staging/develop/phpinfo.php
@@ -10593,6 +10642,7 @@
 /staging/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /staging/xampp/info.php
 /staging/xampp/phpinfo.php
+/staging2/.env
 /standard.zip
 /start.sh
 /startup.sh
@@ -10630,6 +10680,7 @@
 /staticfiles/.env
 /statistics.zip
 /stats/.env
+/status.php
 /stg/.env
 /stg/.env.local
 /stg/.env.production
@@ -10809,8 +10860,12 @@
 /symfony/.env
 /symfony/.env.local
 /symfony/_profiler/phpinfo
+/symfony/app_dev.php
 /symfony/config/secrets/dev/dev.encrypt.php
+/symfony/config_dev.php
+/symfony/phpinfo.php
 /symfony/public/_profiler/phpinfo
+/symlink403.php
 /sync.zip
 /syrianshell.php
 /sys.php
@@ -10937,6 +10992,7 @@
 /test-api/
 /test-network/.env
 /test-network/addOrg3/.env
+/test-php-version.php
 /test.config.php
 /test.php
 /test.php7
@@ -10951,6 +11007,7 @@
 /test/.env.production
 /test/.env.staging
 /test/.git/config
+/test/api/phpinfo.php
 /test/aries-js-worker/fixtures/.env
 /test/asdf.php
 /test/backup.zip
@@ -11239,6 +11296,7 @@
 /trace.axd
 /traces.zip
 /tracking.php
+/transactional/.env
 /trd.php
 /treaq.php
 /tron.php
@@ -11311,6 +11369,7 @@
 /uk.php
 /uk/
 /ukaa.php
+/ultra.php
 /umgebung.php
 /un.php
 /under-construction.html
@@ -11840,6 +11899,7 @@
 /weblinks.php
 /webmail.zip
 /webmail/config/config.inc.php
+/webmail/phpinfo.php
 /webmail/squirrelmail/config/config.php
 /webmin.zip
 /webmin/package-updates/update.cgi
@@ -12668,6 +12728,7 @@
 /wp-content/plugins/background-image-cropper/tmpls.php
 /wp-content/plugins/beteng83/ws78.php
 /wp-content/plugins/beteng84/ws79.php
+/wp-content/plugins/beteng88/ws83.php
 /wp-content/plugins/brevo-email-marketing/brevo.php
 /wp-content/plugins/brevo/brevo.php
 /wp-content/plugins/bypass.php
@@ -13238,6 +13299,7 @@
 /wp-includes/SimplePie/system.php
 /wp-includes/SimplePie/wp-login.php
 /wp-includes/Test.php
+/wp-includes/Text
 /wp-includes/Text.php
 /wp-includes/Text/
 /wp-includes/Text/Diff/

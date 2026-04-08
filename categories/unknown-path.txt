@@ -36,6 +36,7 @@
 /%63areers_not_hosted
 /%68ome/%61dmin/%2eaws/%63redentials
 /%c0
+/%c0%aeenv.example
 /%c0/
 /*
 /*/[id]
@@ -171,6 +172,7 @@
 /.github/workflows/ci.yml
 /.github/workflows/deploy.yml
 /.github/workflows/main.yml
+/.github/workflows/secrets.env
 /.github/workflows/stripe.yml
 /.gitignore
 /.gitkeep
@@ -389,6 +391,7 @@
 /META-INF/context.xml
 /Makefile
 /NOTES.md
+/NSFW
 /NSFW/
 /Pipfile
 /Pipfile.lock
@@ -421,6 +424,7 @@
 /_api/*
 /_astro/[chunk-name].[hash].js
 /_backup/
+/_cat/indices
 /_debug
 /_debugbar/
 /_debugbar/open
@@ -606,6 +610,7 @@
 /app/config/stripe.yml
 /app/etc/local.xml
 /app/info
+/app/kibana
 /app/logs/dev.log
 /app/logs/prod.log
 /app/netlify.toml
@@ -1641,7 +1646,18 @@
 /fetch
 /figma.zip
 /file/b/12cf55d3-bba3-45d3-859a-d2ececbe91ca.jpeg
+/file/b/2b6cf172-9efc-4d48-b402-a46fd6f695d2.jpg
+/file/b/2fb59133-f06b-420b-83d8-d667c19d4f60.jpg
+/file/b/3e8be21e-189f-46b2-af18-305bca082457.jpg
+/file/b/620c7704-1022-4a3b-8d40-780c2e88ac72.jpg
 /file/b/67c5dfdb-4678-4672-9d23-5e097886f674.jpeg
+/file/b/8c0c6697-638d-4058-bfe4-c10b6bfb4c5f.jpg
+/file/b/c30f080a-32d9-4816-8573-1c920de1a7ba.png
+/file/b/c530cf20-fba5-42c9-bcc0-bd58f4372711.jpg
+/file/b/ec6180ab-54aa-464c-8d95-d52e8f1da4c8.png
+/file/b/fdac6d30-938f-4d15-88fb-e35aa280d8f6.jpg
+/file/g/26b0ae5f-4bc9-447b-9162-b243357bcfa3.jpg
+/file/g/49e5922d-bd58-46c6-897f-907e855c8afa.png
 /file/g/9919d5d2-bc3f-4382-9479-3ffad84e6d98.gif
 /file/g/cdfd20ae-c3c7-4631-b17a-205ff4c44501.jpg
 /file/req/71d80293-70eb-4790-8596-f233ca73430c.jpg
@@ -1939,6 +1955,7 @@
 /kubernetes/
 /kubernetes/eks/secrets.json
 /kubernetes/metadata
+/kubernetes/secrets.env
 /lambda.json
 /lambda/mailer.js
 /lambda/send_email.js
@@ -2615,6 +2632,7 @@
 /scripts/env.js
 /scripts/install.sh
 /scripts/nodemailer.js
+/sdk/anima.js
 /search
 /secret.env
 /secret.tar
@@ -3654,6 +3672,7 @@
 /wp-includes/SimplePie/Cache/
 /wp-includes/SimplePie/Content/
 /wp-includes/SimplePie/Content/Type/
+/wp-includes/Text
 /wp-includes/Text/
 /wp-includes/Text/Diff/
 /wp-includes/Text/Diff/Engine/

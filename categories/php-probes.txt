@@ -13,6 +13,7 @@
 /.bod/.ll/ss.php
 /.conf.php
 /.dha.php
+/.dj/index.php
 /.env.local.php
 /.env.local.php.bak
 /.env.php
@@ -654,6 +655,7 @@
 //pouyaserver.php
 //products/about.php
 //pwnd.php
+//pxfile.php
 //q.php
 //query.php
 //qwas.php
@@ -1166,6 +1168,7 @@
 /EravVS.php
 /Eva.php
 /EvilTwin.php
+/Exception-class.php
 /F0x.php
 /F1.php
 /F19.php
@@ -1429,6 +1432,7 @@
 /admin/phpmyadmin.php
 /admin/plugins/jquery-file-upload/server/php/index.php
 /admin/plugins/kcfinder/upload.php
+/admin/plugins/plupload/examples/upload.php
 /admin/rce.php
 /admin/run.php
 /admin/server/php/index.php
@@ -1483,6 +1487,7 @@
 /ae.php
 /aee.php
 /aer.php
+/aevly.php
 /af32.php
 /afile.php
 /afnew.php
@@ -2935,6 +2940,7 @@
 /coverme.php
 /cp.php
 /cpanel.php
+/cpanel/phpinfo.php
 /cqhlsvmp.php
 /cqrrg.php
 /credential.php
@@ -3956,6 +3962,7 @@
 /horde/imp/config/backends.php
 /horde/imp/config/conf.php
 /horeg.php
+/hosting/phpinfo.php
 /hots.php
 /hplfuns.php
 /hplsmbly.php
@@ -4638,6 +4645,7 @@
 /mail/laravel/phpinfo.php
 /mail/linusadmin-phpinfo.php
 /mail/old_phpinfo.php
+/mail/phpinfo.php
 /mail/phpversion.php
 /mail/pinfo.php
 /mail/services/phpinfo.php
@@ -5514,6 +5522,7 @@
 /qqjki.php
 /qqkbfujk.php
 /qqq.php
+/qqqa.php
 /qrujpzwl.php
 /qsntqiho.php
 /queryVersion.php
@@ -5729,6 +5738,7 @@
 /seoplugins/index.php
 /seotheme/mar.php
 /server-info.php
+/server-status.php
 /server.php
 /server/api/info.php
 /server/asdf.php
@@ -5936,6 +5946,7 @@
 /smilies/index.php
 /smtp-config.php
 /smtp.php
+/smtp/phpinfo.php
 /smtp2go.php
 /smtp2go_config.php
 /smtp2go_keys.php
@@ -6039,6 +6050,7 @@
 /staging.php
 /staging/api/phpinfo.php
 /staging/backup/phpinfo.php
+/staging/crm/phpinfo.php
 /staging/current/phpinfo.php
 /staging/dev/info.php
 /staging/develop/phpinfo.php
@@ -6056,6 +6068,7 @@
 /staging/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /staging/xampp/info.php
 /staging/xampp/phpinfo.php
+/status.php
 /stg/api/info.php
 /stg/current/info.php
 /stg/dashboard/phpinfo.php
@@ -6117,7 +6130,11 @@
 /syg.php
 /sym.php
 /sym403.php
+/symfony/app_dev.php
 /symfony/config/secrets/dev/dev.encrypt.php
+/symfony/config_dev.php
+/symfony/phpinfo.php
+/symlink403.php
 /syrianshell.php
 /sys.php
 /system.php
@@ -6185,9 +6202,11 @@
 /tesTyuj.php
 /tesla.php
 /teslav.php
+/test-php-version.php
 /test.config.php
 /test.php
 /test.php7
+/test/api/phpinfo.php
 /test/asdf.php
 /test/backup/phpinfo.php
 /test/crm/info.php
@@ -6435,6 +6454,7 @@
 /ui.php
 /uk.php
 /ukaa.php
+/ultra.php
 /umgebung.php
 /un.php
 /unfrnd.php
@@ -6721,6 +6741,7 @@
 /webhooks/stripe_events.php
 /weblinks.php
 /webmail/config/config.inc.php
+/webmail/phpinfo.php
 /webmail/squirrelmail/config/config.php
 /webroot.php
 /webroot/index.php/_environment
@@ -7333,6 +7354,7 @@
 /wp-content/plugins/background-image-cropper/tmpls.php
 /wp-content/plugins/beteng83/ws78.php
 /wp-content/plugins/beteng84/ws79.php
+/wp-content/plugins/beteng88/ws83.php
 /wp-content/plugins/brevo-email-marketing/brevo.php
 /wp-content/plugins/brevo/brevo.php
 /wp-content/plugins/bypass.php
