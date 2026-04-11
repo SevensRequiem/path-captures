@@ -270,6 +270,7 @@
 /.well-known
 /.well-known/
 /.well-known/acme-challenge/
+/.well-known/acme-challenge/block-supports/
 /.well-known/discord
 /.well-known/pki-validation/
 /.well-known/security.txt
@@ -434,6 +435,7 @@
 /_debugbar/open
 /_dev
 /_environment
+/_git/config
 /_ignition/
 /_ignition/execute-solution
 /_layouts/*
@@ -1754,6 +1756,7 @@
 /gists/laravel
 /gists/pusher
 /git.zip
+/git/config
 /github_oauth.json
 /gitlab-ci.yml
 /global.zip
@@ -3244,6 +3247,7 @@
 /themes.zip
 /themes/tenant/css/purple-login.css
 /threads/*
+/thumb/3b6e9702-4b45-46a0-b796-88d8d498870b.jpg
 /thumb/Fin/68ee474beae18aac2d69321b
 /thumb/mu/680a6cd23c4322da8bf78b40
 /tiktok.zip
@@ -3612,8 +3616,10 @@
 /wp-content/plugins.zip
 /wp-content/plugins/
 /wp-content/plugins/WordPressCore/
+/wp-content/plugins/classic-editor
 /wp-content/plugins/erinyani/
 /wp-content/plugins/hello-dolly/
+/wp-content/plugins/ninja-forms-uploads/assets/js/nfpluginsettings.js
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/phpinfo
 /wp-content/plugins/profile-builder/readme.txt
@@ -3629,6 +3635,7 @@
 /wp-content/themes/
 /wp-content/themes/classic/inc/
 /wp-content/themes/sendgrid_keys.json
+/wp-content/themes/twentythirteen/
 /wp-content/themes/twentytwentyfour/
 /wp-content/updraft.tar
 /wp-content/updraft.tar.gz
@@ -3695,9 +3702,11 @@
 /wp-includes/SimplePie/
 /wp-includes/SimplePie/Cache/
 /wp-includes/SimplePie/Content/
+/wp-includes/SimplePie/Content/Type
 /wp-includes/SimplePie/Content/Type/
 /wp-includes/Text
 /wp-includes/Text/
+/wp-includes/Text/Diff
 /wp-includes/Text/Diff/
 /wp-includes/Text/Diff/Engine/
 /wp-includes/Text/Diff/Engine/Engine/

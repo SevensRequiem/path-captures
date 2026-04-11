@@ -292,6 +292,8 @@
 /:8080/.env
 /:8081/.env
 /:8443/.env
+/@fs/.git/config
+/@fs/app/.git/config
 /@fs/var/www/strapi-backend/.env
 /ADMIN/.env
 /API/.env
