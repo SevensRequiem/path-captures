@@ -490,6 +490,7 @@
 /actuator/
 /actuator/env
 /actuator/health
+/actuator/heapdump
 /actuator/info
 /admin
 /admin-api/
@@ -870,6 +871,7 @@
 /backup.rar
 /backup.ses.json
 /backup.sh
+/backup.sql.gz
 /backup.sql.tar
 /backup.sql.tar.gz
 /backup.sql.zip
@@ -1392,6 +1394,7 @@
 /data.zip
 /data/admin/allowurl.txt
 /data/aws/credentials
+/datab
 /database-backup.tar
 /database-backup.tar.gz
 /database-backup.zip
@@ -1648,6 +1651,7 @@
 /fastly.json
 /favicon-32x32.png
 /favicon.ico
+/favicon.png
 /fb
 /feature.zip
 /feature_flags.json
@@ -1866,11 +1870,18 @@
 /images/01.jpg
 /images/stories/
 /imap.zip
+/img/67e4b9b336eb8c3916fe2bd7
 /img/67e4b9b336eb8c3916fe2bdd
+/img/67e4b9b336eb8c3916fe2be8
+/img/67e4b9b436eb8c3916fe2c0f
+/img/67e4b9b436eb8c3916fe2c13
+/img/683d9d52de874c2df237a561
+/img/683d9db4de874c2df237a569
 /img/683e20acde874c2df237a592
 /img/684ce3cbdda416072ef65c4a
 /img/68507e601764a789a5b3687b
 /img/689e441b770bf9ef1d418fb3
+/img/68a08556770bf9ef1d41946d
 /img/68b0ec66699f34a48c95e00a
 /img/wp-admin/
 /imgix.json
@@ -2131,6 +2142,7 @@
 /manage/*
 /manage/env
 /management.zip
+/management/heapdump
 /manager.zip
 /mandrill-config.json
 /mandrill.conf
@@ -2276,6 +2288,7 @@
 /npm-debug.log
 /npm.zip
 /nsfw
+/nsfw/
 /nuxtjs.zip
 /oauth.json
 /oauth.zip
@@ -3829,6 +3842,7 @@
 /x/index.json
 /xamarin.zip
 /xleet
+/xleet/
 /xml.zip
 /xmlrpc.tar
 /xmlrpc.tar.gz
