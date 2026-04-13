@@ -59,6 +59,7 @@
 /.env.craft
 /.env.credentials
 /.env.current
+/.env.debug
 /.env.default
 /.env.demo
 /.env.deploy
@@ -151,6 +152,7 @@
 /.env.stripe.local
 /.env.stripe.production
 /.env.stripe.test
+/.env.suspected
 /.env.swo
 /.env.swp
 /.env.tar

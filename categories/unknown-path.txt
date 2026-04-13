@@ -320,6 +320,7 @@
 //wp1/wp-includes/wlwmanifest.xml
 //wp2/wp-includes/wlwmanifest.xml
 /1
+/1.gif
 /169.254.169.254/latest/meta-data/
 /169.254.169.254/latest/meta-data/ami-id
 /169.254.169.254/latest/meta-data/hostname
@@ -998,6 +999,7 @@
 /blog.tar.gz
 /blog.zip
 /blog/[year]/[month]/[slug]
+/blogroll
 /bluehost.zip
 /boards.json
 /boot.zip
@@ -1714,6 +1716,9 @@
 /form/*
 /fr
 /fr/*
+/friend
+/friends
+/friends/
 /frontend/js/env.js
 /frontend/web/debug/default/view
 /ftp-config.json
@@ -1847,6 +1852,7 @@
 /https%3A/www.youtube.com/%40SevensRequiem
 /https%3A/x.com/sevensrequiem
 /https://achan.moe/
+/hu/
 /hugo.zip
 /humans.txt
 /iam/ses_policy.json
@@ -1873,8 +1879,12 @@
 /img/67e4b9b336eb8c3916fe2bd7
 /img/67e4b9b336eb8c3916fe2bdd
 /img/67e4b9b336eb8c3916fe2be8
+/img/67e4b9b336eb8c3916fe2bf5
+/img/67e4b9b336eb8c3916fe2bfb
 /img/67e4b9b436eb8c3916fe2c0f
 /img/67e4b9b436eb8c3916fe2c13
+/img/683c730b3f039181a43fb03f
+/img/683d9d18de874c2df237a55f
 /img/683d9d52de874c2df237a561
 /img/683d9db4de874c2df237a569
 /img/683e20acde874c2df237a592
@@ -1882,7 +1892,9 @@
 /img/68507e601764a789a5b3687b
 /img/689e441b770bf9ef1d418fb3
 /img/68a08556770bf9ef1d41946d
+/img/68a4f41fccbdb86f6405c5e7
 /img/68b0ec66699f34a48c95e00a
+/img/68b82a00b1e4617e1104d260
 /img/wp-admin/
 /imgix.json
 /import.zip
@@ -2032,7 +2044,10 @@
 /license.key
 /license.txt
 /license.zip
+/link
 /linkedin.zip
+/links
+/links/
 /linode.zip
 /live.tar
 /live.tar.gz
@@ -3264,6 +3279,7 @@
 /thumb/Fin/68ee474beae18aac2d69321b
 /thumb/mu/680a6cd23c4322da8bf78b40
 /tiktok.zip
+/tiny
 /tls.zip
 /tmp.tar
 /tmp.tar.gz
@@ -3781,6 +3797,7 @@
 /wp-includes/wp-includes/
 /wp-json/
 /wp-json/oembed/1.0/embed
+/wp-json/wc/store/cart
 /wp-json/wc/v2/payment_gateways
 /wp-json/wc/v3/payment_gateways
 /wp-json/wc/v3/settings/checkout
