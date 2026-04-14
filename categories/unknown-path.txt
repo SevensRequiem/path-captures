@@ -360,6 +360,8 @@
 /@vite/env
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
+/ALFA_DATA/alfacgiapi/perl.alfa
+/ALFA_DATA/alfacgiapi/perl.alfa%22
 /API.md
 /API/common.js
 /API/config.js
@@ -512,6 +514,7 @@
 /admin/controllers/merchant.js
 /admin/controllers/partner.js
 /admin/db.conf
+/admin/debug/default/view
 /admin/editor/
 /admin/fckeditor/editor/filemanager/
 /admin/images/slider/
@@ -853,6 +856,8 @@
 /backend/sendgrid.js
 /backend/sparkpost.js
 /backend/stripe.js
+/backend/web/debug/default/view
+/backup
 /backup-2024.tar
 /backup-2024.tar.gz
 /backup-2024.zip
@@ -1093,6 +1098,7 @@
 /cloudinary.json
 /cloudinary_url.txt
 /cloudwatch.json
+/cms
 /cms.tar
 /cms.tar.gz
 /cms/*
@@ -1287,6 +1293,7 @@
 /config/stripe.js
 /config/stripe.json
 /config/stripe.production.json
+/config/stripe.rb
 /config/stripe.ts
 /config/stripe.yaml
 /config/stripe.yml
@@ -1383,6 +1390,7 @@
 /cron.sh
 /cron.zip
 /css.phphmgm.ir
+/css/ALFA_DATA/alfacgiapi/perl.alfa
 /current.tar
 /current.tar.gz
 /current.zip
@@ -1428,6 +1436,8 @@
 /db-dump.tar
 /db-dump.tar.gz
 /db-dump.zip
+/db.sqlite
+/db.sqlite3
 /db.tar
 /db.tar.gz
 /db.yaml
@@ -1497,6 +1507,7 @@
 /deployment/config.yml
 /design.zip
 /designs.zip
+/dev
 /dev-api/
 /dev.tar
 /dev.tar.gz
@@ -1696,6 +1707,7 @@
 /files.tar.gz
 /files.zip
 /files/
+/files/ALFA_DATA/alfacgiapi/perl.alfa
 /filezilla.xml
 /fin/
 /fin/catalog.html
@@ -1750,6 +1762,7 @@
 /g/index.json
 /ga_credentials.json
 /gallery.zip
+/game.html
 /game.zip
 /gamemaker.zip
 /games.zip
@@ -1874,9 +1887,13 @@
 /images.zip
 /images/
 /images/01.jpg
+/images/ALFA_DATA/alfacgiapi/perl.alfa
 /images/stories/
 /imap.zip
+/img/67e4b9b336eb8c3916fe2bb9
+/img/67e4b9b336eb8c3916fe2bd3
 /img/67e4b9b336eb8c3916fe2bd7
+/img/67e4b9b336eb8c3916fe2bdb
 /img/67e4b9b336eb8c3916fe2bdd
 /img/67e4b9b336eb8c3916fe2be8
 /img/67e4b9b336eb8c3916fe2bf5
@@ -1888,11 +1905,14 @@
 /img/683d9d52de874c2df237a561
 /img/683d9db4de874c2df237a569
 /img/683e20acde874c2df237a592
+/img/68479ef8e1df1b4912a919ef
 /img/684ce3cbdda416072ef65c4a
 /img/68507e601764a789a5b3687b
 /img/689e441b770bf9ef1d418fb3
 /img/68a08556770bf9ef1d41946d
 /img/68a4f41fccbdb86f6405c5e7
+/img/68a9786b699f34a48c95cd46
+/img/68aaa2ea699f34a48c95cffe
 /img/68b0ec66699f34a48c95e00a
 /img/68b82a00b1e4617e1104d260
 /img/wp-admin/
@@ -2068,6 +2088,7 @@
 /login.action
 /login.zip
 /login/
+/login/discord
 /logrocket.zip
 /logs.sh
 /logs.tar
@@ -2130,6 +2151,7 @@
 /mailgun/config.yaml
 /mailgun/config.yml
 /mailgun_api_key.txt
+/main
 /main-TDTOTK7F.js
 /main-WTCAS2AO.js
 /main-es2015.3c3aa123423ff18c0b00.js
@@ -2286,6 +2308,7 @@
 /newrelic.ini
 /newrelic.yml
 /newrelic.zip
+/newsite
 /newsletter.zip
 /nexmo.json
 /nextjs.zip
@@ -2313,6 +2336,7 @@
 /oauth2.json
 /oauth_credentials.json
 /okta.json
+/old
 /old.tar
 /old.tar.gz
 /old.zip
@@ -2568,6 +2592,7 @@
 /redis_password.txt
 /redis_url.txt
 /register
+/register/
 /release-candidate.zip
 /release.tar
 /release.tar.gz
@@ -2946,6 +2971,7 @@
 /site_backup.tar.gz
 /site_backup.zip
 /siteground.zip
+/sitemap
 /sitemap-index.xml
 /sitemap.txt
 /sitemap.xml
@@ -3134,6 +3160,7 @@
 /storage/keys/sendgrid.key
 /storage/keys/sparkpost.key
 /storage/keys/stripe.json
+/storage/logs/
 /storage/logs/laravel.log
 /storage/logs/payment.log
 /storage/logs/payments.log
@@ -3208,6 +3235,7 @@
 /swagger/v1/swagger.json
 /symfony.zip
 /symfony/_profiler/phpinfo
+/symfony/public
 /symfony/public/_profiler/phpinfo
 /sync.zip
 /sys.zip
@@ -3217,6 +3245,7 @@
 /system/config
 /t/
 /t1
+/t1/
 /t1/assets/load/p.mp3
 /tasks.zip
 /team.zip
@@ -3303,11 +3332,13 @@
 /tmp/logs
 /tmp/sessions/
 /tmp/stripe.config
+/tmp_images/alfacgiapi/perl.alfa
 /token
 /token.txt
 /tokens.json
 /tokens.zip
 /toml.zip
+/tools
 /tools.zip
 /tox.ini
 /trace.axd
@@ -3571,10 +3602,13 @@
 /wp-2025.tar
 /wp-2025.tar.gz
 /wp-2025.zip
+/wp-admin
 /wp-admin.tar
 /wp-admin.tar.gz
 /wp-admin.zip
 /wp-admin/
+/wp-admin/ALFA_DATA/alfacgiapi/perl.alfa
+/wp-admin/alfacgiapi/perl.alfa
 /wp-admin/css/
 /wp-admin/css/colors
 /wp-admin/css/colors/
@@ -3610,9 +3644,11 @@
 /wp-content.tar.gz
 /wp-content.zip
 /wp-content/
+/wp-content/ALFA_DATA/alfacgiapi/perl.alfa
 /wp-content/ai1wm-backups.tar
 /wp-content/ai1wm-backups.tar.gz
 /wp-content/ai1wm-backups.zip
+/wp-content/alfacgiapi/perl.alfa
 /wp-content/backup-db.tar
 /wp-content/backup-db.tar.gz
 /wp-content/backup-db.zip
@@ -3740,6 +3776,7 @@
 /wp-includes/Text/Diff/Engine/
 /wp-includes/Text/Diff/Engine/Engine/
 /wp-includes/Text/Diff/Renderer/
+/wp-includes/alfacgiapi/perl.alfa
 /wp-includes/assets/
 /wp-includes/block-bindings/
 /wp-includes/block-patterns/
@@ -3872,6 +3909,7 @@
 /yarn.zip
 /yml.zip
 /youtube.zip
+/zoo
 /zz-nonexistent-test-8492.html
 /~/.aws/config
 /~/.aws/credentials

@@ -440,6 +440,7 @@
 /.git/objects/info/packs
 /.git/objects/pack
 /.git/objects/pack/
+/.git/objects/pack/pack-*.idx
 /.git/packed-refs
 /.git/refs
 /.git/refs/
@@ -1882,6 +1883,8 @@
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
 /ALFA_DATA/alfacgiapi/all.php
+/ALFA_DATA/alfacgiapi/perl.alfa
+/ALFA_DATA/alfacgiapi/perl.alfa%22
 /ALFA_DATA/autoload_classmap.php
 /ALFA_DATA/index.php
 /API.md
@@ -2026,6 +2029,7 @@
 /Gemfile.lock
 /Good.php
 /Gruntfile.js
+/Guestbook.php
 /HFouA3MLd2N.php
 /HLA-dd.php
 /HMsWbETGNfn.php
@@ -2333,6 +2337,7 @@
 /about/function.php%20
 /about/goods.php
 /about/install.php
+/about/leadership.php
 /about/wp-conflg.php
 /about0077.php
 /about2.php
@@ -2463,6 +2468,7 @@
 /admin/db.sql
 /admin/db_dump.php
 /admin/debug.php
+/admin/debug/default/view
 /admin/dologin.php
 /admin/dump.sql
 /admin/editor/
@@ -2583,6 +2589,7 @@
 /ah24.php
 /ah25
 /ah25.php
+/ahaoi.php
 /ahax.php
 /ahda.php
 /ahiqq.php
@@ -3448,7 +3455,9 @@
 /backend/src/.env
 /backend/stripe.js
 /backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/backend/web/debug/default/view
 /backendfinaltest/.env
+/backup
 /backup-2024.tar
 /backup-2024.tar.gz
 /backup-2024.zip
@@ -3826,6 +3835,7 @@
 /blog/wp-admin/about.php
 /blog/wp-admin/install.php
 /blog/wp-admin/setup-config.php
+/blog/wp-config.php
 /blog/wp-content/about.php
 /blog/wp-content/themes/.git/config
 /blog/wp-includes/about.php
@@ -3857,6 +3867,7 @@
 /bolt.php
 /boltt.php
 /bonita76.php
+/book.php
 /bookchain-client/.env
 /boom.php
 /boot.zip
@@ -4301,6 +4312,7 @@
 /cmd/api/stripe.go
 /cmd/testdata/expected/dot_env/.env
 /cmd2.php
+/cms
 /cms.php
 /cms.tar
 /cms.tar.gz
@@ -5020,6 +5032,7 @@
 /config/stripe.json
 /config/stripe.php
 /config/stripe.production.json
+/config/stripe.rb
 /config/stripe.ts
 /config/stripe.yaml
 /config/stripe.yml
@@ -5331,6 +5344,7 @@
 /css.phphmgm.ir
 /css/.env
 /css/000.php
+/css/ALFA_DATA/alfacgiapi/perl.alfa
 /css/about.php
 /css/admin.php
 /css/adminfus.php
@@ -5508,6 +5522,8 @@
 /db.php
 /db.php.bak
 /db.sql
+/db.sqlite
+/db.sqlite3
 /db.tar
 /db.tar.gz
 /db.yaml
@@ -5738,6 +5754,7 @@
 /design.zip
 /designs.zip
 /detail.php
+/dev
 /dev-api/
 /dev-env/.env
 /dev.php
@@ -6331,6 +6348,7 @@
 /fc72f.php
 /fck.php
 /fclas.php
+/fcnlp.php
 /fcr.php
 /fde.php
 /fe/.env
@@ -6480,6 +6498,7 @@
 /files.zip
 /files/
 /files/.env
+/files/ALFA_DATA/alfacgiapi/perl.alfa
 /files/autoload_classmap.php
 /files/berlin.php
 /files/index.php
@@ -6690,18 +6709,21 @@
 /g9qam3.php
 /ga.php
 /ga_credentials.json
+/gaestebuch.php
 /gaewowp.php
 /gaigu.php
 /gaje.php
 /galex.php
 /gallery.php
 /gallery.zip
+/game.html
 /game.zip
 /gamemaker.zip
 /games.zip
 /gank.php
 /ganz.php
 /gas.php
+/gastenboek.php
 /gateway/.env
 /gator.php
 /gatsby-config.js
@@ -6710,6 +6732,7 @@
 /gaya.php
 /gaza.php
 /gazashell.php
+/gb.php
 /gcloud.json
 /gcp-credentials.json
 /gcp/.env
@@ -6842,6 +6865,7 @@
 /gtc.php
 /gtm.zip
 /gu.php
+/guestbook.php
 /guide.zip
 /guk.php
 /gulpfile.js
@@ -7110,6 +7134,7 @@
 /images/.env
 /images/01.jpg
 /images/2008.php
+/images/ALFA_DATA/alfacgiapi/perl.alfa
 /images/DJP9.php
 /images/F0x.php
 /images/Marvins.php
@@ -7173,7 +7198,10 @@
 /img.php
 /img/.env
 /img//classwithtostring.php
+/img/67e4b9b336eb8c3916fe2bb9
+/img/67e4b9b336eb8c3916fe2bd3
 /img/67e4b9b336eb8c3916fe2bd7
+/img/67e4b9b336eb8c3916fe2bdb
 /img/67e4b9b336eb8c3916fe2bdd
 /img/67e4b9b336eb8c3916fe2be8
 /img/67e4b9b336eb8c3916fe2bf5
@@ -7185,11 +7213,14 @@
 /img/683d9d52de874c2df237a561
 /img/683d9db4de874c2df237a569
 /img/683e20acde874c2df237a592
+/img/68479ef8e1df1b4912a919ef
 /img/684ce3cbdda416072ef65c4a
 /img/68507e601764a789a5b3687b
 /img/689e441b770bf9ef1d418fb3
 /img/68a08556770bf9ef1d41946d
 /img/68a4f41fccbdb86f6405c5e7
+/img/68a9786b699f34a48c95cd46
+/img/68aaa2ea699f34a48c95cffe
 /img/68b0ec66699f34a48c95e00a
 /img/68b82a00b1e4617e1104d260
 /img/about.php
@@ -7257,6 +7288,7 @@
 /index.old.php
 /index.php
 /index.php/ci_environment
+/index.php/component/users/
 /index.php/login
 /index.php/module/action/param1/$%7B@print%28env%29%7D
 /index.php/phpinfo
@@ -7442,6 +7474,7 @@
 /java.php
 /java.zip
 /javascript/.env
+/jax_guestbook.php
 /jb33.php
 /jbuft.php
 /jcrop/jcrop.php
@@ -7759,6 +7792,7 @@
 /lclnqiii.php
 /lcomernbootcamp/projbackend/.env
 /le_connector/connector.php
+/leadership.php
 /leaf.php
 /leafer-app/.env
 /leafmailer.php
@@ -7988,6 +8022,7 @@
 /login.zip
 /login/
 /login/.env
+/login/discord
 /login/index.php
 /login8.php
 /login_up.php
@@ -8077,6 +8112,7 @@
 /lyns.php
 /lzmelu.php
 /m.php
+/m57.php
 /mI35rZhMg1zJ1vuXdefault.php
 /ma.php
 /maa.php
@@ -8192,6 +8228,7 @@
 /mailjet_keys.php
 /mailjet_settings.php
 /mailman/.env
+/main
 /main-TDTOTK7F.js
 /main-WTCAS2AO.js
 /main-es2015.3c3aa123423ff18c0b00.js
@@ -8458,6 +8495,7 @@
 /miyabajingankoe.php
 /mjde.php
 /mjq.php
+/mjq.php/kma.php
 /mk.php
 /mlex.php
 /mln.php
@@ -8656,6 +8694,7 @@
 /newrelic.zip
 /news-app/.env
 /news.php
+/newsite
 /newsletter.zip
 /newsletter/.env
 /nexmo.json
@@ -8823,6 +8862,7 @@
 /okxh.php
 /ol.php
 /ol.php7
+/old
 /old-index.php
 /old.sql
 /old.tar
@@ -8922,6 +8962,8 @@
 /ote.php
 /other.zip
 /otuz1.php
+/our-staff.php
+/our-team.php
 /oussdz.php
 /out.php
 /outbox.zip
@@ -9600,6 +9642,7 @@
 /public_html_1.sql
 /public_root/.env
 /publish/*
+/puc.php
 /purna.php
 /pwa.zip
 /pwnd-1/admin.php
@@ -9758,6 +9801,7 @@
 /reels.php
 /register
 /register.php
+/register/
 /register/.env
 /release-candidate.zip
 /release.tar
@@ -10070,6 +10114,7 @@
 /sbhu.php
 /sc.php
 /scanner3.php
+/scarbook.php
 /scbpb.php
 /schal.php
 /schallfuns.php
@@ -10666,6 +10711,7 @@
 /siteground.zip
 /siteheads.php
 /siteinfo.php
+/sitemap
 /sitemap-index.xml
 /sitemap.php
 /sitemap.txt
@@ -11120,6 +11166,7 @@
 /storage/keys/sendgrid.key
 /storage/keys/sparkpost.key
 /storage/keys/stripe.json
+/storage/logs/
 /storage/logs/laravel.log
 /storage/logs/payment.log
 /storage/logs/payments.log
@@ -11257,6 +11304,7 @@
 /symfony/config/secrets/dev/dev.encrypt.php
 /symfony/config_dev.php
 /symfony/phpinfo.php
+/symfony/public
 /symfony/public/_profiler/phpinfo
 /symlink403.php
 /sync.zip
@@ -11290,6 +11338,7 @@
 /t/rfi.php
 /t00l.php
 /t1
+/t1/
 /t1/assets/load/p.mp3
 /t2gorhwasq4vioshtatw5eCdefault.php
 /tFMNxRLlhdq.php
@@ -11669,6 +11718,7 @@
 /tmp/sessions/
 /tmp/shell.php
 /tmp/stripe.config
+/tmp_images/alfacgiapi/perl.alfa
 /tmpk.php
 /tmpls.php
 /tmui/login.jsp/%2e.;/tmui/locallb/workspace/fileRead.jsp
@@ -11694,6 +11744,7 @@
 /tool/view/phpinfo.view.php
 /tool1.php
 /tool2.php
+/tools
 /tools.php
 /tools.zip
 /tools/.env
@@ -12566,6 +12617,7 @@
 /wp-activat.php
 /wp-activate.php
 /wp-ad.php
+/wp-admin
 /wp-admin-block.php
 /wp-admin-css.php
 /wp-admin.php
@@ -12581,6 +12633,7 @@
 /wp-admin/1.php
 /wp-admin/404.php
 /wp-admin/8.php
+/wp-admin/ALFA_DATA/alfacgiapi/perl.alfa
 /wp-admin/YP1cuvy6WrD.php
 /wp-admin/a.php
 /wp-admin/about.php
@@ -12590,6 +12643,7 @@
 /wp-admin/admin.php
 /wp-admin/ajax-actions.php
 /wp-admin/alfa.php
+/wp-admin/alfacgiapi/perl.alfa
 /wp-admin/async-upload.php
 /wp-admin/ateprivacy-policy-guide.php
 /wp-admin/autoload_classmap.php
@@ -12969,6 +13023,7 @@
 /wp-archive.zip
 /wp-asudo.php
 /wp-asyn-upload.php
+/wp-at.php
 /wp-atom.php
 /wp-atomx.php
 /wp-backup-sql-302.php
@@ -13063,6 +13118,7 @@
 /wp-content/1.php%20
 /wp-content/8.php
 /wp-content/ALFA_DATA/alfacgiapi/bypass.php
+/wp-content/ALFA_DATA/alfacgiapi/perl.alfa
 /wp-content/Text/about.php
 /wp-content/V2_xml.php
 /wp-content/a5.php
@@ -13076,6 +13132,7 @@
 /wp-content/ai1wm-backups.zip
 /wp-content/ai1wm-backups/about.php
 /wp-content/alam.php
+/wp-content/alfacgiapi/perl.alfa
 /wp-content/as.php
 /wp-content/atomlib.php
 /wp-content/autoload_classmap.php
@@ -14027,6 +14084,7 @@
 /wp-includes/a5.php
 /wp-includes/about.php
 /wp-includes/admin.php
+/wp-includes/alfacgiapi/perl.alfa
 /wp-includes/app.php
 /wp-includes/as.php
 /wp-includes/assets/
@@ -14126,6 +14184,7 @@
 /wp-includes/class-wp-dependency-float.php
 /wp-includes/class-wp-error-module.php
 /wp-includes/class-wp-hook.php
+/wp-includes/class-wp-http-client.php
 /wp-includes/class-wp-http-ixr-client-view.php
 /wp-includes/class-wp-language-pack.php
 /wp-includes/class-wp-network-query-stat.php
@@ -14144,6 +14203,7 @@
 /wp-includes/colour.php
 /wp-includes/config.php
 /wp-includes/configRIV/about.php
+/wp-includes/configuration.php
 /wp-includes/count.php
 /wp-includes/css/
 /wp-includes/css//index.php
@@ -14891,6 +14951,7 @@
 /x50.php
 /x56.php
 /x7.php
+/x7W.php
 /x7r.php
 /x9.php
 /xBrain.php
@@ -15024,6 +15085,7 @@
 /yaml.zip
 /yanki.php
 /yanz.php
+/yapgb.php
 /yarn-debug.log
 /yarn-error.log
 /yarn.lock
@@ -15100,11 +15162,13 @@
 /zmFM.php
 /zmusic-frontend/.env
 /zo.php
+/zo.php/itil.php
 /zogy1.php
 /zoho.php
 /zoho_config.php
 /zoho_mail.php
 /zone.php
+/zoo
 /zoo.php
 /zoper1.php
 /zoz.php
