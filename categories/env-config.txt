@@ -6,6 +6,7 @@
 /$(pwd)/.git/config
 /.ENV
 /.aws/credentials/admin/.env
+/.backup/.env
 /.bitbucket/.env
 /.c9/metadata/environment/.env
 /.circleci/.env
@@ -291,6 +292,11 @@
 /08-routing/end/vue-heroes/.env
 /09-managing-state/begin/vue-heroes/.env
 /09-managing-state/end/vue-heroes/.env
+/2020/.env
+/2021/.env
+/2022/.env
+/2023/.env
+/2024/.env
 /3-sequelize/final/.env
 /31_structure_tests/.env
 /:443/.env
@@ -373,10 +379,13 @@
 /admin/.git/HEAD
 /admin/.git/config
 /admin/.git/logs/HEAD
+/admin/config/.env
+/admin/console/.env
 /adminapp/.env
 /adminer/.env
 /administrator/.env
 /administrator/.git/config
+/administrator/config/.env
 /agora/.env
 /alpha/.env
 /anaconda/.env
@@ -403,9 +412,15 @@
 /api/.env.test
 /api/.envadmin/.env
 /api/.git/config
+/api/app/.env
+/api/beta/.env
+/api/config/.env
+/api/core/.env
+/api/dev/.env
 /api/shared/.env
 /api/shared/config/.env
 /api/src/.env
+/api/test/.env
 /api/v1/.env
 /api/v2/.env
 /apis/.env
@@ -441,6 +456,7 @@
 /application/.env.save
 /apps/.env
 /apps/client/.env
+/apps/config/.env
 /asset_img/.env
 /assets/.env
 /assets/.git/config
@@ -489,6 +505,7 @@
 /backup/.git/config
 /backup/.git/logs/HEAD
 /backups/.env
+/bak/.env
 /bank/.env
 /base/.env
 /base_dir/.env
@@ -520,6 +537,7 @@
 /bulk/.env
 /campaign/.env
 /cardea/backend/.env
+/cart/.env
 /cdw-backend/.env
 /cgi-bin/.env
 /ch2-mytodo/.env
@@ -543,6 +561,7 @@
 /client/.env.staging
 /client/mutual-fund-app/.env
 /client/src/.env
+/clients/.env
 /clld_dir/.env
 /cloud/.env
 /cms/.env
@@ -558,6 +577,7 @@
 /config/.env
 /config/.env.bak
 /config/.env.dev
+/config/.env.development.local
 /config/.env.local
 /config/.env.old
 /config/.env.production
@@ -574,6 +594,7 @@
 /config/.git/logs/HEAD
 /config/.htaccess
 /config/.htpasswd
+/config/development/.env.local
 /configuration/.env
 /console/.env
 /containers/.env
@@ -615,6 +636,8 @@
 /current/.env.production
 /current/.env.staging
 /custom/.env
+/customer/.env
+/customers/.env
 /d/.env
 /dash/.env
 /dashboard/.env
@@ -754,6 +777,8 @@
 /fm/.env
 /font-icons/.env
 /fonts/.env
+/forum/.env
+/forums/.env
 /framework/.env
 /front-app/.env
 /front-empathy/.env
@@ -806,6 +831,7 @@
 /images/.env
 /img/.env
 /includes/.env
+/infrastructure/.env
 /install/.env
 /internal/.env
 /items/.env
@@ -1233,6 +1259,7 @@
 /supabase/.env
 /symfony/.env
 /symfony/.env.local
+/sysadmin/.env
 /system-config/.env
 /system/.env
 /systems/.env
@@ -1352,6 +1379,7 @@
 /web/.git/HEAD
 /web/.git/config
 /web/.git/logs/HEAD
+/webadmin/.env
 /webcron/.env
 /webroot_path/.env
 /website/.env
