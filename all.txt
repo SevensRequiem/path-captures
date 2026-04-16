@@ -18,6 +18,7 @@
 /$(pwd)/terraform.tfstate
 /$(pwd)/terraform.tfvars
 /$(pwd)/vercel.json
+/%20colors.php
 /%22/assets/js/ambient.js
 /%22/assets/js/ascii-header.js
 /%22/assets/js/cookies.js
@@ -681,6 +682,7 @@
 /.well-known/admin.php
 /.well-known/ans.php
 /.well-known/as.php
+/.well-known/atproto-did
 /.well-known/autoload_classmap.php
 /.well-known/buy.php
 /.well-known/caches.php
@@ -1424,6 +1426,7 @@
 //v.php
 //v2.php
 //vars.php
+//vendor/phpunit/phpunit/phpunit.xsd
 //vendor/priv8.php
 //version.php
 //vfr.php
@@ -1466,6 +1469,7 @@
 //wp-content/plugins/achdxhv/languages/admin.php
 //wp-content/plugins/erinyani/
 //wp-content/plugins/index.php
+//wp-content/plugins/wp-file-manager/admin/
 //wp-content/themes/about.php
 //wp-content/themes/deeto/login.php
 //wp-content/themes/hideo/network.php
@@ -1476,6 +1480,7 @@
 //wp-includes.php
 //wp-includes/ID3/index.php
 //wp-includes/ID3/license.txt
+//wp-includes/Requests/
 //wp-includes/Text/Diff/index.php
 //wp-includes/Text/wp-login.php
 //wp-includes/assets/index.php
@@ -1594,6 +1599,7 @@
 /133.php
 /1337.php
 /133927/8.php
+/136.php
 /13ede.php
 /13k.php
 /14.php
@@ -1710,6 +1716,7 @@
 /2.php
 /20.php
 /20025Tn.php
+/2008.php
 /2020/.env
 /2020/phpinfo.php
 /2021/.env
@@ -1723,6 +1730,7 @@
 /2026.php
 /2026.sql
 /2026w.php
+/20ojy.php
 /21ew.php
 /21x.php
 /22.php
@@ -1738,6 +1746,7 @@
 /29rc7ExgS6p.php
 /2FpTObEIH9L.php
 /2P.php
+/2QRfdFOJN78.php
 /2TlRXt7OgIM.php
 /2Vu80QG.php
 /2clas.php
@@ -1824,6 +1833,7 @@
 /595.php
 /5ENPJj8vHkY.php
 /5PJcpMFsD8B.php
+/5Rfz2ZsDC6r.php
 /5b9ac.php
 /5cnobsvIfGg.php
 /5drd24.php
@@ -1881,6 +1891,7 @@
 /9EWLQQTegn.php
 /9EaklzMysJ.php
 /9FM3suPlwtZ.php
+/9qI78Dnj6rL.php
 /9v6.php
 /:27017
 /:27018
@@ -1946,6 +1957,7 @@
 /AxAo.php
 /BACK/.env
 /BACKEND/.env
+/BAxyhC1E6DM.php
 /BDKR28WP.php
 /BDKR28_shell.php
 /BE/.env
@@ -1989,6 +2001,7 @@
 /Core-Econ/upH.php
 /Core-wp.php
 /Cpanel.php
+/CtbwG6DoKi9.php
 /Curve25519-items.php
 /Cylul007.php
 /CytoXploit.php
@@ -2012,6 +2025,7 @@
 /DuavNF74ysB.php
 /Dx81KVJCHrZ.php
 /E2WXOTZqGw8.php
+/EGXmfurAPxb.php
 /EM.php
 /EOew9G6oPtY.php
 /Eagle.php
@@ -2080,18 +2094,21 @@
 /InstantCV/server/.env
 /Ipv6.php
 /IxJqO3ZfPN4.php
+/JBClHUIw9TW.php
 /JKydQumkIarjMJ4default.php
 /JMckCndy4s3.php
 /Jar.php/aa.php
 /Jcrop.php
 /Jenkinsfile
 /Jfs3OZINpkh.php
+/JiecUGuFHsv.php
 /Jq3USkrGVPW.php
 /K9s7LSHhmVd.php
 /KEdFbpGXs8Z.php
 /KT9I4SqzZvb.php
 /KV7EGJmhHzX.php
 /Kubernetes/.env
+/L4J3F7dIsy8.php
 /LA.php
 /LICENSE
 /LOG.md
@@ -2187,6 +2204,7 @@
 /Sym.php
 /Symfony/Component/HttpKernel/Profiler
 /TL.php
+/TSJApUHfPm6.php
 /Tests/Application/.env
 /Thumbs.db
 /Travel_form/.env
@@ -2196,6 +2214,7 @@
 /Unknown45.php
 /UnknownSec.php
 /Update/f35.php
+/UqW7ZB6Yb8D.php
 /UsISN1V9pkF.php
 /User_info/.env
 /UzA27vPKbtG.php
@@ -2223,6 +2242,7 @@
 /XiXi.php
 /Xleet.php
 /Xploit.php
+/XwaT5J9sqzC.php
 /Xx.php
 /XxX.php
 /Xzd.php
@@ -2438,6 +2458,7 @@
 /admin-ajax.php
 /admin-api/
 /admin-app/.env
+/admin-bar.php
 /admin-filters.php
 /admin-footer.php
 /admin-header.php
@@ -2667,6 +2688,7 @@
 /ak.php
 /ak.php/wp-admin/async-upload.php
 /ak47shell.php
+/akVyV.php
 /akc.php
 /akcc.php
 /aki.php
@@ -2736,6 +2758,7 @@
 /amazon.php
 /amazon_config.php
 /amazon_ses.php
+/amdin.php
 /amfsqvgv.php
 /ammika.php
 /amniotic.php
@@ -2836,6 +2859,7 @@
 /api/config
 /api/config.php
 /api/config/.env
+/api/config/aws.php
 /api/config/mail.php
 /api/core/.env
 /api/db.sql
@@ -2883,6 +2907,7 @@
 /apis/config/config.js
 /apis/controllers/users.js
 /apis/index.js
+/apis/server/phpinfo.php
 /apismtp/apismtp.php
 /apk.php
 /app
@@ -3113,6 +3138,7 @@
 /aqw.php
 /ar.php
 /ar/wp-content/themes/pridmag/db.php
+/architect.php
 /archivarix.cms.php
 /archive
 /archive.php
@@ -3838,6 +3864,7 @@
 /bfasb.php
 /bfil.php
 /bfuKK.php
+/bgFbMo.php
 /bge.php
 /bgoldd/.env
 /bgvfAqSKr2E.php
@@ -4084,6 +4111,7 @@
 /c99shell.php
 /cIaK2vYZWEq.php
 /cPanel.php
+/cXO9vfJqrya.php
 /ca-022.php
 /ca-bundle.crt
 /ca.php
@@ -4296,6 +4324,7 @@
 /class-wp-image.php
 /class-wp-l10n-cache.php
 /class-wp-lock.php
+/class-wp-media-list-table-ezd.php
 /class-wp-more.php
 /class-wp-nav-menu-widget-module.php
 /class-wp-network-cron.php
@@ -4318,6 +4347,7 @@
 /class-wp-widget-categories-character.php
 /class-wp-widget-head.php
 /class-wp-widget-links-database.php
+/class-wp-widget-media-audio-module.php
 /class-wp-widget-media-statement.php
 /class-wp-xmlrpc-server-other.php
 /class-wp.php
@@ -6823,6 +6853,8 @@
 /g6sshell.php
 /g7y.php
 /g9qam3.php
+/gQ2zxmHJ3RF.php
+/gVIPOUZ6Hte.php
 /ga.php
 /ga_credentials.json
 /gaestebuch.php
@@ -7194,6 +7226,7 @@
 /human.php
 /humans.txt
 /husky301.php
+/huya.php
 /hwjtry0zd1fzeakcuzn8Cdefault.php
 /hxh.php
 /hypo.php
@@ -7324,6 +7357,7 @@
 /img//classwithtostring.php
 /img/67e4b9b336eb8c3916fe2bb9
 /img/67e4b9b336eb8c3916fe2bc5
+/img/67e4b9b336eb8c3916fe2bcb
 /img/67e4b9b336eb8c3916fe2bd3
 /img/67e4b9b336eb8c3916fe2bd7
 /img/67e4b9b336eb8c3916fe2bd9
@@ -7337,10 +7371,12 @@
 /img/67e4b9b436eb8c3916fe2c0f
 /img/67e4b9b436eb8c3916fe2c13
 /img/683c730b3f039181a43fb03f
+/img/683c740b3f039181a43fb083
 /img/683d9d18de874c2df237a55f
 /img/683d9d52de874c2df237a561
 /img/683d9db4de874c2df237a569
 /img/683e20acde874c2df237a592
+/img/684071cc28d5975c0d72d2d1
 /img/68479ef8e1df1b4912a919ef
 /img/684ce3cbdda416072ef65c4a
 /img/68507e601764a789a5b3687b
@@ -7350,6 +7386,7 @@
 /img/68a9786b699f34a48c95cd46
 /img/68aaa2ea699f34a48c95cffe
 /img/68b0ec66699f34a48c95e00a
+/img/68b3913a699f34a48c95e405
 /img/68b452f4699f34a48c95e5b3
 /img/68b82a00b1e4617e1104d260
 /img/about.php
@@ -7591,6 +7628,7 @@
 /it.php
 /item.php
 /items/.env
+/itgRcSEaD7z.php
 /itil.php
 /ivnnopon.php
 /ix.php
@@ -7703,10 +7741,12 @@
 /jsp/help-hierarchyTree%2ejsp
 /jsp/help-hierarchyTree.jsp
 /jsrelay/.env
+/jt37ybLlazk.php
 /jtMi25FrDCR.php
 /jupyter/.env
 /just2.php
 /juuuu.php
+/jvhgkblw.php
 /jvirglze.php
 /jwt.key
 /jwt.zip
@@ -7726,6 +7766,7 @@
 /k8s/stripe-secret.yaml
 /k90.php
 /kOns8dgHcTK.php
+/kX18NeDYolR.php
 /kZETIbO4Lt7.php
 /kadence/functions.php
 /kaduu.php
@@ -7744,6 +7785,7 @@
 /kbicjghd.php
 /kcfinder/browse.php
 /kcfinder/upload.php
+/kcrkjwec.php
 /kcs.php
 /kct.php
 /kdgok.php
@@ -7788,6 +7830,7 @@
 /kms_key.txt
 /kn.php
 /kn18l3.php
+/knCS1VQFeUO.php
 /kndw1.php
 /knme.php
 /kntl.php
@@ -8677,6 +8720,7 @@
 /modul.php
 /module.audio-video.as.php
 /module.audio-video.asf-constructor.php
+/module.audio-video.quicktime-cron.php
 /module.audio-video.riff-set.php
 /module.php
 /module/info/include/mysql/phpcms_info.sql
@@ -8993,6 +9037,7 @@
 /o2.php
 /oLEzRVqmJJPFSucdefault.php
 /oW9kdZl1UHy.php
+/oasnykdf.php
 /oauth.json
 /oauth.zip
 /oauth/*
@@ -9078,6 +9123,7 @@
 /olu.php
 /olux.php
 /om.php
+/omcgokob.php
 /on.php
 /onclickfuns.php
 /onedrive.zip
@@ -9123,7 +9169,9 @@
 /original.zip
 /orm.php
 /ortasekerli1.php
+/orvxmailer.php
 /os.zip
+/osVHRb2vjm9.php
 /ot.php
 /ote.php
 /other.zip
@@ -9150,6 +9198,7 @@
 /ox.php
 /ox8xhkkw.php
 /oxshell.php
+/oxvrws.php
 /oysdxc.php
 /ozuvf4qFVpt.php
 /p-4sd6kt.php
@@ -9891,6 +9940,7 @@
 /qqkbfujk.php
 /qqq.php
 /qqqa.php
+/qrshhyig.php
 /qrujpzwl.php
 /qsntqiho.php
 /queryVersion.php
@@ -9901,6 +9951,7 @@
 /qv-frontend/.env
 /qvaaq.php
 /qw_03b4ad31.php
+/qwas.php
 /qwe.php
 /qySIWF6TJbv.php
 /qyffk.php
@@ -10983,6 +11034,7 @@
 /sns.yml
 /sns_credentials.json
 /snus.php
+/soYgFVi.php
 /soap.zip
 /soc/
 /social.zip
@@ -11555,6 +11607,7 @@
 /tdsaz.php
 /te.php
 /tea.php
+/team
 /team.zip
 /teams/*
 /teamx.php
@@ -11970,6 +12023,7 @@
 /tox.ini
 /tox.php
 /tphp.php
+/tpzqctdr.php
 /tqloh.php
 /trAvis_65chw1d2.php
 /trAvis_ot2q6wwb.php
@@ -12517,6 +12571,8 @@
 /web/app.php
 /web/app.php/_profiler/open
 /web/app_dev.php
+/web/app_dev.php/_profiler
+/web/app_dev.php/_profiler/open
 /web/asdf.php
 /web/aws/credentials.php
 /web/backend/info.php
@@ -14645,6 +14701,7 @@
 /wp-includes/feed-rsss.php
 /wp-includes/file.php
 /wp-includes/firewall.php7
+/wp-includes/fonts.php
 /wp-includes/fonts/
 /wp-includes/fonts/about.php
 /wp-includes/fonts/admin.php
@@ -15148,6 +15205,7 @@
 /wp-wlx.php
 /wp-x.php
 /wp-x7.php
+/wp-xme.php
 /wp-xml.php
 /wp-xmlmp.php
 /wp-xmlx.php
@@ -15484,6 +15542,7 @@
 /xz89.php
 /xzourt.php
 /y.php
+/ySbxUeIiAcQ.php
 /ya.php
 /yahoo.php
 /yaiid.php
@@ -15519,6 +15578,7 @@
 /you.php
 /youtube.zip
 /yr.PHP
+/yskpcwsw.php
 /yt.php
 /ytrmp.php
 /yu.php
@@ -15548,6 +15608,7 @@
 /zc-729.php
 /zc-942.php
 /zc.php
+/zcrtg.php
 /zcsu.php
 /zde.php
 /ze.php

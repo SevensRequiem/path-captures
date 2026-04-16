@@ -272,6 +272,7 @@
 /.well-known/
 /.well-known/acme-challenge/
 /.well-known/acme-challenge/block-supports/
+/.well-known/atproto-did
 /.well-known/discord
 /.well-known/pki-validation/
 /.well-known/security.txt
@@ -303,12 +304,15 @@
 //static.cloudflareinsights.com/beacon.min.js
 //storage.ko-fi.com/cdn/widget/Widget_2.js
 //test/wp-includes/wlwmanifest.xml
+//vendor/phpunit/phpunit/phpunit.xsd
 //web/wp-includes/wlwmanifest.xml
 //website/wp-includes/wlwmanifest.xml
 //wordpress/
 //wordpress/wp-includes/wlwmanifest.xml
 //wp-content/plugins/erinyani/
+//wp-content/plugins/wp-file-manager/admin/
 //wp-includes/ID3/license.txt
+//wp-includes/Requests/
 //wp-includes/css/dist/
 //wp-includes/fonts/
 //wp-includes/js/dist/
@@ -1929,6 +1933,7 @@
 /img/
 /img/67e4b9b336eb8c3916fe2bb9
 /img/67e4b9b336eb8c3916fe2bc5
+/img/67e4b9b336eb8c3916fe2bcb
 /img/67e4b9b336eb8c3916fe2bd3
 /img/67e4b9b336eb8c3916fe2bd7
 /img/67e4b9b336eb8c3916fe2bd9
@@ -1942,10 +1947,12 @@
 /img/67e4b9b436eb8c3916fe2c0f
 /img/67e4b9b436eb8c3916fe2c13
 /img/683c730b3f039181a43fb03f
+/img/683c740b3f039181a43fb083
 /img/683d9d18de874c2df237a55f
 /img/683d9d52de874c2df237a561
 /img/683d9db4de874c2df237a569
 /img/683e20acde874c2df237a592
+/img/684071cc28d5975c0d72d2d1
 /img/68479ef8e1df1b4912a919ef
 /img/684ce3cbdda416072ef65c4a
 /img/68507e601764a789a5b3687b
@@ -1955,6 +1962,7 @@
 /img/68a9786b699f34a48c95cd46
 /img/68aaa2ea699f34a48c95cffe
 /img/68b0ec66699f34a48c95e00a
+/img/68b3913a699f34a48c95e405
 /img/68b452f4699f34a48c95e5b3
 /img/68b82a00b1e4617e1104d260
 /img/wp-admin/
@@ -3319,6 +3327,7 @@
 /t1/
 /t1/assets/load/p.mp3
 /tasks.zip
+/team
 /team.zip
 /teams/*
 /tech/catalog.json
