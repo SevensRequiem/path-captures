@@ -51,6 +51,7 @@
 /.DS_Store
 /.amplify/
 /.amplifyrc
+/.anthropic/config.json
 /.api_keys
 /.aws
 /.aws-sam/
@@ -117,6 +118,7 @@
 /.credentials.json
 /.credentials.yaml
 /.credentials.yml
+/.cursor/mcp.json
 /.database
 /.database.tar.gz
 /.db_backup
@@ -209,6 +211,7 @@
 /.old.tar
 /.old.tar.gz
 /.old.zip
+/.openai/config.json
 /.output/
 /.pam_environment
 /.pgpass
@@ -1611,6 +1614,7 @@
 /duplicator.zip
 /dynamodb.json
 /dynamodb_config.json
+/e
 /e/data/js/ajax.js
 /eb-config.yml
 /eb.config
@@ -2909,6 +2913,7 @@
 /service.pwd
 /service.zip
 /service/email_service.py
+/serviceAccountKey.json
 /services.zip
 /services/billing.js
 /services/email/aws_ses.js
