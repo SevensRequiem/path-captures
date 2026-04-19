@@ -251,6 +251,7 @@
 /.sparkpost
 /.ssh/id_rsa
 /.ssh/id_rsa.pub
+/.ssh/sftp-config.json
 /.stripe/
 /.terraform.lock.hcl
 /.terraform.tfstate
@@ -414,6 +415,7 @@
 /Pipfile
 /Pipfile.lock
 /Procfile
+/Properties/launchSettings.json
 /Public/
 /README.md
 /Release.zip
@@ -479,6 +481,7 @@
 /_next/static/env.js
 /_next/static/runtime/runtime-main.js.map
 /_old/
+/_profiler
 /_profiler/
 /_profiler/app/config/parameters.yml
 /_profiler/empty/search/results
@@ -562,6 +565,7 @@
 /akia_ses.txt
 /alera/
 /alerts.zip
+/alfacgiapi
 /alfacgiapi/
 /alfacgiapi/perl.alfa
 /alpha.zip
@@ -570,6 +574,7 @@
 /amplitude.zip
 /analytics.zip
 /android.zip
+/angular.json
 /angular.zip
 /animations.zip
 /ansible/group_vars/all.yml
@@ -1021,6 +1026,7 @@
 /bkp.tar
 /bkp.tar.gz
 /bkp.zip
+/block-supports
 /block-supports/
 /blocks/audio/
 /blocks/group/
@@ -1055,6 +1061,7 @@
 /build/three.module.js
 /bundle.js
 /bundle.js.map
+/bundleconfig.json
 /business.zip
 /ca-bundle.crt
 /cache/
@@ -1158,6 +1165,7 @@
 /conf.tar.gz
 /conf.yaml
 /conf.zip
+/conf/application.json
 /config
 /config.cfg
 /config.conf
@@ -1214,12 +1222,14 @@
 /config/constants.js
 /config/credentials.yml
 /config/credentials.yml.enc
+/config/daemon.json
 /config/database.json
 /config/database.yml
 /config/debug.js
 /config/debug.log
 /config/default.json
 /config/dev.json
+/config/development.json
 /config/dump.sql.gz
 /config/dynamodb.json
 /config/dynamodb.yml
@@ -1241,6 +1251,7 @@
 /config/initializers/stripe.rb
 /config/keys.yml
 /config/kinesis.json
+/config/local.json
 /config/local.yml
 /config/log.txt
 /config/logs/error.log
@@ -1266,9 +1277,11 @@
 /config/payment/stripe.json
 /config/payment/stripe.yml
 /config/payment_settings.py
+/config/php.ini
 /config/postmark.json
 /config/postmark.yml
 /config/private/sendgrid_keys.json
+/config/prod.json
 /config/production.json
 /config/rds.yml
 /config/route53.json
@@ -1316,6 +1329,7 @@
 /config/sparkpost.yml
 /config/sqs.json
 /config/sqs.yml
+/config/staging.json
 /config/storage.yml
 /config/stripe.development.json
 /config/stripe.env
@@ -1815,6 +1829,7 @@
 /general.zip
 /getcmd
 /ghost.zip
+/gif/
 /gists/cache
 /gists/laravel
 /gists/pusher
@@ -1886,6 +1901,7 @@
 /horizon/api/stats
 /host.zip
 /hostgator.zip
+/hosting.json
 /hosting.zip
 /hotfix.zip
 /hotiyourbags.com
@@ -1948,7 +1964,9 @@
 /img/67e4b9b336eb8c3916fe2bee
 /img/67e4b9b336eb8c3916fe2bf5
 /img/67e4b9b336eb8c3916fe2bfb
+/img/67e4b9b336eb8c3916fe2c07
 /img/67e4b9b436eb8c3916fe2c0f
+/img/67e4b9b436eb8c3916fe2c11
 /img/67e4b9b436eb8c3916fe2c13
 /img/683c730b3f039181a43fb03f
 /img/683c740b3f039181a43fb083
@@ -2103,6 +2121,7 @@
 /latest/meta-data/iam/info
 /latest/meta-data/iam/security-credentials/
 /latest/user-data
+/launchSettings.json
 /launchdarkly.json
 /legacy/tests/9.1.1
 /legacy/tests/9.2.0
@@ -2135,6 +2154,7 @@
 /live.tar
 /live.tar.gz
 /live.zip
+/live_env
 /llms.txt
 /loaders/*
 /local.settings.json
@@ -2296,6 +2316,7 @@
 /metadata/instance/network/interface/0/ipv4/ipAddress/0/
 /metadata/instance/network/interface/0/ipv4/ipAddress/0/privateIpAddress
 /metadata/instance/network/interface/0/ipv4/ipAddress/0/publicIpAddress
+/meteor.settings.json
 /metrics
 /metrics.zip
 /microservice.zip
@@ -2566,6 +2587,7 @@
 /pre-production.zip
 /preferences.zip
 /prestashop.zip
+/prevlaravel/sftp-config.json
 /pricing
 /printenv
 /printenv.tmp
@@ -2577,6 +2599,8 @@
 /private/aws.json
 /private/aws_credentials.json
 /private/config
+/private/config.json
+/private/env.json
 /private/keys.json
 /private/secret.key
 /private/secret.txt
@@ -2625,6 +2649,7 @@
 /public/aws_secrets.json
 /public/backup.zip
 /public/bucket.json
+/public/client/planinfo
 /public/env.js
 /public/js/app.js.map
 /public/js/main.js
@@ -3007,6 +3032,7 @@
 /setup.zip
 /setup/
 /sftp-config.json
+/sftp.json
 /sftp.zip
 /sg_api_key.txt
 /shared.zip
@@ -3174,6 +3200,7 @@
 /src/logs/error.log
 /src/main.dev.js
 /src/main.js
+/src/settings.json
 /src/site.conf
 /src/utils/payment.js
 /srv.zip
@@ -3406,6 +3433,7 @@
 /threads/*
 /thumb/3b6e9702-4b45-46a0-b796-88d8d498870b.jpg
 /thumb/Fin/68ee474beae18aac2d69321b
+/thumb/fit/680a6cd03c4322da8bf78ae6
 /thumb/mu/680a6cd23c4322da8bf78b40
 /tiktok.zip
 /tiny
@@ -3446,6 +3474,9 @@
 /trace.axd
 /traces.zip
 /trpc/*
+/tsconfig.app.json
+/tsconfig.json
+/tsconfig.spec.json
 /tutorial.zip
 /twilio.json
 /twilio.yml

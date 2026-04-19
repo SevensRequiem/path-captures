@@ -580,6 +580,7 @@
 /.sparkpost
 /.ssh/id_rsa
 /.ssh/id_rsa.pub
+/.ssh/sftp-config.json
 /.strapi/.env
 /.stripe.bak
 /.stripe/
@@ -1276,6 +1277,7 @@
 //maho.php
 //mailer.php
 //mailershell.php
+//man.php
 //mar.php
 //mass.php
 //max.php
@@ -1732,7 +1734,9 @@
 /2020/phpinfo.php
 /2021/.env
 /2021/01/16/upload-and-download-file-using-multipart-form-over-http/
+/2021/phpinfo.php
 /2022/.env
+/2022/phpinfo.php
 /2023/.env
 /2023/phpinfo.php
 /2024/.env
@@ -1923,6 +1927,7 @@
 /@vite/client
 /@vite/env
 /AAAA.php
+/ABSPATHwp-includes/version.php
 /ACKuJTcsdkq.php
 /ADMIN/.env
 /AE5VAL.php
@@ -2175,6 +2180,7 @@
 /PkZqAth1FD5.php
 /PlBpgHxo9Lt.php
 /Procfile
+/Properties/launchSettings.json
 /Public/
 /Public/initJs.php
 /Q.php
@@ -2240,6 +2246,7 @@
 /VzlaTeam.php
 /WEB-INF/web.xml
 /WSO.php
+/WZGHHra0r3.php
 /Web/siteMariage/.env
 /Wop.php
 /WordPress/wp-admin/includes/zmFM.php
@@ -2298,6 +2305,7 @@
 /_api/*
 /_astro/[chunk-name].[hash].js
 /_backup/
+/_backup/phpinfo.php
 /_cat/indices
 /_config/config.php
 /_debug
@@ -2336,6 +2344,7 @@
 /_next/static/runtime/runtime-main.js.map
 /_old/
 /_phpinfo.php
+/_profiler
 /_profiler/
 /_profiler/app/config/parameters.yml
 /_profiler/debug.php
@@ -2579,6 +2588,7 @@
 /admin/lib/kcfinder/browse.php
 /admin/login.php
 /admin/php-info.php
+/admin/php.php
 /admin/php_info.php
 /admin/phpinfo.php
 /admin/phpmyadmin.php
@@ -2666,6 +2676,7 @@
 /admins/crm/info.php
 /admins/server/info.php
 /admir.php
+/admit-card.php
 /admlo.php
 /adnks.php
 /adobe.zip
@@ -2724,6 +2735,7 @@
 /al.php
 /albin.php
 /albrt.php
+/alclogin/libs/enroll_no.php
 /alera/
 /alerts.zip
 /alex.php
@@ -2747,6 +2759,7 @@
 /alfa1.php
 /alfa123.php
 /alfa2.php
+/alfacgiapi
 /alfacgiapi/
 /alfacgiapi/admin.php
 /alfacgiapi/bypass.php
@@ -2807,6 +2820,7 @@
 /android.zip
 /angel.php
 /angie712.php
+/angular.json
 /angular.zip
 /animations.zip
 /anjay.php
@@ -2910,7 +2924,9 @@
 /api/tools/shell
 /api/v1/.env
 /api/v1/download
+/api/v1/phpinfo.php
 /api/v2/.env
+/api/v2/phpinfo.php
 /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /api/webhooks/mandrill.php
 /api/webhooks/postmark.php
@@ -2933,6 +2949,7 @@
 /apis/config/config.js
 /apis/controllers/users.js
 /apis/index.js
+/apis/phpinfo.php
 /apis/server/phpinfo.php
 /apismtp/apismtp.php
 /apk.php
@@ -2970,6 +2987,7 @@
 /app/.git/config
 /app/.terraform/terraform.tfstate
 /app//.env.back
+/app/Classes/Caixa.php
 /app/Config/Email.php
 /app/Config/SMTP.php
 /app/Config/Smtp.php
@@ -2978,9 +2996,26 @@
 /app/Helpers/EmailHelper.php
 /app/Helpers/MailHelper.php
 /app/Helpers/bladeHelpers.php
+/app/Http/Controllers/AgendamentoController.php
 /app/Http/Controllers/BillingController.php
+/app/Http/Controllers/ClientesController.php
+/app/Http/Controllers/CuponsController.php
+/app/Http/Controllers/HomeController.php
 /app/Http/Controllers/PaymentController.php
+/app/Http/Controllers/PedidosController.php
+/app/Http/Controllers/RelatoriosController.php
+/app/Http/Controllers/SocialAuthController.php
 /app/Http/Controllers/StripeController.php
+/app/Http/Controllers/VcardController.php
+/app/Http/Middleware/ApiMiddleware.php
+/app/Http/Middleware/CheckRole.php
+/app/Http/Middleware/CustomDomainCheck.php
+/app/Http/Middleware/FreshInstall.php
+/app/Http/Middleware/HttpsProtocolMiddleware.php
+/app/Http/Middleware/RedirectIfAuthenticated.php
+/app/Http/Middleware/SelecaoAppMiddleware.php
+/app/Http/Middleware/SetLanguage.php
+/app/Http/Middleware/languageChangeMiddleware.php
 /app/Mail.php
 /app/Mail/AWSSESMailer.php
 /app/Mail/SESMailer.php
@@ -3093,6 +3128,7 @@
 /app_dev.php
 /app_dev.php/_configurator
 /app_dev.php/_profiler
+/app_dev.php/_profiler/empty/search/results
 /app_dev.php/_profiler/open
 /app_dev.php/_profiler/phpinfo
 /app_dir/.env
@@ -3311,6 +3347,7 @@
 /auth/*
 /auth/.env
 /auth/login
+/auth/oauth2/lib.php
 /auth0.json
 /auth0_config.json
 /authLogin.cgi
@@ -3492,6 +3529,7 @@
 /aws_ses_smtp.txt
 /aws_session_token.txt
 /aws_settings.php
+/aws_settings/aws_keys.php
 /aws_smtp.json
 /aws_smtp_credentials.txt
 /awscli.conf
@@ -3549,9 +3587,11 @@
 /back/backup.sql
 /back/dump.sql
 /back/mysql.sql
+/back/php.php
 /back/phpinfo.php
 /back/sql.sql
 /back/www.sql
+/back/xampp/phpinfo.php
 /back_up.zip
 /backd00rshit.php
 /backend
@@ -3839,6 +3879,7 @@
 /bak/backup.sql
 /bak/dump.sql
 /bak/mysql.sql
+/bak/phpinfo.php
 /bak/sql.sql
 /baker.php/
 /bal.php
@@ -3909,6 +3950,7 @@
 /beta/service/phpinfo.php
 /beta/services/phpinfo.php
 /beta/shell.php
+/beta/time.php
 /beta/xampp/phpinfo.php
 /bfasb.php
 /bfil.php
@@ -3977,6 +4019,7 @@
 /blob/.env
 /block-bindings.php
 /block-support.php
+/block-supports
 /block-supports/
 /block-template-utils.php
 /blocks/audio/
@@ -4131,6 +4174,7 @@
 /bullet.php
 /bundle.js
 /bundle.js.map
+/bundleconfig.json
 /business.zip
 /buy..php
 /buy.php
@@ -4286,6 +4330,7 @@
 /cgi-etc/quti.php
 /cgi.php
 /cgi_bin/
+/cgiag/mycgia/lib/weblib.php
 /cgipro.php
 /ch.php
 /ch2-mytodo/.env
@@ -4311,6 +4356,7 @@
 /chat/*
 /chati.php
 /chaya986.php
+/check-site.php
 /check.php
 /checkbox.php
 /checkout
@@ -4655,6 +4701,7 @@
 /conf.zip
 /conf/.env
 /conf/api/info.php
+/conf/application.json
 /conf/backend/info.php
 /conf/backend/phpinfo.php
 /conf/backup/phpinfo.php
@@ -4839,6 +4886,7 @@
 /config/customer-io.php
 /config/customer_io.php
 /config/customerio.php
+/config/daemon.json
 /config/database.config.php
 /config/database.json
 /config/database.php
@@ -4858,6 +4906,7 @@
 /config/develop/info.php
 /config/develop/phpinfo.php
 /config/development.config.php
+/config/development.json
 /config/development/.env.local
 /config/development/email.php
 /config/development/mail.php
@@ -4934,6 +4983,7 @@
 /config/laravel/info.php
 /config/laravel/phpinfo.php
 /config/laravolt/css/index.php
+/config/local.json
 /config/local.yml
 /config/local/email.php
 /config/local/mail.php
@@ -5052,6 +5102,7 @@
 /config/paypal.php
 /config/pepipost.php
 /config/php-info.php
+/config/php.ini
 /config/phpinfo.php
 /config/phpmailer.php
 /config/phpmailer_config.php
@@ -5069,6 +5120,7 @@
 /config/postmark_keys.php
 /config/postmark_settings.php
 /config/private/sendgrid_keys.json
+/config/prod.json
 /config/prod/email.php
 /config/prod/mail.php
 /config/prod/smtp.php
@@ -5215,6 +5267,7 @@
 /config/stage/email.php
 /config/stage/mail.php
 /config/stage/smtp.php
+/config/staging.json
 /config/staging/email.php
 /config/staging/mail.php
 /config/staging/smtp.php
@@ -5405,6 +5458,7 @@
 /core/dump.sql.gz
 /core/error.log
 /core/index-dev.php
+/core/info.php
 /core/install.php
 /core/lib/Drupal.php
 /core/log.txt
@@ -6196,6 +6250,11 @@
 /dotnet.zip
 /dout.php
 /down.html
+/download-sports-certificate.php
+/download-your-certificate-old.php
+/download-your-certificate.php
+/download-your-id-card.php
+/download-your-marksheet.php
 /download.php
 /download/.env
 /downloads.tar
@@ -6535,6 +6594,7 @@
 /f.PhP7
 /f.php
 /f0x.php
+/f19.php
 /f2.php
 /f222.php
 /f2748022-0520-4b9b-8503-2e5655f7a7aa.php
@@ -6639,6 +6699,7 @@
 /fi2.php
 /figma.zip
 /file-gertdxz.php
+/file-kikikoko.php
 /file-manager.php
 /file-mancvgertdxz.php
 /file.php
@@ -6845,10 +6906,12 @@
 /frontend/.env.production
 /frontend/.env.staging
 /frontend/.git/config
+/frontend/app.php
 /frontend/js/env.js
 /frontend/momentum-fe/.env
 /frontend/react/.env
 /frontend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/frontend/vistas/modales.php
 /frontend/vue/.env
 /frontend/web/debug/default/view
 /frontend_dev.php/
@@ -6967,6 +7030,7 @@
 /game.zip
 /gamemaker.zip
 /games.zip
+/ganja.php
 /gank.php
 /ganz.php
 /gas.php
@@ -7026,6 +7090,7 @@
 /ghreshttryu.php
 /gi.php
 /gib.php
+/gif/
 /gifclass.php
 /gifclass4.php
 /gilo.php
@@ -7277,9 +7342,11 @@
 /horde/imp/config/conf.php
 /horeg.php
 /horizon/api/stats
+/host-info.php
 /host.php
 /host.zip
 /hostgator.zip
+/hosting.json
 /hosting.zip
 /hosting/phpinfo.php
 /hotfix.zip
@@ -7476,7 +7543,9 @@
 /img/67e4b9b336eb8c3916fe2bee
 /img/67e4b9b336eb8c3916fe2bf5
 /img/67e4b9b336eb8c3916fe2bfb
+/img/67e4b9b336eb8c3916fe2c07
 /img/67e4b9b436eb8c3916fe2c0f
+/img/67e4b9b436eb8c3916fe2c11
 /img/67e4b9b436eb8c3916fe2c13
 /img/683c730b3f039181a43fb03f
 /img/683c740b3f039181a43fb083
@@ -7533,6 +7602,9 @@
 /includes.sql
 /includes/.env
 /includes/7.php
+/includes/api-contabilidad.php
+/includes/api-cxp.php
+/includes/api-ventas.php
 /includes/brevo.php
 /includes/config.php
 /includes/config.php~
@@ -8084,6 +8156,7 @@
 /latest/meta-data/iam/info
 /latest/meta-data/iam/security-credentials/
 /latest/user-data
+/launchSettings.json
 /launchdarkly.json
 /law.php
 /law10.php
@@ -8144,6 +8217,7 @@
 /lib/config.php
 /lib/config/email.php
 /lib/config/mail.php
+/lib/filelib.php
 /lib/functions.php
 /lib/kcfinder/browse.php
 /lib/mailer/ses.js
@@ -8163,6 +8237,7 @@
 /lib/ses.js
 /lib/ses.php
 /lib/ses.ts
+/lib/setup.php
 /lib/sparkpost.js
 /lib/sparkpost.php
 /lib/stripe.js
@@ -8255,6 +8330,7 @@
 /live/time.php
 /live/xampp/info.php
 /live/xampp/phpinfo.php
+/live_env
 /liverpool-health.php
 /ll.php
 /llb1J.php
@@ -8775,6 +8851,7 @@
 /metadata/instance/network/interface/0/ipv4/ipAddress/0/privateIpAddress
 /metadata/instance/network/interface/0/ipv4/ipAddress/0/publicIpAddress
 /metamers.php
+/meteor.settings.json
 /metrics
 /metrics.zip
 /mff.php
@@ -9007,6 +9084,10 @@
 /network.php
 /new
 /new-js/.env
+/new-ui/about.php
+/new-ui/ad-admin/libs/config.php
+/new-ui/home.php
+/new-ui/student-registration.php
 /new.php
 /new.sql
 /new.tar
@@ -9583,6 +9664,7 @@
 /plugin-wp.php
 /plugin.php
 /plugin_static/.env
+/pluginfile.php
 /plugins.php
 /plugins.tar
 /plugins.tar.gz
@@ -9604,6 +9686,7 @@
 /plugins/jquery.filer/uploads/upls2.p.php
 /plugins/kcfinder/browse.php
 /plugins/kcfinder/upload.php
+/plugins/nubecore/frontend/app.php
 /plugins/payments/stripe.json
 /plugins/system/mailgun/mailgun.php
 /plugins/system/piwik/piwik.php
@@ -9699,6 +9782,7 @@
 /prestashop/.env
 /preview-env/.env
 /preview/.env
+/prevlaravel/sftp-config.json
 /price.php
 /price_hawk_client/.env
 /pricing
@@ -9721,8 +9805,10 @@
 /private/aws.json
 /private/aws_credentials.json
 /private/config
+/private/config.json
 /private/config.php
 /private/config/mail.php
+/private/env.json
 /private/env.php
 /private/keys.json
 /private/secret.key
@@ -9921,6 +10007,7 @@
 /public/backup/phpinfo.php
 /public/bnn_.php.php
 /public/bucket.json
+/public/client/planinfo
 /public/crm/info.php
 /public/crm/phpinfo.php
 /public/css.php
@@ -10175,6 +10262,7 @@
 /redixsx.php
 /redmine/.env
 /reels.php
+/ref.php
 /register
 /register.php
 /register/
@@ -10926,6 +11014,7 @@
 /settings/sendgrid_config
 /settings/sendgrid_keys
 /settings/ses.py
+/settings/settings-header.php
 /settings/smtp.php
 /settings/sparkpost.py
 /settings/stripe.py
@@ -10942,6 +11031,7 @@
 /sfcl.php
 /sfsfs.php
 /sftp-config.json
+/sftp.json
 /sftp.zip
 /sfvul.php
 /sg_api_key.txt
@@ -10964,6 +11054,7 @@
 /shell.php5
 /shell/
 /shell/noimg.php
+/shell20211022.php
 /shell20211028.php
 /shell20250630.php
 /shell_finder.php
@@ -11020,6 +11111,7 @@
 /sim.php
 /sim.php/wp-includes/certificates/plugins.php
 /simattacker.php
+/simi.php
 /simple-shell.php
 /simple.php
 /simple/function.php
@@ -11031,6 +11123,7 @@
 /site-backup.zip
 /site-editor.php
 /site-health.php
+/site-info.php
 /site-library/.env
 /site-title/index.php
 /site-upload.php
@@ -11374,6 +11467,7 @@
 /src/phpversion.php
 /src/renderer/.env
 /src/service/info.php
+/src/settings.json
 /src/settings.php
 /src/site.conf
 /src/site.sql
@@ -11554,6 +11648,8 @@
 /storage/framework/favicon.php
 /storage/framework/sessions/
 /storage/framework/views/core.php
+/storage/framework/views/d555585888a4882d982dd09c7e9d7870ceaea2f1.php
+/storage/framework/views/e0b583fcca6b818506e8c76c2c940e2aafcc0fd4.php
 /storage/keys/mandrill.key
 /storage/keys/postmark.key
 /storage/keys/sendgrid.key
@@ -11634,6 +11730,8 @@
 /stripe_webhook_secret.txt
 /strong.php
 /sts.php
+/student-login.php
+/student-registration.php
 /stun.php
 /stupid.php
 /sty.php
@@ -11652,6 +11750,7 @@
 /subdomain.zip
 /submitticket.php
 /subs/pics/qa.php
+/subs/upload/upload.php
 /subscribe
 /subscriptions/stripe.json
 /success.php
@@ -11720,6 +11819,7 @@
 /system/config
 /system/config/database.php~
 /system/config/email.php
+/system/info.php
 /system/library/mail.php
 /system/logs/dz1.php
 /system/logs/skin.php
@@ -11972,6 +12072,7 @@
 /testing/lara/phpinfo.php
 /testing/laravel/info.php
 /testing/php.php
+/testing/phpinfo.php
 /testing/server/info.php
 /testing/service/info.php
 /testing/time.php
@@ -12074,6 +12175,7 @@
 /thumb/.env
 /thumb/3b6e9702-4b45-46a0-b796-88d8d498870b.jpg
 /thumb/Fin/68ee474beae18aac2d69321b
+/thumb/fit/680a6cd03c4322da8bf78ae6
 /thumb/mu/680a6cd23c4322da8bf78b40
 /thumbs.php
 /thumbs/.env
@@ -12199,7 +12301,10 @@
 /trx24.php
 /tryagshell.php
 /ts/prime/.env
+/tsconfig.app.json
+/tsconfig.json
 /tsconfig.php
+/tsconfig.spec.json
 /tshop.php
 /tt.php
 /ttRc68YLe0tB.php
@@ -12516,6 +12621,7 @@
 /v3/.git/config
 /v3/administrator/index.php
 /v3/api-docs
+/v3/phpinfo.php
 /v3/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /v3n0m.php
 /v4.php
@@ -12625,6 +12731,8 @@
 /vendor/phpunit/phpunit/src/Util/PHP/kill.php
 /vendor/phpunit/phpunit/src/Util/PHP/uss.php
 /vendor/symfony/debug/debug.php
+/vendor/symfony/http-foundation/Response.php
+/vendor/symfony/mime/Message.php
 /vendors~main.f286c0f60bdc707d91a8.bundle.js
 /venom.php
 /venv/
@@ -12745,6 +12853,7 @@
 /web/app.php/_profiler/open
 /web/app_dev.php
 /web/app_dev.php/_profiler
+/web/app_dev.php/_profiler/empty/search/results
 /web/app_dev.php/_profiler/open
 /web/asdf.php
 /web/aws/credentials.php
@@ -13297,6 +13406,7 @@
 /wp-admin/includes/class-pclzip-query.php
 /wp-admin/includes/class-theme-upgrader-skin-json.php
 /wp-admin/includes/class-wp-ajax-upgrader-skin-time.php
+/wp-admin/includes/class-wp-automatic-updater.php
 /wp-admin/includes/class-wp-debug-data-constructor.php
 /wp-admin/includes/class-wp-media-list-table-ezd.php
 /wp-admin/includes/class-wp-pagebuilders-QhyRP8.php
@@ -13310,9 +13420,11 @@
 /wp-admin/includes/mailer.php
 /wp-admin/includes/nav-menu-trigger.php
 /wp-admin/includes/network-url.php
+/wp-admin/includes/plugin.php
 /wp-admin/includes/pomo.php
 /wp-admin/includes/pt.php
 /wp-admin/includes/rk2.php
+/wp-admin/includes/theme.php
 /wp-admin/includes/v2.php
 /wp-admin/includes/wp-trackback.php
 /wp-admin/includes/xmrlpc.php
@@ -13454,6 +13566,7 @@
 /wp-admin/packed.php
 /wp-admin/pages.php
 /wp-admin/plugin.php
+/wp-admin/plugins.php
 /wp-admin/post-new.php
 /wp-admin/post.php
 /wp-admin/postnews.php
@@ -13829,6 +13942,7 @@
 /wp-content/plugins/adminfuns.php
 /wp-content/plugins/advanced-llms-txt-generator/assets/css/css_json.php
 /wp-content/plugins/advanced-product-fields-for-woocommerce/db.php
+/wp-content/plugins/affiliate-wp/affiliate-wp.php
 /wp-content/plugins/age-restriction/modules/remote_support/remote_init.php
 /wp-content/plugins/akismet/views/cmd.php
 /wp-content/plugins/alfa-rex.php
@@ -13839,6 +13953,7 @@
 /wp-content/plugins/apikey/
 /wp-content/plugins/apikey/mar.php
 /wp-content/plugins/app.php
+/wp-content/plugins/astra-portfolio/astra-portfolio.php
 /wp-content/plugins/atomlib.php
 /wp-content/plugins/autoload_classmap.php
 /wp-content/plugins/awesome-coming-soon/come.php
@@ -13890,6 +14005,7 @@
 /wp-content/plugins/easy-wp-smtp/includes/class-easywpsmtp-admin-settings.php
 /wp-content/plugins/easy-wp-smtp/includes/class-easywpsmtp-admin.php
 /wp-content/plugins/edaewni/index.php
+/wp-content/plugins/ele-custom-skin/ele-custom-skin.php
 /wp-content/plugins/elementor-pro/cong.php
 /wp-content/plugins/elementor/
 /wp-content/plugins/elementor/assets/js/packages/editor-app-bar/
@@ -13923,6 +14039,10 @@
 /wp-content/plugins/fluent-smtp/app/Services/SettingsService.php
 /wp-content/plugins/fluent-smtp/fluent-smtp.php
 /wp-content/plugins/fonts/fonts.php
+/wp-content/plugins/fooevents-calendar/class-fooevents-calendar.php
+/wp-content/plugins/fooevents/class-fooevents-config.php
+/wp-content/plugins/fooevents/class-fooevents.php
+/wp-content/plugins/fooevents_custom_attendee_fields/fooevents-custom-attendee-fields.php
 /wp-content/plugins/gmail-smtp/gmail-smtp.php
 /wp-content/plugins/gmail-smtp/includes/settings.php
 /wp-content/plugins/google-seo-rank/
@@ -13975,9 +14095,11 @@
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/not/includes/about.php
 /wp-content/plugins/nupkc/configUGT/
+/wp-content/plugins/official-facebook-pixel/facebook-for-wordpress.php
 /wp-content/plugins/olympus-google-fonts/assets/images/
 /wp-content/plugins/owfsmac/mar.php
 /wp-content/plugins/panel.php
+/wp-content/plugins/pdpa-thailand/pdpa-thailand.php
 /wp-content/plugins/phpad/as.php
 /wp-content/plugins/phpadmin/as.php
 /wp-content/plugins/phpadmin/autoload_classmap.php
@@ -14135,6 +14257,8 @@
 /wp-content/plugins/wp-theme-editor/
 /wp-content/plugins/wp-theme-editor/include.php
 /wp-content/plugins/wp-theme-editor/include.php%20
+/wp-content/plugins/wp-timelines/timeline.php
+/wp-content/plugins/wp-ultimo/wp-ultimo.php
 /wp-content/plugins/wp.php
 /wp-content/plugins/wpcall-button/admin.php
 /wp-content/plugins/wpcall-button/button-image.php
@@ -14218,12 +14342,17 @@
 /wp-content/themes/deeto/login.php
 /wp-content/themes/digital-download/
 /wp-content/themes/digital-download/new.php
+/wp-content/themes/enfold/header.php
+/wp-content/themes/enfold/template-builder.php
 /wp-content/themes/evita/
 /wp-content/themes/finley/min.php
 /wp-content/themes/fukasawa/inc/classes/403.php
 /wp-content/themes/fukasawa/inc/classes/403x.php
 /wp-content/themes/haha.php
 /wp-content/themes/hello-element/footer.php
+/wp-content/themes/hello-elementor/functions.php
+/wp-content/themes/hello-elementor/header.php
+/wp-content/themes/hello-elementor/index.php
 /wp-content/themes/hideo/
 /wp-content/themes/hideo/network.php
 /wp-content/themes/include.php
@@ -14345,6 +14474,7 @@
 /wp-content/upgrade/bypass.php
 /wp-content/upgrade/cc.php
 /wp-content/upgrade/class_api.php
+/wp-content/upgrade/f35.php
 /wp-content/upgrade/function.php
 /wp-content/upgrade/index.php
 /wp-content/upgrade/item.php
@@ -14674,6 +14804,8 @@
 /wp-includes/Requests/src/
 /wp-includes/Requests/src/Cookie/
 /wp-includes/Requests/src/Exception/Http/about.php
+/wp-includes/Requests/src/Iri.php
+/wp-includes/Requests/src/Requests.php
 /wp-includes/Requests/src/Response/000.php
 /wp-includes/Requests/src/Response/1.php
 /wp-includes/Requests/src/Response/about.php
@@ -14805,6 +14937,7 @@
 /wp-includes/block-bindings/admin.php
 /wp-includes/block-bindings/imagess.php
 /wp-includes/block-bindings/system_core.php
+/wp-includes/block-patterns.php
 /wp-includes/block-patterns/
 /wp-includes/block-patterns/about.php
 /wp-includes/block-patterns/admin.php
@@ -14816,6 +14949,7 @@
 /wp-includes/block-supports/
 /wp-includes/block-supports/100.php
 /wp-includes/block-supports/about.php
+/wp-includes/block-supports/align.php
 /wp-includes/block-supports/autoload_classmap.php
 /wp-includes/block-supports/custom-classname-library.php
 /wp-includes/block-supports/duotone-ajax.php
@@ -14842,6 +14976,7 @@
 /wp-includes/blocks/file/wp-style.php
 /wp-includes/blocks/gallery/index.php
 /wp-includes/blocks/group/wp-style.php
+/wp-includes/blocks/index.php
 /wp-includes/blocks/latest-comments/template-loader.php
 /wp-includes/blocks/latest-posts/index.php
 /wp-includes/blocks/list-item/index.php
@@ -14897,11 +15032,15 @@
 /wp-includes/class-wp-customize-section-less.php
 /wp-includes/class-wp-customize-section-meta.php
 /wp-includes/class-wp-date-query-trigger.php
+/wp-includes/class-wp-dependencies.php
 /wp-includes/class-wp-dependency-float.php
 /wp-includes/class-wp-error-module.php
+/wp-includes/class-wp-fatal-error-handler.php
 /wp-includes/class-wp-hook.php
 /wp-includes/class-wp-http-client.php
 /wp-includes/class-wp-http-ixr-client-view.php
+/wp-includes/class-wp-http-requests-response.php
+/wp-includes/class-wp-http.php
 /wp-includes/class-wp-image-editor-gd-boolean.php
 /wp-includes/class-wp-image-editor-gd-view.php
 /wp-includes/class-wp-language-pack.php
@@ -14916,6 +15055,7 @@
 /wp-includes/class-wp-simplepie-file-constructor.php
 /wp-includes/class-wp-simplepie-file-object.php
 /wp-includes/class-wp-smtp-bar.php
+/wp-includes/class-wp-styles.php
 /wp-includes/class-wp-taxonomy-sample.php
 /wp-includes/class-wp-taxonomy.editor.php
 /wp-includes/class-wp-term-dns.php
@@ -14927,8 +15067,10 @@
 /wp-includes/class-wp-theme-json-resolver-sql.php
 /wp-includes/class-wp-theme-map-index.php
 /wp-includes/class-wp-user-meta-session-tokens-first.php
+/wp-includes/class-wp-widget-factory.php
 /wp-includes/class-wp.php
 /wp-includes/class-wpdb-query.php
+/wp-includes/class-wpdb.php
 /wp-includes/class.api.php
 /wp-includes/classwithtostring.php
 /wp-includes/click.php
@@ -14939,6 +15081,7 @@
 /wp-includes/configRIV/about.php
 /wp-includes/configuration.php
 /wp-includes/count.php
+/wp-includes/cron.php
 /wp-includes/css/
 /wp-includes/css//index.php
 /wp-includes/css//xc.php
@@ -15040,9 +15183,11 @@
 /wp-includes/fonts/themes.php
 /wp-includes/fonts/wp-login.php
 /wp-includes/footer.php
+/wp-includes/formatting.php
 /wp-includes/function.php
 /wp-includes/functions.php
 /wp-includes/functions.wp-scripts-call.php
+/wp-includes/functions.wp-styles.php
 /wp-includes/fw.php
 /wp-includes/general-template.php
 /wp-includes/header.php
@@ -15050,9 +15195,12 @@
 /wp-includes/html-api/
 /wp-includes/html-api/about.php
 /wp-includes/html-api/chosen.php
+/wp-includes/html-api/class-wp-html-processor.php
+/wp-includes/html-api/html5-named-character-references.php
 /wp-includes/html-api/index.php
 /wp-includes/html-api/photo.php
 /wp-includes/html-api/wp-login.php
+/wp-includes/http.php
 /wp-includes/https-detection-list.php
 /wp-includes/id3/wp-work.php
 /wp-includes/idx_1775448345.php
@@ -15104,6 +15252,7 @@
 /wp-includes/interactivity-api/interactivity-api-xml.php
 /wp-includes/ioxi-o.php
 /wp-includes/item.php
+/wp-includes/joycjr.php
 /wp-includes/js/
 /wp-includes/js/aaa.php
 /wp-includes/js/chosen.php
@@ -15181,6 +15330,7 @@
 /wp-includes/js/wp-conflg.php
 /wp-includes/js/wp-load.php
 /wp-includes/js/wp-login.php
+/wp-includes/kbmavg.php
 /wp-includes/kn18l3.php
 /wp-includes/kses.php
 /wp-includes/l10n-old.php
@@ -15207,7 +15357,10 @@
 /wp-includes/module.php
 /wp-includes/ms-default-filters-alpha.php
 /wp-includes/ms-file.php
+/wp-includes/ms-load.php
 /wp-includes/ms-pie.php
+/wp-includes/ms-settings.php
+/wp-includes/ms-site.php
 /wp-includes/nano.php
 /wp-includes/nav-menu.php
 /wp-includes/network.php
@@ -15259,12 +15412,16 @@
 /wp-includes/random_compat/config.php
 /wp-includes/random_compat/index.php
 /wp-includes/repeater.php
+/wp-includes/rest-api.php
 /wp-includes/rest-api/
 /wp-includes/rest-api/1.php
 /wp-includes/rest-api/about.php
 /wp-includes/rest-api/alfa-rex.php
 /wp-includes/rest-api/autoload_classmap.php
+/wp-includes/rest-api/class-wp-rest-server.php
 /wp-includes/rest-api/endpoints/
+/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php
+/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php
 /wp-includes/rest-api/endpoints/config.php
 /wp-includes/rest-api/endpoints/index.php
 /wp-includes/rest-api/fields/
@@ -15288,6 +15445,7 @@
 /wp-includes/script-modules-less.php
 /wp-includes/sendgrid_keys.json
 /wp-includes/settings.php
+/wp-includes/sitemaps.php
 /wp-includes/sitemaps/
 /wp-includes/sitemaps/abcd.php
 /wp-includes/sitemaps/about.php
@@ -15297,6 +15455,7 @@
 /wp-includes/sitemaps/chosen.php
 /wp-includes/sitemaps/class-wp-sitemaps-provider-repository.php
 /wp-includes/sitemaps/class-wp-sitemaps-registry-event.php
+/wp-includes/sitemaps/class-wp-sitemaps.php
 /wp-includes/sitemaps/providers/
 /wp-includes/sitemaps/providers/class-wp-sitemaps-data.php
 /wp-includes/sitemaps/providers/class-wp-sitemaps-pages.php
@@ -15336,6 +15495,7 @@
 /wp-includes/sx.php
 /wp-includes/system_log.php
 /wp-includes/taxonomy-compiler.php
+/wp-includes/template-canvas.php
 /wp-includes/template-less.php
 /wp-includes/template-loader.php
 /wp-includes/template.php
@@ -15363,6 +15523,7 @@
 /wp-includes/vars-soap.php
 /wp-includes/version.php
 /wp-includes/webix.php
+/wp-includes/widgets.php
 /wp-includes/widgets/
 /wp-includes/widgets/about.php
 /wp-includes/widgets/autoload_classmap.php
@@ -15632,6 +15793,7 @@
 /wpp.php
 /wpputty.php
 /wps.php
+/wpsml-sys.php
 /wpssl.php
 /wpup.php
 /wpupex.php
@@ -15791,6 +15953,7 @@
 /x7.php
 /x7W.php
 /x7r.php
+/x7root.php
 /x9.php
 /xBrain.php
 /xa.php
