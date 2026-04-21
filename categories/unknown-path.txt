@@ -1393,6 +1393,7 @@
 /controlpanel
 /copy.zip
 /cordova.zip
+/core
 /core/.gitignore
 /core/access.log
 /core/backup.tar.gz
@@ -3418,6 +3419,7 @@
 /test/config/payment.js
 /test/stripe.config.js
 /test1
+/testing
 /testing.zip
 /testing/
 /tests/fixtures/stripe.json
@@ -3949,6 +3951,7 @@
 /wp-content/themes/twenty/
 /wp-content/themes/twentyfive/
 /wp-content/themes/twentythirteen/
+/wp-content/themes/twentytwentyfive/assets/
 /wp-content/themes/twentytwentyfour/
 /wp-content/themes/twentytwentyone/
 /wp-content/themes/twentytwentytwo/templates/
@@ -4056,6 +4059,7 @@
 /wp-includes/blocks/audio/
 /wp-includes/blocks/block/
 /wp-includes/blocks/button
+/wp-includes/blocks/buttons/
 /wp-includes/blocks/code/
 /wp-includes/blocks/comments-pagination-numbers/
 /wp-includes/blocks/details/
