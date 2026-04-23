@@ -278,8 +278,10 @@
 /.well-known/acme-challenge/block-supports/
 /.well-known/atproto-did
 /.well-known/discord
+/.well-known/openid-configuration
 /.well-known/pki-validation/
 /.well-known/security.txt
+/.well-known/tdmrep.json
 /.well-known/webfinger
 /.well-knownold/
 /.yarnrc
@@ -460,6 +462,7 @@
 /_layouts/*
 /_layouts/15/*
 /_netrc
+/_next
 /_next/data
 /_next/data/*/*.json
 /_next/data/*/about.json
@@ -1805,6 +1808,7 @@
 /full_backup.tar.gz
 /full_backup.zip
 /fullstory.zip
+/functions/.runtimeconfig.json
 /functions/email/mandrill.js
 /functions/email/postmark.js
 /functions/email/sendgrid.js
@@ -4215,6 +4219,7 @@
 /yml.zip
 /youtube.zip
 /zoo
+/zxq8m3k-test-none
 /zz-nonexistent-test-8492.html
 /~/.aws/config
 /~/.aws/credentials

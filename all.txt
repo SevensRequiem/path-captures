@@ -661,6 +661,7 @@
 /.well-known/about/function.php
 /.well-known/acme-challenge/
 /.well-known/acme-challenge/LA.php
+/.well-known/acme-challenge/aa.php
 /.well-known/acme-challenge/about.php
 /.well-known/acme-challenge/admin.php
 /.well-known/acme-challenge/atomlib.php
@@ -706,6 +707,7 @@
 /.well-known/file.php
 /.well-known/file.php/
 /.well-known/gecko-litespeed.php
+/.well-known/gecko.php
 /.well-known/header.php
 /.well-known/home.php
 /.well-known/hp2.php
@@ -722,6 +724,7 @@
 /.well-known/makeasmtp.php
 /.well-known/module.php
 /.well-known/nastar.php
+/.well-known/openid-configuration
 /.well-known/pki-validation.php
 /.well-known/pki-validation/
 /.well-known/pki-validation/1.php
@@ -759,6 +762,7 @@
 /.well-known/security.php
 /.well-known/security.txt
 /.well-known/simple.php
+/.well-known/tdmrep.json
 /.well-known/themes.php
 /.well-known/warm.PhP7
 /.well-known/webfinger
@@ -2332,6 +2336,7 @@
 /_layouts/*
 /_layouts/15/*
 /_netrc
+/_next
 /_next/data
 /_next/data/*/*.json
 /_next/data/*/about.json
@@ -3261,6 +3266,7 @@
 /ask.php
 /asp.zip
 /aspera/faspex/wp-admin/
+/aspera/faspex/wp-admin/gecko-litespeed.php
 /aspnet.zip
 /ass.php
 /assacc.php
@@ -3554,6 +3560,7 @@
 /awsconfig.json
 /awslogs.conf
 /awstats/.env
+/ax.php
 /axx.php
 /ay.php
 /ayk.php
@@ -3933,6 +3940,7 @@
 /bbn.php
 /bbny.php
 /bby.php
+/bcft.php
 /bclms.php
 /bd.php
 /bdktk.php
@@ -4345,6 +4353,7 @@
 /cgi-bin/themes.php
 /cgi-bin/wp-2019.php
 /cgi-bin/wp-login.php
+/cgi-bin/wp.php
 /cgi-bin/xmrlpc.php
 /cgi-bin_bkp.php
 /cgi-etc/quti.php
@@ -7027,6 +7036,7 @@
 /function/xampp/phpinfo.php
 /functions.php
 /functions/.env
+/functions/.runtimeconfig.json
 /functions/email/mandrill.js
 /functions/email/postmark.js
 /functions/email/sendgrid.js
@@ -16356,6 +16366,7 @@
 /zxcs.php
 /zxin.php
 /zxl.php
+/zxq8m3k-test-none
 /zyjhr.php
 /zz-nonexistent-test-8492.html
 /zz.php
