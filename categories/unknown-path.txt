@@ -1,3 +1,4 @@
+/$%7Brepo.html_url%7D
 /$(pwd)/*.auto.tfvars
 /$(pwd)/.terraform/terraform.tfstate
 /$(pwd)/netlify.toml
@@ -2642,6 +2643,7 @@
 /products
 /products.zip
 /profile/*
+/profiles/
 /project.zip
 /project/config/stripe.py
 /project/settings/payment.py
