@@ -490,6 +490,7 @@
 /_profiler/app/config/parameters.yml
 /_profiler/empty/search/results
 /_profiler/latest
+/_profiler/open
 /_profiler/phpinfo
 /_react/action/*
 /_react/data/*
@@ -1530,6 +1531,7 @@
 /debug.zip
 /debug/
 /debug/default/index
+/debug/default/open
 /debug/default/view
 /debug/default/view.html
 /debug/pprof
@@ -4142,6 +4144,7 @@
 /wp-includes/wp-includes/
 /wp-json/
 /wp-json/bricks/v1/render_element/
+/wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
 /wp-json/wc/store/cart
 /wp-json/wc/v2/payment_gateways

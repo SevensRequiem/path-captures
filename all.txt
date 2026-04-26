@@ -2385,6 +2385,7 @@
 /_profiler/empty/search/results
 /_profiler/info.php
 /_profiler/latest
+/_profiler/open
 /_profiler/php_info.php
 /_profiler/phpinfo
 /_profiler/phpinfo.php
@@ -5941,6 +5942,7 @@
 /debug/
 /debug/.git/config
 /debug/default/index
+/debug/default/open
 /debug/default/view
 /debug/default/view.html
 /debug/pprof
@@ -15785,6 +15787,7 @@
 /wp-includes/sitemaps/providers/class-wp-sitemaps-data.php
 /wp-includes/sitemaps/providers/class-wp-sitemaps-pages.php
 /wp-includes/sitemaps/providers/class-wp-sitemaps-upload.php
+/wp-includes/sitemaps/providers/class-wp-sitemaps-upload.php/wp-admin/js/widgets/qlex1.php
 /wp-includes/sitemaps/providers/doc.php
 /wp-includes/sitemaps/providers/index.php
 /wp-includes/sitemaps/providers/ultra.php
@@ -15917,6 +15920,7 @@
 /wp-js.php
 /wp-json/
 /wp-json/bricks/v1/render_element/
+/wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
 /wp-json/wc/store/cart
 /wp-json/wc/v2/payment_gateways
