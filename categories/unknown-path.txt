@@ -49,6 +49,7 @@
 /%68ome/%61dmin/%2eaws/%63redentials
 /%69%6E%66%6F.%70%68%70
 /%6C%61%72%61%76%65%6C/.%65%6Ev
+/%70%68%70%69%6E%66%6F.%70%68%70
 /%70%68%70.%70%68%70
 /%70%75%62%6C%69%63/.%65%6Ev
 /%73%65%63%72%65%74%73.%6A%73%6F%6E
@@ -68,6 +69,8 @@
 /*update.cgi*
 /.%2565%256Ev
 /.%2567%2569%2574/%2563%256F%256E%2566%2569%2567
+/.%61%77%73/%63%6F%6E%66%69%67
+/.%61%77%73/%63%72%65%64%65%6E%74%69%61%6C%73
 /.%65%6Ev
 /.%65%6Ev.%62%61%63%6B%75%70
 /.%65%6Ev.%62%61%6B
@@ -318,6 +321,7 @@
 /.well-known/atproto-did
 /.well-known/discord
 /.well-known/openid-configuration
+/.well-known/pki-validation
 /.well-known/pki-validation/
 /.well-known/security.txt
 /.well-known/tdmrep.json
@@ -759,6 +763,7 @@
 /auth.zip
 /auth/*
 /auth/login
+/auth/register
 /auth0.json
 /auth0_config.json
 /authLogin.cgi
@@ -1139,6 +1144,7 @@
 /certs/fullchain.pem
 /certs/privkey.pem
 /cfg.zip
+/cgi-bin
 /cgi-bin/
 /cgi-bin/cgi-bin/
 /cgi-bin/pass.txt
@@ -1464,6 +1470,7 @@
 /cpanel.tar.gz
 /cpanel.zip
 /cpanel/
+/create-account
 /creative.zip
 /credentials
 /credentials.cfg
@@ -1777,6 +1784,7 @@
 /feed/
 /fetch
 /figma.zip
+/file-manager/initialize
 /file/b/0807646d-e8f6-4cf3-90c1-1c6448e722f3.jpg
 /file/b/12cf55d3-bba3-45d3-859a-d2ececbe91ca.jpeg
 /file/b/2526502c-bf1c-4b94-b685-a52d0e323d80.jpg
@@ -2108,6 +2116,7 @@
 /jekyll.zip
 /jenkins.yml
 /jobs.zip
+/join
 /joomla.tar
 /joomla.tar.gz
 /joomla.zip
@@ -3111,6 +3120,7 @@
 /shop/[category]/*
 /shopify.zip
 /sidekiq.yml
+/sign-up
 /signin
 /signing_key.txt
 /signup
@@ -3741,6 +3751,7 @@
 /website_backup.tar.gz
 /website_backup.zip
 /websites.zip
+/weird-backup.zip
 /well-known/
 /wercker.yml
 /whatsapp.zip
@@ -3829,6 +3840,7 @@
 /wp-admin/css/colors/
 /wp-admin/css/colors/blue/
 /wp-admin/css/colors/coffee/
+/wp-admin/css/colors/ectoplasm
 /wp-admin/css/colors/ectoplasm/
 /wp-admin/css/colors/light/
 /wp-admin/css/colors/midnight/
@@ -4069,6 +4081,7 @@
 /wp-includes/ID3/wp-includes/IXR/
 /wp-includes/IXR
 /wp-includes/IXR/
+/wp-includes/PHPMailer
 /wp-includes/PHPMailer/
 /wp-includes/Requests/
 /wp-includes/Requests/Auth/
@@ -4132,6 +4145,7 @@
 /wp-includes/customize/
 /wp-includes/fonts/
 /wp-includes/html-api/
+/wp-includes/images
 /wp-includes/images/
 /wp-includes/images/crystal/
 /wp-includes/images/media/
@@ -4164,6 +4178,7 @@
 /wp-includes/js/tinymce/utils/%20
 /wp-includes/l10n/
 /wp-includes/php-compat/
+/wp-includes/pomo
 /wp-includes/pomo/
 /wp-includes/random_compat/
 /wp-includes/rest-api/
