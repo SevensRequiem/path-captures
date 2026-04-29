@@ -7779,6 +7779,7 @@
 /img/68a9786b699f34a48c95cd46
 /img/68aaa2ea699f34a48c95cffe
 /img/68b0ec66699f34a48c95e00a
+/img/68b204af699f34a48c95e1d8
 /img/68b3913a699f34a48c95e405
 /img/68b452f4699f34a48c95e5b3
 /img/68b82a00b1e4617e1104d260
@@ -10599,8 +10600,10 @@
 /rest.zip
 /rest/*
 /rest/.env
+/rest/V1/store/storeConfigs
 /rest/credential-translation
 /rest/credentials-for-node
+/rest/default/V1/store/storeConfigs
 /rest/executions
 /rest/license
 /rest/login
@@ -16539,6 +16542,7 @@
 /xrp.php
 /xs.php
 /xsas.php
+/xse.php
 /xse25.php
 /xsjtz.php
 /xslclbn.php
@@ -16708,6 +16712,7 @@
 /zz10.php
 /zz8.php
 /zzkhe.php
+/zzx.php
 /zzxy.php
 /~$config.php
 /~.php
