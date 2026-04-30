@@ -318,6 +318,7 @@
 /.well-known/
 /.well-known/acme-challenge/
 /.well-known/acme-challenge/block-supports/
+/.well-known/agent-card.json
 /.well-known/atproto-did
 /.well-known/discord
 /.well-known/openid-configuration
@@ -563,6 +564,8 @@
 /actuator/health
 /actuator/heapdump
 /actuator/info
+/actuator/loggers
+/actuator/mappings
 /admin
 /admin-api/
 /admin.html
@@ -2472,6 +2475,7 @@
 /nexmo.json
 /nextjs.zip
 /nginx.conf
+/nginx_status
 /ngsw-worker.js
 /node/.env_example
 /node_modules.tar

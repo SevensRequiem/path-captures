@@ -737,6 +737,7 @@
 /.well-known/acme-challenge/xmrlpc.php
 /.well-known/admin.php
 /.well-known/adminer.php
+/.well-known/agent-card.json
 /.well-known/ans.php
 /.well-known/as.php
 /.well-known/atproto-did
@@ -2562,6 +2563,8 @@
 /actuator/health
 /actuator/heapdump
 /actuator/info
+/actuator/loggers
+/actuator/mappings
 /actuator;/env;
 /acwfihfh.php
 /ad.php
@@ -3434,6 +3437,7 @@
 /at.php
 /atex1.php
 /atfis.php
+/atika.php
 /atkno.php
 /atombil.php
 /atomlib.php
@@ -4187,6 +4191,7 @@
 /bnnof6.php
 /bo.php
 /boards.json
+/bob.php
 /bogles.php
 /bojcdooq.php
 /bolt.php
@@ -6949,6 +6954,7 @@
 /file51.php
 /file52.php
 /file56.php
+/file58.php
 /file59.php
 /file6.php
 /file61.php
@@ -7246,6 +7252,7 @@
 /gecko-new.php
 /gecko.php
 /gedim.php
+/geforce.php
 /geger.php
 /geido.php
 /geju.php
@@ -9378,6 +9385,7 @@
 /nginx-server/.env
 /nginx.conf
 /nginx/.env
+/nginx_status
 /ngocokpeli.php
 /ngsw-worker.js
 /nhj6t74aqmkde3hgpCdefault.php
@@ -9546,6 +9554,7 @@
 /ol.php7
 /old
 /old-index.php
+/old-wp-config.php
 /old.sql
 /old.tar
 /old.tar.gz
@@ -9954,6 +9963,7 @@
 /plugins/kcfinder/upload.php
 /plugins/nubecore/frontend/app.php
 /plugins/payments/stripe.json
+/plugins/plupload/examples/upload.php
 /plugins/system/mailgun/mailgun.php
 /plugins/system/piwik/piwik.php
 /plugins/system/sendgrid/sendgrid.php
@@ -11626,6 +11636,7 @@
 /sparkpost_suppression.json
 /sparkpost_templates.json
 /sparkpost_webhook.php
+/spawns.php
 /spcA2qaMDHu.php
 /spearmint/.env
 /special.php
@@ -12720,6 +12731,7 @@
 /up/.well-known/
 /up/main.php
 /up1.php
+/up2.php
 /up4.php
 /update-core.php
 /update.php
@@ -12800,6 +12812,7 @@
 /uploadshell.php
 /uploadx.php
 /uploartg.php
+/uploat.php
 /uploaxa1.php
 /uplozyu.php
 /upppp.php
@@ -12913,6 +12926,7 @@
 /uuwno.php
 /uvlyi.php
 /uvygonziqtx.php
+/uwa.php
 /uwu.php
 /uwu2.php
 /ux.zip
@@ -14075,6 +14089,7 @@
 /wp-config-backup.tar.gz
 /wp-config-backup.zip
 /wp-config-blog.php
+/wp-config-old.php
 /wp-config-pantheon.php
 /wp-config-sample.php
 /wp-config-sample.php.bak
@@ -14109,6 +14124,7 @@
 /wp-config.tar.gz
 /wp-config.txt
 /wp-config.zip
+/wp-config_old.php
 /wp-configer.php
 /wp-configs.php
 /wp-configss.php
@@ -16280,6 +16296,7 @@
 /wpx.php
 /wpxadmin.php
 /wpxl.php
+/wpxml.php
 /wpyur.php
 /wqbtn.php
 /wqqs.php
@@ -16469,6 +16486,7 @@
 /xde.php
 /xdebug.php
 /xdebug_info.php
+/xeaq.php
 /xeeex.php
 /xendppio.php
 /xenium4.php
@@ -16566,6 +16584,7 @@
 /xxd.php
 /xxiviLDIot.php
 /xxivicLhot.php
+/xxl.php
 /xxmlrpc.php
 /xxw.php
 /xxx.php
