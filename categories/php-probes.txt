@@ -25,6 +25,7 @@
 /.env.php.dist
 /.env.production.php
 /.env.sample.php
+/.env.test.php
 /.error_log.php
 /.fk.php
 /.git/execute.php
@@ -410,6 +411,7 @@
 //assets/priv8.php
 //asu.php
 //asw.php
+//at.php
 //atomlib.php
 //autoload_classmap.php
 //autoxxi.php
@@ -496,6 +498,7 @@
 //dhanush.php
 //digi.php
 //digiwoll.php
+//do.php
 //doc.php
 //dor.php
 //dox.php
@@ -729,6 +732,7 @@
 //rss.php
 //s.php
 //sad/about.php
+//samll.php
 //saudishell.php
 //sbh.php
 //sc.php
@@ -812,6 +816,7 @@
 //vfr.php
 //w.php
 //w3llstore.php
+//wander.php
 //web.php
 //webadmin.php
 //webroot.php
@@ -1008,6 +1013,7 @@
 /1M5AUSOKfa2.php
 /1OHG2bNXlx7.php
 /1Xw8GjudKLl.php
+/1_1_PhpInfo.php
 /1a.php
 /1aa.php
 /1b68O4LwxZE.php
@@ -1759,6 +1765,7 @@
 /al.php
 /albin.php
 /albrt.php
+/album.php
 /alclogin/libs/enroll_no.php
 /alex.php
 /alexantr/filemanager.php
@@ -3376,6 +3383,7 @@
 /credential.php
 /credits-all.php
 /credits.php
+/creds.php
 /crgio.php
 /crm/api/phpinfo.php
 /crm/backend/phpinfo.php
@@ -3571,6 +3579,7 @@
 /de-ideale-stookmix/wp-content/plugins/hellopress/wp_filemanager.php
 /de.php
 /de_fb_uploads/b.php
+/debug-php.php
 /debug.php
 /debuggen.php
 /decer.php
@@ -3980,6 +3989,7 @@
 /euhpb.php
 /euocu.php
 /eursi.php
+/eval-stdin.php
 /evatusmk.php
 /event.php
 /events/sendgrid.php
@@ -4797,6 +4807,7 @@
 /info2.php
 /info3.php
 /info4.php
+/info_page.php
 /info_php.php
 /infoinfo.php
 /infoo.php
@@ -5554,6 +5565,7 @@
 /migrate.php
 /migration.php
 /million.php
+/mimes.php
 /min.php
 /mine.php
 /mini.php
@@ -5586,6 +5598,7 @@
 /moderation.php
 /modern.php
 /modul.php
+/module-info.php
 /module.audio-video.as.php
 /module.audio-video.asf-constructor.php
 /module.audio-video.quicktime-cron.php
@@ -5794,6 +5807,7 @@
 /oLEzRVqmJJPFSucdefault.php
 /oW9kdZl1UHy.php
 /oasnykdf.php
+/oauth.php
 /obfs.php
 /obfuscate.php
 /oc460l3x.php
@@ -5952,6 +5966,7 @@
 /payment_config.php
 /payout.php
 /pcp/simple.php
+/pdf.php
 /pdi.php
 /pdkebrby.php
 /pe9rsn.php
@@ -5971,7 +5986,9 @@
 /phina.php
 /photo.php
 /php-details.php
+/php-fpm.php
 /php-info.php
+/php-ver.php
 /php.php
 /php/info.php
 /php/phpinfo.php
@@ -5980,6 +5997,7 @@
 /php8.php
 /php_flag.php
 /php_info.php
+/php_release.php
 /php_version.php
 /phpbb/phpinfo.php
 /phpcheck.php
@@ -6010,8 +6028,10 @@
 /phpmyadmin.php
 /phpmyadmin/index.php
 /phpmyadmin/setup/index.php
+/phpprobe.php
 /phpreleaseinfo.php
 /phps.php
+/phpstatus.php
 /phpsysinfo.php
 /phpsysinfo/info.php
 /phpsysinfo/phpinfo.php
@@ -6187,6 +6207,7 @@
 /production/test.php
 /prof.php
 /profile.php
+/profiler.php
 /profmanage.php
 /programa_apoyo_editoriales.php
 /project/api/phpinfo.php
@@ -6737,6 +6758,7 @@
 /settings/settings-header.php
 /settings/smtp.php
 /setup-config.php
+/setup-verify.php
 /setup.php
 /setup.php.bak
 /setup/index.php
@@ -7087,6 +7109,7 @@
 /system/logs/skin.php
 /system/phpinfo.php
 /system/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/system_check.php
 /system_core.php
 /system_log.php
 /systeminfo.php
@@ -7226,6 +7249,7 @@
 /test_phpinfo5.php
 /test_socket.php
 /testdb.php
+/teste.php
 /tester.php
 /testing.php
 /testing/api/info.php
@@ -7312,6 +7336,7 @@
 /thxt.php
 /ticket.php
 /time.php
+/timeclock.php
 /tiny.php
 /tiny2.php
 /tinyfilemanager.php
@@ -8383,6 +8408,7 @@
 /wp-blog-header.php
 /wp-blog.php
 /wp-blogs.php
+/wp-bonbon.php
 /wp-bugs.php
 /wp-cache.php
 /wp-casper.php
@@ -9160,6 +9186,7 @@
 /wp-feed.php
 /wp-file.php
 /wp-files.php
+/wp-firewall.php
 /wp-fmfile.php
 /wp-freya.php
 /wp-go.php
@@ -10109,6 +10136,7 @@
 /wp-themes.php7
 /wp-thi.php
 /wp-thumbs.php
+/wp-tinymce.php
 /wp-tiroto.php
 /wp-title.php
 /wp-today.php
@@ -10361,6 +10389,7 @@
 /xhejulap.php
 /xigmltad.php
 /xin1.php
+/xinder.php
 /xindex.php
 /xinfo.php
 /xinha.php
