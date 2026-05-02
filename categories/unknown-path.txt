@@ -151,6 +151,7 @@
 /.composer/auth.json
 /.config.js
 /.config/config.json
+/.config/env/production.js
 /.config/gh/hosts.yml
 /.credentials
 /.credentials.cfg
@@ -290,8 +291,14 @@
 /.smtp-credentials
 /.smtp.json
 /.sparkpost
+/.ssh/authorized_keys
+/.ssh/config
+/.ssh/id_dsa
+/.ssh/id_ecdsa
+/.ssh/id_ed25519
 /.ssh/id_rsa
 /.ssh/id_rsa.pub
+/.ssh/known_hosts
 /.ssh/sftp-config.json
 /.stripe/
 /.terraform.lock.hcl
@@ -512,6 +519,7 @@
 /_next/data/*/about.json
 /_next/data/*/index.json
 /_next/static/*
+/_next/static/buildManifest.js
 /_next/static/chunks/945-34f67d7c0866cf61b970.js
 /_next/static/chunks/app/%5B...not-found%5D/page-63e952e68a371605.js
 /_next/static/chunks/app/error.js
@@ -668,6 +676,7 @@
 /app
 /app-7d66de919618d3830635.js
 /app-config.js
+/app-config.json
 /app.js
 /app.js.map
 /app.log
@@ -1045,6 +1054,7 @@
 /backup_site.tar
 /backup_site.tar.gz
 /backup_site.zip
+/backup_web_config.txt
 /backup_weekly.zip
 /backup_yearly.zip
 /backups.tar
@@ -1076,6 +1086,7 @@
 /billing/*
 /billing/stripe.json
 /bin.zip
+/bin/.devenv
 /bitbucket-pipelines.yml
 /bitrix/admin/htmleditor2/%20
 /bk/
@@ -1101,6 +1112,7 @@
 /box.zip
 /braintree.json
 /bugsnag.zip
+/build-manifest.json
 /build.gradle
 /build.log
 /build.sh
@@ -1766,6 +1778,7 @@
 /etc/apache2/apache2.conf
 /etc/aws/credentials
 /etc/boto.cfg
+/etc/environment
 /etc/passwd
 /example.env
 /example.zip
