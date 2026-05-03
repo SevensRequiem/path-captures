@@ -1,6 +1,12 @@
+/%252egit/config.bak
+/%252egit/config.old
+/%252f%252egit%252fconfig.bak
+/%252f%252egit%252fconfig.old
 /%2eenv.save
 /%2egit/config.bak
 /%2egit/config.old
+/%2f%2egit%2fconfig.bak
+/%2f%2egit%2fconfig.old
 /.aws/credentials.backup
 /.aws/credentials.bak
 /.aws/credentials.old
@@ -37,6 +43,7 @@
 /admin_panel.sql
 /admincp.sql
 /administrator.sql
+/all-databases.sql
 /api/db.sql
 /api/db_backup.sql
 /api1.sql
@@ -47,6 +54,7 @@
 /app/etc/local.xml.bak
 /application.properties.bak
 /application.yml.bak
+/appsettings.json.bak
 /aws.backup
 /aws.bak
 /aws.old
@@ -181,6 +189,7 @@
 /env.sql
 /export.sql
 /full.sql
+/full_backup.sql
 /includes.sql
 /index.sql
 /install.sql
@@ -255,6 +264,7 @@
 /sql.sql
 /sql/backup.sql
 /sql/db.sql
+/sql/dump.sql
 /sql1.sql
 /sql_1.sql
 /src/app.js.bak
@@ -290,6 +300,8 @@
 /users_1.sql
 /var/backups/db.sql
 /wallet.sql
+/web.config.bak
+/web.config.old
 /web.sql
 /web/app.js.bak
 /web/backup.sql
@@ -332,6 +344,7 @@
 /wp-content/uploads/dump.sql
 /wp-content/uploads/mysql.sql
 /wp-content/wordpress.sql
+/wp.sql
 /www-backup.sql
 /www.sql
 /www1.sql
