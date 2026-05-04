@@ -1630,6 +1630,7 @@
 /.env_example
 /.env_old
 /.env_private
+/.env_production
 /.env_sample
 /.env_secret
 /.environment
@@ -1776,7 +1777,9 @@
 /.vscode/sftp.json
 /.well-known
 /.well-known/
+/.well-known/*
 /.well-known/acme-challenge/
+/.well-known/acme-challenge/*
 /.well-known/acme-challenge/block-supports/
 /.well-known/agent-card.json
 /.well-known/atproto-did
@@ -1785,6 +1788,8 @@
 /.well-known/pki-validation
 /.well-known/pki-validation/
 /.well-known/security.txt
+/.well-known/stripe.txt
+/.well-known/stripe/
 /.well-known/tdmrep.json
 /.well-known/webfinger
 /.well-knownold/
@@ -2457,6 +2462,8 @@
 /app/vercel.json
 /app_dev%2ephp/_profiler/open
 /apple-app-site-association
+/apple-touch-icon-120x120-precomposed.png
+/apple-touch-icon-120x120.png
 /apple-touch-icon-precomposed.png
 /apple-touch-icon.png
 /application-dev.properties
@@ -2880,6 +2887,7 @@
 /blogs/%2eenv
 /bluehost.zip
 /boards.json
+/boards/nsfw
 /boot.zip
 /bower_components.zip
 /box.zip
@@ -4460,6 +4468,7 @@
 /openapi.json
 /openapi.yaml
 /opencart.zip
+/openid_connect/cpanelid
 /opt.zip
 /opt/%252eenv
 /opt/%2eenv
@@ -5475,6 +5484,7 @@
 /store.tar.gz
 /store.zip
 /store/%2eenv
+/str636%20unique%20HTTP%20paths%20emitted%20ipe/webhook_secret.env
 /stripe%252econfig%252ejs
 /stripe%252eenv
 /stripe%252ejson

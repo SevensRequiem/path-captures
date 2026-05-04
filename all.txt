@@ -1986,6 +1986,7 @@
 /.env.email
 /.env.example
 /.env.example.local
+/.env.gz
 /.env.hidden
 /.env.hide
 /.env.ini
@@ -2093,6 +2094,7 @@
 /.env.zip
 /.env.~
 /.env/.env.bak
+/.env/.env.local/.env.production/.env.staging/.env.development/.env.test/.env.remote/.env.bak/.env.backup/.env.save/.env.old/.env.sample/.env.example/.env.dev/.env.prod/.env.stage/.env.ci/.env.docker/.env.live/.env.preprod/.env.uat/.env.dist/.env.swp/.env~/.env1/.env2/.env_copy/.env.txt/.env.json/.env.yaml/.env.yml/app/.env/apps/.env/api/.env/web/.env/site/.env/public/.env/admin/.env/backend/.env/server/.env/frontend/.env/src/.env/core/.env/core/app/.env/config/.env/private/.env/application/.env/bootstrap/.env/database/.env/storage/.env/var/www/.env/var/www/html/.env/current/.env/release/.env/releases/.env/shared/.env/deploy/.env/build/.env/dist/.env/public_html/.env/htdocs/.env/www/.env/html/.env/live/.env/prod/.env/dev/.env/staging/.env/opt/.env/laravel/.env/symfony/.env/wordpress/.env/wp/.env/cms/.env/drupal/.env/joomla/.env/magento/.env/shopify/.env/prestashop/.env/codeigniter/.env/cakephp/.env/zend/.env/yii/.env/laravel5/.env/v1/.env/v2/.env/v3/.env/api/v1/.env/api/v2/.env/rest/.env/graphql/.env/gateway/.env/microservice/.env/service/.env/api/v3/.env/api/dev/.env/api/staging/.env/vendor/.env/lib/.env/resources/.env/assets/.env/uploads/.env/internal/.env/tools/.env/scripts/.env/bin/.env/sbin/.env/local/.env/portal/.env/dashboard/.env/panel/.env/crm/.env/erp/.env/shop/.env/store/.env/saas/.env/client/.env/project/.env/admin-panel/.env/control-panel/.env/user-panel/.env/node/.env/express/.env/next/.env/nuxt/.env/nest/.env/react/.env/vue/.env/angular/.env/svelte/.env/vite/.env/backup/.env/backups/.env/old/.env/tmp/.env/temp/.env/lab/.env/cronlab/.env/cron/.env/en/.env/administrator/.env/psnlink/.env/exapi/.env/sitemaps/.env/.env.backup1/.env.backup2/logs/.env/cache/.env/mailer/.env/mail/.env/email/.env/smtp/.env/mailing/.env/notifications/.env/notify/.env/sender/.env/campaign/.env/newsletter/.env/ses/.env/sendgrid/.env/sparkpost/.env/postmark/.env/mailgun/.env/mandrill/.env/mailjet/.env/brevo/.env/transactional/.env/bulk/.env/aws/.env/azure/.env/gcp/.env/cloud/.env/infrastructure/.env/docker/.env/k8s/.env/kubernetes/.env/terraform/.env/ansible/.env/.git/.env/ci/.env/cd/.env/jenkins/.env/gitlab/.env/github/.env/actions/.env/circleci/.env/travis/.env/buildkite/.env/mysql/.env/postgres/.env/mongodb/.env/redis/.env/elasticsearch/.env/rabbitmq/.env/kafka/.env/queue/.env/worker/.env/job/.env/test/.env/qa/.env/preview/.env/beta/.env/uat/.env/stage/.env/development/.env/production/.env/config/app/.env
 /.env1
 /.env::$DATA
 /.env;.css
@@ -2105,6 +2107,7 @@
 /.env_example
 /.env_old
 /.env_private
+/.env_production
 /.env_sample
 /.env_secret
 /.environment
@@ -2387,6 +2390,7 @@
 /.well-known
 /.well-known.php
 /.well-known/
+/.well-known/*
 /.well-known/.env
 /.well-known/.well-known/cc.php
 /.well-known/1.php
@@ -2401,6 +2405,7 @@
 /.well-known/about.php
 /.well-known/about/function.php
 /.well-known/acme-challenge/
+/.well-known/acme-challenge/*
 /.well-known/acme-challenge/LA.php
 /.well-known/acme-challenge/aa.php
 /.well-known/acme-challenge/about.php
@@ -2508,6 +2513,8 @@
 /.well-known/security.php
 /.well-known/security.txt
 /.well-known/simple.php
+/.well-known/stripe.txt
+/.well-known/stripe/
 /.well-known/tdmrep.json
 /.well-known/themes.php
 /.well-known/tskijagj.php
@@ -4430,6 +4437,7 @@
 /acfdr.php
 /acfipnci.php
 /achan
+/achan.moe/.env
 /achan/administrator/index.php
 /achan/xmlrpc.php
 /acjsn.php
@@ -5236,6 +5244,8 @@
 /app_local.php
 /app_nginx_static_path/.env
 /apple-app-site-association
+/apple-touch-icon-120x120-precomposed.png
+/apple-touch-icon-120x120.png
 /apple-touch-icon-precomposed.png
 /apple-touch-icon.png
 /application-dev.properties
@@ -6232,6 +6242,7 @@
 /bnnof6.php
 /bo.php
 /boards.json
+/boards/nsfw
 /bob.php
 /bogles.php
 /bojcdooq.php
@@ -8537,6 +8548,7 @@
 /docs/.env
 /docs/.git/config
 /docs/i.php
+/docs/phpinfo.php
 /document.php
 /documentation.zip
 /documents.tar
@@ -9757,6 +9769,7 @@
 /htdocs/.env
 /htdocs/.git/HEAD
 /htdocs/mail.php
+/htdocs/phpinfo.php
 /html.php
 /html.tar
 /html.tar.gz
@@ -11869,6 +11882,7 @@
 /openapi.yaml
 /opencart.zip
 /opencart/.env
+/openid_connect/cpanelid
 /opotv.php
 /ops/vagrant/.env
 /opt.zip
@@ -12168,10 +12182,13 @@
 /phpinfo.html
 /phpinfo.php
 /phpinfo.php.bak
+/phpinfo.php.old
+/phpinfo.php.save
 /phpinfo.php.txt
 /phpinfo.php3
 /phpinfo.php4
 /phpinfo.php5
+/phpinfo.php~
 /phpinfo.phtml
 /phpinfo.srv
 /phpinfo.staging
@@ -12367,6 +12384,7 @@
 /prestashop/.env
 /preview-env/.env
 /preview/.env
+/preview/phpinfo.php
 /prevlaravel/sftp-config.json
 /price.php
 /price_hawk_client/.env
@@ -12695,6 +12713,7 @@
 /public_html/mail.php
 /public_html/php-info.php
 /public_html/php.php
+/public_html/phpinfo.php
 /public_html/pinfo.php
 /public_html/service/info.php
 /public_html/service/phpinfo.php
@@ -14276,6 +14295,7 @@
 /staging/infos.php
 /staging/lara/info.php
 /staging/php.php
+/staging/phpinfo.php
 /staging/phpversion.php
 /staging/pinfo.php
 /staging/server/phpinfo.php
@@ -14422,6 +14442,7 @@
 /store/.env
 /store/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /str.php
+/str636%20unique%20HTTP%20paths%20emitted%20ipe/webhook_secret.env
 /str_replace.php
 /str_shuffcle.php
 /strapi/.env
@@ -15178,6 +15199,7 @@
 /uP6nVpTx3SA.php
 /uang.php
 /uat.zip
+/uat/phpinfo.php
 /uazsl.php
 /ubh/
 /ubh/as.php
@@ -16540,6 +16562,7 @@
 /wp-admin/output.php
 /wp-admin/packed.php
 /wp-admin/pages.php
+/wp-admin/phpinfo.php
 /wp-admin/plugin.php
 /wp-admin/plugins.php
 /wp-admin/post-new.php
@@ -19013,6 +19036,7 @@
 /www/.git/HEAD
 /www/.git/config
 /www/mail.php
+/www/phpinfo.php
 /www1.sql
 /www2.sql
 /www_backup.tar
