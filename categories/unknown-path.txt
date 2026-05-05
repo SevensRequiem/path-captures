@@ -1535,6 +1535,7 @@
 /.amplifyrc
 /.anthropic/config.json
 /.api_keys
+/.astro/manifest.json
 /.aws
 /.aws-sam/
 /.aws/
@@ -1611,6 +1612,7 @@
 /.docker/
 /.docker/config.json
 /.docker/secrets.json
+/.dockercfg
 /.dockerenv
 /.dockerignore
 /.drone.secret
@@ -1794,6 +1796,7 @@
 /.well-known/webfinger
 /.well-knownold/
 /.yarnrc
+/.yarnrc.yml
 /.zsh_history
 /.zshenv
 //2018/wp-includes/wlwmanifest.xml
@@ -1965,6 +1968,8 @@
 /[slug]
 /[tenant]/*
 /[workspace]/*
+/__/api/projects/_/config
+/__/firebase/init.json
 /__ENV.js
 /___proxy_subdomain_cpanel
 /___proxy_subdomain_whm/login
@@ -1999,9 +2004,11 @@
 /_debugbar
 /_debugbar/
 /_debugbar/open
+/_debugbar/open-handler
 /_dev
 /_environment
 /_git/config
+/_health
 /_ignition/
 /_ignition/execute-solution
 /_inc/phpinfo%2ephp
@@ -2025,6 +2032,9 @@
 /_next/data/*/*.json
 /_next/data/*/about.json
 /_next/data/*/index.json
+/_next/data/[build-id]/admin.json
+/_next/data/[build-id]/config.json
+/_next/data/[build-id]/index.json
 /_next/data/build_id/
 /_next/data/build_id/%255b...slug%255d.json
 /_next/data/build_id/%255bslug%255d.json
@@ -2042,6 +2052,8 @@
 /_next/data/development/
 /_next/data/index%2ejson
 /_next/data/index.json
+/_next/data/latest/index.json
+/_next/data/latest/settings.json
 /_next/data/production/
 /_next/debug
 /_next/env
@@ -2098,6 +2110,7 @@
 /_next/server/server-reference-manifest.json
 /_next/static/
 /_next/static/*
+/_next/static/build-id.txt
 /_next/static/buildManifest.js
 /_next/static/build_id
 /_next/static/chunks/
@@ -2115,6 +2128,7 @@
 /_next/static/chunks/framework%2ejs
 /_next/static/chunks/framework-[hash].js
 /_next/static/chunks/framework.js
+/_next/static/chunks/framework.js.map
 /_next/static/chunks/main%2ejs
 /_next/static/chunks/main-app-[hash].js
 /_next/static/chunks/main.js
@@ -2122,12 +2136,16 @@
 /_next/static/chunks/pages/_app-a9fba37d935ce3f3.js
 /_next/static/chunks/pages/_app-d1b5411bacd03f02.js
 /_next/static/chunks/pages/_app-d25b242610000153a081.js
+/_next/static/chunks/pages/_app.js
+/_next/static/chunks/pages/_app.js.map
+/_next/static/chunks/pages/api/auth/[...nextauth].js.map
 /_next/static/chunks/pages/dashboard.js.map
 /_next/static/chunks/polyfills%2ejs
 /_next/static/chunks/polyfills.js
 /_next/static/chunks/webpack%2ejs
 /_next/static/chunks/webpack-[hash].js
 /_next/static/chunks/webpack.js
+/_next/static/chunks/webpack.js.map
 /_next/static/css/
 /_next/static/css/%252a.map
 /_next/static/css/%2a.map
@@ -2136,6 +2154,9 @@
 /_next/static/development/
 /_next/static/development/_buildmanifest%2ejs
 /_next/static/development/_buildmanifest.js
+/_next/static/development/_devMiddlewareManifest.json
+/_next/static/development/_devPagesManifest.json
+/_next/static/development/_middlewareManifest.json
 /_next/static/development/_ssgmanifest%2ejs
 /_next/static/development/_ssgmanifest.js
 /_next/static/development/build-manifest%2ejson
@@ -2168,6 +2189,8 @@
 /_next/webpack-hmr%253fpage%253d/index
 /_next/webpack-hmr%3fpage%3d/
 /_next/webpack-hmr%3fpage%3d/index
+/_nuxt/builds/latest.json
+/_nuxt/manifest.json
 /_old/
 /_phpinfo%2ephp
 /_profiler
@@ -2346,6 +2369,7 @@
 /app.yaml
 /app.yml
 /app.zip
+/app/
 /app/%2528..%2529
 /app/%2528..%2529/page
 /app/%2528group%2529
@@ -3067,6 +3091,7 @@
 /config/access.log
 /config/analytics.json
 /config/app.js
+/config/application.properties
 /config/application.yml
 /config/aws
 /config/aws%252ephp
@@ -3511,10 +3536,12 @@
 /dist.tar
 /dist.tar.gz
 /dist.zip
+/dist/.vite/manifest.json
 /dist/app.js.map
 /dist/bundle.js.map
 /dist/js/app.[hash].js
 /dist/main.js.map
+/dist/manifest.json
 /distribution.zip
 /division.zip
 /django.zip
@@ -4083,6 +4110,9 @@
 /js/tinymce/utils/%20
 /js/vendor.[hash].js
 /js/widgets/
+/json-api/appconfig
+/json-api/getlanglist
+/json-api/version
 /json.zip
 /jwt.key
 /jwt.zip
@@ -4112,6 +4142,8 @@
 /keys/stripe.txt
 /kinesis.json
 /kms_key.txt
+/kube/config
+/kubeconfig
 /kubernetes.yml
 /kubernetes/
 /kubernetes/eks/secrets.json
@@ -4298,6 +4330,7 @@
 /mandrill_test_key.txt
 /mandrill_token.txt
 /manifest.json
+/manifest.webmanifest
 /manual.zip
 /mariadb.zip
 /master.tar
@@ -4422,6 +4455,7 @@
 /newsite
 /newsletter.zip
 /nexmo.json
+/next.config.js
 /nextjs.zip
 /nginx%252econf
 /nginx%2econf
@@ -4620,6 +4654,7 @@
 /phpunit/phpunit/src/Util/PHP/
 /phpversion%2ephp
 /pinterest.zip
+/pip.conf
 /pipeline.zip
 /pk_live.txt
 /pk_test.txt
@@ -5082,6 +5117,8 @@
 /servers/save%252ecgi
 /servers/save%2ecgi
 /servers/save.cgi
+/service-account-key.json
+/service-account.json
 /service-worker.js
 /service-worker.js.map
 /service.grp
@@ -5428,9 +5465,13 @@
 /static/js/main.ef8ecb99.chunk.js
 /static/js/main.js.map
 /static/js/vendor.js.map
+/static/manifest.json
 /statistics.zip
 /stats.json
+/status
 /status%2ephp
+/stderr
+/stdout
 /storage/%2eenv
 /storage/app/keys/stripe.key
 /storage/app/stripe.json
@@ -5534,6 +5575,7 @@
 /subdomain.zip
 /subscribe
 /subscriptions/stripe.json
+/supabase-config.json
 /supabase/%2eenv
 /support
 /support.zip
@@ -5798,6 +5840,7 @@
 /v1/graphql
 /v1/phpinfo%2ephp
 /v1/private/
+/v1/swagger.json
 /v2.zip
 /v2/%2eenv
 /v2/*
@@ -5808,6 +5851,7 @@
 /v2/keys/%253frecursive%253dtrue
 /v2/keys/%3frecursive%3dtrue
 /v2/phpinfo%2ephp
+/v2/swagger.json
 /v3.zip
 /v3/%2eenv
 /v3/api-docs
@@ -5902,6 +5946,7 @@
 /vercel%252ejson
 /vercel%2ejson
 /vercel.json
+/version
 /version.txt
 /version1.zip
 /version2.zip
@@ -5992,7 +6037,9 @@
 /website_backup.zip
 /websites.zip
 /weird-backup.zip
+/well-known
 /well-known/
+/well-known/pki-validation
 /wercker.yml
 /whatsapp.zip
 /whm.zip
@@ -6287,6 +6334,7 @@
 /wp-content/uploads/2026/
 /wp-content/uploads/fusion-forms/
 /wp-content/uploads/gravity_forms/
+/wp-content/uploads/gravity_forms/logs/
 /wp-content/uploads/sendgrid_keys.json
 /wp-content/uploads/simple-file-list/
 /wp-content/uploads/stuff/
@@ -6448,6 +6496,9 @@
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
+/wp-json/post-smtp/v1/logs
+/wp-json/s3-offload/v1/debug-report
+/wp-json/sendmachine/v1/manage_admin_requests
 /wp-json/wc/store/cart
 /wp-json/wc/v1/payment_gateways
 /wp-json/wc/v2/payment_gateways
@@ -6457,6 +6508,7 @@
 /wp-json/wp/v2/categories
 /wp-json/wp/v2/give_forms/
 /wp-json/wp/v2/media
+/wp-json/wp/v2/migration/legacy-export
 /wp-json/wp/v2/pages
 /wp-json/wp/v2/posts
 /wp-json/wp/v2/tags

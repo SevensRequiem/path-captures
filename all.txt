@@ -1803,6 +1803,7 @@
 /.amplifyrc
 /.anthropic/config.json
 /.api_keys
+/.astro/manifest.json
 /.aws
 /.aws-sam/
 /.aws/
@@ -1908,6 +1909,7 @@
 /.docker/config.json
 /.docker/laravel/app/.env
 /.docker/secrets.json
+/.dockercfg
 /.dockerenv
 /.dockerignore
 /.drone.secret
@@ -2415,6 +2417,7 @@
 /.well-known/acme-challenge/block-supports/
 /.well-known/acme-challenge/cloud.php
 /.well-known/acme-challenge/content.php
+/.well-known/acme-challenge/doc.php
 /.well-known/acme-challenge/file.php
 /.well-known/acme-challenge/gecko-old.php
 /.well-known/acme-challenge/iR7SzrsOUEP.php
@@ -2535,6 +2538,7 @@
 /.wp-db.php
 /.wp/wso.php
 /.yarnrc
+/.yarnrc.yml
 /.yuf.php
 /.zsh_history
 /.zshenv
@@ -4097,6 +4101,8 @@
 /[slug]
 /[tenant]/*
 /[workspace]/*
+/__/api/projects/_/config
+/__/firebase/init.json
 /__1975.php
 /__ENV.js
 /___proxy_subdomain_cpanel
@@ -4137,9 +4143,11 @@
 /_debugbar
 /_debugbar/
 /_debugbar/open
+/_debugbar/open-handler
 /_dev
 /_environment
 /_git/config
+/_health
 /_ignition/
 /_ignition/execute-solution
 /_inc/phpinfo%2ephp
@@ -4166,6 +4174,9 @@
 /_next/data/*/*.json
 /_next/data/*/about.json
 /_next/data/*/index.json
+/_next/data/[build-id]/admin.json
+/_next/data/[build-id]/config.json
+/_next/data/[build-id]/index.json
 /_next/data/build_id/
 /_next/data/build_id/%255b...slug%255d.json
 /_next/data/build_id/%255bslug%255d.json
@@ -4184,6 +4195,8 @@
 /_next/data/development/
 /_next/data/index%2ejson
 /_next/data/index.json
+/_next/data/latest/index.json
+/_next/data/latest/settings.json
 /_next/data/production/
 /_next/debug
 /_next/env
@@ -4240,6 +4253,7 @@
 /_next/server/server-reference-manifest.json
 /_next/static/
 /_next/static/*
+/_next/static/build-id.txt
 /_next/static/buildManifest.js
 /_next/static/build_id
 /_next/static/chunks/
@@ -4257,6 +4271,7 @@
 /_next/static/chunks/framework%2ejs
 /_next/static/chunks/framework-[hash].js
 /_next/static/chunks/framework.js
+/_next/static/chunks/framework.js.map
 /_next/static/chunks/main%2ejs
 /_next/static/chunks/main-app-[hash].js
 /_next/static/chunks/main.js
@@ -4264,12 +4279,16 @@
 /_next/static/chunks/pages/_app-a9fba37d935ce3f3.js
 /_next/static/chunks/pages/_app-d1b5411bacd03f02.js
 /_next/static/chunks/pages/_app-d25b242610000153a081.js
+/_next/static/chunks/pages/_app.js
+/_next/static/chunks/pages/_app.js.map
+/_next/static/chunks/pages/api/auth/[...nextauth].js.map
 /_next/static/chunks/pages/dashboard.js.map
 /_next/static/chunks/polyfills%2ejs
 /_next/static/chunks/polyfills.js
 /_next/static/chunks/webpack%2ejs
 /_next/static/chunks/webpack-[hash].js
 /_next/static/chunks/webpack.js
+/_next/static/chunks/webpack.js.map
 /_next/static/css/
 /_next/static/css/%252a.map
 /_next/static/css/%2a.map
@@ -4278,6 +4297,9 @@
 /_next/static/development/
 /_next/static/development/_buildmanifest%2ejs
 /_next/static/development/_buildmanifest.js
+/_next/static/development/_devMiddlewareManifest.json
+/_next/static/development/_devPagesManifest.json
+/_next/static/development/_middlewareManifest.json
 /_next/static/development/_ssgmanifest%2ejs
 /_next/static/development/_ssgmanifest.js
 /_next/static/development/build-manifest%2ejson
@@ -4310,6 +4332,8 @@
 /_next/webpack-hmr%253fpage%253d/index
 /_next/webpack-hmr%3fpage%3d/
 /_next/webpack-hmr%3fpage%3d/index
+/_nuxt/builds/latest.json
+/_nuxt/manifest.json
 /_old/
 /_phpinfo%2ephp
 /_phpinfo.php
@@ -4989,6 +5013,7 @@
 /app.yaml
 /app.yml
 /app.zip
+/app/
 /app/%2528..%2529
 /app/%2528..%2529/page
 /app/%2528group%2529
@@ -7035,6 +7060,7 @@
 /config/app.php
 /config/app_local.php
 /config/application.config.php
+/config/application.properties
 /config/application.yml
 /config/asdf.php
 /config/auth.php
@@ -8472,6 +8498,7 @@
 /dist.zip
 /dist/.env
 /dist/.git/config
+/dist/.vite/manifest.json
 /dist/app.js.map
 /dist/bundle.js.map
 /dist/default.php
@@ -8479,9 +8506,11 @@
 /dist/edit-widgets/index.php
 /dist/js/app.[hash].js
 /dist/main.js.map
+/dist/manifest.json
 /dist/widgets/about.php
 /distribution.zip
 /division.zip
+/dj/index.php
 /django-blog/.env
 /django.zip
 /django/.env
@@ -10398,6 +10427,9 @@
 /js/wp-login.php
 /js1.php
 /jsX5MvEhOYV.php
+/json-api/appconfig
+/json-api/getlanglist
+/json-api/version
 /json-php.php
 /json.php
 /json.zip
@@ -10523,6 +10555,8 @@
 /ktgob.php
 /kthusnjbc8ab0jiryls2jinCdefault.php
 /ku.php
+/kube/config
+/kubeconfig
 /kubernetes.yml
 /kubernetes/
 /kubernetes/.env
@@ -11203,6 +11237,7 @@
 /mandrill_webhook.php
 /mango.php
 /manifest.json
+/manifest.webmanifest
 /mans.php
 /manual.zip
 /manual/.env
@@ -11633,6 +11668,7 @@
 /newsletter.zip
 /newsletter/.env
 /nexmo.json
+/next.config.js
 /next/.env
 /nextjs-app/.env
 /nextjs.zip
@@ -12240,6 +12276,7 @@
 /pictures/.env
 /pinfo.php
 /pinterest.zip
+/pip.conf
 /pipeline.zip
 /pixelpages/application/views/auth/common/about.php7
 /pjkkq.php
@@ -13510,6 +13547,8 @@
 /servers/save%252ecgi
 /servers/save%2ecgi
 /servers/save.cgi
+/service-account-key.json
+/service-account.json
 /service-worker.js
 /service-worker.js.map
 /service.grp
@@ -14345,6 +14384,7 @@
 /static/js/main.ef8ecb99.chunk.js
 /static/js/main.js.map
 /static/js/vendor.js.map
+/static/manifest.json
 /static_prod/.env
 /static_root/.env
 /static_user/.env
@@ -14352,8 +14392,11 @@
 /statistics.zip
 /stats.json
 /stats/.env
+/status
 /status%2ephp
 /status.php
+/stderr
+/stdout
 /stg/.env
 /stg/.env.local
 /stg/.env.production
@@ -14533,6 +14576,7 @@
 /suit5y.php
 /sukce.php
 /sup.php
+/supabase-config.json
 /supabase/%2eenv
 /supabase/.env
 /support
@@ -15036,6 +15080,7 @@
 /tkllu.php
 /tll.php
 /tls.zip
+/tmb/cloud.php
 /tmp.php
 /tmp.tar
 /tmp.tar.gz
@@ -15468,6 +15513,7 @@
 /v1/phpinfo%2ephp
 /v1/phpinfo.php
 /v1/private/
+/v1/swagger.json
 /v1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /v1Cd9rWaZMx.php
 /v2.php
@@ -15485,6 +15531,7 @@
 /v2/keys/%3frecursive%3dtrue
 /v2/phpinfo%2ephp
 /v2/phpinfo.php
+/v2/swagger.json
 /v2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /v3.php
 /v3.zip
@@ -15660,6 +15707,7 @@
 /verification.php
 /verify.php
 /verinfo.php
+/version
 /version.php
 /version.txt
 /version1.zip
@@ -15952,11 +16000,14 @@
 /wefile.php
 /weird-backup.zip
 /welcom.php
+/well-known
 /well-known/
 /well-known/.env
 /well-known/about.php
 /well-known/acme-challenge/about.php
+/well-known/acme-challenge/index.php
 /well-known/nano.php
+/well-known/pki-validation
 /wen.php
 /weoci.php
 /wer.php
@@ -17587,6 +17638,7 @@
 /wp-content/uploads/goods.php
 /wp-content/uploads/gravity_forms/
 /wp-content/uploads/gravity_forms/g/e/e/a/Casper.php
+/wp-content/uploads/gravity_forms/logs/
 /wp-content/uploads/hel.php
 /wp-content/uploads/idx_1775448320.php
 /wp-content/uploads/index.php
@@ -18688,6 +18740,9 @@
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
+/wp-json/post-smtp/v1/logs
+/wp-json/s3-offload/v1/debug-report
+/wp-json/sendmachine/v1/manage_admin_requests
 /wp-json/wc/store/cart
 /wp-json/wc/v1/payment_gateways
 /wp-json/wc/v2/payment_gateways
@@ -18697,6 +18752,7 @@
 /wp-json/wp/v2/categories
 /wp-json/wp/v2/give_forms/
 /wp-json/wp/v2/media
+/wp-json/wp/v2/migration/legacy-export
 /wp-json/wp/v2/pages
 /wp-json/wp/v2/posts
 /wp-json/wp/v2/tags
@@ -18799,6 +18855,7 @@
 /wp-site.tar
 /wp-site.tar.gz
 /wp-site.zip
+/wp-slss.php
 /wp-snapshots.tar
 /wp-snapshots.tar.gz
 /wp-snapshots.zip
@@ -18879,6 +18936,7 @@
 /wp/wp-includes/menu.php
 /wp/wp-login.php
 /wp/xleet.php
+/wp/xmlrpc.php
 /wp1.php
 /wp11.php
 /wp3.php
