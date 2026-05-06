@@ -1883,7 +1883,9 @@
 /.config/.env
 /.config/config.json
 /.config/env/production.js
+/.config/gh/config.yml
 /.config/gh/hosts.yml
+/.config/git/credentials
 /.cpanel/caches/config/.env
 /.credentials
 /.credentials.cfg
@@ -2466,6 +2468,7 @@
 /.well-known/index.php
 /.well-known/info.php
 /.well-known/install.php
+/.well-known/jwks.json
 /.well-known/link.php
 /.well-known/lo.php
 /.well-known/load.php
@@ -4401,6 +4404,7 @@
 /aa2.php
 /aa21.php
 /aaa.php
+/aaa.php/getid3-core.php
 /aaaa.php
 /aaabbbccc
 /aafewc0k.php
@@ -6371,6 +6375,7 @@
 /build/asset-manifest.json
 /build/entry.client-[hash].js
 /build/main.ba0c34b7.js
+/build/manifest.json
 /build/routes/index-[hash].js
 /build/three.module.js
 /bulk/.env
@@ -9220,6 +9225,7 @@
 /firebase%252ejson
 /firebase%2ejson
 /firebase-adminsdk.json
+/firebase-config.json
 /firebase-debug.log
 /firebase-messaging-sw.js
 /firebase.json
@@ -12157,6 +12163,7 @@
 /permission.php
 /perodua-malaysia//classwithtostring.php
 /persistence.xml
+/pexuvkzf.php
 /pf/rate.php
 /pfa.php
 /pfbe/.env
@@ -18824,6 +18831,7 @@
 /wp-ox9eoqdk.php
 /wp-p.php7
 /wp-p2r3q9c8k4.php
+/wp-plain.php
 /wp-pluging.php
 /wp-plugins.php
 /wp-png.php
@@ -19138,6 +19146,7 @@
 /x56.php
 /x7.php
 /x7W.php
+/x7hkiufttq9zX.notathing
 /x7r.php
 /x7root.php
 /x9.php

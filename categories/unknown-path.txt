@@ -1594,7 +1594,9 @@
 /.config.js
 /.config/config.json
 /.config/env/production.js
+/.config/gh/config.yml
 /.config/gh/hosts.yml
+/.config/git/credentials
 /.credentials
 /.credentials.cfg
 /.credentials.conf
@@ -1786,6 +1788,7 @@
 /.well-known/agent-card.json
 /.well-known/atproto-did
 /.well-known/discord
+/.well-known/jwks.json
 /.well-known/openid-configuration
 /.well-known/pki-validation
 /.well-known/pki-validation/
@@ -2930,6 +2933,7 @@
 /build/asset-manifest.json
 /build/entry.client-[hash].js
 /build/main.ba0c34b7.js
+/build/manifest.json
 /build/routes/index-[hash].js
 /build/three.module.js
 /bundle.js
@@ -3771,6 +3775,7 @@
 /firebase%252ejson
 /firebase%2ejson
 /firebase-adminsdk.json
+/firebase-config.json
 /firebase-debug.log
 /firebase-messaging-sw.js
 /firebase.json
@@ -6565,6 +6570,7 @@
 /x/
 /x/catalog.json
 /x/index.json
+/x7hkiufttq9zX.notathing
 /xamarin.zip
 /xampp/php-cgi%2eexe
 /xampp/php-cgi.exe
