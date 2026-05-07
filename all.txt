@@ -874,6 +874,7 @@
 /%2562ackend/%252eenv
 /%2577%2570%252D%2563%256F%256E%2566%2569%2567.%2570%2568%2570.%2562%2561%256B
 /%26quot%3Bhttps%3A/www.youtube.com/watch
+/%2Eenv
 /%2eaction
 /%2eamplifyrc
 /%2eaws/%63redentials
@@ -1781,6 +1782,7 @@
 /.%65%6Ev.%73%61%76%65
 /.%65%6Ev.%73%74%61%67%69%6E%67
 /.%65%6Ev.%74%65%73%74
+/.%65nv
 /.%67%69%74-%63%72%65%64%65%6E%74%69%61%6C%73
 /.%67%69%74/%63%6F%6E%66%69%67
 /.%68%74%70%61%73%73%77%64
@@ -2884,6 +2886,7 @@
 //do.php
 //doc.php
 //dor.php
+//dostshell.php
 //dox.php
 //dropdown.php
 //e.php
@@ -2909,6 +2912,7 @@
 //feed.php
 //feed/
 //fetch.php
+//file6.php
 //file61.php
 //filemanger2.php
 //fm.php
@@ -3576,6 +3580,7 @@
 /33.php
 /3301.php
 /333.php
+/3369.php
 /34.php
 /3586%20b64.php
 /374k.php
@@ -4479,10 +4484,13 @@
 /actions-server/.env
 /actions/*
 /activation_key.txt
+/actuator
 /actuator/
 /actuator/beans
 /actuator/configprops
 /actuator/env
+/actuator/env/aws
+/actuator/env/cloud
 /actuator/health
 /actuator/heapdump
 /actuator/httptrace
@@ -4581,6 +4589,7 @@
 /admin/controller/extension/extension/ultra.php
 /admin/controllers/merchant.js
 /admin/controllers/partner.js
+/admin/dashboard
 /admin/dashboard.php
 /admin/database.php
 /admin/db.conf
@@ -4593,6 +4602,7 @@
 /admin/dump.sql
 /admin/editor/
 /admin/editor/engine.php
+/admin/env
 /admin/execute.php
 /admin/fckeditor/editor/
 /admin/fckeditor/editor/filemanager/
@@ -5502,6 +5512,7 @@
 /auth/login
 /auth/oauth2/lib.php
 /auth/register
+/auth/signin
 /auth0.json
 /auth0_config.json
 /authLogin.cgi
@@ -9648,6 +9659,7 @@
 /he.php
 /header.php
 /headers.php
+/health
 /health.php
 /healthz
 /heh.php
@@ -11049,6 +11061,7 @@
 /mZOkJeDV.php
 /ma.php
 /maa.php
+/mac.php
 /madspotshell.php
 /magento.tar
 /magento.tar.gz
@@ -11206,6 +11219,7 @@
 /mamzi.php
 /man.php
 /man.php7
+/manage
 /manage.php
 /manage.py
 /manage/*
@@ -11671,6 +11685,7 @@
 /news-app/.env
 /news.php
 /newsite
+/newsletter
 /newsletter.zip
 /newsletter/.env
 /nexmo.json
@@ -12576,6 +12591,7 @@
 /products
 /products.zip
 /prof.php
+/profile
 /profile.php
 /profile/*
 /profiler.php
@@ -14362,6 +14378,7 @@
 /static-collected/.env
 /static-html/.env
 /static-root/.env
+/static../.env
 /static../manage.py
 /static../var/www/html/.env
 /static.tar

@@ -744,6 +744,7 @@
 /%2562ackend/%252eenv
 /%2577%2570%252D%2563%256F%256E%2566%2569%2567.%2570%2568%2570.%2562%2561%256B
 /%26quot%3Bhttps%3A/www.youtube.com/watch
+/%2Eenv
 /%2eaction
 /%2eamplifyrc
 /%2eaws/%63redentials
@@ -1523,6 +1524,7 @@
 /.%65%6Ev.%73%61%76%65
 /.%65%6Ev.%73%74%61%67%69%6E%67
 /.%65%6Ev.%74%65%73%74
+/.%65nv
 /.%67%69%74-%63%72%65%64%65%6E%74%69%61%6C%73
 /.%67%69%74/%63%6F%6E%66%69%67
 /.%68%74%70%61%73%73%77%64
@@ -2235,10 +2237,13 @@
 /acm_certificate.json
 /actions/*
 /activation_key.txt
+/actuator
 /actuator/
 /actuator/beans
 /actuator/configprops
 /actuator/env
+/actuator/env/aws
+/actuator/env/cloud
 /actuator/health
 /actuator/heapdump
 /actuator/httptrace
@@ -2269,9 +2274,11 @@
 /admin/controller/extension/extension/
 /admin/controllers/merchant.js
 /admin/controllers/partner.js
+/admin/dashboard
 /admin/db.conf
 /admin/debug/default/view
 /admin/editor/
+/admin/env
 /admin/fckeditor/editor/
 /admin/fckeditor/editor/filemanager/
 /admin/images/slider/
@@ -2550,6 +2557,7 @@
 /auth/*
 /auth/login
 /auth/register
+/auth/signin
 /auth0.json
 /auth0_config.json
 /authLogin.cgi
@@ -3883,6 +3891,7 @@
 /gulpfile.js
 /hashicorp_vault.json
 /hc/restricted
+/health
 /healthz
 /helm/values%252eyaml
 /helm/values%2eyaml
@@ -4313,6 +4322,7 @@
 /maint/maint/
 /maintenance.html
 /makima.jpg
+/manage
 /manage.py
 /manage/*
 /manage/env
@@ -4458,6 +4468,7 @@
 /newrelic.yml
 /newrelic.zip
 /newsite
+/newsletter
 /newsletter.zip
 /nexmo.json
 /next.config.js
@@ -4749,6 +4760,7 @@
 /production/%2eenv
 /products
 /products.zip
+/profile
 /profile/*
 /profiles/
 /project.zip
