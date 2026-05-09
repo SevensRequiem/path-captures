@@ -1837,6 +1837,7 @@
 //wp-content/plugins/wp-file-manager/admin/
 //wp-includes/ID3/license.txt
 //wp-includes/Requests/
+//wp-includes/block-bindings/
 //wp-includes/css/dist/
 //wp-includes/fonts/
 //wp-includes/js/dist/
@@ -2925,6 +2926,7 @@
 /bluehost.zip
 /boards.json
 /boards/nsfw
+/boards/nsfw/
 /boot.zip
 /bower_components.zip
 /box.zip
@@ -3493,6 +3495,8 @@
 /debug/default/view
 /debug/default/view.html
 /debug/pprof
+/debug/pprof/
+/debug/vars
 /debugbar
 /debugbar/
 /default%2ephp
@@ -3577,6 +3581,8 @@
 /docs
 /docs.zip
 /docs/
+/docs/api
+/docs/api.json
 /documentation.zip
 /documents.tar
 /documents.tar.gz
@@ -3988,7 +3994,11 @@
 /images/stories/
 /imap.zip
 /img/
+/img/67e4b9b336eb8c3916fe2ba4
+/img/67e4b9b336eb8c3916fe2ba8
+/img/67e4b9b336eb8c3916fe2bb7
 /img/67e4b9b336eb8c3916fe2bb9
+/img/67e4b9b336eb8c3916fe2bc0
 /img/67e4b9b336eb8c3916fe2bc5
 /img/67e4b9b336eb8c3916fe2bc9
 /img/67e4b9b336eb8c3916fe2bcb
@@ -3999,12 +4009,16 @@
 /img/67e4b9b336eb8c3916fe2bd9
 /img/67e4b9b336eb8c3916fe2bdb
 /img/67e4b9b336eb8c3916fe2bdd
+/img/67e4b9b336eb8c3916fe2be6
 /img/67e4b9b336eb8c3916fe2be8
 /img/67e4b9b336eb8c3916fe2bec
 /img/67e4b9b336eb8c3916fe2bee
 /img/67e4b9b336eb8c3916fe2bf5
+/img/67e4b9b336eb8c3916fe2bf7
+/img/67e4b9b336eb8c3916fe2bf9
 /img/67e4b9b336eb8c3916fe2bfb
 /img/67e4b9b336eb8c3916fe2c07
+/img/67e4b9b436eb8c3916fe2c0b
 /img/67e4b9b436eb8c3916fe2c0f
 /img/67e4b9b436eb8c3916fe2c11
 /img/67e4b9b436eb8c3916fe2c13
@@ -4012,8 +4026,10 @@
 /img/683c740b3f039181a43fb083
 /img/683d9d18de874c2df237a55f
 /img/683d9d52de874c2df237a561
+/img/683d9d7fde874c2df237a563
 /img/683d9db4de874c2df237a569
 /img/683d9ed3de874c2df237a571
+/img/683da4efde874c2df237a576
 /img/683e20acde874c2df237a592
 /img/684071cc28d5975c0d72d2d1
 /img/6842c76bad5e76104185bd1d
@@ -4032,6 +4048,7 @@
 /img/68b82a00b1e4617e1104d260
 /img/68bd6ff7b1e4617e1104ddb8
 /img/68be8ae8b1e4617e1104df91
+/img/68c01859b1e4617e1104e248
 /img/wp-admin/
 /imgix.json
 /import.zip
@@ -4073,6 +4090,7 @@
 /infra/terraform.tfvars
 /ini.zip
 /init.sh
+/inngest
 /inquiry
 /inquiry-form
 /inquiry.html
@@ -6294,6 +6312,7 @@
 /wp-content/plugins/wp-file-manager/lib/
 /wp-content/plugins/wp-mail-smtp/sendgrid_keys.json
 /wp-content/plugins/wp-theme-editor/
+/wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/xt
 /wp-content/plugins/xt/
 /wp-content/plugins/yanierin/
@@ -6448,6 +6467,7 @@
 /wp-includes/blocks/details/
 /wp-includes/blocks/paragraph/
 /wp-includes/blocks/post-author/
+/wp-includes/blocks/post-comments-form/
 /wp-includes/blocks/post-terms/
 /wp-includes/blocks/pullquote/
 /wp-includes/blocks/site-title/
