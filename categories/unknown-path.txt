@@ -4356,6 +4356,7 @@
 /manage.py
 /manage/*
 /manage/env
+/manage/staffinfo
 /management.zip
 /management/assets/assets/css/
 /management/heapdump
@@ -5492,6 +5493,7 @@
 /static.tar.gz
 /static.zip
 /static/env.js
+/static/flags/blank.gif
 /static/js/*.chunk.js
 /static/js/2.ca066a4b.chunk.js
 /static/js/app.js.map
@@ -5861,6 +5863,7 @@
 /users
 /users.zip
 /usr.zip
+/util/banner
 /utilities.zip
 /utils/aws_ses.js
 /utils/mailer.js
