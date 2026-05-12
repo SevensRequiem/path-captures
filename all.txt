@@ -1786,6 +1786,7 @@
 /.%67%69%74-%63%72%65%64%65%6E%74%69%61%6C%73
 /.%67%69%74/%63%6F%6E%66%69%67
 /.%68%74%70%61%73%73%77%64
+/..%252f..%252f.ENV
 /..%255c..%255c..%255c..%255c..%255c..%255cvar/log/apache2/access.log
 /..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log
 /....//....//.env
@@ -2103,6 +2104,7 @@
 /.env/.env.bak
 /.env/.env.local/.env.production/.env.staging/.env.development/.env.test/.env.remote/.env.bak/.env.backup/.env.save/.env.old/.env.sample/.env.example/.env.dev/.env.prod/.env.stage/.env.ci/.env.docker/.env.live/.env.preprod/.env.uat/.env.dist/.env.swp/.env~/.env1/.env2/.env_copy/.env.txt/.env.json/.env.yaml/.env.yml/app/.env/apps/.env/api/.env/web/.env/site/.env/public/.env/admin/.env/backend/.env/server/.env/frontend/.env/src/.env/core/.env/core/app/.env/config/.env/private/.env/application/.env/bootstrap/.env/database/.env/storage/.env/var/www/.env/var/www/html/.env/current/.env/release/.env/releases/.env/shared/.env/deploy/.env/build/.env/dist/.env/public_html/.env/htdocs/.env/www/.env/html/.env/live/.env/prod/.env/dev/.env/staging/.env/opt/.env/laravel/.env/symfony/.env/wordpress/.env/wp/.env/cms/.env/drupal/.env/joomla/.env/magento/.env/shopify/.env/prestashop/.env/codeigniter/.env/cakephp/.env/zend/.env/yii/.env/laravel5/.env/v1/.env/v2/.env/v3/.env/api/v1/.env/api/v2/.env/rest/.env/graphql/.env/gateway/.env/microservice/.env/service/.env/api/v3/.env/api/dev/.env/api/staging/.env/vendor/.env/lib/.env/resources/.env/assets/.env/uploads/.env/internal/.env/tools/.env/scripts/.env/bin/.env/sbin/.env/local/.env/portal/.env/dashboard/.env/panel/.env/crm/.env/erp/.env/shop/.env/store/.env/saas/.env/client/.env/project/.env/admin-panel/.env/control-panel/.env/user-panel/.env/node/.env/express/.env/next/.env/nuxt/.env/nest/.env/react/.env/vue/.env/angular/.env/svelte/.env/vite/.env/backup/.env/backups/.env/old/.env/tmp/.env/temp/.env/lab/.env/cronlab/.env/cron/.env/en/.env/administrator/.env/psnlink/.env/exapi/.env/sitemaps/.env/.env.backup1/.env.backup2/logs/.env/cache/.env/mailer/.env/mail/.env/email/.env/smtp/.env/mailing/.env/notifications/.env/notify/.env/sender/.env/campaign/.env/newsletter/.env/ses/.env/sendgrid/.env/sparkpost/.env/postmark/.env/mailgun/.env/mandrill/.env/mailjet/.env/brevo/.env/transactional/.env/bulk/.env/aws/.env/azure/.env/gcp/.env/cloud/.env/infrastructure/.env/docker/.env/k8s/.env/kubernetes/.env/terraform/.env/ansible/.env/.git/.env/ci/.env/cd/.env/jenkins/.env/gitlab/.env/github/.env/actions/.env/circleci/.env/travis/.env/buildkite/.env/mysql/.env/postgres/.env/mongodb/.env/redis/.env/elasticsearch/.env/rabbitmq/.env/kafka/.env/queue/.env/worker/.env/job/.env/test/.env/qa/.env/preview/.env/beta/.env/uat/.env/stage/.env/development/.env/production/.env/config/app/.env
 /.env1
+/.env2
 /.env::$DATA
 /.env;.css
 /.env;.jpg
@@ -3549,6 +3551,7 @@
 /22c.php
 /22name.php
 /22xc.php
+/23.php
 /233.php
 /24.php
 /2468.php
@@ -4052,6 +4055,7 @@
 /Symfony/Component/HttpKernel/Profiler
 /TL.php
 /TSJApUHfPm6.php
+/Telerik.Web.UI.WebResource.axd
 /Tests/Application/.env
 /Text.php
 /Thumbs.db
@@ -4076,6 +4080,7 @@
 /Web.Debug.config
 /Web.Release.config
 /Web/siteMariage/.env
+/WebInterface/
 /Wop.php
 /WordPress/wp-admin/includes/zmFM.php
 /WordPressCore/
@@ -4157,6 +4162,8 @@
 /_cat/indices
 /_config/config.php
 /_debug
+/_debug/
+/_debug_toolbar
 /_debugbar
 /_debugbar/
 /_debugbar/open
@@ -4167,6 +4174,7 @@
 /_health
 /_ignition/
 /_ignition/execute-solution
+/_ignition/health-check
 /_inc/phpinfo%2ephp
 /_inc/phpinfo.php
 /_info.php
@@ -4212,11 +4220,13 @@
 /_next/data/build_id/index.json%3f__flight__%3d1
 /_next/data/build_id/index.json%3f_rsc%3d1
 /_next/data/development/
+/_next/data/development/build-manifest.json
 /_next/data/index%2ejson
 /_next/data/index.json
 /_next/data/latest/index.json
 /_next/data/latest/settings.json
 /_next/data/production/
+/_next/data/production/build-manifest.json
 /_next/debug
 /_next/env
 /_next/flight
@@ -4234,6 +4244,7 @@
 /_next/image%3furl%3dfile%3a///etc/passwd
 /_next/image%3furl%3dhttp%3a//127.0.0.1
 /_next/image%3furl%3dhttp%3a//169.254.169.254
+/_next/image/
 /_next/inspector
 /_next/logs
 /_next/prerender-manifest%2ejson
@@ -4314,6 +4325,7 @@
 /_next/static/css/*%2emap
 /_next/static/css/*.map
 /_next/static/development/
+/_next/static/development/_buildManifest.js
 /_next/static/development/_buildmanifest%2ejs
 /_next/static/development/_buildmanifest.js
 /_next/static/development/_devMiddlewareManifest.json
@@ -4496,12 +4508,15 @@
 /act.php
 /actions-server/.env
 /actions/*
+/actions/.env
 /activation_key.txt
 /actuator
 /actuator/
 /actuator/beans
 /actuator/configprops
+/actuator/configprops.json
 /actuator/env
+/actuator/env.json
 /actuator/env/aws
 /actuator/env/cloud
 /actuator/health
@@ -4592,6 +4607,7 @@
 /admin/config/constants.js
 /admin/config/database.js
 /admin/config/mail.php
+/admin/console
 /admin/console/.env
 /admin/constant.js
 /admin/constants.js
@@ -4889,6 +4905,7 @@
 /angie712.php
 /angular.json
 /angular.zip
+/angular/.env
 /animations.zip
 /anjay.php
 /anon.php
@@ -4987,6 +5004,7 @@
 /api/shared/config/.env
 /api/shell.php
 /api/src/.env
+/api/staging/.env
 /api/test.php
 /api/test/.env
 /api/tools/shell
@@ -4995,6 +5013,7 @@
 /api/v1/phpinfo.php
 /api/v2/.env
 /api/v2/phpinfo.php
+/api/v3/.env
 /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /api/webhooks/mandrill.php
 /api/webhooks/postmark.php
@@ -5419,6 +5438,7 @@
 /asix.php
 /ask.php
 /asp.zip
+/aspera/faspex/
 /aspera/faspex/wp-admin/
 /aspera/faspex/wp-admin/gecko-litespeed.php
 /aspnet.zip
@@ -5602,6 +5622,7 @@
 /aws.php
 /aws.properties
 /aws.secret
+/aws.settings.php
 /aws.yaml
 /aws.yml
 /aws/.env
@@ -5884,6 +5905,7 @@
 /backup.tar
 /backup.tar.gz
 /backup.tgz
+/backup.wp-config.php
 /backup.zip
 /backup/
 /backup/%2eenv
@@ -6194,6 +6216,7 @@
 /bin.php
 /bin.zip
 /bin/.devenv
+/bin/.env
 /bingo.php
 /bipas.php
 /bipzx.php
@@ -6410,6 +6433,7 @@
 /build/manifest.json
 /build/routes/index-[hash].js
 /build/three.module.js
+/buildkite/.env
 /bulk/.env
 /bullet.php
 /bundle.js
@@ -6464,6 +6488,7 @@
 /cache-compat.php
 /cache.php
 /cache/
+/cache/.env
 /cache/config
 /cache/config.cfg
 /cache/config.conf
@@ -6479,6 +6504,7 @@
 /cacti/cmd_realtime.php
 /cah.php
 /caiij.php
+/cakephp/.env
 /cakt.php
 /calendar/index.php
 /callback.php
@@ -6520,6 +6546,7 @@
 /ccx/index.php
 /cd.php
 /cd.zip
+/cd/.env
 /cdk.context.json
 /cdk.json
 /cdk.out/
@@ -6537,6 +6564,7 @@
 /certs/fullchain.pem
 /certs/privkey.pem
 /cf.php
+/cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 /cfg.zip
 /cfgy.php
 /cfile.php
@@ -6647,6 +6675,7 @@
 /cinfo.php
 /circle.yml
 /circleci/.circleci/settings.yml
+/circleci/.env
 /ciyRFCk.php
 /cjEum4lYtho.php
 /cjfuns.php
@@ -6861,6 +6890,7 @@
 /code.zip
 /code/api/.env
 /code/web/.env
+/codeigniter/.env
 /codemirror.php
 /codemirror/index.php
 /codenames-frontend/.env
@@ -7100,6 +7130,7 @@
 /config/app.js
 /config/app.js.bak
 /config/app.php
+/config/app/.env
 /config/app_local.php
 /config/application.config.php
 /config/application.properties
@@ -7646,6 +7677,7 @@
 /config_1.sql
 /config_dev.php
 /configmap.yml
+/configprops
 /configs.php
 /configs.zip
 /configs/application.ini
@@ -7676,6 +7708,7 @@
 /conn.asp.bak
 /conn.php
 /conn.php.bak
+/conn_test.php
 /connect.php
 /connect.php.bak
 /connected_accounts.json
@@ -7726,6 +7759,7 @@
 /content/debug.log
 /continuous.zip
 /contracts/.env
+/control-panel/.env
 /control.php
 /control.zip
 /control/%2eenv
@@ -7857,6 +7891,7 @@
 /credentials.ini
 /credentials.js
 /credentials.json
+/credentials.php
 /credentials.tar
 /credentials.tar.gz
 /credentials.txt
@@ -8540,6 +8575,8 @@
 /discord.zip
 /discourse
 /display.php
+/display_info.php
+/display_phpinfo.php
 /dist.php
 /dist.tar
 /dist.tar.gz
@@ -8791,6 +8828,7 @@
 /elasticsearch.json
 /elasticsearch.yml
 /elasticsearch.zip
+/elasticsearch/.env
 /elasticsearch_cluster_yml
 /elementor/wp-wjvngrh.php
 /elements/udd.php
@@ -8847,6 +8885,7 @@
 /entry-view.php
 /enum.php
 /env
+/env-info.php
 /env.backup
 /env.bak
 /env.cfg
@@ -9035,6 +9074,7 @@
 /express/.env
 /ext.php
 /ext/settings.php
+/extension-info.php
 /extension/extension/Not_Found.php
 /extension/extension/cloud.php
 /extremecrw.php
@@ -9576,8 +9616,10 @@
 /git/.git/config
 /git/config
 /github-connect/.env
+/github/.env
 /github_oauth.json
 /gitlab-ci.yml
+/gitlab/.env
 /gjm.php
 /gk.php
 /gkk.php
@@ -9589,6 +9631,7 @@
 /global.asax
 /global.php
 /global.zip
+/globals.php
 /glx6w.php
 /gm.php
 /gmail.php
@@ -9626,6 +9669,7 @@
 /gpt-sh.php
 /gptsh.php
 /gqhyti.php
+/gql
 /gradle.properties
 /graphics.zip
 /graphiql
@@ -9643,6 +9687,8 @@
 /graphql/query
 /graphql/schema
 /graphql/test
+/graphql/v1
+/graphql/v2
 /great.php
 /greateb.php
 /green.php
@@ -9829,6 +9875,7 @@
 /horde/imp/config/conf.php
 /horeg.php
 /horizon/api/stats
+/horizon/dashboard
 /host%2ephp
 /host-info%2ephp
 /host-info.php
@@ -9927,6 +9974,7 @@
 /id_rsa
 /id_rsa.pub
 /idea.php
+/identity
 /identity.php
 /ids.php
 /idx.php
@@ -10183,6 +10231,7 @@
 /index.js
 /index.js.map
 /index.json
+/index.jsp
 /index.old.php
 /index.php
 /index.php%253f%253d-phpinfo%2528%2529
@@ -10225,6 +10274,7 @@
 /index1.php
 /index2.php
 /index22.php
+/index26.php
 /index3.php
 /index4.php
 /index_dev%2ephp/_profiler/open
@@ -10301,6 +10351,7 @@
 /infoo.php
 /infophp%2ephp
 /infophp.php
+/information.php
 /infos.php
 /infra/aws.tf
 /infra/ses.tf
@@ -10318,6 +10369,7 @@
 /inquiry
 /inquiry-form
 /inquiry.html
+/insc.php
 /insoamv.php
 /insomnia.json
 /insta-compose.yml
@@ -10446,6 +10498,7 @@
 /jnhddqyz.php
 /jnuqm.php
 /jo.php
+/job/.env
 /jobs.zip
 /jocundly.php
 /jodohghi.php
@@ -10470,6 +10523,7 @@
 /js/
 /js/.env
 /js/1.php7
+/js/NewWindow_2_all.js
 /js/_system/jQuery-File-Upload/server/php/index.php
 /js/api.js
 /js/app.[hash].js
@@ -10555,6 +10609,7 @@
 /kZETIbO4Lt7.php
 /kadence/functions.php
 /kaduu.php
+/kafka/.env
 /kagug.php
 /kalokataitusayagatauya.php
 /kandw.php
@@ -10750,6 +10805,7 @@
 /laravel/service/phpinfo.php
 /laravel/time.php
 /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/laravel5/.env
 /last.php
 /latest.tar
 /latest.tar.gz
@@ -11025,6 +11081,7 @@
 /login
 /login.action
 /login.bak.php
+/login.do
 /login.old.php
 /login.php
 /login.zip
@@ -11554,6 +11611,7 @@
 /models.zip
 /models/indexx.php
 /moderation.php
+/moderator.php
 /modern.php
 /modul.php
 /module-info.php
@@ -11603,6 +11661,7 @@
 /mongod.conf
 /mongodb.conf
 /mongodb.zip
+/mongodb/.env
 /mongodb/config/dev/.env
 /mongodb_uri.txt
 /monitoring.zip
@@ -11734,6 +11793,7 @@
 /new-ui/ad-admin/libs/config.php
 /new-ui/home.php
 /new-ui/student-registration.php
+/new-wp-config.php
 /new.php
 /new.sql
 /new.tar
@@ -12011,6 +12071,7 @@
 /only.php
 /oo.php
 /oowyi.php
+/op.php
 /openapi.json
 /openapi.yaml
 /opencart.zip
@@ -12088,6 +12149,7 @@
 /ovajelmxf.php
 /ovajkgsbb.php
 /override/classes/Mail.php
+/owa/
 /owa/auth/x.js
 /owl.php
 /owlmailer.php
@@ -12277,6 +12339,7 @@
 /php-info%2ephp
 /php-info.php
 /php-information
+/php-nginx.php
 /php-opcode.php
 /php-ver.php
 /php.ini
@@ -12304,6 +12367,7 @@
 /phpcheck.php
 /phpcustom_info/phpinfo.php
 /phpfox.php
+/phphph.php
 /phpi.php
 /phpimage.php
 /phpinfo
@@ -12376,6 +12440,7 @@
 /phpversion.php
 /pi.php
 /pi.php5
+/pi.php7
 /pictures/.env
 /pinfo.php
 /ping-pong.php
@@ -12490,6 +12555,7 @@
 /postfixadmin/.env
 /postfs.php
 /postgres.zip
+/postgres/.env
 /postgres_url.txt
 /postgresql.zip
 /postman_collection.json
@@ -12517,6 +12583,7 @@
 /pouyaserver.php
 /pp.php
 /ppxhp.php
+/pqr.php
 /prayer_intentions.php
 /pre-production.zip
 /pref.php
@@ -12950,11 +13017,13 @@
 /qrshhyig.php
 /qrujpzwl.php
 /qsntqiho.php
+/query
 /queryVersion.php
 /question2/.env
 /queue.json
 /queue.php
 /queue.zip
+/queue/.env
 /qv-frontend/.env
 /qvaaq.php
 /qw_03b4ad31.php
@@ -12977,6 +13046,7 @@
 /rabbitmq-cluster/.env
 /rabbitmq.conf
 /rabbitmq.json
+/rabbitmq/.env
 /racs3.php
 /radio.php
 /raf.php
@@ -13034,6 +13104,7 @@
 /redis.config
 /redis.yml
 /redis.zip
+/redis/.env
 /redis_password.txt
 /redis_url.txt
 /redixsx.php
@@ -13406,6 +13477,7 @@
 /saxzw9t.php
 /saya.php
 /sbhu.php
+/sbin/.env
 /sc.php
 /scanner3.php
 /scarbook.php
@@ -13693,6 +13765,7 @@
 /service/php-info.php
 /service/phpinfo.php
 /service/pinfo.php
+/service/rest/v1/status
 /service/service/phpinfo.php
 /service/temp.php
 /service/test.php
@@ -13950,6 +14023,7 @@
 /shortcode/index.php
 /shorw.php
 /shout.php
+/showLogin.cc
 /showphpinfo.php
 /shoyo.php
 /shutin.network.sql
@@ -14165,6 +14239,7 @@
 /software/update.cgi
 /solevisible.php
 /solo1.php
+/solr/
 /solr/admin
 /son.php
 /son1.php
@@ -14690,8 +14765,10 @@
 /subscriptions/stripe.json
 /success.php
 /suck.php
+/sugar_version.json
 /suit5y.php
 /sukce.php
+/summary.php
 /sup.php
 /supabase-config.json
 /supabase/%2eenv
@@ -14705,6 +14782,7 @@
 /sure.php
 /surgezkj.php
 /suu.php
+/svelte/.env
 /svn.zip
 /sw.js
 /sw.js.map
@@ -14761,6 +14839,7 @@
 /sysinfo%252ecgi
 /sysinfo%2ecgi
 /sysinfo.cgi
+/sysinfo.php
 /system%2ephp
 /system-config/.env
 /system-info.php
@@ -14829,6 +14908,7 @@
 /techl.php
 /teee.php
 /telegram.zip
+/telescope
 /telescope/requests
 /temanr10/.env
 /temanr9/.env
@@ -14921,6 +15001,7 @@
 /test
 /test%2ephp
 /test-api/
+/test-cgi.php
 /test-network/.env
 /test-network/addOrg3/.env
 /test-php-version.php
@@ -15301,6 +15382,7 @@
 /tramuibs.php
 /transactional/.env
 /translate.sql
+/travis/.env
 /trd.php
 /treaq.php
 /tron.php
@@ -15364,6 +15446,7 @@
 /uP6nVpTx3SA.php
 /uang.php
 /uat.zip
+/uat/.env
 /uat/phpinfo.php
 /uazsl.php
 /ubh/
@@ -15458,6 +15541,7 @@
 /upload/zczv.php
 /upload2.php
 /upload2/10-27-24_8:26_1.php
+/upload_file.php
 /uploader.php
 /uploads.php
 /uploads.tar
@@ -15497,6 +15581,7 @@
 /uplozyu.php
 /upppp.php
 /ups.php
+/uqcxit7i.php
 /urlmem-app/.env
 /us.php
 /usa.php
@@ -15505,6 +15590,7 @@
 /usep.php
 /user-edit.php
 /user-new.php
+/user-panel/.env
 /user.php
 /user.sql
 /user/*
@@ -15853,6 +15939,7 @@
 /vip.php
 /vir-v2.php
 /vite.config.ts
+/vite/.env
 /vkYjOI1NKVi.php
 /vm-docker-compose/.env
 /vod_installer/.env
@@ -16068,12 +16155,21 @@
 /webpack-stats.json
 /webpack.config.js
 /webpack.config.json
+/webring/adacayiseverim.png
+/webring/agoraroad.gif
+/webring/galladite.gif
+/webring/heimdall.gif
+/webring/korosama.gif
+/webring/newdigitalera.png
+/webring/ophanim.gif
+/webring/yukinu.gif
 /webroot.php
 /webroot.tar
 /webroot.tar.gz
 /webroot.zip
 /webroot/index.php/_environment
 /webroot_path/.env
+/webserver-info.php
 /webservice.zip
 /webservices.zip
 /webshell.php
@@ -16136,6 +16232,7 @@
 /weoci.php
 /wer.php
 /wercker.yml
+/werkzeug/console
 /wert.php
 /wf.php
 /wfile.php
@@ -16267,6 +16364,7 @@
 /work.php
 /work.zip
 /worker.php
+/worker/.env
 /workers/config.json
 /workflow.zip
 /worksec.php
@@ -16866,6 +16964,7 @@
 /wp-config-backup.tar.gz
 /wp-config-backup.zip
 /wp-config-blog.php
+/wp-config-disabled.php
 /wp-config-old.php
 /wp-config-pantheon.php
 /wp-config-sample.php
@@ -16899,6 +16998,7 @@
 /wp-config.php~
 /wp-config.tar
 /wp-config.tar.gz
+/wp-config.test.php
 /wp-config.txt
 /wp-config.zip
 /wp-config_old.php
@@ -17661,6 +17761,7 @@
 /wp-content/themes/twentytwentytwo/parts/index.php
 /wp-content/themes/twentytwentytwo/templates/
 /wp-content/themes/twentytwentytwo/waf_defender.php
+/wp-content/themes/txets.php
 /wp-content/themes/wp-blog.php
 /wp-content/themes/wp-config-backup.php
 /wp-content/themes/wp-mail.php
@@ -18866,6 +18967,7 @@
 /wp-installer.php
 /wp-is.php
 /wp-js.php
+/wp-json
 /wp-json/
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/tests/mock-data
@@ -19425,6 +19527,7 @@
 /xxxx.php
 /xy.php
 /xynz.php
+/xynz1.php
 /xyz.php
 /xz89.php
 /xzourt.php
@@ -19452,6 +19555,7 @@
 /yes.php
 /yfwka.php
 /yifsx.php
+/yii/.env
 /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /yindu.php
 /yitlu.php
@@ -19486,6 +19590,7 @@
 /z3ki.php
 /z60.php
 /zMjcvbswY.php
+/zabbix/favicon.ico
 /zafir1.php
 /zample.php
 /zaz.php
@@ -19509,6 +19614,7 @@
 /zeal.php
 /zehir4shell.php
 /zehirshell.php
+/zend/.env
 /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /zer0.php
 /zero.php

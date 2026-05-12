@@ -1528,6 +1528,7 @@
 /.%67%69%74-%63%72%65%64%65%6E%74%69%61%6C%73
 /.%67%69%74/%63%6F%6E%66%69%67
 /.%68%74%70%61%73%73%77%64
+/..%252f..%252f.ENV
 /..%255c..%255c..%255c..%255c..%255c..%255cvar/log/apache2/access.log
 /..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log
 /.AWS_/credentials
@@ -1628,6 +1629,7 @@
 /.elasticbeanstalk/credentials
 /.elasticbeanstalk/optionsettings
 /.env1
+/.env2
 /.env_1
 /.env_aws
 /.env_backup
@@ -1960,11 +1962,13 @@
 /Site/
 /SonarQube.properties
 /Symfony/Component/HttpKernel/Profiler
+/Telerik.Web.UI.WebResource.axd
 /Thumbs.db
 /VERSION
 /WEB-INF/web.xml
 /Web.Debug.config
 /Web.Release.config
+/WebInterface/
 /WordPressCore/
 /YK_KZ_Base.js
 /[...catchAll]
@@ -2007,6 +2011,8 @@
 /_backup/phpinfo%2ephp
 /_cat/indices
 /_debug
+/_debug/
+/_debug_toolbar
 /_debugbar
 /_debugbar/
 /_debugbar/open
@@ -2017,6 +2023,7 @@
 /_health
 /_ignition/
 /_ignition/execute-solution
+/_ignition/health-check
 /_inc/phpinfo%2ephp
 /_layouts/*
 /_layouts/15/
@@ -2058,11 +2065,13 @@
 /_next/data/build_id/index.json%3f__flight__%3d1
 /_next/data/build_id/index.json%3f_rsc%3d1
 /_next/data/development/
+/_next/data/development/build-manifest.json
 /_next/data/index%2ejson
 /_next/data/index.json
 /_next/data/latest/index.json
 /_next/data/latest/settings.json
 /_next/data/production/
+/_next/data/production/build-manifest.json
 /_next/debug
 /_next/env
 /_next/flight
@@ -2080,6 +2089,7 @@
 /_next/image%3furl%3dfile%3a///etc/passwd
 /_next/image%3furl%3dhttp%3a//127.0.0.1
 /_next/image%3furl%3dhttp%3a//169.254.169.254
+/_next/image/
 /_next/inspector
 /_next/logs
 /_next/prerender-manifest%2ejson
@@ -2160,6 +2170,7 @@
 /_next/static/css/*%2emap
 /_next/static/css/*.map
 /_next/static/development/
+/_next/static/development/_buildManifest.js
 /_next/static/development/_buildmanifest%2ejs
 /_next/static/development/_buildmanifest.js
 /_next/static/development/_devMiddlewareManifest.json
@@ -2244,7 +2255,9 @@
 /actuator/
 /actuator/beans
 /actuator/configprops
+/actuator/configprops.json
 /actuator/env
+/actuator/env.json
 /actuator/env/aws
 /actuator/env/cloud
 /actuator/health
@@ -2271,6 +2284,7 @@
 /admin/config/common.js
 /admin/config/constants.js
 /admin/config/database.js
+/admin/console
 /admin/constant.js
 /admin/constants.js
 /admin/controller/extension/
@@ -2533,6 +2547,7 @@
 /as/function/wp-admin/
 /asdf%2ephp
 /asp.zip
+/aspera/faspex/
 /aspera/faspex/wp-admin/
 /aspnet.zip
 /asset-manifest.json
@@ -2981,6 +2996,7 @@
 /certificates.zip
 /certs/fullchain.pem
 /certs/privkey.pem
+/cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 /cfg.zip
 /cgi-bin
 /cgi-bin/
@@ -3292,6 +3308,7 @@
 /config/test.json
 /config/utils.js
 /configmap.yml
+/configprops
 /configs.zip
 /configs/application.ini
 /configs/routes-4aug.js
@@ -3881,6 +3898,7 @@
 /google_analytics.json
 /google_oauth.json
 /googledrive.zip
+/gql
 /gradle.properties
 /graphics.zip
 /graphiql
@@ -3896,6 +3914,8 @@
 /graphql/query
 /graphql/schema
 /graphql/test
+/graphql/v1
+/graphql/v2
 /group.zip
 /gtm.zip
 /guide.zip
@@ -3940,6 +3960,7 @@
 /home/ec2-user/.aws/credentials
 /home/ubuntu/.aws/credentials
 /horizon/api/stats
+/horizon/dashboard
 /host%2ephp
 /host-info%2ephp
 /host.zip
@@ -3984,6 +4005,7 @@
 /id_ed25519
 /id_rsa
 /id_rsa.pub
+/identity
 /illustrator.zip
 /images.tar
 /images.tar.gz
@@ -4069,6 +4091,7 @@
 /index.js
 /index.js.map
 /index.json
+/index.jsp
 /index.ts
 /index.zip
 /index/
@@ -4136,6 +4159,7 @@
 /joomla.zip
 /js
 /js/
+/js/NewWindow_2_all.js
 /js/api.js
 /js/app.[hash].js
 /js/app.bundle.min.js
@@ -4261,6 +4285,7 @@
 /log/production%2elog
 /login
 /login.action
+/login.do
 /login.zip
 /login/
 /login/discord
@@ -4578,6 +4603,7 @@
 /out/index.html
 /outbox.zip
 /output.zip
+/owa/
 /package-lock.json
 /package-lock.zip
 /package-updates/
@@ -4841,6 +4867,7 @@
 /pwa.zip
 /python.zip
 /qa.zip
+/query
 /queue.json
 /queue.zip
 /r
@@ -5174,6 +5201,7 @@
 /service.pwd
 /service.zip
 /service/email_service.py
+/service/rest/v1/status
 /serviceAccountKey.json
 /services.zip
 /services/billing.js
@@ -5283,6 +5311,7 @@
 /shop/%2eenv
 /shop/[category]/*
 /shopify.zip
+/showLogin.cc
 /sidekiq.yml
 /sign-up
 /signin
@@ -5375,6 +5404,7 @@
 /software/update%252ecgi
 /software/update%2ecgi
 /software/update.cgi
+/solr/
 /solr/admin
 /sonar-project.properties
 /sounds.zip
@@ -5625,6 +5655,7 @@
 /subdomain.zip
 /subscribe
 /subscriptions/stripe.json
+/sugar_version.json
 /supabase-config.json
 /supabase/%2eenv
 /support
@@ -5673,6 +5704,7 @@
 /teams/*
 /tech/catalog.json
 /telegram.zip
+/telescope
 /telescope/requests
 /temp%2ephp
 /temp.tar
@@ -6073,6 +6105,14 @@
 /webpack-stats.json
 /webpack.config.js
 /webpack.config.json
+/webring/adacayiseverim.png
+/webring/agoraroad.gif
+/webring/galladite.gif
+/webring/heimdall.gif
+/webring/korosama.gif
+/webring/newdigitalera.png
+/webring/ophanim.gif
+/webring/yukinu.gif
 /webroot.tar
 /webroot.tar.gz
 /webroot.zip
@@ -6093,6 +6133,7 @@
 /well-known/
 /well-known/pki-validation
 /wercker.yml
+/werkzeug/console
 /whatsapp.zip
 /whm.zip
 /woocommerce.tar
@@ -6546,6 +6587,7 @@
 /wp-includes/theme-compat/network/
 /wp-includes/widgets/
 /wp-includes/wp-includes/
+/wp-json
 /wp-json/
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/tests/mock-data
@@ -6640,6 +6682,7 @@
 /yarn.zip
 /yml.zip
 /youtube.zip
+/zabbix/favicon.ico
 /zoo
 /zxq8m3k-test-none
 /zz-nonexistent-test-8492.html

@@ -368,6 +368,7 @@
 /acme/.env
 /acme_challenges/.env
 /actions-server/.env
+/actions/.env
 /admin-app/.env
 /admin-panel/.env
 /admin/.env
@@ -395,6 +396,7 @@
 /agora/.env
 /alpha/.env
 /anaconda/.env
+/angular/.env
 /ansible/.env
 /api-backend/.env
 /api-gateway/.env
@@ -426,9 +428,11 @@
 /api/shared/.env
 /api/shared/config/.env
 /api/src/.env
+/api/staging/.env
 /api/test/.env
 /api/v1/.env
 /api/v2/.env
+/api/v3/.env
 /apis/.env
 /apis/.env.local
 /apis/.env.production
@@ -523,6 +527,7 @@
 /beta/.env.staging
 /beta/.git/config
 /bgoldd/.env
+/bin/.env
 /bitcoind/.env
 /blankon/.env
 /blob/.env
@@ -540,10 +545,14 @@
 /bucoffea/.env
 /build/.env
 /build/.git/config
+/buildkite/.env
 /bulk/.env
+/cache/.env
+/cakephp/.env
 /campaign/.env
 /cardea/backend/.env
 /cart/.env
+/cd/.env
 /cdw-backend/.env
 /cgi-bin/.%252e/.%252e/.%252e/.%252e/var/www/.env
 /cgi-bin/.env
@@ -561,6 +570,7 @@
 /chat-client/.env
 /chiminey/.env
 /ci/.env
+/circleci/.env
 /client-app/.env
 /client/.env
 /client/.env.local
@@ -575,6 +585,7 @@
 /cms/.git/config
 /code/api/.env
 /code/web/.env
+/codeigniter/.env
 /codenames-frontend/.env
 /collab-connect-web-application/server/.env
 /collected_static/.env
@@ -601,12 +612,14 @@
 /config/.git/logs/HEAD
 /config/.htaccess
 /config/.htpasswd
+/config/app/.env
 /config/development/.env.local
 /configuration/.env
 /console/.env
 /containers/.env
 /content/.env
 /contracts/.env
+/control-panel/.env
 /control/.env
 /core/.env
 /core/.env.bak
@@ -717,6 +730,7 @@
 /drupal/.git/config
 /e2e/.env
 /elasticemail/.env
+/elasticsearch/.env
 /email/.env
 /en/.env
 /engine/.env
@@ -810,6 +824,8 @@
 /gcp/.env
 /git/.git/config
 /github-connect/.env
+/github/.env
+/gitlab/.env
 /google/.env
 /graphql/.env
 /grems-api/.env
@@ -845,6 +861,7 @@
 /items/.env
 /javascript/.env
 /jenkins/.env
+/job/.env
 /joomla/.env
 /joomla/.git/config
 /js-plugin/.env
@@ -852,6 +869,7 @@
 /jsrelay/.env
 /jupyter/.env
 /k8s/.env
+/kafka/.env
 /khanlinks/.env
 /kibana/.env
 /kodenames-server/.env
@@ -874,6 +892,7 @@
 /laravel/core/.env.local
 /laravel/core/.env.production
 /laravel/core/.env.staging
+/laravel5/.env
 /latest/.env
 /layout/.env
 /lcomernbootcamp/projbackend/.env
@@ -941,6 +960,7 @@
 /misc/.env
 /modules/.env
 /monerod/.env
+/mongodb/.env
 /mongodb/config/dev/.env
 /monitoring/compose/.env
 /moodledata/.env
@@ -1021,6 +1041,7 @@
 /portal/.env.staging
 /post-deployment/.vscode/.env
 /postfixadmin/.env
+/postgres/.env
 /postmark/.env
 /prestashop/.env
 /preview-env/.env
@@ -1072,8 +1093,10 @@
 /qa/.env.production
 /qa/.env.staging
 /question2/.env
+/queue/.env
 /qv-frontend/.env
 /rabbitmq-cluster/.env
+/rabbitmq/.env
 /rails-api/react-app/.env
 /rails/.env
 /rasax/.env
@@ -1081,6 +1104,7 @@
 /react-app/.env.production
 /react/.env
 /react_todo/.env
+/redis/.env
 /redmine/.env
 /register/.env
 /release/.env
@@ -1118,6 +1142,7 @@
 /sample/.git/config
 /samples/chatroom/chatroom-spa/.env
 /samples/docker/deploymentscripts/.env
+/sbin/.env
 /script/.env
 /scripts/.env
 /scripts/fvt/.env
@@ -1267,6 +1292,7 @@
 /styles/.env
 /stylesheets/.env
 /supabase/.env
+/svelte/.env
 /symfony/.env
 /symfony/.env.local
 /sysadmin/.env
@@ -1336,7 +1362,9 @@
 /tmui/login.jsp/..%3b/tmui/locallb/workspace/fileread.jsp%3ffilename%3d/api/.env
 /tools/.env
 /transactional/.env
+/travis/.env
 /ts/prime/.env
+/uat/.env
 /ubuntu/.env
 /ui/.env
 /unixtime/.env
@@ -1346,6 +1374,7 @@
 /uploads/.env
 /uploads/.git/config
 /urlmem-app/.env
+/user-panel/.env
 /user/.env
 /user/.env.local
 /user/.env.staging
@@ -1374,6 +1403,7 @@
 /vendor/github.com/subosito/gotenv/.env
 /vendor/laravel/.env
 /videos/.env
+/vite/.env
 /vm-docker-compose/.env
 /vod_installer/.env
 /vue-end/vue-til/.env
@@ -1409,6 +1439,7 @@
 /windows/tests/9.3.x/.env
 /wordpress/.env
 /wordpress/.git/config
+/worker/.env
 /workspace/.env
 /wp-admin/.env
 /wp-admin/.git/config
@@ -1447,5 +1478,7 @@
 /xampp/.env.staging
 /xaturing.net/.env
 /xx-final/vue-heroes/.env
+/yii/.env
+/zend/.env
 /zmusic-frontend/.env
 /~/.git-credentials
