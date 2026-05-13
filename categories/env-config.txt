@@ -4,6 +4,8 @@
 /$(pwd)/.env.production
 /$(pwd)/.env.staging
 /$(pwd)/.git/config
+/%2ebackup/.env
+/%2edocker/.env
 /.ENV
 /.aws/credentials/admin/.env
 /.backup/.env
@@ -15,6 +17,7 @@
 /.docker/.env
 /.docker/laravel/app/.env
 /.env
+/.env%23
 /.env-backup
 /.env-config.js
 /.env-db
@@ -1212,6 +1215,8 @@
 /sites/.git/config
 /sites/all/libraries/mailchimp/.env
 /sites/default/.env
+/sites/default/config/.env
+/sites/default/files/.env
 /sitestatic/.env
 /smtp/.env
 /source/.env

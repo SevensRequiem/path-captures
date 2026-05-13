@@ -7,6 +7,9 @@
 /.kube/kubeconfig
 /.kube/secrets.yaml
 /Dockerfile
+/Dockerfile.dev
+/Dockerfile.prod
+/Dockerfile.staging
 /Jenkinsfile
 /app/docker-compose%252eyml
 /app/docker-compose%2eyml
@@ -24,6 +27,7 @@
 /docker-compose.env
 /docker-compose.override.yml
 /docker-compose.prod.yml
+/docker-compose.staging.yml
 /docker-compose.yaml
 /docker-compose.yml
 /docker-compose/%2eenv
