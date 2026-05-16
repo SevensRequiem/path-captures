@@ -2471,13 +2471,20 @@
 /.env.live
 /.env.local
 /.env.local.backup
+/.env.local.bak
+/.env.local.copy
 /.env.local.js
 /.env.local.json
+/.env.local.old
+/.env.local.orig
 /.env.local.php
 /.env.local.php.bak
 /.env.local.py
+/.env.local.save
+/.env.local.swp
 /.env.local.yaml
 /.env.local.yml
+/.env.local~
 /.env.mail
 /.env.mailer
 /.env.mailgun
@@ -2500,13 +2507,19 @@
 /.env.production
 /.env.production.backup
 /.env.production.bak
+/.env.production.copy
 /.env.production.js
 /.env.production.json
 /.env.production.local
+/.env.production.old
+/.env.production.orig
 /.env.production.php
 /.env.production.py
+/.env.production.save
+/.env.production.swp
 /.env.production.yaml
 /.env.production.yml
+/.env.production~
 /.env.project
 /.env.py
 /.env.qa
@@ -4180,6 +4193,7 @@
 /9.php
 /900.php
 /9191.php
+/96i.php
 /97.php
 /99.php
 /990.php
@@ -7529,6 +7543,7 @@
 /classgoto24.php
 /classsmtps.php
 /classwithtostring.php
+/classwithtostring.phpl
 /claw.php
 /clcdu.php
 /clerk/sso-callback
@@ -8857,6 +8872,7 @@
 /customers/%2eenv
 /customers/.env
 /customize.php
+/cv.php
 /cvmlepae.php
 /cvrvk.php
 /cvz.php
@@ -9550,6 +9566,7 @@
 /dqagu.php
 /dr.php
 /drafts.zip
+/drag.php
 /dragonforce.php
 /dragonshell.php
 /dreamhost.zip
@@ -10205,6 +10222,7 @@
 /firebase-config.json
 /firebase-debug.log
 /firebase-messaging-sw.js
+/firebase-service-account.json
 /firebase.json
 /firebase_config.json
 /firewall.php
@@ -10450,6 +10468,7 @@
 /gb.php
 /gbhyv.php
 /gbl.php
+/gc.php
 /gcloud.json
 /gcp
 /gcp-credentials.json
@@ -10564,6 +10583,7 @@
 /google-analytics.zip
 /google-cloud.zip
 /google-credentials.json
+/google-service-account.json
 /google/.env
 /google_analytics.json
 /google_oauth.json
@@ -11079,6 +11099,7 @@
 /img/67e4b9b336eb8c3916fe2be2
 /img/67e4b9b336eb8c3916fe2be6
 /img/67e4b9b336eb8c3916fe2be8
+/img/67e4b9b336eb8c3916fe2bea
 /img/67e4b9b336eb8c3916fe2bec
 /img/67e4b9b336eb8c3916fe2bee
 /img/67e4b9b336eb8c3916fe2bf5
@@ -12903,6 +12924,7 @@
 /nc4.php
 /ncljSH4JfCF.php
 /nco.php
+/ncx.php
 /ne2026.php
 /neo4j.zip
 /nest/.env
@@ -14777,6 +14799,7 @@
 /sadd.php
 /sadis.php
 /sagafif.php
+/sagax1.php
 /sagym.php
 /saiga.php
 /saka.phP7
@@ -15556,6 +15579,7 @@
 /slack/interactive
 /slack/oauth
 /sldnjqlm.php
+/sleepster/
 /slider.php
 /sllolx.php
 /slot.php
@@ -17564,6 +17588,7 @@
 /w-1.php
 /w-a.php
 /w.php
+/w1.php
 /w1w.php
 /w2025.php
 /w3lls.php
@@ -17580,6 +17605,7 @@
 /wallet.sql
 /wan.php
 /wander.php
+/wap.php
 /waq.php
 /warm.PhP7
 /warm.php7
@@ -18531,6 +18557,7 @@
 /wp-admin/wp-mail.php
 /wp-admin/wp-signin.php
 /wp-admin/wp-signup.php
+/wp-admin/wp.php
 /wp-admin/wp_wrong_datlib.php
 /wp-admin/wso.php
 /wp-admin/x.php
@@ -18561,6 +18588,7 @@
 /wp-backup.zip
 /wp-bapbc.php
 /wp-bita.php
+/wp-blink.php
 /wp-block.php
 /wp-blog-front.php
 /wp-blog-header.php
@@ -19325,6 +19353,7 @@
 /wp-content/themes/pridmag/admin.php
 /wp-content/themes/pridmag/bypass.php
 /wp-content/themes/pridmag/db.php
+/wp-content/themes/pridmag/il.php
 /wp-content/themes/pridmag/js.php
 /wp-content/themes/pridmag/mar.php
 /wp-content/themes/pridmag/waf_defender.php
@@ -20894,6 +20923,7 @@
 /ws49.php
 /ws50.php
 /ws53.php
+/ws54.php
 /ws55.php
 /ws56.php
 /ws57.php
@@ -20964,6 +20994,7 @@
 /ww1.php
 /ww2.php
 /ww3.php
+/ww5.php
 /ww7.php
 /wwdgl.php
 /www-backup.sql
@@ -21306,6 +21337,7 @@
 /ztROVL9h2Mr.php
 /ztv.php
 /zu.php
+/zup.php73
 /zvinn.php
 /zvz89.php
 /zwq.php

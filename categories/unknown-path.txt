@@ -3677,6 +3677,7 @@
 /ci.zip
 /circle.yml
 /ckeditor/plugins/fontawesome/dialogs/
+/classwithtostring.phpl
 /clerk/sso-callback
 /clerk/webhook
 /client.key
@@ -4587,6 +4588,7 @@
 /firebase-config.json
 /firebase-debug.log
 /firebase-messaging-sw.js
+/firebase-service-account.json
 /firebase.json
 /firebase_config.json
 /fit/
@@ -4685,6 +4687,7 @@
 /google-analytics.zip
 /google-cloud.zip
 /google-credentials.json
+/google-service-account.json
 /google_analytics.json
 /google_oauth.json
 /googledrive.zip
@@ -4882,6 +4885,7 @@
 /img/67e4b9b336eb8c3916fe2be2
 /img/67e4b9b336eb8c3916fe2be6
 /img/67e4b9b336eb8c3916fe2be8
+/img/67e4b9b336eb8c3916fe2bea
 /img/67e4b9b336eb8c3916fe2bec
 /img/67e4b9b336eb8c3916fe2bee
 /img/67e4b9b336eb8c3916fe2bf5
@@ -6582,6 +6586,7 @@
 /slack/events
 /slack/interactive
 /slack/oauth
+/sleepster/
 /sms.py
 /smtp.config.json
 /smtp.env
