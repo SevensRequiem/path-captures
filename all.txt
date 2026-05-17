@@ -3030,6 +3030,7 @@
 /.yuf.php
 /.zsh_history
 /.zshenv
+//
 //&heker!.php
 //+.php
 //-.php
@@ -5343,6 +5344,7 @@
 /adminfusm.php
 /administration.zip
 /administration/api/info.php
+/administrator
 /administrator.sql
 /administrator.tar
 /administrator.tar.gz
@@ -10181,6 +10183,7 @@
 /filemanager.php
 /filemanager/
 /filemanager/dialog.php
+/filemanager/initialize
 /filename.php
 /filer.php
 /files
@@ -11812,6 +11815,8 @@
 /lara/time.php
 /lara/xampp/info.php
 /lara/xampp/phpinfo.php
+/laravel-file-manager/initialize
+/laravel-filemanager/initialize
 /laravel.tar
 /laravel.tar.gz
 /laravel.zip
@@ -19144,6 +19149,7 @@
 /wp-content/plugins/simple/simple.php
 /wp-content/plugins/slideshow-ck/themes/config.php
 /wp-content/plugins/smtp-mail/smtp-mail.php
+/wp-content/plugins/smtp-mailer/readme.txt
 /wp-content/plugins/so-pinyin-slugs/inc/js-inc.php
 /wp-content/plugins/so-pinyin-slugs/inc/main_json.php
 /wp-content/plugins/sparkpost-mail/sparkpost-mail.php
