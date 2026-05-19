@@ -20,6 +20,8 @@
 /.aws/credentials.backup
 /.aws/credentials.bak
 /.aws/credentials.old
+/.aws/env.bak
+/.aws/token.bak
 /.backup
 /.backup.sql
 /.backup/db.sql
@@ -68,8 +70,11 @@
 /aws.backup
 /aws.bak
 /aws.old
+/aws/credentials.backup
 /aws/credentials.bak
+/aws/credentials.old
 /aws/s3/credentials.bak
+/aws/secrets.old
 /back/backup.sql
 /back/dump.sql
 /back/mysql.sql
@@ -118,10 +123,17 @@
 /backup_20260324.sql
 /backup_20260325.sql
 /backup_20260326.sql
+/backups/auth.bak
 /backups/backup.sql
+/backups/config.bak
+/backups/database.bak
 /backups/database.sql
 /backups/dump.sql
+/backups/keys.bak
+/backups/logs.bak
 /backups/mysql.sql
+/backups/secrets.bak
+/backups/settings.bak
 /backups/sql.sql
 /backups/www.sql
 /bak/backup.sql
@@ -160,6 +172,7 @@
 /data/backup.sql
 /data/dump.sql
 /database.bak
+/database.old
 /database.sql
 /database1.sql
 /database_1.sql
