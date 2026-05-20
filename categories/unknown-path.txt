@@ -5297,6 +5297,7 @@
 /k8s/stripe-secret.yaml
 /karma.conf.json
 /kernel.zip
+/key.json
 /key.pem
 /keys
 /keys.js
@@ -5312,6 +5313,7 @@
 /keys/private.pem
 /keys/public.pem
 /keys/sendgrid_keys.json
+/keys/service-account.json
 /keys/stripe.txt
 /kibana
 /kibana/api
@@ -6508,6 +6510,7 @@
 /s3cfg
 /s3cmd.ini
 /sa
+/sa.json
 /sa/
 /salt/pillar/secrets%2esls
 /salt/pillar/secrets.sls
