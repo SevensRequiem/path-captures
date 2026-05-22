@@ -2037,6 +2037,7 @@
 /.bzr/
 /.cache
 /.cache/payment.json
+/.cargo/credentials
 /.classpath
 /.cloudfront/config.json
 /.cloudfront/keys.json
@@ -2046,10 +2047,13 @@
 /.config.js
 /.config/config.json
 /.config/env/production.js
+/.config/gcloud/access_tokens.db
+/.config/gcloud/active_config
 /.config/gcloud/credentials.db
 /.config/gh/config.yml
 /.config/gh/hosts.yml
 /.config/git/credentials
+/.config/op/config
 /.credentials
 /.credentials.cfg
 /.credentials.conf
@@ -2100,11 +2104,13 @@
 /.envs/.production/.django
 /.eslintrc
 /.firebase/hosting.json
+/.firebaserc
 /.flaskenv
 /.ftp-config.json
 /.ftp-sync.json
 /.ftpconfig
 /.gcloud/credentials
+/.gem/credentials
 /.ghc.environment
 /.gitattributes
 /.gitconfig
@@ -2144,6 +2150,7 @@
 /.idea/
 /.idea/workspace.xml
 /.jenv-version
+/.linode-cli
 /.local
 /.login
 /.maintenance
@@ -2161,6 +2168,7 @@
 /.npmrc
 /.nuxt/
 /.nvmrc
+/.oci/config
 /.old.tar
 /.old.tar.gz
 /.old.zip
@@ -2174,6 +2182,7 @@
 /.powenv
 /.production
 /.project
+/.psql_history
 /.pypirc
 /.python-version
 /.rbenv-gemsets
@@ -2220,6 +2229,7 @@
 /.terraform/credentials.tfrc.json
 /.terraform/stripe.tfstate
 /.terraform/terraform.tfstate
+/.terraformrc
 /.tmb/
 /.travis.yml
 /.vault-token
@@ -2416,6 +2426,7 @@
 /Files/
 /Gemfile
 /Gemfile.lock
+/GoogleService-Info.plist
 /Gruntfile.js
 /IAM.md
 /INSTALL.txt
@@ -2844,6 +2855,7 @@
 /activation_key.txt
 /actuator
 /actuator/
+/actuator/auditevents
 /actuator/beans
 /actuator/configprops
 /actuator/configprops.json
@@ -2851,15 +2863,19 @@
 /actuator/env.json
 /actuator/env/aws
 /actuator/env/cloud
+/actuator/gateway/globalfilters
 /actuator/gateway/routes/0day
 /actuator/gateway/routes/hack
 /actuator/health
 /actuator/heapdump
 /actuator/httptrace
 /actuator/info
+/actuator/jolokia/
+/actuator/jolokia/version
 /actuator/logfile
 /actuator/loggers
 /actuator/mappings
+/actuator/sessions
 /actuator/threaddump
 /actuator/trace
 /admin
@@ -3006,6 +3022,8 @@
 /apis/controllers/users.js
 /apis/index.js
 /apis/phpinfo%2ephp
+/apisix/admin/services
+/apisix/status
 /app
 /app%2ejs%2emap
 /app-7d66de919618d3830635.js
@@ -3811,6 +3829,7 @@
 /clerk/sso-callback
 /clerk/webhook
 /client.key
+/client.ovpn
 /client.pem
 /client.zip
 /client/%2eenv
@@ -4389,6 +4408,7 @@
 /debug/default/view.html
 /debug/pprof
 /debug/pprof/
+/debug/pprof/cmdline
 /debug/vars
 /debugbar
 /debugbar/
@@ -4662,12 +4682,15 @@
 /etc/gitlab/gitlab%252erb
 /etc/gitlab/gitlab%2erb
 /etc/hosts
+/etc/ipsec.secrets
 /etc/letsencrypt/live
 /etc/mail/sendmail%252ecf
 /etc/mail/sendmail%2ecf
 /etc/mail/sendmail.cf
+/etc/nebula/host.crt
 /etc/nginx/nginx.conf
 /etc/nginx/sites-enabled/default
+/etc/openvpn/ca.crt
 /etc/passwd
 /etc/php/php.ini
 /etc/postfix/main%252ecf
@@ -5249,6 +5272,7 @@
 /jobs/recent
 /join
 /jolokia
+/jolokia/
 /jolokia/list
 /jolokia/version
 /joomla.tar
@@ -5879,6 +5903,7 @@
 /openid-configuration
 /openid-connect
 /openid_connect/cpanelid
+/openvpn.ovpn
 /opt.zip
 /opt/%252eenv
 /opt/%2eenv
@@ -6090,6 +6115,7 @@
 /plugins/payments/stripe%2ejson
 /plugins/payments/stripe.json
 /pma/
+/pods
 /policy.zip
 /pom.xml
 /pomo/
@@ -6199,6 +6225,7 @@
 /process.zip
 /prod.tar
 /prod.tar.gz
+/prod.tfvars
 /prod.zip
 /prod/%2eenv
 /prod/.gitconfig
@@ -6212,6 +6239,7 @@
 /production
 /production.tar
 /production.tar.gz
+/production.tfvars
 /production.zip
 /production/%2eenv
 /production/database.yml
@@ -6447,6 +6475,8 @@
 /run.sh
 /run.zip
 /run/secrets/kubernetes.io/serviceaccount/token
+/rundeck/api/menu/home
+/runningpods/
 /runtime-config.js
 /runtime-config.js.map
 /runtime-env.js
@@ -6562,6 +6592,7 @@
 /secrets
 /secrets%252ejson
 /secrets%2ejson
+/secrets.auto.tfvars
 /secrets.cfg
 /secrets.conf
 /secrets.env
@@ -6675,6 +6706,7 @@
 /server.js
 /server.key
 /server.log
+/server.ovpn
 /server.pem
 /server.sh
 /server.ts
@@ -7648,6 +7680,8 @@
 /v1/*
 /v1/_ignition/execute-solution
 /v1/admin/
+/v1/agent/self
+/v1/agent/services
 /v1/api-docs
 /v1/config
 /v1/credentials
@@ -7656,7 +7690,9 @@
 /v1/messages
 /v1/phpinfo%2ephp
 /v1/private/
+/v1/status/leader
 /v1/swagger.json
+/v1/sys/seal-status
 /v2
 /v2.zip
 /v2/%2eenv
@@ -7682,6 +7718,9 @@
 /var.zip
 /var/debug.log
 /var/lib/aws/credentials
+/var/lib/tailscale/tailscaled.state
+/var/lib/zerotier-one/authtoken.secret
+/var/lib/zerotier-one/identity.secret
 /var/log/
 /var/log/apache2/access%252elog
 /var/log/apache2/access%2elog
@@ -7809,6 +7848,7 @@
 /voyager/roles
 /voyager/settings
 /voyager/users
+/vpn.ovpn
 /vps.zip
 /vue.zip
 /vultr.zip
@@ -8120,6 +8160,7 @@
 /wp-content/plugins/azra-tn/
 /wp-content/plugins/background-image-cropper/
 /wp-content/plugins/backup-backup/includes/
+/wp-content/plugins/burst-statistics/readme.txt
 /wp-content/plugins/cache-wordpress/
 /wp-content/plugins/classic-editor
 /wp-content/plugins/classic-editor/

@@ -2412,6 +2412,7 @@
 /.c9/metadata/environment/.env
 /.cache
 /.cache/payment.json
+/.cargo/credentials
 /.circleci/.env
 /.circleci/config.yml
 /.circleci/configs/development.yml
@@ -2427,10 +2428,13 @@
 /.config/.env
 /.config/config.json
 /.config/env/production.js
+/.config/gcloud/access_tokens.db
+/.config/gcloud/active_config
 /.config/gcloud/credentials.db
 /.config/gh/config.yml
 /.config/gh/hosts.yml
 /.config/git/credentials
+/.config/op/config
 /.cpanel/caches/config/.env
 /.credentials
 /.credentials.cfg
@@ -2689,12 +2693,14 @@
 /.error_log.php
 /.eslintrc
 /.firebase/hosting.json
+/.firebaserc
 /.fk.php
 /.flaskenv
 /.ftp-config.json
 /.ftp-sync.json
 /.ftpconfig
 /.gcloud/credentials
+/.gem/credentials
 /.ghc.environment
 /.git
 /.git-askpass.sh
@@ -2811,6 +2817,7 @@
 /.kube/kubeconfig
 /.kube/secrets.yaml
 /.lajuju.php
+/.linode-cli
 /.local
 /.login
 /.maintenance
@@ -2829,6 +2836,7 @@
 /.npmrc
 /.nuxt/
 /.nvmrc
+/.oci/config
 /.old
 /.old.tar
 /.old.tar.gz
@@ -2848,6 +2856,7 @@
 /.powenv
 /.production
 /.project
+/.psql_history
 /.pypirc
 /.python-version
 /.qiodeme.php
@@ -2927,6 +2936,7 @@
 /.terraform/stripe.tfstate
 /.terraform/terraform.tfstate
 /.terraform/terraform.tfstate.backup
+/.terraformrc
 /.tmb/
 /.tmb/8.php
 /.tmb/a5.php
@@ -4510,6 +4520,7 @@
 /Gemfile.lock
 /Get_Site_Info.php
 /Good.php
+/GoogleService-Info.plist
 /Gruntfile.js
 /Guestbook.php
 /HFouA3MLd2N.php
@@ -5238,6 +5249,7 @@
 /activation_key.txt
 /actuator
 /actuator/
+/actuator/auditevents
 /actuator/beans
 /actuator/configprops
 /actuator/configprops.json
@@ -5245,15 +5257,19 @@
 /actuator/env.json
 /actuator/env/aws
 /actuator/env/cloud
+/actuator/gateway/globalfilters
 /actuator/gateway/routes/0day
 /actuator/gateway/routes/hack
 /actuator/health
 /actuator/heapdump
 /actuator/httptrace
 /actuator/info
+/actuator/jolokia/
+/actuator/jolokia/version
 /actuator/logfile
 /actuator/loggers
 /actuator/mappings
+/actuator/sessions
 /actuator/threaddump
 /actuator/trace
 /actuator;/env;
@@ -5824,6 +5840,8 @@
 /apis/phpinfo%2ephp
 /apis/phpinfo.php
 /apis/server/phpinfo.php
+/apisix/admin/services
+/apisix/status
 /apismtp/apismtp.php
 /apk.php
 /app
@@ -7787,6 +7805,7 @@
 /client-app/.env
 /client-dashboard.php
 /client.key
+/client.ovpn
 /client.pem
 /client.zip
 /client/%2eenv
@@ -9395,6 +9414,7 @@
 /debug/phpinfo.php
 /debug/pprof
 /debug/pprof/
+/debug/pprof/cmdline
 /debug/vars
 /debugbar
 /debugbar/
@@ -10203,12 +10223,15 @@
 /etc/gitlab/gitlab%252erb
 /etc/gitlab/gitlab%2erb
 /etc/hosts
+/etc/ipsec.secrets
 /etc/letsencrypt/live
 /etc/mail/sendmail%252ecf
 /etc/mail/sendmail%2ecf
 /etc/mail/sendmail.cf
+/etc/nebula/host.crt
 /etc/nginx/nginx.conf
 /etc/nginx/sites-enabled/default
+/etc/openvpn/ca.crt
 /etc/passwd
 /etc/php/.env
 /etc/php/php.ini
@@ -11911,6 +11934,7 @@
 /jodohghi.php
 /join
 /jolokia
+/jolokia/
 /jolokia/list
 /jolokia/version
 /joomla.tar
@@ -13715,6 +13739,7 @@
 /openid-configuration
 /openid-connect
 /openid_connect/cpanelid
+/openvpn.ovpn
 /opotv.php
 /ops.php
 /ops/vagrant/.env
@@ -14207,6 +14232,7 @@
 /pn.php
 /png.php
 /po.php
+/pods
 /pol.php
 /pola.php
 /policy.php
@@ -14404,6 +14430,7 @@
 /prod.sql
 /prod.tar
 /prod.tar.gz
+/prod.tfvars
 /prod.zip
 /prod/%2eenv
 /prod/.env
@@ -14476,6 +14503,7 @@
 /production
 /production.tar
 /production.tar.gz
+/production.tfvars
 /production.zip
 /production/%2eenv
 /production/.env
@@ -15173,6 +15201,8 @@
 /run.zip
 /run/.env
 /run/secrets/kubernetes.io/serviceaccount/token
+/rundeck/api/menu/home
+/runningpods/
 /runtime-config.js
 /runtime-config.js.map
 /runtime-env.js
@@ -15408,6 +15438,7 @@
 /secrets
 /secrets%252ejson
 /secrets%2ejson
+/secrets.auto.tfvars
 /secrets.cfg
 /secrets.conf
 /secrets.env
@@ -15565,6 +15596,7 @@
 /server.js
 /server.key
 /server.log
+/server.ovpn
 /server.pem
 /server.php
 /server.sh
@@ -17900,6 +17932,8 @@
 /v1/_ignition/execute-solution
 /v1/admin/
 /v1/administrator/index.php
+/v1/agent/self
+/v1/agent/services
 /v1/api-docs
 /v1/config
 /v1/credentials
@@ -17909,7 +17943,9 @@
 /v1/phpinfo%2ephp
 /v1/phpinfo.php
 /v1/private/
+/v1/status/leader
 /v1/swagger.json
+/v1/sys/seal-status
 /v1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /v1Cd9rWaZMx.php
 /v2
@@ -17964,6 +18000,9 @@
 /var/cache/stripe.php
 /var/debug.log
 /var/lib/aws/credentials
+/var/lib/tailscale/tailscaled.state
+/var/lib/zerotier-one/authtoken.secret
+/var/lib/zerotier-one/identity.secret
 /var/log/
 /var/log/apache2/access%252elog
 /var/log/apache2/access%2elog
@@ -18187,6 +18226,7 @@
 /voyager/roles
 /voyager/settings
 /voyager/users
+/vpn.ovpn
 /vps.zip
 /vrhiw.php
 /vtmlkgps.php
@@ -19577,6 +19617,7 @@
 /wp-content/plugins/brevo-email-marketing/brevo.php
 /wp-content/plugins/brevo/brevo.php
 /wp-content/plugins/buddypress/shadow.php
+/wp-content/plugins/burst-statistics/readme.txt
 /wp-content/plugins/bypass.php
 /wp-content/plugins/cache-wordpress/
 /wp-content/plugins/ccx/index.php
