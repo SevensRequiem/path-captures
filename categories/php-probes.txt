@@ -289,6 +289,7 @@
 /.env.php.dist
 /.env.production.php
 /.env.sample.php
+/.env.save.php
 /.env.test.php
 /.error_log.php
 /.fk.php
@@ -304,6 +305,7 @@
 /.piongroup.php
 /.qiodeme.php
 /.qiodetme.php
+/.qiofetme.php
 /.rotssk.php
 /.sghb.php
 /.tmb/8.php
@@ -639,6 +641,7 @@
 //a.php
 //a1.php
 //aa.php
+//abcd.php
 //about.php
 //about/function.php
 //accesson.php
@@ -1179,10 +1182,13 @@
 /00.php
 /000.php
 /002.php
+/003.php
 /006.php
 /007xx.php
+/00_server_info.php
 /01.php
 /011i.php
+/02-info.php
 /02.php
 /030.php
 /031.php
@@ -1316,6 +1322,7 @@
 /1mrX.php
 /1mv7ziR4InY.php
 /1n73ct10n.php
+/1nfo.php
 /1ppy.php
 /1s7y8wt9dz.php
 /1sGWU9qf.php
@@ -1326,6 +1333,7 @@
 /20.php
 /20025Tn.php
 /2008.php
+/201.php
 /2020/phpinfo.php
 /2021/phpinfo.php
 /2022/phpinfo.php
@@ -1347,6 +1355,7 @@
 /24.php
 /2468.php
 /24name.php
+/25.php
 /25d653587fdfd1.php
 /26.php
 /29rc7ExgS6p.php
@@ -1435,6 +1444,7 @@
 /55l453.php
 /56c53.php
 /595.php
+/5BltUjE9CrY.php
 /5ENPJj8vHkY.php
 /5PJcpMFsD8B.php
 /5Rfz2ZsDC6r.php
@@ -1505,6 +1515,7 @@
 /9v6.php
 /;k.php
 /@.php
+/A2B_entity_backup.php
 /AAAA.php
 /ABSPATHwp-includes/version.php
 /ACKuJTcsdkq.php
@@ -1565,6 +1576,7 @@
 /Core-Econ/upH.php
 /Core-wp.php
 /Cpanel.php
+/Crypto.php
 /CtbwG6DoKi9.php
 /Curve25519-items.php
 /Cylul007.php
@@ -1668,6 +1680,7 @@
 /Marvins.php
 /MgyQbv9nwBO.php
 /Mhbgf.php
+/NFXxUAA.php
 /NWqz649FIe7.php
 /NdANa5.php
 /NewFile.php
@@ -1980,6 +1993,7 @@
 /admin/wp-config.php.old
 /admin/wp-signup.php
 /admin1.php
+/admin2.php
 /admin404.php
 /admin836.php
 /adminLite/jQuery-File-Upload/server/php/index.php
@@ -2053,7 +2067,9 @@
 /aj11.php
 /ajax-actions.php
 /ajax.php
+/ajaxEmail.php
 /ajax_officebuilding.php
+/ajaxfilemanager.php
 /ak.php
 /ak.php/wp-admin/async-upload.php
 /ak47shell.php
@@ -2398,6 +2414,7 @@
 /asgtt.php
 /asix.php
 /ask.php
+/askg.php
 /aspera/faspex/wp-admin/gecko-litespeed.php
 /ass.php
 /assacc.php
@@ -2476,6 +2493,7 @@
 /auto_seo.php
 /autodiagnosis.php
 /autogooey.php
+/autoload.php
 /autoload_classmap.php
 /autoload_classmap/about.php
 /autoload_classmap/bypass.php
@@ -2889,6 +2907,7 @@
 /ca5.php
 /cabs.php
 /caca.php
+/cache-base.php
 /cache-compat.php
 /cache.php
 /cache/config.php
@@ -2899,6 +2918,7 @@
 /cah.php
 /caiij.php
 /cakt.php
+/cal_search.php
 /calendar/index.php
 /callback.php
 /camara.php
@@ -2937,6 +2957,7 @@
 /cfile.php
 /cfinder.php
 /cflsintdaf.php
+/cgf.php
 /cgi-alfa.php
 /cgi-bin/1.php
 /cgi-bin/404.php
@@ -2978,6 +2999,7 @@
 /charmaine744.php
 /chati.php
 /chaya986.php
+/check-info.php
 /check-site.php
 /check-system.php
 /check.php
@@ -3669,6 +3691,7 @@
 /configuration/email.php
 /configuration/mail.php
 /configuration/smtp.php
+/configuration_check.php
 /configurations/email.php
 /configurations/mail.php
 /configurations/smtp.php
@@ -3744,6 +3767,7 @@
 /core/wp-config.php.old
 /core3.php
 /core885.php
+/cors.php
 /coverme.php
 /cp.php
 /cpanel.php
@@ -3892,6 +3916,7 @@
 /cwsd.php
 /cwshell.php
 /cxc.php
+/cxl.php
 /cxxuv.php
 /cyber.php
 /cyberwarrior.php
@@ -3900,6 +3925,7 @@
 /cyr6l.php
 /cyto.php
 /d.php
+/d0main.php
 /d12.php
 /d2.php
 /d4.php
@@ -3993,6 +4019,7 @@
 /default/xampp/info.php
 /defaults.php
 /defeg.php
+/defines.php
 /degeselih.php
 /dejavu.php
 /del.php
@@ -4080,6 +4107,7 @@
 /depotcv.php
 /des.php
 /detail.php
+/dev-wp-config.php
 /dev.php
 /dev/.php
 /dev/api/info.php
@@ -4184,6 +4212,8 @@
 /dirs.php
 /disagreed.php
 /disagrsxr.php
+/discover.php
+/disoxrmons.php
 /display.php
 /display_info.php
 /display_phpinfo.php
@@ -4247,6 +4277,7 @@
 /ds.php
 /dsd.php
 /dshtv.php
+/dtox.php
 /dtwpf.php
 /dtyh.php
 /duea.php
@@ -4332,6 +4363,7 @@
 /enum.php
 /env-info.php
 /env.php
+/env.testing.php
 /envato-css.php
 /enviar-recibo.php
 /environment.php
@@ -4398,6 +4430,7 @@
 /ewp.php
 /ex.php
 /example-config.php
+/example.php
 /exchange.php
 /exchange_config.php
 /exec.php
@@ -4618,6 +4651,7 @@
 /form.php
 /form3.php
 /forum.php
+/forx.php
 /fosil.php
 /fot.php
 /fox.php
@@ -5151,6 +5185,7 @@
 /includeswp-conflg.php
 /ind.php
 /inde.php
+/indec.php
 /indeex.php
 /indes.php
 /index-20260330022921.php
@@ -5220,6 +5255,7 @@
 /info.php.back
 /info.php.bak
 /info.php.save.1
+/info.php.txt
 /info/%70hpinfo.php
 /info/api/phpinfo.php
 /info/asdf.php
@@ -5278,6 +5314,7 @@
 /install/finalize.php
 /install/index.php
 /install/install.php
+/installed.php
 /installer.php
 /installer/database.php
 /installer/index.php
@@ -5355,6 +5392,7 @@
 /jhyx.php
 /jid0mtxz.php
 /jingan.php
+/jj.php
 /jjrpo.php
 /jk.php
 /jlc14ng3.php
@@ -5849,6 +5887,7 @@
 /mail/time.php
 /mail/xampp/info.php
 /mail/xampp/phpinfo.php
+/mail3.php
 /mailConfig.php
 /mail_settings.php
 /mailchimp-config.php
@@ -5879,6 +5918,7 @@
 /mailer/temp.php
 /mailer/time.php
 /mailer_config.php
+/mailer_dsn.php
 /mailer_url.php
 /mailershell.php
 /mailgun-config.php
@@ -6043,6 +6083,7 @@
 /mini.php
 /mini.php5
 /minik.php
+/minipriv.php
 /minishell.php
 /mis.php
 /misc.php
@@ -6059,6 +6100,7 @@
 /mml.php
 /mmm.php
 /mmp.php
+/mmrp.php
 /mms.php
 /mnkalo.php
 /mo.php
@@ -6145,6 +6187,7 @@
 /myfilexxx.php
 /mygagal.php
 /mysqladmin.php
+/mysqli.php
 /myy.php
 /n.php
 /n1GiO.php
@@ -6480,8 +6523,11 @@
 /photo.php
 /php-7.php
 /php-benchmark.php
+/php-config.php
 /php-details.php
+/php-diag.php
 /php-fpm.php
+/php-health.php
 /php-info-page.php
 /php-info.php
 /php-modules.php
@@ -6489,6 +6535,7 @@
 /php-opcode.php
 /php-release.php
 /php-ver.php
+/php-verification.php
 /php.php
 /php/%70hpinfo.php
 /php/info.php
@@ -6992,6 +7039,7 @@
 /repair.php
 /repeater.php
 /repurify.php
+/req.php
 /request.php
 /requirements.php
 /rere.php
@@ -7158,6 +7206,8 @@
 /search.php
 /searchl.php
 /sec.php
+/secret_keys.php
+/secrets.php
 /secure.php
 /secure/config/mail.php
 /secure/env.php
@@ -7219,6 +7269,7 @@
 /server/xampp/phpinfo.php
 /server_details.php
 /server_info.php
+/server_ping.php
 /servercheck.php
 /serverinfo.php
 /service.php
@@ -7359,8 +7410,10 @@
 /showphpinfo.php
 /shoyo.php
 /shx.php
+/siapa.php
 /sid-file.php
 /sid3.php
+/sid4.php
 /sidwsi.php
 /sidwso.php
 /signature.php
@@ -7399,6 +7452,7 @@
 /site/wp-config.php.old
 /site/xmlrpc.php
 /site2.php
+/site_info.php
 /siteheads.php
 /siteinfo.php
 /sitemap.php
@@ -7521,6 +7575,7 @@
 /src/wp-config.php.old
 /src/xampp/info.php
 /src_api.php
+/srvinfo.php
 /srx.php
 /ss.php
 /ssd.php
@@ -7619,6 +7674,7 @@
 /styll.php
 /su.php
 /subdom/ant/makeasmtp.php
+/submit-contact-form.php
 /submitticket.php
 /subs/pics/qa.php
 /subs/upload/upload.php
@@ -7754,10 +7810,12 @@
 /test-cgi.php
 /test-cgi.php5
 /test-environment.php
+/test-page.php
 /test-php-info.php
 /test-php-version.php
 /test.config.php
 /test.php
+/test.php1
 /test.php7
 /test/adminer-4.6.1-mysql-en.php
 /test/api/phpinfo.php
@@ -7795,6 +7853,7 @@
 /test/wp-admin/setup-config.php
 /test/xampp/info.php
 /test0.php
+/test02.php
 /test1.php
 /test11.php
 /test123.php
@@ -7949,6 +8008,7 @@
 /toine.php
 /token.php
 /ton.php
+/tonant.php
 /tons.php
 /too.php
 /tool.php
@@ -8042,6 +8102,7 @@
 /un.php
 /unfrnd.php
 /unit.php
+/unix.php
 /unknown.php
 /unloathness.php
 /unvouc.php
@@ -8284,6 +8345,7 @@
 /video.php
 /view-more/ioxi.php
 /view.php
+/view_info.php
 /viewinfo.php
 /views/form/tmpl/size.php
 /villain.php
@@ -9051,6 +9113,7 @@
 /wp-config-style.php
 /wp-config-test.php
 /wp-config.backup.php
+/wp-config.development.php
 /wp-config.php
 /wp-config.php-backup
 /wp-config.php.backup
@@ -9070,6 +9133,7 @@
 /wp-config.php.txt
 /wp-config.php.zip
 /wp-config.php/
+/wp-config.php6
 /wp-config.php::$DATA
 /wp-config.php~
 /wp-config.php~/
@@ -10860,6 +10924,7 @@
 /wper.php
 /wpindex.php
 /wpls.php
+/wpm.php
 /wpn.php
 /wpns.php
 /wpo.php

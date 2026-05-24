@@ -2618,6 +2618,7 @@
 /.env.save
 /.env.save.1
 /.env.save.2
+/.env.save.php
 /.env.saved
 /.env.sendgrid
 /.env.sendgrid.local
@@ -2861,6 +2862,7 @@
 /.python-version
 /.qiodeme.php
 /.qiodetme.php
+/.qiofetme.php
 /.rbenv-gemsets
 /.rbenv-vars
 /.rbenv-version
@@ -3335,6 +3337,7 @@
 //a.php
 //a1.php
 //aa.php
+//abcd.php
 //about.php
 //about/function.php
 //accesson.php
@@ -3861,6 +3864,7 @@
 //wp-includes/Requests/
 //wp-includes/Text/Diff/index.php
 //wp-includes/Text/wp-login.php
+//wp-includes/assets/
 //wp-includes/assets/index.php
 //wp-includes/block-bindings/
 //wp-includes/css/about.php
@@ -3923,10 +3927,13 @@
 /00.php
 /000.php
 /002.php
+/003.php
 /006.php
 /007xx.php
+/00_server_info.php
 /01.php
 /011i.php
+/02-info.php
 /02.php
 /030.php
 /031.php
@@ -4097,6 +4104,7 @@
 /1mrX.php
 /1mv7ziR4InY.php
 /1n73ct10n.php
+/1nfo.php
 /1ppy.php
 /1s7y8wt9dz.php
 /1sGWU9qf.php
@@ -4107,6 +4115,7 @@
 /20.php
 /20025Tn.php
 /2008.php
+/201.php
 /2020/%2eenv
 /2020/.env
 /2020/phpinfo%2ephp
@@ -4148,6 +4157,7 @@
 /24.php
 /2468.php
 /24name.php
+/25.php
 /25d653587fdfd1.php
 /26.php
 /29rc7ExgS6p.php
@@ -4243,6 +4253,7 @@
 /55l453.php
 /56c53.php
 /595.php
+/5BltUjE9CrY.php
 /5ENPJj8vHkY.php
 /5PJcpMFsD8B.php
 /5Rfz2ZsDC6r.php
@@ -4332,6 +4343,7 @@
 /@fs/var/www/strapi-backend/.env
 /@vite/client
 /@vite/env
+/A2B_entity_backup.php
 /AAAA.php
 /ABSPATHwp-includes/version.php
 /ACKuJTcsdkq.php
@@ -4442,6 +4454,7 @@
 /Core-Econ/upH.php
 /Core-wp.php
 /Cpanel.php
+/Crypto.php
 /CtbwG6DoKi9.php
 /Curve25519-items.php
 /Cylul007.php
@@ -4586,6 +4599,7 @@
 /Mhbgf.php
 /Modix/ClientApp/.env
 /MyRentals.Web/ClientApp/.env
+/NFXxUAA.php
 /NOTES.md
 /NSFW
 /NSFW/
@@ -5451,6 +5465,7 @@
 /admin1.php
 /admin1/
 /admin2
+/admin2.php
 /admin2/
 /admin404.php
 /admin836.php
@@ -5564,7 +5579,9 @@
 /aj11.php
 /ajax-actions.php
 /ajax.php
+/ajaxEmail.php
 /ajax_officebuilding.php
+/ajaxfilemanager.php
 /ak.php
 /ak.php/wp-admin/async-upload.php
 /ak47shell.php
@@ -6063,6 +6080,7 @@
 /app/config/stripe.php
 /app/config/stripe.yml
 /app/config/twilio.php
+/app/credentials.json
 /app/dev/info.php
 /app/docker-compose%252eyml
 /app/docker-compose%2eyml
@@ -6203,6 +6221,7 @@
 /application/email.php
 /application/mail.php
 /application/settings/mail.php
+/application_default_credentials.json
 /applicationd.php
 /applications.php
 /applications.zip
@@ -6275,6 +6294,7 @@
 /asgtt.php
 /asix.php
 /ask.php
+/askg.php
 /asp.zip
 /aspera/faspex/
 /aspera/faspex/wp-admin/
@@ -6423,6 +6443,7 @@
 /auto_seo.php
 /autodiagnosis.php
 /autogooey.php
+/autoload.php
 /autoload_classmap.php
 /autoload_classmap/about.php
 /autoload_classmap/bypass.php
@@ -7476,6 +7497,7 @@
 /cabs.php
 /caca.php
 /cache
+/cache-base.php
 /cache-compat.php
 /cache.php
 /cache/
@@ -7500,6 +7522,7 @@
 /caiij.php
 /cakephp/.env
 /cakt.php
+/cal_search.php
 /calendar/index.php
 /callback.php
 /camara.php
@@ -7573,6 +7596,7 @@
 /cfile.php
 /cfinder.php
 /cflsintdaf.php
+/cgf.php
 /cgi-alfa.php
 /cgi-bin
 /cgi-bin/
@@ -7648,6 +7672,7 @@
 /chat/*
 /chati.php
 /chaya986.php
+/check-info.php
 /check-site.php
 /check-system.php
 /check.php
@@ -7838,6 +7863,8 @@
 /client/stripe%2econfig%2ejs
 /client/stripe.config.js
 /client/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/client_secret.json
+/client_secrets.json
 /clientaccesspolicy.xml
 /clients.zip
 /clients/%2eenv
@@ -8274,6 +8301,7 @@
 /config/constant.js
 /config/constants.js
 /config/convertkit.php
+/config/credentials.json
 /config/credentials.yml
 /config/credentials.yml.enc
 /config/credentials/development.key
@@ -8608,6 +8636,7 @@
 /config/sentry.php
 /config/server.js
 /config/server/phpinfo.php
+/config/service-account.json
 /config/service/info.php
 /config/services.local.php
 /config/services.php
@@ -8779,6 +8808,7 @@
 /configuration/info.xml
 /configuration/mail.php
 /configuration/smtp.php
+/configuration_check.php
 /configurations/email.php
 /configurations/mail.php
 /configurations/smtp.php
@@ -8953,6 +8983,7 @@
 /core/wp-config.php.old
 /core3.php
 /core885.php
+/cors.php
 /counterblockd/.env
 /counterwallet/.env
 /coverme.php
@@ -9181,6 +9212,7 @@
 /cwsd.php
 /cwshell.php
 /cxc.php
+/cxl.php
 /cxxuv.php
 /cyber.php
 /cyberwarrior.php
@@ -9190,6 +9222,7 @@
 /cyto.php
 /d.php
 /d/.env
+/d0main.php
 /d12.php
 /d2.php
 /d4.php
@@ -9456,6 +9489,7 @@
 /default/xampp/info.php
 /defaults.php
 /defeg.php
+/defines.php
 /degeselih.php
 /dejavu.php
 /del.php
@@ -9588,6 +9622,7 @@
 /dev-api/
 /dev-env/.env
 /dev-tools
+/dev-wp-config.php
 /dev.php
 /dev.sql
 /dev.tar
@@ -9754,6 +9789,8 @@
 /discord/oauth
 /discord/webhook
 /discourse
+/discover.php
+/disoxrmons.php
 /display.php
 /display_info.php
 /display_phpinfo.php
@@ -9927,6 +9964,7 @@
 /ds.php
 /dsd.php
 /dshtv.php
+/dtox.php
 /dtwpf.php
 /dtyh.php
 /duea.php
@@ -10124,6 +10162,7 @@
 /env.tar.gz
 /env.template
 /env.test.js
+/env.testing.php
 /env.ts
 /env.txt
 /env.yaml
@@ -10269,6 +10308,7 @@
 /ex.php
 /example-config.php
 /example.env
+/example.php
 /example.zip
 /example/.env
 /example/.git/config
@@ -10584,6 +10624,7 @@
 /firebase%2ejson
 /firebase-adminsdk.json
 /firebase-config.json
+/firebase-credentials.json
 /firebase-debug.log
 /firebase-messaging-sw.js
 /firebase-service-account.json
@@ -10660,6 +10701,7 @@
 /forum/.env
 /forums/%2eenv
 /forums/.env
+/forx.php
 /fosil.php
 /fot.php
 /fox.php
@@ -10846,6 +10888,7 @@
 /gcloud/credentials.db
 /gcp
 /gcp-credentials.json
+/gcp-service-account.json
 /gcp/.env
 /gcp/config.yml
 /gcp/credentials
@@ -11606,6 +11649,7 @@
 /includeswp-conflg.php
 /ind.php
 /inde.php
+/indec.php
 /indeex.php
 /indes.php
 /index
@@ -11697,6 +11741,7 @@
 /info.php.back
 /info.php.bak
 /info.php.save.1
+/info.php.txt
 /info.php_
 /info.txt
 /info/
@@ -11786,6 +11831,7 @@
 /install/migrate
 /install/run
 /install/setup
+/installed.php
 /installer
 /installer.php
 /installer.zip
@@ -11917,6 +11963,7 @@
 /jhyx.php
 /jid0mtxz.php
 /jingan.php
+/jj.php
 /jjrpo.php
 /jk.php
 /jlc14ng3.php
@@ -12085,6 +12132,7 @@
 /key.pem
 /key.php
 /key.sql
+/keyfile.json
 /keys
 /keys.js
 /keys.json
@@ -12805,6 +12853,7 @@
 /mail/time.php
 /mail/xampp/info.php
 /mail/xampp/phpinfo.php
+/mail3.php
 /mailConfig.php
 /mail_settings.php
 /mailchimp-config.php
@@ -12840,6 +12889,7 @@
 /mailer/temp.php
 /mailer/time.php
 /mailer_config.php
+/mailer_dsn.php
 /mailer_dsn_keys.js
 /mailer_dsn_keys.json
 /mailer_url.php
@@ -13177,6 +13227,7 @@
 /mini.php5
 /minified/.env
 /minik.php
+/minipriv.php
 /minishell.php
 /mirror.zip
 /mis.php
@@ -13200,6 +13251,7 @@
 /mml.php
 /mmm.php
 /mmp.php
+/mmrp.php
 /mms.php
 /mnkalo.php
 /mnt.zip
@@ -13362,6 +13414,7 @@
 /mysqldump.tar
 /mysqldump.tar.gz
 /mysqldump.zip
+/mysqli.php
 /mytest/astech_robot.js
 /myy.php
 /n.php
@@ -14042,8 +14095,11 @@
 /php-cgi/php-cgi%2eexe
 /php-cgi/php-cgi.exe
 /php-compat/
+/php-config.php
 /php-details.php
+/php-diag.php
 /php-fpm.php
+/php-health.php
 /php-info%2ephp
 /php-info-page.php
 /php-info.php
@@ -14053,6 +14109,7 @@
 /php-opcode.php
 /php-release.php
 /php-ver.php
+/php-verification.php
 /php.ini
 /php.log
 /php.php
@@ -15000,6 +15057,7 @@
 /repository.zip
 /repository/.env
 /repurify.php
+/req.php
 /request
 /request.php
 /requirements.php
@@ -15328,6 +15386,7 @@
 /sHS.php
 /s_on.php
 /sa
+/sa-key.json
 /sa.json
 /sa.php
 /sa.php7
@@ -15444,6 +15503,7 @@
 /secret/config.yml
 /secret/config/.env
 /secret_key.txt
+/secret_keys.php
 /secrets
 /secrets%252ejson
 /secrets%2ejson
@@ -15454,6 +15514,7 @@
 /secrets.ini
 /secrets.js
 /secrets.json
+/secrets.php
 /secrets.tfvars
 /secrets.txt
 /secrets.yaml
@@ -15677,6 +15738,7 @@
 /server_details.php
 /server_info%2ephp
 /server_info.php
+/server_ping.php
 /servercheck.php
 /serverinfo.php
 /serverless%252eyaml
@@ -16002,8 +16064,10 @@
 /shutin.network.sql
 /shutin.sql
 /shx.php
+/siapa.php
 /sid-file.php
 /sid3.php
+/sid4.php
 /sidekiq.yml
 /sidwsi.php
 /sidwso.php
@@ -16114,6 +16178,7 @@
 /site_backup.tar
 /site_backup.tar.gz
 /site_backup.zip
+/site_info.php
 /sitecore/shell/sitecore.version.xml
 /siteground.zip
 /siteheads
@@ -16476,6 +16541,7 @@
 /srv6_controller/controller/.env
 /srv6_controller/examples/.env
 /srv6_controller/node-manager/.env
+/srvinfo.php
 /srx.php
 /ss.php
 /ssd.php
@@ -16854,6 +16920,7 @@
 /su.php
 /subdom/ant/makeasmtp.php
 /subdomain.zip
+/submit-contact-form.php
 /submitticket.php
 /subs/pics/qa.php
 /subs/upload/upload.php
@@ -17167,10 +17234,12 @@
 /test-environment.php
 /test-network/.env
 /test-network/addOrg3/.env
+/test-page.php
 /test-php-info.php
 /test-php-version.php
 /test.config.php
 /test.php
+/test.php1
 /test.php7
 /test.sh
 /test.sql
@@ -17253,6 +17322,7 @@
 /test/wp-admin/setup-config.php
 /test/xampp/info.php
 /test0.php
+/test02.php
 /test1
 /test1.php
 /test11.php
@@ -17556,6 +17626,7 @@
 /tokens.zip
 /toml.zip
 /ton.php
+/tonant.php
 /tons.php
 /too.php
 /tool.php
@@ -17686,6 +17757,7 @@
 /unit.php
 /unity.zip
 /universal.zip
+/unix.php
 /unixtime/.env
 /unknown.php
 /unleash.json
@@ -18232,6 +18304,7 @@
 /videos/.env
 /view-more/ioxi.php
 /view.php
+/view_info.php
 /viewinfo.php
 /views/emails/
 /views/form/tmpl/size.php
@@ -19347,6 +19420,7 @@
 /wp-config.backup.php
 /wp-config.bak
 /wp-config.bak1
+/wp-config.development.php
 /wp-config.old
 /wp-config.orig
 /wp-config.php
@@ -19368,6 +19442,7 @@
 /wp-config.php.txt
 /wp-config.php.zip
 /wp-config.php/
+/wp-config.php6
 /wp-config.php::$DATA
 /wp-config.phpb
 /wp-config.phpc
@@ -21623,6 +21698,7 @@
 /wper.php
 /wpindex.php
 /wpls.php
+/wpm.php
 /wpn.php
 /wpns.php
 /wpo.php

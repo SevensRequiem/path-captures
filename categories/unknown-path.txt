@@ -2315,6 +2315,7 @@
 //wp-content/plugins/wp-file-manager/admin/
 //wp-includes/ID3/license.txt
 //wp-includes/Requests/
+//wp-includes/assets/
 //wp-includes/block-bindings/
 //wp-includes/css/dist/
 //wp-includes/fonts/
@@ -3126,6 +3127,7 @@
 /app/config/smtp.yml
 /app/config/sparkpost.yml
 /app/config/stripe.yml
+/app/credentials.json
 /app/error
 /app/etc/env%2ephp
 /app/etc/local%2exml
@@ -3192,6 +3194,7 @@
 /application.yaml
 /application.yml
 /application.zip
+/application_default_credentials.json
 /applications.zip
 /apps.zip
 /apps/%2eenv
@@ -3836,6 +3839,8 @@
 /client/stripe%252econfig%252ejs
 /client/stripe%2econfig%2ejs
 /client/stripe.config.js
+/client_secret.json
+/client_secrets.json
 /clientaccesspolicy.xml
 /clients.zip
 /clients/%2eenv
@@ -3989,6 +3994,7 @@
 /config/config.yml
 /config/constant.js
 /config/constants.js
+/config/credentials.json
 /config/credentials.yml
 /config/credentials.yml.enc
 /config/credentials/development.key
@@ -4103,6 +4109,7 @@
 /config/sendgrid_config.json
 /config/sendgrid_keys.json
 /config/server.js
+/config/service-account.json
 /config/ses.development.json
 /config/ses.json
 /config/ses.production.json
@@ -4801,6 +4808,7 @@
 /firebase%2ejson
 /firebase-adminsdk.json
 /firebase-config.json
+/firebase-credentials.json
 /firebase-debug.log
 /firebase-messaging-sw.js
 /firebase-service-account.json
@@ -4875,6 +4883,7 @@
 /gcloud/credentials.db
 /gcp
 /gcp-credentials.json
+/gcp-service-account.json
 /gcp/config.yml
 /gcp/credentials
 /gcp/credentials.json
@@ -5332,6 +5341,7 @@
 /kernel.zip
 /key.json
 /key.pem
+/keyfile.json
 /keys
 /keys.js
 /keys.json
@@ -6549,6 +6559,7 @@
 /s3cfg
 /s3cmd.ini
 /sa
+/sa-key.json
 /sa.json
 /sa/
 /salt/pillar/secrets%2esls
