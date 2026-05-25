@@ -2049,6 +2049,7 @@
 /.config/env/production.js
 /.config/gcloud/access_tokens.db
 /.config/gcloud/active_config
+/.config/gcloud/application_default_credentials.json
 /.config/gcloud/credentials.db
 /.config/gh/config.yml
 /.config/gh/hosts.yml
@@ -3848,6 +3849,7 @@
 /clockwork/
 /clone.zip
 /cloud
+/cloud-key.json
 /cloud.zip
 /cloud/%2eenv
 /cloud/.config.json
@@ -4810,6 +4812,7 @@
 /firebase-config.json
 /firebase-credentials.json
 /firebase-debug.log
+/firebase-key.json
 /firebase-messaging-sw.js
 /firebase-service-account.json
 /firebase.json
@@ -4879,10 +4882,13 @@
 /gateway/routes/0day
 /gatsby-config.js
 /gatsby.zip
+/gcloud-service-key.json
 /gcloud.json
 /gcloud/credentials.db
 /gcp
 /gcp-credentials.json
+/gcp-key.json
+/gcp-sa.json
 /gcp-service-account.json
 /gcp/config.yml
 /gcp/credentials
@@ -4890,6 +4896,7 @@
 /gcp/secrets.env
 /gcp/stripe-keys.json
 /gcp/tokens.json
+/gcp_key.json
 /general.zip
 /getcmd
 /ghost.zip
@@ -4925,6 +4932,7 @@
 /google-cloud/credentials.env
 /google-cloud/keys.json
 /google-credentials.json
+/google-key.json
 /google-service-account.json
 /google_analytics.json
 /google_oauth.json
@@ -6776,6 +6784,7 @@
 /service/email_service.py
 /service/rest/v1/status
 /serviceAccountKey.json
+/service_account.json
 /services.zip
 /services/billing.js
 /services/email/aws_ses.js

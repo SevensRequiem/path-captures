@@ -2430,6 +2430,7 @@
 /.config/env/production.js
 /.config/gcloud/access_tokens.db
 /.config/gcloud/active_config
+/.config/gcloud/application_default_credentials.json
 /.config/gcloud/credentials.db
 /.config/gh/config.yml
 /.config/gh/hosts.yml
@@ -7133,6 +7134,7 @@
 /bbh.php
 /bbn.php
 /bbny.php
+/bbs/home.php
 /bby.php
 /bc.php
 /bcft.php
@@ -7877,6 +7879,7 @@
 /clockwork/
 /clone.zip
 /cloud
+/cloud-key.json
 /cloud.php
 /cloud.zip
 /cloud/%2eenv
@@ -10626,6 +10629,7 @@
 /firebase-config.json
 /firebase-credentials.json
 /firebase-debug.log
+/firebase-key.json
 /firebase-messaging-sw.js
 /firebase-service-account.json
 /firebase.json
@@ -10699,6 +10703,7 @@
 /forum.php
 /forum/%2eenv
 /forum/.env
+/forum/member.php
 /forums/%2eenv
 /forums/.env
 /forx.php
@@ -10884,10 +10889,13 @@
 /gbhyv.php
 /gbl.php
 /gc.php
+/gcloud-service-key.json
 /gcloud.json
 /gcloud/credentials.db
 /gcp
 /gcp-credentials.json
+/gcp-key.json
+/gcp-sa.json
 /gcp-service-account.json
 /gcp/.env
 /gcp/config.yml
@@ -10896,6 +10904,7 @@
 /gcp/secrets.env
 /gcp/stripe-keys.json
 /gcp/tokens.json
+/gcp_key.json
 /gcqoa.php
 /gdftps.php
 /gdn.php
@@ -11012,6 +11021,7 @@
 /google-cloud/credentials.env
 /google-cloud/keys.json
 /google-credentials.json
+/google-key.json
 /google-service-account.json
 /google/.env
 /google_analytics.json
@@ -11410,6 +11420,7 @@
 /ikiwiki/.env
 /iko.php
 /il.php
+/ilce.php
 /ilex.php
 /illustrator.zip
 /im.php
@@ -14126,6 +14137,7 @@
 /php/phpinfo%2ephp
 /php/phpinfo.php
 /php1.php
+/php2.php
 /php3.php
 /php5.ini
 /php5.php
@@ -15795,6 +15807,7 @@
 /service/test.php
 /service/time.php
 /serviceAccountKey.json
+/service_account.json
 /services.php
 /services.zip
 /services/.env
