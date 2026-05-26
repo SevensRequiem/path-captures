@@ -1,3 +1,4 @@
+/$%7Bitem.CoverImage%7D
 /$%7Brepo.html_url%7D
 /$(pwd)/*.auto.tfvars
 /$(pwd)/.terraform/terraform.tfstate
@@ -3664,6 +3665,7 @@
 /backwpup.tar
 /backwpup.tar.gz
 /backwpup.zip
+/bak.phps
 /bak.tar
 /bak.tar.gz
 /bak.zip
@@ -4536,6 +4538,7 @@
 /documents.tar.gz
 /documents.zip
 /doesnotexist_6968
+/doesnotexist_9489
 /doiconvs
 /domain.zip
 /domains.zip
