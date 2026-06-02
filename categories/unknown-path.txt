@@ -2269,6 +2269,7 @@
 /.well-known/acme-challenge/block-supports/
 /.well-known/agent-card.json
 /.well-known/atproto-did
+/.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0
 /.well-known/discord
 /.well-known/jwks.json
 /.well-known/openid-configuration
@@ -2396,6 +2397,7 @@
 /@fs/etc/passwd
 /@vite/client
 /@vite/env
+/ALFA_DATA
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
 /ALFA_DATA/alfacgiapi/perl.alfa
@@ -2421,6 +2423,7 @@
 /BrutalShell/
 /CHANGELOG
 /CHANGELOG.md
+/CHANGELOG.txt
 /CVS
 /CVS/Entries
 /CVS/Root
@@ -2453,6 +2456,7 @@
 /NSFW/
 /OneSignalSDKWorker.js
 /PATHS_TO_CHECK%20=%20[
+/PHP/php-cgi.exe
 /Pipfile
 /Pipfile.lock
 /Procfile
@@ -2510,6 +2514,7 @@
 /__fixtures__
 /__flight
 /__graphql
+/__ignition/execute-solution
 /__internal
 /__keys
 /__mocks__
@@ -2534,6 +2539,7 @@
 /__previewmode
 /__pycache__/
 /__rsc
+/__rsc/
 /__schema
 /__server-actions
 /__snapshots__
@@ -2590,6 +2596,7 @@
 /_ignition/execute-solution
 /_ignition/health-check
 /_ignition/scripts
+/_ignition/scripts/script.js
 /_ignition/share-report
 /_ignition/styles
 /_ignition/update-config
@@ -2681,6 +2688,7 @@
 /_next/routes-manifest%2ejson
 /_next/routes-manifest.json
 /_next/server
+/_next/server-actions
 /_next/server/
 /_next/server/app-paths-manifest%2ejson
 /_next/server/app-paths-manifest.json
@@ -2803,6 +2811,7 @@
 /_next/webpack-hmr%3fpage%3d/index
 /_nodes
 /_nodes/stats
+/_nuxt/app.js
 /_nuxt/builds/latest.json
 /_nuxt/manifest.json
 /_old/
@@ -2825,6 +2834,7 @@
 /_react/data/*
 /_routes.json
 /_rsc
+/_rsc/
 /_search
 /_secret
 /_secrets
@@ -3818,6 +3828,7 @@
 /cgi-bin/
 /cgi-bin/%2eenv
 /cgi-bin/.%252e/.%252e/.%252e/.%252e/proc/self/environ
+/cgi-bin/PHP/php-cgi.exe
 /cgi-bin/cgi-bin/
 /cgi-bin/config%252eexp
 /cgi-bin/config%2eexp
@@ -3825,9 +3836,20 @@
 /cgi-bin/php
 /cgi-bin/php%253f-s
 /cgi-bin/php%3f-s
+/cgi-bin/php-cgi
+/cgi-bin/php-cgi.exe
+/cgi-bin/php.exe
+/cgi-bin/php/php-cgi.exe
 /cgi-bin/php5
 /cgi-bin/php5%253f-s
 /cgi-bin/php5%3f-s
+/cgi-bin/php72/php-cgi.exe
+/cgi-bin/php73/php-cgi.exe
+/cgi-bin/php74/php-cgi.exe
+/cgi-bin/php80/php-cgi.exe
+/cgi-bin/php81/php-cgi.exe
+/cgi-bin/php82/php-cgi.exe
+/cgi-bin/php83/php-cgi.exe
 /cgi_bin/
 /changelog.txt
 /changelog.zip
@@ -3848,6 +3870,7 @@
 /classwithtostring.phpl
 /clerk/sso-callback
 /clerk/webhook
+/cli
 /client.key
 /client.ovpn
 /client.pem
@@ -3966,6 +3989,7 @@
 /config.tar.gz
 /config.toml
 /config.ts
+/config.xml
 /config.yaml
 /config.yml
 /config.zip
@@ -4244,6 +4268,7 @@
 /core/
 /core/%2eenv
 /core/.gitignore
+/core/CHANGELOG.txt
 /core/access.log
 /core/backup.tar.gz
 /core/bundle.js
@@ -4291,6 +4316,7 @@
 /credentials.tar
 /credentials.tar.gz
 /credentials.txt
+/credentials.xml
 /credentials.yaml
 /credentials.yml
 /credentials.zip
@@ -4738,6 +4764,7 @@
 /exceptions.zip
 /experimental
 /experimental.zip
+/explore
 /export.json
 /export.zip
 /exported/phpinfo%2ephp
@@ -4757,6 +4784,7 @@
 /favicon.ico
 /favicon.png
 /fb
+/fcgi/php-cgi.exe
 /feature.zip
 /feature_flags.json
 /feed
@@ -5100,6 +5128,7 @@
 /https://achan.moe/
 /hu/
 /hugo.zip
+/human.aspx
 /humans.txt
 /i%2ephp
 /iam/ses_policy.json
@@ -5117,8 +5146,10 @@
 /id_rsa.pub
 /identity
 /ignition
+/ignition/execute-solution
 /ignition/health-check
 /illustrator.zip
+/images
 /images.tar
 /images.tar.gz
 /images.zip
@@ -5515,6 +5546,7 @@
 /live.tar.gz
 /live.zip
 /live_env
+/livewire/message
 /livewire/update
 /livewire/upload-file
 /livez
@@ -5793,6 +5825,7 @@
 /monitoring/config.json
 /monitoring/config.yaml
 /monitoring/config.yml
+/moveitisapi/moveitisapi.dll
 /mssql.zip
 /mt/
 /mu/
@@ -5855,6 +5888,7 @@
 /ngsw-worker.js
 /node/
 /node/.env_example
+/node/1
 /node_modules
 /node_modules.tar
 /node_modules.tar.gz
@@ -6092,6 +6126,8 @@
 /php
 /php%2ephp
 /php-admin/
+/php-cgi
+/php-cgi.exe
 /php-cgi/php-cgi%2eexe
 /php-cgi/php-cgi.exe
 /php-compat/
@@ -6105,6 +6141,7 @@
 /php/.config.yml
 /php/.settings
 /php/info%2ephp
+/php/php-cgi.exe
 /php/phpinfo%2ephp
 /php5.ini
 /phpMyAdmin/
@@ -6674,6 +6711,7 @@
 /secrets/mailjet_keys.json
 /secrets/mandrill.json
 /secrets/mandrill_keys.json
+/secrets/master.key
 /secrets/postmark.json
 /secrets/secret.key
 /secrets/sendgrid.json
@@ -6751,6 +6789,7 @@
 /sentry_dsn.txt
 /server
 /server%2ephp
+/server-actions/
 /server-info
 /server-info%2ephp
 /server-status
@@ -7203,6 +7242,7 @@
 /static/js/main.chunk.js.map
 /static/js/main.e85f7a37.js
 /static/js/main.ef8ecb99.chunk.js
+/static/js/main.js
 /static/js/main.js.map
 /static/js/vendor.js.map
 /static/manifest.json
@@ -7711,6 +7751,7 @@
 /users/-1
 /users/0
 /users/1
+/users/admin/config.xml
 /users/become
 /users/create
 /users/delete
@@ -7726,6 +7767,7 @@
 /users/null
 /users/profile
 /users/root
+/users/root/config.xml
 /users/search
 /users/settings
 /users/su
@@ -8197,6 +8239,7 @@
 /wp-content/ai1wm-backups.tar
 /wp-content/ai1wm-backups.tar.gz
 /wp-content/ai1wm-backups.zip
+/wp-content/ai1wm-backups/
 /wp-content/alfacgiapi/perl.alfa
 /wp-content/backup-db.tar
 /wp-content/backup-db.tar.gz
@@ -8223,8 +8266,10 @@
 /wp-content/export.tar
 /wp-content/export.tar.gz
 /wp-content/export.zip
+/wp-content/fluent-smtp-debug.log
 /wp-content/languages/
 /wp-content/languages/plugins/
+/wp-content/litespeed/debug.log
 /wp-content/maintenance/
 /wp-content/mu-plugins-old/
 /wp-content/mu-plugins/
@@ -8260,6 +8305,8 @@
 /wp-content/plugins/erin/yani/
 /wp-content/plugins/erinyani/
 /wp-content/plugins/fix/
+/wp-content/plugins/fluent-smtp/debug.log
+/wp-content/plugins/fluent-smtp/readme.txt
 /wp-content/plugins/google-seo-rank/
 /wp-content/plugins/hello-dolly/
 /wp-content/plugins/ioptimization/
@@ -8268,6 +8315,7 @@
 /wp-content/plugins/keys.json
 /wp-content/plugins/linkpreview/
 /wp-content/plugins/litespeed-cache/
+/wp-content/plugins/litespeed-cache/readme.txt
 /wp-content/plugins/mailer_dsn_keys.json
 /wp-content/plugins/mailer_url_keys.json
 /wp-content/plugins/mailgun_keys.json
@@ -8374,6 +8422,9 @@
 /wp-content/uploads/2026/%2eenv
 /wp-content/uploads/api_keys.json
 /wp-content/uploads/aws_keys.json
+/wp-content/uploads/fluent-smtp/debug.log
+/wp-content/uploads/fluent-smtp/debug.log.1
+/wp-content/uploads/fluent-smtp/email.log
 /wp-content/uploads/fusion-forms/
 /wp-content/uploads/gravity_forms/
 /wp-content/uploads/gravity_forms/logs/
@@ -8547,6 +8598,7 @@
 /wp-includes/wp-includes/
 /wp-json
 /wp-json/
+/wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed

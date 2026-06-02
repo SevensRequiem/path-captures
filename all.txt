@@ -2593,6 +2593,7 @@
 /.env.original
 /.env.payment
 /.env.php
+/.env.php.bak
 /.env.php.dist
 /.env.postmark
 /.env.preprod
@@ -3041,6 +3042,7 @@
 /.well-known/autoload_classmap.php
 /.well-known/buy.php
 /.well-known/caches.php
+/.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0
 /.well-known/chosen.php
 /.well-known/classwithtostring.php
 /.well-known/cloud.php
@@ -3886,6 +3888,7 @@
 //wp-includes/fonts/
 //wp-includes/fonts/index.php
 //wp-includes/images/smilies/index.php
+//wp-includes/index.php
 //wp-includes/js/dist/
 //wp-includes/js/jcrop/Jcrop.php
 //wp-includes/js/jquery/
@@ -4369,6 +4372,7 @@
 /ADMIN/.env
 /AE5VAL.php
 /AI5Tgo4CLPS.php
+/ALFA_DATA
 /ALFA_DATA.php
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
@@ -4445,6 +4449,7 @@
 /CDX7.php
 /CHANGELOG
 /CHANGELOG.md
+/CHANGELOG.txt
 /CLA.php
 /CNsAwv8e6ui.php
 /CVS
@@ -4522,6 +4527,7 @@
 /F1jgmosvPbq.php
 /FE/huey/.env
 /FF3.php
+/FII.php
 /FIRST_CONFIG/.env
 /FRONT/.env
 /FRONTEND/.env
@@ -4645,6 +4651,7 @@
 /OvPDGIuZXsH.php
 /PATHS_TO_CHECK%20=%20[
 /PFBC/Form.php
+/PHP/php-cgi.exe
 /PHPINFO.php
 /PHPMailer.php
 /PHPinfo.php
@@ -4805,6 +4812,7 @@
 /__fixtures__
 /__flight
 /__graphql
+/__ignition/execute-solution
 /__internal
 /__keys
 /__mocks__
@@ -4830,6 +4838,7 @@
 /__previewmode
 /__pycache__/
 /__rsc
+/__rsc/
 /__schema
 /__server-actions
 /__snapshots__
@@ -4892,6 +4901,7 @@
 /_ignition/execute-solution
 /_ignition/health-check
 /_ignition/scripts
+/_ignition/scripts/script.js
 /_ignition/share-report
 /_ignition/styles
 /_ignition/update-config
@@ -4988,6 +4998,7 @@
 /_next/routes-manifest%2ejson
 /_next/routes-manifest.json
 /_next/server
+/_next/server-actions
 /_next/server/
 /_next/server/app-paths-manifest%2ejson
 /_next/server/app-paths-manifest.json
@@ -5110,6 +5121,7 @@
 /_next/webpack-hmr%3fpage%3d/index
 /_nodes
 /_nodes/stats
+/_nuxt/app.js
 /_nuxt/builds/latest.json
 /_nuxt/manifest.json
 /_old/
@@ -5142,6 +5154,7 @@
 /_react/data/*
 /_routes.json
 /_rsc
+/_rsc/
 /_search
 /_secret
 /_secrets
@@ -7655,12 +7668,14 @@
 /cgi-bin/404.php
 /cgi-bin/7.php
 /cgi-bin/8.php
+/cgi-bin/PHP/php-cgi.exe
 /cgi-bin/a5.php
 /cgi-bin/about.php
 /cgi-bin/admin.php
 /cgi-bin/autoload_classmap.php
 /cgi-bin/bypass.php
 /cgi-bin/cgi-bin/
+/cgi-bin/cgi-bin/about.php
 /cgi-bin/cgi-bin/about.php7
 /cgi-bin/class.api.php
 /cgi-bin/cloud.php
@@ -7677,9 +7692,20 @@
 /cgi-bin/php
 /cgi-bin/php%253f-s
 /cgi-bin/php%3f-s
+/cgi-bin/php-cgi
+/cgi-bin/php-cgi.exe
+/cgi-bin/php.exe
+/cgi-bin/php/php-cgi.exe
 /cgi-bin/php5
 /cgi-bin/php5%253f-s
 /cgi-bin/php5%3f-s
+/cgi-bin/php72/php-cgi.exe
+/cgi-bin/php73/php-cgi.exe
+/cgi-bin/php74/php-cgi.exe
+/cgi-bin/php80/php-cgi.exe
+/cgi-bin/php81/php-cgi.exe
+/cgi-bin/php82/php-cgi.exe
+/cgi-bin/php83/php-cgi.exe
 /cgi-bin/plugins.php
 /cgi-bin/postnews.php
 /cgi-bin/radio.php
@@ -7873,6 +7899,7 @@
 /clcdu.php
 /clerk/sso-callback
 /clerk/webhook
+/cli
 /cli/7.php
 /cli_bootstrap.php
 /click.php
@@ -8226,6 +8253,7 @@
 /config.tar.gz
 /config.toml
 /config.ts
+/config.xml
 /config.yaml
 /config.yml
 /config.zip
@@ -8991,6 +9019,7 @@
 /core/.git/config
 /core/.git/logs/HEAD
 /core/.gitignore
+/core/CHANGELOG.txt
 /core/Database/.env
 /core/Datavase/.env
 /core/access.log
@@ -9086,6 +9115,7 @@
 /credentials.tar
 /credentials.tar.gz
 /credentials.txt
+/credentials.xml
 /credentials.yaml
 /credentials.yml
 /credentials.zip
@@ -10115,6 +10145,7 @@
 /edit-video.php
 /edit-wolf.php
 /edit.php
+/edit.phphttps://win55.bike/ioxi-o.php
 /editor/*
 /editor/plugins/filemanager/dialog.php
 /edorxrr.php
@@ -10422,6 +10453,7 @@
 /exhds0ucw0ju9vjgasxqCdefault.php
 /experimental
 /experimental.zip
+/explore
 /explorer/index_.php
 /export.json
 /export.php
@@ -10492,6 +10524,7 @@
 /fb
 /fb.php
 /fc72f.php
+/fcgi/php-cgi.exe
 /fck.php
 /fclas.php
 /fcnlp.php
@@ -11436,6 +11469,7 @@
 /htzevfl4k9ey5hoaywdwiCdefault.php
 /hu/
 /hugo.zip
+/human.aspx
 /human.php
 /humans.txt
 /husky301.php
@@ -11491,6 +11525,7 @@
 /ifrea.php
 /ight.php
 /ignition
+/ignition/execute-solution
 /ignition/health-check
 /ihipj.php
 /ihodcrk.php
@@ -11511,6 +11546,7 @@
 /image2.php
 /imageUpload.php
 /image_data/.env
+/images
 /images.php
 /images.tar
 /images.tar.gz
@@ -12314,6 +12350,7 @@
 /kustomization.yaml
 /kwfcrhudyln.php
 /kwm4.php
+/kyami.php
 /kyc/.env
 /kyc/.env.local
 /kyc/.env.production
@@ -12671,6 +12708,7 @@
 /live/xampp/phpinfo.php
 /live_env
 /liverpool-health.php
+/livewire/message
 /livewire/update
 /livewire/upload-file
 /livez
@@ -13444,6 +13482,7 @@
 /moto.php
 /motu.php
 /mountps.php
+/moveitisapi/moveitisapi.dll
 /mpvloi.php
 /mpxct.php
 /mr.php
@@ -13526,6 +13565,7 @@
 /n3.php
 /n3yUmQ6Q9xwQ8ocdefault.php
 /nDHHF.php
+/nVEDxSgpTYq.php
 /nagiosql/admin/logbook.php
 /naik_dong.php
 /nakrip.php
@@ -13631,6 +13671,7 @@
 /node/
 /node/.env
 /node/.env_example
+/node/1
 /node/api/.env
 /node/api/info.php
 /node/backend/.env
@@ -14205,6 +14246,8 @@
 /php-7.php
 /php-admin/
 /php-benchmark.php
+/php-cgi
+/php-cgi.exe
 /php-cgi/php-cgi%2eexe
 /php-cgi/php-cgi.exe
 /php-compat/
@@ -14236,6 +14279,7 @@
 /php/.settings
 /php/info%2ephp
 /php/info.php
+/php/php-cgi.exe
 /php/phpinfo%2ephp
 /php/phpinfo.php
 /php1.php
@@ -14819,6 +14863,7 @@
 /public/.git/config
 /public/.gitconfig
 /public/.s3cfg
+/public/5.php
 /public/admin.php
 /public/asdf.php
 /public/assets/plugins/plupload/examples/upload.php
@@ -15667,6 +15712,7 @@
 /secrets/mailjet_keys.json
 /secrets/mandrill.json
 /secrets/mandrill_keys.json
+/secrets/master.key
 /secrets/postmark.json
 /secrets/secret.key
 /secrets/sendgrid.json
@@ -15785,6 +15831,7 @@
 /serve-browserbench/.env
 /server
 /server%2ephp
+/server-actions/
 /server-info
 /server-info%2ephp
 /server-info.php
@@ -16818,6 +16865,7 @@
 /static/js/main.chunk.js.map
 /static/js/main.e85f7a37.js
 /static/js/main.ef8ecb99.chunk.js
+/static/js/main.js
 /static/js/main.js.map
 /static/js/vendor.js.map
 /static/manifest.json
@@ -17632,6 +17680,7 @@
 /thh.php
 /thickbox.php
 /think.php
+/this_is_a_new_hello_world.php
 /thoms.php
 /thr.php
 /threads/*
@@ -18086,6 +18135,7 @@
 /users/.env
 /users/0
 /users/1
+/users/admin/config.xml
 /users/backend/info.php
 /users/backup/info.php
 /users/become
@@ -18122,6 +18172,7 @@
 /users/pinfo.php
 /users/profile
 /users/root
+/users/root/config.xml
 /users/search
 /users/server/info.php
 /users/service/info.php
@@ -19661,6 +19712,7 @@
 /wp-content/ai1wm-backups.tar
 /wp-content/ai1wm-backups.tar.gz
 /wp-content/ai1wm-backups.zip
+/wp-content/ai1wm-backups/
 /wp-content/ai1wm-backups/about.php
 /wp-content/alam.php
 /wp-content/alfa.php
@@ -19745,6 +19797,7 @@
 /wp-content/favicon.php
 /wp-content/file.php
 /wp-content/file2.php
+/wp-content/fluent-smtp-debug.log
 /wp-content/fonts/nunito/chosen.php
 /wp-content/fot.php
 /wp-content/fullbackup.sql
@@ -19802,6 +19855,7 @@
 /wp-content/languages/themes/wp-links-opml.php
 /wp-content/languages/wp-conflg.php
 /wp-content/languages/wp-login.php
+/wp-content/litespeed/debug.log
 /wp-content/lock360.php
 /wp-content/login.php
 /wp-content/mah.php
@@ -19959,7 +20013,9 @@
 /wp-content/plugins/fix/bypass.php
 /wp-content/plugins/fix/up.php
 /wp-content/plugins/fluent-smtp/app/Services/SettingsService.php
+/wp-content/plugins/fluent-smtp/debug.log
 /wp-content/plugins/fluent-smtp/fluent-smtp.php
+/wp-content/plugins/fluent-smtp/readme.txt
 /wp-content/plugins/fonts/fonts.php
 /wp-content/plugins/fooevents-calendar/class-fooevents-calendar.php
 /wp-content/plugins/fooevents/class-fooevents-config.php
@@ -19998,6 +20054,7 @@
 /wp-content/plugins/linkpreview/il.php
 /wp-content/plugins/linkpreview/index.php
 /wp-content/plugins/litespeed-cache/
+/wp-content/plugins/litespeed-cache/readme.txt
 /wp-content/plugins/load.php
 /wp-content/plugins/login.php
 /wp-content/plugins/loginpress/css/themes/wp-cron.php
@@ -20207,6 +20264,7 @@
 /wp-content/plugins/wpcss/404.php
 /wp-content/plugins/wpforms/class-wpforms-update.php
 /wp-content/plugins/wps-hide-login/wps-hide-login.php
+/wp-content/plugins/wpsearch/login.php
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/x/wp-classs-editor.php
 /wp-content/plugins/xc.php
@@ -20506,6 +20564,10 @@
 /wp-content/uploads/error.php
 /wp-content/uploads/file.php
 /wp-content/uploads/fileman.php
+/wp-content/uploads/fluent-smtp/debug.log
+/wp-content/uploads/fluent-smtp/debug.log.1
+/wp-content/uploads/fluent-smtp/debug.log.old
+/wp-content/uploads/fluent-smtp/email.log
 /wp-content/uploads/footer.php
 /wp-content/uploads/fusion-forms/
 /wp-content/uploads/goods.php
@@ -20885,6 +20947,7 @@
 /wp-includes/abilities-api/
 /wp-includes/about.php
 /wp-includes/accesson.php
+/wp-includes/admiin.php
 /wp-includes/admin-bar-decryption.php
 /wp-includes/admin.php
 /wp-includes/alfacgiapi/perl.alfa
@@ -21093,6 +21156,7 @@
 /wp-includes/core.php
 /wp-includes/count.php
 /wp-includes/cron.php
+/wp-includes/css.php
 /wp-includes/css/
 /wp-includes/css//index.php
 /wp-includes/css//xc.php
@@ -21408,6 +21472,7 @@
 /wp-includes/php-compat/
 /wp-includes/php-compat/autoload_classmap.php
 /wp-includes/php-compat/chosen.php
+/wp-includes/php-compat/index.php
 /wp-includes/phpmailer/
 /wp-includes/phpmailer/phpmailer.php
 /wp-includes/plugin.php
@@ -21632,6 +21697,7 @@
 /wp-js.php
 /wp-json
 /wp-json/
+/wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
@@ -21977,6 +22043,7 @@
 /wsoyanz1.php
 /wsr2.php
 /wss
+/wss.php
 /wssw.php
 /wsu.php
 /wsvvs.php
