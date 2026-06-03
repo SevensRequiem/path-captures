@@ -2121,6 +2121,7 @@
 /.ftp-sync.json
 /.ftpconfig
 /.gcloud/credentials
+/.gcp/credentials.json
 /.gem/credentials
 /.ghc.environment
 /.gitattributes
@@ -2862,6 +2863,7 @@
 /a/catalog.json
 /a/index.json
 /aWs-cOdEcOmMiT/
+/aaa-debug-probe
 /aaabbbccc
 /about
 /about-us
@@ -3141,6 +3143,7 @@
 /app/config/aws.yml
 /app/config/development.ini
 /app/config/email.yml
+/app/config/gcp.json
 /app/config/mail.yml
 /app/config/mandrill.yml
 /app/config/parameters.yaml
@@ -3211,6 +3214,8 @@
 /application-prod.properties
 /application-prod.yml
 /application-production.properties
+/application-production.yml
+/application-staging.properties
 /application.log
 /application.properties
 /application.tar
@@ -4071,6 +4076,7 @@
 /config/environments/production/stripe.rb
 /config/error.log
 /config/features.json
+/config/gcloud.json
 /config/git-credentials
 /config/heroku.yml
 /config/initializers/aws%2erb
@@ -4938,6 +4944,7 @@
 /gcp/config.yml
 /gcp/credentials
 /gcp/credentials.json
+/gcp/sa.json
 /gcp/secrets.env
 /gcp/stripe-keys.json
 /gcp/tokens.json
@@ -6131,6 +6138,7 @@
 /php-cgi/php-cgi%2eexe
 /php-cgi/php-cgi.exe
 /php-compat/
+/php-info
 /php-info%2ephp
 /php-information
 /php.ini
@@ -6704,6 +6712,7 @@
 /secrets/aws_token.txt
 /secrets/config.json
 /secrets/creds.json
+/secrets/gcp.json
 /secrets/k8s/stripe.txt
 /secrets/mailer_dsn_keys.json
 /secrets/mailer_url_keys.json
@@ -7619,6 +7628,7 @@
 /thumb/00bd73e1-2272-482e-a79d-c10176ff52ae.jpg
 /thumb/1482d7b1-0dc9-4788-9d4c-b87780cd4dd1.jpg
 /thumb/22c94858-55af-4585-8407-f9e97a726f6a.jpg
+/thumb/349c8d9c-675e-46b4-8cc4-569938edbfe7.jpg
 /thumb/3b6e9702-4b45-46a0-b796-88d8d498870b.jpg
 /thumb/3ca47628-d41a-4d91-979a-e574ea42ab49.jpg
 /thumb/590c5277-5b50-40de-b449-57ded26e119b.jpg
@@ -7986,6 +7996,7 @@
 /web-inf/web%2exml
 /web-installer
 /web.config
+/web.config.txt
 /web.config~
 /web.tar
 /web.tar.gz

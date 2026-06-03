@@ -2713,6 +2713,7 @@
 /.ftp-sync.json
 /.ftpconfig
 /.gcloud/credentials
+/.gcp/credentials.json
 /.gem/credentials
 /.ghc.environment
 /.git
@@ -4135,6 +4136,7 @@
 /20025Tn.php
 /2008.php
 /201.php
+/201.php7
 /2020/%2eenv
 /2020/.env
 /2020/phpinfo%2ephp
@@ -4162,6 +4164,7 @@
 /2026.sql
 /2026/%2eenv
 /2026w.php
+/206.php
 /20ojy.php
 /21ew.php
 /21x.php
@@ -4202,6 +4205,7 @@
 /2x.php
 /3-sequelize/final/.env
 /3.php
+/300.php7
 /31_structure_tests/.env
 /32.php
 /32O7x8UeIG.php
@@ -4643,6 +4647,7 @@
 /O00.php
 /ODdyeJxshcY.php
 /OK.php
+/OVO7xf.php
 /Okxob.php
 /OneSignalSDKWorker.js
 /OpVq6.php
@@ -5212,6 +5217,7 @@
 /aa17.php
 /aa2.php
 /aa21.php
+/aaa-debug-probe
 /aaa.php
 /aaa.php/getid3-core.php
 /aaaa.php
@@ -5617,6 +5623,7 @@
 /aios-bootstrap.php
 /aj.php
 /aj11.php
+/aj12.php
 /ajax-actions.php
 /ajax.php
 /ajaxEmail.php
@@ -6096,6 +6103,7 @@
 /app/config/development.ini
 /app/config/email.php
 /app/config/email.yml
+/app/config/gcp.json
 /app/config/mail.php
 /app/config/mail.yml
 /app/config/mailchimp.php
@@ -6218,6 +6226,8 @@
 /application-prod.properties
 /application-prod.yml
 /application-production.properties
+/application-production.yml
+/application-staging.properties
 /application.config.php
 /application.log
 /application.properties
@@ -8480,6 +8490,7 @@
 /config/fastmail.php
 /config/features.json
 /config/filesystems.php
+/config/gcloud.json
 /config/git-credentials
 /config/github.php
 /config/gitlab.php
@@ -10477,6 +10488,7 @@
 /extranet/dashboard
 /extranet/login
 /extremecrw.php
+/ey5.php
 /f.PhP7
 /f.php
 /f0x.php
@@ -11012,6 +11024,7 @@
 /gcp/config.yml
 /gcp/credentials
 /gcp/credentials.json
+/gcp/sa.json
 /gcp/secrets.env
 /gcp/stripe-keys.json
 /gcp/tokens.json
@@ -14256,6 +14269,7 @@
 /php-diag.php
 /php-fpm.php
 /php-health.php
+/php-info
 /php-info%2ephp
 /php-info-page.php
 /php-info.php
@@ -15705,6 +15719,7 @@
 /secrets/aws_token.txt
 /secrets/config.json
 /secrets/creds.json
+/secrets/gcp.json
 /secrets/k8s/stripe.txt
 /secrets/mailer_dsn_keys.json
 /secrets/mailer_url_keys.json
@@ -17693,6 +17708,7 @@
 /thumb/00bd73e1-2272-482e-a79d-c10176ff52ae.jpg
 /thumb/1482d7b1-0dc9-4788-9d4c-b87780cd4dd1.jpg
 /thumb/22c94858-55af-4585-8407-f9e97a726f6a.jpg
+/thumb/349c8d9c-675e-46b4-8cc4-569938edbfe7.jpg
 /thumb/3b6e9702-4b45-46a0-b796-88d8d498870b.jpg
 /thumb/3ca47628-d41a-4d91-979a-e574ea42ab49.jpg
 /thumb/590c5277-5b50-40de-b449-57ded26e119b.jpg
@@ -18615,6 +18631,7 @@
 /web.config
 /web.config.bak
 /web.config.old
+/web.config.txt
 /web.config~
 /web.php
 /web.sql
@@ -22338,6 +22355,7 @@
 /yyy.php
 /z.ph
 /z.php
+/z.php/mah/function.php
 /z123.php
 /z3ki.php
 /z57.php
