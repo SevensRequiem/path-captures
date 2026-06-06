@@ -2185,6 +2185,8 @@
 /.old.tar.gz
 /.old.zip
 /.openai/config.json
+/.openclaw/agents/main/agent/models.json
+/.openclaw/openclaw.json
 /.output/
 /.pam_environment
 /.passwd-s3fs
@@ -2590,6 +2592,7 @@
 /_devMiddlewareManifest.json
 /_environment
 /_flight
+/_fragment
 /_git/config
 /_health
 /_ignition
@@ -4077,6 +4080,8 @@
 /config/error.log
 /config/features.json
 /config/gcloud.json
+/config/gcp-credentials.json
+/config/gcp.json
 /config/git-credentials
 /config/heroku.yml
 /config/initializers/aws%2erb
@@ -4845,6 +4850,7 @@
 /file/x/4aa25620-c34d-4dac-a68f-2fc27a2ec38d.jpg
 /file/x/dea8da5b-e251-4ba2-ab1f-fd6a092f402d.png
 /file/x/e5dda248-fd61-4139-a0a9-710adaa4505e.jpg
+/filefuns
 /filemanager/
 /filemanager/initialize
 /files
@@ -4942,6 +4948,7 @@
 /gcp-key.json
 /gcp-sa.json
 /gcp-service-account.json
+/gcp.json
 /gcp/config.yml
 /gcp/credentials
 /gcp/credentials.json
@@ -4980,6 +4987,7 @@
 /godaddy.zip
 /godot.zip
 /google-analytics.zip
+/google-application-credentials.json
 /google-cloud.zip
 /google-cloud/config.json
 /google-cloud/credentials.env
@@ -4987,7 +4995,10 @@
 /google-credentials.json
 /google-key.json
 /google-service-account.json
+/google-services.json
 /google_analytics.json
+/google_credentials.json
+/google_key.json
 /google_oauth.json
 /googledrive.zip
 /gql
@@ -6713,6 +6724,7 @@
 /secrets/aws_token.txt
 /secrets/config.json
 /secrets/creds.json
+/secrets/gcp-key.json
 /secrets/gcp.json
 /secrets/k8s/stripe.txt
 /secrets/mailer_dsn_keys.json

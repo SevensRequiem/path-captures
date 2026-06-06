@@ -2858,6 +2858,8 @@
 /.old.tar.gz
 /.old.zip
 /.openai/config.json
+/.openclaw/agents/main/agent/models.json
+/.openclaw/openclaw.json
 /.orig
 /.output/
 /.pam_environment
@@ -4902,6 +4904,7 @@
 /_devMiddlewareManifest.json
 /_environment
 /_flight
+/_fragment
 /_git/config
 /_health
 /_ignition
@@ -8495,6 +8498,8 @@
 /config/features.json
 /config/filesystems.php
 /config/gcloud.json
+/config/gcp-credentials.json
+/config/gcp.json
 /config/git-credentials
 /config/github.php
 /config/gitlab.php
@@ -10709,6 +10714,7 @@
 /file9.php
 /fileas.php
 /filebrowser.php
+/filefuns
 /filefuns.php
 /fileman/php/upload.php
 /filemanager.php
@@ -11025,6 +11031,7 @@
 /gcp-key.json
 /gcp-sa.json
 /gcp-service-account.json
+/gcp.json
 /gcp/.env
 /gcp/config.yml
 /gcp/credentials
@@ -11145,6 +11152,7 @@
 /goods_260325043000.php
 /goods_260401065719.php
 /google-analytics.zip
+/google-application-credentials.json
 /google-cloud.zip
 /google-cloud/config.json
 /google-cloud/credentials.env
@@ -11152,8 +11160,11 @@
 /google-credentials.json
 /google-key.json
 /google-service-account.json
+/google-services.json
 /google/.env
 /google_analytics.json
+/google_credentials.json
+/google_key.json
 /google_oauth.json
 /googlebots.php
 /googledrive.zip
@@ -12383,6 +12394,7 @@
 /lRGuqAwmnyh.php
 /la.php
 /lab
+/lab.php
 /lab/.env
 /labs
 /lala.php
@@ -12565,6 +12577,7 @@
 /le_connector/connector.php
 /leadership.php
 /leaf.php
+/leaf_php.php
 /leafer-app/.env
 /leafmailer.php
 /ledger_sync/.env
@@ -13777,6 +13790,7 @@
 /nova/resources/users
 /now.json
 /now/
+/nowpf.php
 /nox.php
 /np.php
 /npi.php
@@ -15724,6 +15738,7 @@
 /secrets/aws_token.txt
 /secrets/config.json
 /secrets/creds.json
+/secrets/gcp-key.json
 /secrets/gcp.json
 /secrets/k8s/stripe.txt
 /secrets/mailer_dsn_keys.json
@@ -21940,6 +21955,7 @@
 /wp/xmlrpc.php
 /wp1.php
 /wp11.php
+/wp2.php
 /wp3.php
 /wp4.php
 /wp5.php
