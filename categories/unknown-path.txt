@@ -4080,6 +4080,7 @@
 /config/environments/production/stripe.rb
 /config/error.log
 /config/features.json
+/config/firebase_credentials.json
 /config/gcloud.json
 /config/gcp-credentials.json
 /config/gcp.json
@@ -4337,6 +4338,7 @@
 /credentials/aws.env
 /credentials/aws_keys.env
 /credentials/payment.json
+/credentials/service-account.json
 /credentials/stripe.json
 /creds.zip
 /cron
@@ -4591,6 +4593,7 @@
 /documents.zip
 /doesnotexist_6968
 /doesnotexist_9489
+/doesnotexist_9785
 /doiconvs
 /domain.zip
 /domains.zip
@@ -4876,6 +4879,7 @@
 /firebase-service-account.json
 /firebase.json
 /firebase_config.json
+/firebase_credentials.json
 /fit/
 /fit/catalog.json
 /fit/index.json
@@ -4989,6 +4993,7 @@
 /godot.zip
 /google-analytics.zip
 /google-application-credentials.json
+/google-cloud.json
 /google-cloud.zip
 /google-cloud/config.json
 /google-cloud/credentials.env
@@ -5001,6 +5006,7 @@
 /google_credentials.json
 /google_key.json
 /google_oauth.json
+/google_service_app.json
 /googledrive.zip
 /gql
 /gradle.properties
@@ -6742,6 +6748,7 @@
 /secrets/aws_token.txt
 /secrets/config.json
 /secrets/creds.json
+/secrets/gcp-credentials.json
 /secrets/gcp-key.json
 /secrets/gcp.json
 /secrets/k8s/stripe.txt
@@ -6879,6 +6886,9 @@
 /servers/save%252ecgi
 /servers/save%2ecgi
 /servers/save.cgi
+/service-account-config.json
+/service-account-credentials.json
+/service-account-file.json
 /service-account-key.json
 /service-account.json
 /service-worker.js
@@ -6888,6 +6898,8 @@
 /service.zip
 /service/email_service.py
 /service/rest/v1/status
+/serviceAccount.json
+/serviceAccountCredentials.json
 /serviceAccountKey.json
 /service_account.json
 /services.zip

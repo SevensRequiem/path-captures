@@ -7295,6 +7295,8 @@
 /bitrix/admin/phpinfo.php
 /bitrix/components/bitrix/catalog/templates/.default/.parameterss.php
 /bitrix/css/main/themes/0x1.php
+/bitrix/js/main/jquery/jquery-1.12.4.min.js.php
+/bitrix/js/main/jquery/jquery-1.8.3.min.js.php
 /bitrix/php_interface/dbconn.php.bak
 /bitrix/wp-content.php
 /biufile.php
@@ -8509,6 +8511,7 @@
 /config/fastmail.php
 /config/features.json
 /config/filesystems.php
+/config/firebase_credentials.json
 /config/gcloud.json
 /config/gcp-credentials.json
 /config/gcp.json
@@ -9157,6 +9160,7 @@
 /credentials/aws.env
 /credentials/aws_keys.env
 /credentials/payment.json
+/credentials/service-account.json
 /credentials/stripe.json
 /credits-all.php
 /credits.php
@@ -10030,10 +10034,12 @@
 /dodo.php
 /dodoswap-client/.env
 /doelr.php
+/doesnotexist_0777
 /doesnotexist_5810
 /doesnotexist_6734
 /doesnotexist_6968
 /doesnotexist_9489
+/doesnotexist_9785
 /doiconvs
 /doko.php
 /dom.php
@@ -10779,6 +10785,7 @@
 /firebase-service-account.json
 /firebase.json
 /firebase_config.json
+/firebase_credentials.json
 /firewall.php
 /firewall.php7
 /first-network/.env
@@ -11165,6 +11172,7 @@
 /goods_260401065719.php
 /google-analytics.zip
 /google-application-credentials.json
+/google-cloud.json
 /google-cloud.zip
 /google-cloud/config.json
 /google-cloud/credentials.env
@@ -11178,6 +11186,7 @@
 /google_credentials.json
 /google_key.json
 /google_oauth.json
+/google_service_app.json
 /googlebots.php
 /googledrive.zip
 /gool.php
@@ -15770,6 +15779,7 @@
 /secrets/aws_token.txt
 /secrets/config.json
 /secrets/creds.json
+/secrets/gcp-credentials.json
 /secrets/gcp-key.json
 /secrets/gcp.json
 /secrets/k8s/stripe.txt
@@ -15999,6 +16009,9 @@
 /servers/save%252ecgi
 /servers/save%2ecgi
 /servers/save.cgi
+/service-account-config.json
+/service-account-credentials.json
+/service-account-file.json
 /service-account-key.json
 /service-account.json
 /service-worker.js
@@ -16038,6 +16051,8 @@
 /service/temp.php
 /service/test.php
 /service/time.php
+/serviceAccount.json
+/serviceAccountCredentials.json
 /serviceAccountKey.json
 /service_account.json
 /services.php
