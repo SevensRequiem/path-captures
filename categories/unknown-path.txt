@@ -8659,6 +8659,8 @@
 /wp-json/
 /wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
+/wp-json/gravitysmtp/v1/config
+/wp-json/gravitysmtp/v1/settings
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
 /wp-json/post-smtp/v1/logs
@@ -8677,6 +8679,7 @@
 /wp-json/wp/v2/migration/legacy-export
 /wp-json/wp/v2/pages
 /wp-json/wp/v2/posts
+/wp-json/wp/v2/settings
 /wp-json/wp/v2/tags
 /wp-json/wp/v2/users
 /wp-links-opml
