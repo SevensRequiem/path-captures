@@ -128,6 +128,7 @@
 /backups/config.bak
 /backups/database.bak
 /backups/database.sql
+/backups/db.sql
 /backups/dump.sql
 /backups/keys.bak
 /backups/logs.bak
@@ -212,6 +213,7 @@
 /env.save
 /env.sql
 /export.sql
+/exports/db.sql
 /full.sql
 /full_backup.sql
 /includes.sql
@@ -310,8 +312,10 @@
 /terraform.tfstate.backup
 /test.sql
 /test/db.sql
+/tmp/backup.sql
 /tmp/db.sql
 /tmp/db_dump.sql
+/tmp/dump.sql
 /tmp/env.bak
 /tmp/env.save
 /token.sql

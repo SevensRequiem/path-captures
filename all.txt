@@ -2418,6 +2418,7 @@
 /.bod/.ll/ss.php
 /.boto
 /.buildkite/
+/.buildkite/pipeline.yml
 /.bzr/
 /.c9/metadata/environment/.env
 /.cache
@@ -2479,6 +2480,7 @@
 /.dockerenv
 /.dockerignore
 /.drone.secret
+/.drone.yaml
 /.drone.yml
 /.dump
 /.dump.sql
@@ -2713,6 +2715,7 @@
 /.ftp-sync.json
 /.ftpconfig
 /.gcloud/credentials
+/.gcloud/credentials.json
 /.gcp/credentials.json
 /.gem/credentials
 /.ghc.environment
@@ -2799,6 +2802,7 @@
 /.github/workflows/ci.yml
 /.github/workflows/deploy.yml
 /.github/workflows/main.yml
+/.github/workflows/production.yml
 /.github/workflows/release.yml
 /.github/workflows/secrets.env
 /.github/workflows/stripe.yml
@@ -2825,6 +2829,10 @@
 /.htpasswd
 /.idea/
 /.idea/.env
+/.idea/WebServers.xml
+/.idea/dataSources.local.xml
+/.idea/dataSources.xml
+/.idea/deployment.xml
 /.idea/workspace.xml
 /.info.php
 /.jenv-version
@@ -2992,6 +3000,7 @@
 /.vscode/settings.json
 /.vscode/sftp-config.json
 /.vscode/sftp.json
+/.vscode/tasks.json
 /.well-known
 /.well-known.php
 /.well-known/
@@ -3398,6 +3407,7 @@
 //at.php
 //atomlib.php
 //autoload_classmap.php
+//autovirgi.php
 //autoxxi.php
 //av.php
 //aww.php
@@ -3683,6 +3693,7 @@
 //ngacir88.php
 //noob.php
 //nsfw
+//nurseling.php
 //nw.php
 //nwflm.php
 //o.php
@@ -4324,6 +4335,7 @@
 /73.php
 /742.php
 /77.php
+/777.php
 /783de.php
 /7DHoKtiS2sQ.php
 /7RZp2GFyjNU.php
@@ -4754,6 +4766,8 @@
 /VCPwTSn1ZA2.php
 /VERSION
 /VzlaTeam.php
+/WEB-INF/classes/application.properties
+/WEB-INF/context.xml
 /WEB-INF/web.xml
 /WSO.php
 /WZGHHra0r3.php
@@ -5324,6 +5338,7 @@
 /actuator/beans
 /actuator/configprops
 /actuator/configprops.json
+/actuator/dump
 /actuator/env
 /actuator/env.json
 /actuator/env/aws
@@ -5818,6 +5833,7 @@
 /api-gateway/v2/openapi.json
 /api-gateway/v2/swagger.json
 /api-key.txt
+/api-keys.json
 /api-node/.env
 /api-reference
 /api-server/.env
@@ -5856,11 +5872,14 @@
 /api/config/mail.php
 /api/core/.env
 /api/credentials/.env
+/api/database.php
 /api/db.sql
 /api/db_backup.sql
 /api/db_dump.php
 /api/debug.php
 /api/dev/.env
+/api/docker-compose.prod.yml
+/api/docker-compose.yml
 /api/doesnotexist
 /api/download
 /api/exec
@@ -5902,6 +5921,7 @@
 /api_keys.js
 /api_keys.json
 /api_keys.txt
+/api_keys.yml
 /api_keys/sendgrid_keys.json
 /apikey.txt
 /apikeys.json
@@ -5936,6 +5956,7 @@
 /app.js
 /app.js.bak
 /app.js.map
+/app.json
 /app.log
 /app.php
 /app.py
@@ -6068,6 +6089,10 @@
 /app/Services/SparkPostService.php
 /app/Services/StripeService.php
 /app/Utils/language.php
+/app/actuator/configprops
+/app/actuator/env
+/app/actuator/heapdump
+/app/actuator/logfile
 /app/amplify%252eyaml
 /app/amplify%252eyml
 /app/amplify%2eyaml
@@ -6088,6 +6113,8 @@
 /app/api/stripe/route.js
 /app/api/stripe/route.ts
 /app/app.zip
+/app/application.properties
+/app/application.yml
 /app/aws/credentials.php
 /app/bootstrap.php
 /app/checkout/stripe.js
@@ -6100,6 +6127,7 @@
 /app/config.js
 /app/config.json
 /app/config.php
+/app/config.yml
 /app/config/%2eenv
 /app/config/.env
 /app/config/.env.local
@@ -6113,6 +6141,7 @@
 /app/config/brevo.php
 /app/config/cloud/aws.php
 /app/config/config.php
+/app/config/config.yml
 /app/config/database.php~
 /app/config/dev/.env
 /app/config/development.ini
@@ -6147,9 +6176,12 @@
 /app/config/stripe.yml
 /app/config/twilio.php
 /app/credentials.json
+/app/database.php
+/app/database.yml
 /app/dev/info.php
 /app/docker-compose%252eyml
 /app/docker-compose%2eyml
+/app/docker-compose.prod.yml
 /app/docker-compose.yml
 /app/error
 /app/etc/config.local.php
@@ -6162,6 +6194,7 @@
 /app/etc/local.xml.bak
 /app/frontend/.env
 /app/global-error
+/app/heapdump
 /app/info
 /app/info.php
 /app/infophp.php
@@ -6189,10 +6222,12 @@
 /app/package%2ejson
 /app/package.json
 /app/page
+/app/parameters.yml
 /app/phpinfo%2ephp
 /app/phpinfo.php
 /app/register
 /app/route
+/app/secrets.json
 /app/secrets/.env
 /app/serverless%252eyaml
 /app/serverless%252eyml
@@ -6200,8 +6235,10 @@
 /app/serverless%2eyml
 /app/serverless.yaml
 /app/serverless.yml
+/app/service-account.json
 /app/services/sparkpostservice%2ephp
 /app/services/sparkpostservice.php
+/app/settings.json
 /app/settings.php
 /app/settings_stripe.py
 /app/template
@@ -6244,6 +6281,7 @@
 /application-production.yml
 /application-staging.properties
 /application.config.php
+/application.json
 /application.log
 /application.properties
 /application.properties.bak
@@ -6511,6 +6549,7 @@
 /authentication.zip
 /author-template-less.php
 /authorization.zip
+/auto.php
 /auto_seo.php
 /autodiagnosis.php
 /autogooey.php
@@ -6558,6 +6597,7 @@
 /aws-config.json
 /aws-config.php
 /aws-credentials
+/aws-credentials.json
 /aws-credentials.php
 /aws-credentials.sh
 /aws-credentials.txt
@@ -6856,9 +6896,18 @@
 /backend/.git/config
 /backend/.gitconfig
 /backend/.gitignore
+/backend/actuator/configprops
+/backend/actuator/env
+/backend/actuator/heapdump
+/backend/application.properties
+/backend/application.yml
+/backend/appsettings.json
 /backend/asdf.php
+/backend/aws.json
 /backend/config.js
+/backend/config.json
 /backend/config.php
+/backend/config.yml
 /backend/config/.env
 /backend/config/.env.sample
 /backend/config/aws.php
@@ -6871,7 +6920,12 @@
 /backend/config/settings.yml
 /backend/constant.js
 /backend/constants.js
+/backend/credentials.json
+/backend/database.php
+/backend/database.yml
 /backend/debug
+/backend/docker-compose.prod.yml
+/backend/docker-compose.yml
 /backend/env.js
 /backend/help/info.php
 /backend/index.js
@@ -6887,13 +6941,19 @@
 /backend/node/constant.js
 /backend/node/constants.js
 /backend/old_phpinfo.php
+/backend/parameters.yml
 /backend/php-info.php
 /backend/phpinfo%2ephp
 /backend/phpinfo.php
 /backend/pinfo.php
 /backend/postmark.js
 /backend/register
+/backend/secrets.json
 /backend/sendgrid.js
+/backend/service-account.json
+/backend/settings.json
+/backend/settings.php
+/backend/settings.py
 /backend/settings/mail.php
 /backend/sparkpost.js
 /backend/src/.env
@@ -6937,6 +6997,7 @@
 /backup.sql.tar.gz
 /backup.sql.zip
 /backup.tar
+/backup.tar.bz2
 /backup.tar.gz
 /backup.tgz
 /backup.wp-config.php
@@ -7147,6 +7208,7 @@
 /backups/config/mail.php
 /backups/database.bak
 /backups/database.sql
+/backups/db.sql
 /backups/dump.sql
 /backups/keys.bak
 /backups/logs.bak
@@ -7298,6 +7360,8 @@
 /bitrix/js/main/jquery/jquery-1.12.4.min.js.php
 /bitrix/js/main/jquery/jquery-1.8.3.min.js.php
 /bitrix/php_interface/dbconn.php.bak
+/bitrix/templates/.default/lang/ru/page_templates/.contents.php
+/bitrix/themes/.default/public/components/buttons2/edits.php
 /bitrix/wp-content.php
 /biufile.php
 /bivvw.php
@@ -7610,6 +7674,7 @@
 /cah.php
 /caiij.php
 /cakephp/.env
+/cakr3xr4.php
 /cakt.php
 /cal_search.php
 /calendar/index.php
@@ -7985,6 +8050,7 @@
 /clone.zip
 /cloud
 /cloud-key.json
+/cloud.json
 /cloud.php
 /cloud.zip
 /cloud/%2eenv
@@ -8290,6 +8356,7 @@
 /config.zip
 /config/
 /config/%2eenv
+/config/.aws/credentials
 /config/.env
 /config/.env.bak
 /config/.env.dev
@@ -8460,6 +8527,7 @@
 /config/digitalocean.yml
 /config/discord.php
 /config/docker-compose.prod.yml
+/config/docker-compose.yml
 /config/dockerfile
 /config/drip.php
 /config/dump.sql
@@ -8537,6 +8605,7 @@
 /config/initializers/stripe.rb
 /config/initializers/twilio%2erb
 /config/initializers/twilio.rb
+/config/keys.json
 /config/keys.yml
 /config/kinesis.json
 /config/lara/info.php
@@ -8650,6 +8719,7 @@
 /config/packages/prod/parameters.yml
 /config/packages/sendgrid.yaml
 /config/parameters.json
+/config/parameters.yaml
 /config/parameters.yml
 /config/parameters.yml.dist
 /config/params-local.php
@@ -8919,6 +8989,7 @@
 /configuration.php.bak
 /configuration.php.old
 /configuration.php~
+/configuration.yml
 /configuration.zip
 /configuration/.env
 /configuration/email.php
@@ -9098,6 +9169,7 @@
 /core/phpinfo.php
 /core/qrcode.php
 /core/settings.php
+/core/settings.py
 /core/settings/stripe.py
 /core/site.conf
 /core/site.sql
@@ -9338,6 +9410,7 @@
 /cwclass.php
 /cwsd.php
 /cwshell.php
+/cx.php
 /cxc.php
 /cxl.php
 /cxxuv.php
@@ -9476,6 +9549,7 @@
 /db.bak
 /db.dump
 /db.inc.php~
+/db.json
 /db.old
 /db.php
 /db.php.bak
@@ -9530,6 +9604,7 @@
 /dbg.php
 /dbinfo.php
 /dbx.php
+/dccs.php
 /dczem.php
 /dd.php
 /ddd.php
@@ -9679,11 +9754,14 @@
 /deploy/config.json
 /deploy/config.yaml
 /deploy/config.yml
+/deploy/credentials.json
 /deploy/crm/info.php
 /deploy/current/info.php
 /deploy/dashboard/phpinfo.php
 /deploy/develop/info.php
 /deploy/develop/phpinfo.php
+/deploy/docker-compose.prod.yml
+/deploy/docker-compose.yml
 /deploy/help/info.php
 /deploy/helper/info.php
 /deploy/helper/phpinfo.php
@@ -9695,9 +9773,12 @@
 /deploy/old_phpinfo.php
 /deploy/php.php
 /deploy/pinfo.php
+/deploy/secrets.json
 /deploy/server/phpinfo.php
+/deploy/service-account.json
 /deploy/service/info.php
 /deploy/services/info.php
+/deploy/terraform.tfvars
 /deploy/test.php
 /deploy/time.php
 /deploy/xampp/info.php
@@ -9880,6 +9961,7 @@
 /development/xampp/phpinfo.php
 /devill.php
 /devops/aws/.env.secret
+/devops/docker-compose.yml
 /devs.php
 /devtools
 /devtools.zip
@@ -9972,8 +10054,11 @@
 /docker-compose.dev.yml
 /docker-compose.ecs.yml
 /docker-compose.env
+/docker-compose.local.yml
 /docker-compose.override.yml
+/docker-compose.prod.yaml
 /docker-compose.prod.yml
+/docker-compose.production.yml
 /docker-compose.staging.yml
 /docker-compose.yaml
 /docker-compose.yml
@@ -9997,6 +10082,8 @@
 /docker/database/.env
 /docker/db/.env
 /docker/dev/.env
+/docker/docker-compose.prod.yml
+/docker/docker-compose.yml
 /docker/env.production
 /docker/examples/compose/.env
 /docker/overlay/%63onfig.json
@@ -10501,6 +10588,7 @@
 /export/.env
 /exported/phpinfo%2ephp
 /exported/phpinfo.php
+/exports/db.sql
 /express.zip
 /express/.env
 /ext.php
@@ -11274,6 +11362,7 @@
 /hans.php
 /hanyatersenyum.php
 /haojj.php
+/harvestry.php
 /hash.php
 /hashicorp_vault.json
 /hasura/.env
@@ -11299,6 +11388,7 @@
 /healthz/etcd
 /healthz/live
 /healthz/ready
+/heapdump
 /heh.php
 /hehe.php
 /hehee.php
@@ -11312,6 +11402,9 @@
 /helm/.env
 /helm/values%252eyaml
 /helm/values%2eyaml
+/helm/values-production.yaml
+/helm/values.yaml
+/helm/values.yml
 /helm/values/stripe.yaml
 /help
 /help.php
@@ -11994,9 +12087,11 @@
 /information.php
 /infos.php
 /infra/aws.tf
+/infra/docker-compose.yml
 /infra/ses.tf
 /infra/terraform.tfvars
 /infrastructure/.env
+/infrastructure/docker-compose.yml
 /ingfo.php
 /inghl.php
 /ini.php
@@ -12067,14 +12162,21 @@
 /internal/.env
 /internal/169.254.169.254/latest/meta-data/iam/security-credentials/
 /internal/_ignition/execute-solution
+/internal/actuator/env
+/internal/actuator/heapdump
 /internal/admin
 /internal/api
 /internal/aws/credentials
 /internal/aws/iam/keys.json
 /internal/aws/metadata.json
 /internal/config
+/internal/config.json
+/internal/config.yml
+/internal/credentials.json
+/internal/docker-compose.yml
 /internal/payment/config.go
 /internal/proxy
+/internal/secrets.json
 /internal/stripe/keys.go
 /intracis
 /intracis/
@@ -12158,6 +12260,7 @@
 /jenkins.groovy
 /jenkins.yml
 /jenkins/.env
+/jenkins/Jenkinsfile
 /jenkins/config.xml
 /jenkins/credentials.xml
 /jenkins/secrets.xml
@@ -12290,6 +12393,8 @@
 /k.php
 /k2ll33d.php
 /k8s-config.yml
+/k8s.yaml
+/k8s.yml
 /k8s/
 /k8s/.env
 /k8s/eks/credentials
@@ -12405,6 +12510,7 @@
 /ku.php
 /kube/config
 /kubeconfig
+/kubernetes.yaml
 /kubernetes.yml
 /kubernetes/
 /kubernetes/.env
@@ -12483,6 +12589,7 @@
 /lara/xampp/phpinfo.php
 /laravel-file-manager/initialize
 /laravel-filemanager/initialize
+/laravel.log
 /laravel.tar
 /laravel.tar.gz
 /laravel.zip
@@ -12827,6 +12934,7 @@
 /loading.php
 /loadme.php
 /local
+/local-config.php
 /local-info.php
 /local.php
 /local.settings.json
@@ -12866,6 +12974,7 @@
 /log.zip
 /log/
 /log/.env
+/log/debug.log
 /log/development.log
 /log/error.log
 /log/production%252elog
@@ -12874,6 +12983,7 @@
 /log/test.log
 /log404.php
 /logain5.php
+/logfile
 /logging.php
 /logging/.env
 /logi.php
@@ -12973,6 +13083,7 @@
 /low.php
 /lowpr.php
 /loxi-o.php
+/loxico93.php
 /lp5.php
 /lp6.php
 /lpktuneq.php
@@ -13715,6 +13826,7 @@
 /nginx%2econf
 /nginx-server/.env
 /nginx.conf
+/nginx.config
 /nginx/.env
 /nginx/conf/.env
 /nginx/config.yml
@@ -14118,6 +14230,7 @@
 /oysdxc.php
 /ozuvf4qFVpt.php
 /p-4sd6kt.php
+/p-blog.php
 /p.php
 /p0wny.php
 /p14rAeWytPdH5hZcscCFdefault.php
@@ -14218,6 +14331,7 @@
 /panel/register
 /parameters.ini
 /parameters.json
+/parameters.php
 /parameters.yaml
 /parameters.yml
 /parameters.yml.dist
@@ -14660,6 +14774,7 @@
 /privacy.zip
 /private
 /private-key
+/private.json
 /private.key
 /private.pem
 /private.tar
@@ -14683,6 +14798,7 @@
 /private/config.php
 /private/config.yml
 /private/config/mail.php
+/private/credentials.json
 /private/env.json
 /private/env.php
 /private/keys.json
@@ -14695,10 +14811,12 @@
 /private/oauth_tokens.json
 /private/secret.key
 /private/secret.txt
+/private/secrets.json
 /private/sendgrid.json
 /private/sendgrid_config
 /private/sendgrid_keys
 /private/sendgrid_keys.json
+/private/service-account.json
 /private/smtp.json
 /private/sparkpost_keys.json
 /private_key
@@ -14844,7 +14962,9 @@
 /profile.php
 /profile/*
 /profile/.env
+/profiler
 /profiler.php
+/profiler/phpinfo
 /profiles
 /profiles/
 /profmanage.php
@@ -14874,6 +14994,7 @@
 /project/php.php
 /project/service/info.php
 /project/services/phpinfo.php
+/project/settings.py
 /project/settings/payment.py
 /project/xampp/info.php
 /project/xampp/phpinfo.php
@@ -15535,6 +15656,7 @@
 /rymmm.php
 /rz.php
 /rzki.php
+/s-axi.php
 /s-with-me-front/.env
 /s.php
 /s/031323e29323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
@@ -15744,6 +15866,7 @@
 /searchl.php
 /sec.php
 /secret.env
+/secret.json
 /secret.tar
 /secret.tar.gz
 /secret.txt
@@ -15779,7 +15902,9 @@
 /secrets/aws_secrets.json
 /secrets/aws_ses.json
 /secrets/aws_token.txt
+/secrets/azure.json
 /secrets/config.json
+/secrets/credentials.json
 /secrets/creds.json
 /secrets/gcp-credentials.json
 /secrets/gcp-key.json
@@ -15928,6 +16053,7 @@
 /server.sh
 /server.sql
 /server.ts
+/server.xml
 /server.zip
 /server/.config.json
 /server/.env
@@ -15935,15 +16061,22 @@
 /server/.env.production
 /server/.env.staging
 /server/.env.test
+/server/actuator/env
+/server/actuator/heapdump
 /server/api/.env
 /server/api/info.php
 /server/app.js
+/server/application.properties
+/server/application.yml
+/server/appsettings.json
 /server/asdf.php
 /server/backend/.env
 /server/backend/info.php
 /server/backup/info.php
 /server/backup/phpinfo.php
 /server/config.js
+/server/config.json
+/server/config.yml
 /server/config/.config.json
 /server/config/.config.yml
 /server/config/.env
@@ -15959,9 +16092,12 @@
 /server/configs/.env
 /server/constant.js
 /server/constants.js
+/server/credentials.json
 /server/crm/phpinfo.php
 /server/current/info.php
+/server/database.yml
 /server/develop/phpinfo.php
+/server/docker-compose.yml
 /server/env.js
 /server/help/phpinfo.php
 /server/helper/info.php
@@ -15980,6 +16116,7 @@
 /server/phpinfo.php
 /server/postmark.js
 /server/s3.js
+/server/secrets.json
 /server/sendgrid.js
 /server/server/info.php
 /server/settings.json
@@ -16057,6 +16194,7 @@
 /serviceAccountCredentials.json
 /serviceAccountKey.json
 /service_account.json
+/serviceaccount.json
 /services.php
 /services.zip
 /services/.env
@@ -16077,19 +16215,24 @@
 /services/adminer/.env
 /services/api/info.php
 /services/api/phpinfo.php
+/services/application.yml
 /services/asdf.php
 /services/backend/phpinfo.php
 /services/backup/info.php
 /services/backup/phpinfo.php
 /services/billing.js
+/services/config.json
+/services/config.yml
 /services/config/mail.php
 /services/crm/phpinfo.php
 /services/dashboard/phpinfo.php
+/services/database.yml
 /services/deployment-agent/.env
 /services/dev/phpinfo.php
 /services/develop/info.php
 /services/develop/phpinfo.php
 /services/development/phpinfo.php
+/services/docker-compose.yml
 /services/documents/.env
 /services/email/aws_ses.js
 /services/email/sendgrid.js
@@ -16114,6 +16257,7 @@
 /services/portainer/.env
 /services/redis-commander/.env
 /services/registry/.env
+/services/secrets.json
 /services/server/info.php
 /services/services/phpinfo.php
 /services/ses.js
@@ -16216,7 +16360,9 @@
 /settings.yml
 /settings.zip
 /settings/*
+/settings/base.py
 /settings/email.php
+/settings/local.py
 /settings/mail.php
 /settings/mandrill.py
 /settings/payment.py
@@ -16628,6 +16774,7 @@
 /special.zip
 /spikes/config-material-app/.env
 /spip.php
+/spire.php
 /splunk.zip
 /spread.php
 /sprites.zip
@@ -16709,6 +16856,8 @@
 /src/api/phpinfo.php
 /src/app.js
 /src/app.js.bak
+/src/application.properties
+/src/application.yml
 /src/asdf.php
 /src/assembly/.env
 /src/backend/.env
@@ -16725,6 +16874,7 @@
 /src/config.php
 /src/config.php.bak
 /src/config.ts
+/src/config.yml
 /src/config/.env
 /src/config/aws.php
 /src/config/brevo.php
@@ -16747,8 +16897,10 @@
 /src/constants.js
 /src/core/.env
 /src/core/tests/dotenv-files/.env
+/src/credentials.json
 /src/crm/phpinfo.php
 /src/database.php
+/src/database.yml
 /src/db.sql
 /src/debug.js
 /src/debug.log
@@ -16785,10 +16937,12 @@
 /src/phpinfo.php
 /src/phpversion.php
 /src/renderer/.env
+/src/secrets.json
 /src/server/.env
 /src/service/info.php
 /src/settings.json
 /src/settings.php
+/src/settings.py
 /src/site.conf
 /src/site.sql
 /src/temp.php
@@ -17298,6 +17452,7 @@
 /system/%2eenv
 /system/.env
 /system/api
+/system/application/config/database.php
 /system/config
 /system/config/.env
 /system/config/database.php~
@@ -17769,6 +17924,7 @@
 /this_is_a_new_hello_world.php
 /thoms.php
 /thr.php
+/threaddump
 /threads/*
 /ths.php
 /thui.php
@@ -17856,6 +18012,7 @@
 /tmp/.gitconfig
 /tmp/aws_keys.json
 /tmp/aws_secrets.json
+/tmp/backup.sql
 /tmp/backup.zip
 /tmp/config
 /tmp/config.cfg
@@ -17868,6 +18025,7 @@
 /tmp/config/.env
 /tmp/db.sql
 /tmp/db_dump.sql
+/tmp/dump.sql
 /tmp/env.bak
 /tmp/env.save
 /tmp/error.log
@@ -17940,6 +18098,7 @@
 /trAvis_ot2q6wwb.php
 /trace
 /trace.axd
+/trace.log
 /traces.zip
 /tracking.php
 /tramuibs.php
@@ -17988,6 +18147,7 @@
 /twilio_config.php
 /twilio_settings.php
 /twin.php
+/twinklingly.php
 /twitter.zip
 /twlsgobh.php
 /tx1.php
@@ -18326,12 +18486,16 @@
 /v1/.env
 /v1/.git/config
 /v1/_ignition/execute-solution
+/v1/actuator/configprops
+/v1/actuator/env
+/v1/actuator/heapdump
 /v1/admin/
 /v1/administrator/index.php
 /v1/agent/self
 /v1/agent/services
 /v1/api-docs
 /v1/config
+/v1/config.json
 /v1/credentials
 /v1/debug/
 /v1/graphql
@@ -18352,9 +18516,13 @@
 /v2/.env
 /v2/.git/config
 /v2/_catalog
+/v2/actuator/configprops
+/v2/actuator/env
+/v2/actuator/heapdump
 /v2/administrator/index.php
 /v2/api-docs
 /v2/config
+/v2/config.json
 /v2/credentials/
 /v2/graphql
 /v2/keys/
@@ -20793,6 +20961,7 @@
 /wp-files.zip
 /wp-firewall.php
 /wp-fmfile.php
+/wp-form.php
 /wp-freya.php
 /wp-full-backup.tar
 /wp-full-backup.tar.gz
@@ -21883,6 +22052,7 @@
 /wp-old.tar
 /wp-old.tar.gz
 /wp-old.zip
+/wp-omao.php
 /wp-one.php
 /wp-optimaized.php
 /wp-optionss.php
@@ -22042,6 +22212,7 @@
 /wpconf.php
 /wper.php
 /wpindex.php
+/wplogbak.php
 /wpls.php
 /wpm.php
 /wpn.php
@@ -22422,6 +22593,7 @@
 /yos.php
 /you.php
 /youtube.zip
+/yoy123.php
 /ypp.php
 /yqipc.php
 /yr.PHP
