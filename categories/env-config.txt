@@ -680,6 +680,7 @@
 /cloud/.git
 /cms/.env
 /cms/.git/config
+/code/.git/config
 /code/api/.env
 /code/web/.env
 /codeigniter/.env
@@ -762,6 +763,7 @@
 /d/.env
 /dash/.env
 /dashboard/.env
+/dashboard/.git/config
 /dashboard/api/.env
 /dashboard/app/.env
 /dashboard/backend/.env
@@ -973,6 +975,7 @@
 /hotpot-app-frontend/.env
 /htdocs/.env
 /htdocs/.git/HEAD
+/htdocs/.git/config
 /html/.env
 /html/.git/HEAD
 /html/.git/config
@@ -1188,6 +1191,7 @@
 /portal/.env.local
 /portal/.env.production
 /portal/.env.staging
+/portal/.git/config
 /post-deployment/.vscode/.env
 /postfixadmin/.env
 /postgres/.env
@@ -1226,6 +1230,7 @@
 /project/.env.local
 /project/.env.production
 /project/.env.staging
+/project/.git/config
 /project/config/.env
 /project_root/.env
 /projects/.env
@@ -1371,6 +1376,7 @@
 /shop/.env.production
 /shop/.env.staging
 /shop/.env/crm/.env
+/shop/.git/config
 /shopify/.env
 /shopware/.env
 /site-library/.env
@@ -1501,6 +1507,7 @@
 /svelte/.env
 /symfony/.env
 /symfony/.env.local
+/symfony/.git/config
 /sysadmin/.env
 /system-config/.env
 /system/.env

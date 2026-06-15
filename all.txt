@@ -8140,6 +8140,7 @@
 /code.tar
 /code.tar.gz
 /code.zip
+/code/.git/config
 /code/api/.env
 /code/web/.env
 /codedrunss.rockerkinetic.com/a2n9akfu.php
@@ -9453,6 +9454,7 @@
 /dashboard/
 /dashboard/*
 /dashboard/.env
+/dashboard/.git/config
 /dashboard/api
 /dashboard/api/.env
 /dashboard/app/.env
@@ -11587,6 +11589,7 @@
 /htdocs.zip
 /htdocs/.env
 /htdocs/.git/HEAD
+/htdocs/.git/config
 /htdocs/mail.php
 /htdocs/phpinfo.php
 /htlm
@@ -12807,6 +12810,7 @@
 /libraries/cms/application/site.php
 /libraries/cms/component/helper.php
 /libraries/cms/menu/menu.php
+/libraries/elfinder/connectors/php/connector.php
 /libraries/gantry/core/gantry.class.php
 /libraries/gantry/core/gantrybrowser.class.php
 /libraries/gantry/core/gantryflatfile.class.php
@@ -14685,6 +14689,7 @@
 /portal/.env.local
 /portal/.env.production
 /portal/.env.staging
+/portal/.git/config
 /portal/api
 /portal/asdf.php
 /portal/backend/phpinfo.php
@@ -14983,6 +14988,7 @@
 /project/.env.local
 /project/.env.production
 /project/.env.staging
+/project/.git/config
 /project/api/phpinfo.php
 /project/backend/phpinfo.php
 /project/backup/info.php
@@ -16459,6 +16465,7 @@
 /shop/.env.production
 /shop/.env.staging
 /shop/.env/crm/.env
+/shop/.git/config
 /shop/[category]/*
 /shop/configs/
 /shop/lock.php
@@ -17425,6 +17432,7 @@
 /symfony.zip
 /symfony/.env
 /symfony/.env.local
+/symfony/.git/config
 /symfony/_profiler/phpinfo
 /symfony/app_dev.php
 /symfony/config/secrets/dev/dev.encrypt.php
@@ -17583,6 +17591,7 @@
 /temp/phpinfo.php
 /temp1.php
 /tempae.php
+/tempbanner.jpg
 /tempfuns.php
 /template%252eyaml
 /template%2eyaml
@@ -20551,6 +20560,9 @@
 /wp-content/plugins/ultimate-member/
 /wp-content/plugins/up/main.php
 /wp-content/plugins/updraftplus/class-updraftplus.php
+/wp-content/plugins/updraftplus/css/updraftplus-notices.css
+/wp-content/plugins/updraftplus/js/updraft-admin-restore.js
+/wp-content/plugins/updraftplus/readme.txt
 /wp-content/plugins/updraftplus/system_core.php
 /wp-content/plugins/upspy/up.php
 /wp-content/plugins/view-more/ioxi.php
