@@ -2175,6 +2175,7 @@
 /.login
 /.maintenance
 /.mandrill
+/.my.cnf
 /.mysql_history
 /.netlify/functions/*
 /.netrc
@@ -4482,6 +4483,7 @@
 /db.yaml
 /db.yml
 /db.zip
+/db/
 /db/%2eenv
 /db/.yml
 /db/config
@@ -4972,6 +4974,7 @@
 /ftp-sync.json
 /ftp.txt
 /ftp.zip
+/ftpsync.settings
 /full-backup.tar
 /full-backup.tar.gz
 /full-backup.zip
@@ -6415,6 +6418,7 @@
 /private_key.pem
 /private_keys
 /privatekey.pem
+/privkey.pem
 /proc.zip
 /proc/1/cmdline
 /proc/1/environ
@@ -6597,6 +6601,7 @@
 /reports.zip
 /repository.zip
 /request
+/requiem.moe.zip
 /requirements.txt
 /res/favicon.ico
 /reset
