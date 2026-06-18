@@ -21,13 +21,13 @@
     "path": "/xmlrpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T04:04:14Z",
-    "hit_count": 4424
+    "hit_count": 4425
   },
   {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:20:16Z",
-    "hit_count": 1258
+    "hit_count": 1260
   },
   {
     "path": "/asc.php",
@@ -141,7 +141,7 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 12650
+    "hit_count": 12652
   },
   {
     "path": "/abc.php",
@@ -231,7 +231,7 @@
     "path": "/classwithtostring.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:59Z",
-    "hit_count": 1186
+    "hit_count": 1188
   },
   {
     "path": "/defaults.php",
@@ -3015,7 +3015,7 @@
     "path": "/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T23:04:30Z",
-    "hit_count": 387
+    "hit_count": 391
   },
   {
     "path": "/wordpress/wp-login.php",
@@ -3615,7 +3615,7 @@
     "path": "/wp-conflg.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T09:55:04Z",
-    "hit_count": 114
+    "hit_count": 116
   },
   {
     "path": "/100.kb.php",
@@ -3855,7 +3855,7 @@
     "path": "/.git/config",
     "category": "env-config",
     "first_seen": "2026-02-28T18:43:55Z",
-    "hit_count": 2319
+    "hit_count": 2323
   },
   {
     "path": "/www.sql",
@@ -5169,7 +5169,7 @@
     "path": "/adminer.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:47:01Z",
-    "hit_count": 183
+    "hit_count": 186
   },
   {
     "path": "/adminer/.env",
@@ -10155,7 +10155,7 @@
     "path": "/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:29Z",
-    "hit_count": 617
+    "hit_count": 618
   },
   {
     "path": "/.svn/entries",
@@ -12297,13 +12297,13 @@
     "path": "/core/install.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T08:42:47Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/s.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T10:14:02Z",
-    "hit_count": 274
+    "hit_count": 276
   },
   {
     "path": "/admin/jquery-file-upload/server/php/index.php",
@@ -13233,7 +13233,7 @@
     "path": "/.git/logs/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:26Z",
-    "hit_count": 179
+    "hit_count": 180
   },
   {
     "path": "/.git/logs/refs/heads/master",
@@ -13275,13 +13275,13 @@
     "path": "/.git/refs/heads/master",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:27Z",
-    "hit_count": 152
+    "hit_count": 153
   },
   {
     "path": "/.git/refs/heads/main",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:27Z",
-    "hit_count": 154
+    "hit_count": 155
   },
   {
     "path": "/.git/refs/remotes/origin/HEAD",
@@ -13317,7 +13317,7 @@
     "path": "/.git/FETCH_HEAD",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:28Z",
-    "hit_count": 114
+    "hit_count": 115
   },
   {
     "path": "/.git/ORIG_HEAD",
@@ -13629,7 +13629,7 @@
     "path": "/.kube/config",
     "category": "devops-exposure",
     "first_seen": "2026-03-02T17:06:27Z",
-    "hit_count": 78
+    "hit_count": 79
   },
   {
     "path": "/app/etc/env.php",
@@ -17541,7 +17541,7 @@
     "path": "/wp-admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 514
+    "hit_count": 516
   },
   {
     "path": "/wp-content/uploads/",
@@ -17649,7 +17649,7 @@
     "path": "/.well-known/discord",
     "category": "unknown-path",
     "first_seen": "2026-03-05T07:05:58Z",
-    "hit_count": 116
+    "hit_count": 117
   },
   {
     "path": "/img/68507e601764a789a5b3687b",
@@ -18129,31 +18129,31 @@
     "path": "/wp/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 83
+    "hit_count": 84
   },
   {
     "path": "/old/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 87
+    "hit_count": 88
   },
   {
     "path": "/new/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 83
+    "hit_count": 84
   },
   {
     "path": "/backup/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 88
+    "hit_count": 89
   },
   {
     "path": "/wordpress/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 86
+    "hit_count": 87
   },
   {
     "path": "/app/Services/StripeService.php",
@@ -19137,7 +19137,7 @@
     "path": "/.aws/credentials",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 181
+    "hit_count": 182
   },
   {
     "path": "/blog.env",
@@ -19191,7 +19191,7 @@
     "path": "/config.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 123
+    "hit_count": 124
   },
   {
     "path": "/secure/.env",
@@ -19209,13 +19209,13 @@
     "path": "/secrets.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 60
+    "hit_count": 61
   },
   {
     "path": "/credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 69
+    "hit_count": 70
   },
   {
     "path": "/config.yml",
@@ -19773,7 +19773,7 @@
     "path": "/.npmrc",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:20Z",
-    "hit_count": 42
+    "hit_count": 43
   },
   {
     "path": "/.nuxt/",
@@ -19953,7 +19953,7 @@
     "path": "/admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:22Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/administrator/",
@@ -20133,7 +20133,7 @@
     "path": "/config/default.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:29Z",
-    "hit_count": 17
+    "hit_count": 18
   },
   {
     "path": "/config/keys.yml",
@@ -20145,7 +20145,7 @@
     "path": "/config/production.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:29Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/config/secrets.yml",
@@ -20187,7 +20187,7 @@
     "path": "/debug/default/view",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:30Z",
-    "hit_count": 71
+    "hit_count": 72
   },
   {
     "path": "/debug/default/view.html",
@@ -20241,7 +20241,7 @@
     "path": "/firebase.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:34Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/frontend/web/debug/default/view",
@@ -20877,7 +20877,7 @@
     "path": "/wp-content/debug.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:52Z",
-    "hit_count": 67
+    "hit_count": 68
   },
   {
     "path": "/yarn.lock",
@@ -21453,7 +21453,7 @@
     "path": "/appsettings.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:59Z",
-    "hit_count": 76
+    "hit_count": 77
   },
   {
     "path": "/connectionstrings.json",
@@ -21693,7 +21693,7 @@
     "path": "/.docker/config.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:45:02Z",
-    "hit_count": 56
+    "hit_count": 57
   },
   {
     "path": "/.settings.json",
@@ -21813,7 +21813,7 @@
     "path": "/.yarnrc",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:45:03Z",
-    "hit_count": 12
+    "hit_count": 13
   },
   {
     "path": "/.rbenv-vars",
@@ -22983,7 +22983,7 @@
     "path": "/google-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:17Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/.azure/",
@@ -24567,7 +24567,7 @@
     "path": "/firebase-adminsdk.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:31Z",
-    "hit_count": 13
+    "hit_count": 14
   },
   {
     "path": "/cloudinary.json",
@@ -25005,7 +25005,7 @@
     "path": "/license.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:33Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/activation_key.txt",
@@ -31173,7 +31173,7 @@
     "path": "/wp-includes/css/buttons.css",
     "category": "unknown-path",
     "first_seen": "2026-03-07T23:24:57Z",
-    "hit_count": 79
+    "hit_count": 80
   },
   {
     "path": "/colors/blue/wp-trackback.php",
@@ -32859,13 +32859,13 @@
     "path": "/administrator/manifests/files/joomla.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-09T21:18:53Z",
-    "hit_count": 13
+    "hit_count": 14
   },
   {
     "path": "/magento_version",
     "category": "unknown-path",
     "first_seen": "2026-03-09T21:18:53Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "//wp-includes/ID3/license.txt",
@@ -32937,7 +32937,7 @@
     "path": "/actuator/env",
     "category": "unknown-path",
     "first_seen": "2026-03-10T06:53:05Z",
-    "hit_count": 94
+    "hit_count": 95
   },
   {
     "path": "/swagger-ui.html",
@@ -33501,7 +33501,7 @@
     "path": "/wp-json/",
     "category": "unknown-path",
     "first_seen": "2026-03-11T11:07:36Z",
-    "hit_count": 25
+    "hit_count": 26
   },
   {
     "path": "/wp",
@@ -35991,7 +35991,7 @@
     "path": "/appsettings.Development.json",
     "category": "unknown-path",
     "first_seen": "2026-03-12T15:20:13Z",
-    "hit_count": 52
+    "hit_count": 53
   },
   {
     "path": "/appsettings.Local.json",
@@ -36003,7 +36003,7 @@
     "path": "/appsettings.Production.json",
     "category": "unknown-path",
     "first_seen": "2026-03-12T15:20:13Z",
-    "hit_count": 45
+    "hit_count": 46
   },
   {
     "path": "/appsettings.QA.json",
@@ -49071,7 +49071,7 @@
     "path": "/error_log.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:14Z",
-    "hit_count": 63
+    "hit_count": 65
   },
   {
     "path": "/fesa.php",
@@ -49575,7 +49575,7 @@
     "path": "/1234.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:17Z",
-    "hit_count": 9
+    "hit_count": 11
   },
   {
     "path": "/.well-known/wso112233.php",
@@ -51801,7 +51801,7 @@
     "path": "/gcp-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-03-20T23:26:55Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/.github/stripe.env",
@@ -63957,7 +63957,7 @@
     "path": "/favicon-32x32.png",
     "category": "unknown-path",
     "first_seen": "2026-03-26T21:21:27Z",
-    "hit_count": 12
+    "hit_count": 13
   },
   {
     "path": "/ckeditor/plugins/fontawesome/dialogs/",
@@ -68727,7 +68727,7 @@
     "path": "/console",
     "category": "unknown-path",
     "first_seen": "2026-03-28T11:21:33Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/core/.gitignore",
@@ -71499,7 +71499,7 @@
     "path": "/sitecore/shell/sitecore.version.xml",
     "category": "shell-upload",
     "first_seen": "2026-03-29T23:14:43Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/faq",
@@ -83517,7 +83517,7 @@
     "path": "/baker.php/",
     "category": "php-probes",
     "first_seen": "2026-04-03T18:00:27Z",
-    "hit_count": 7
+    "hit_count": 9
   },
   {
     "path": "/r2.php",
@@ -94017,7 +94017,7 @@
     "path": "/.well-known/atproto-did",
     "category": "unknown-path",
     "first_seen": "2026-04-15T22:06:54Z",
-    "hit_count": 82
+    "hit_count": 83
   },
   {
     "path": "/web/app_dev.php/_profiler",
@@ -95511,25 +95511,25 @@
     "path": "/.anthropic/config.json",
     "category": "unknown-path",
     "first_seen": "2026-04-16T16:43:43Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/.openai/config.json",
     "category": "unknown-path",
     "first_seen": "2026-04-16T16:43:43Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/.cursor/mcp.json",
     "category": "unknown-path",
     "first_seen": "2026-04-16T16:43:43Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/serviceAccountKey.json",
     "category": "unknown-path",
     "first_seen": "2026-04-16T16:43:43Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/e",
@@ -99501,7 +99501,7 @@
     "path": "/wp-json/gravitysmtp/v1/tests/mock-data",
     "category": "unknown-path",
     "first_seen": "2026-04-25T06:54:54Z",
-    "hit_count": 64
+    "hit_count": 66
   },
   {
     "path": "/wp-includes/sitemaps/providers/class-wp-sitemaps-upload.php/wp-admin/js/widgets/qlex1.php",
@@ -116403,13 +116403,13 @@
     "path": "/service-account-key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-04T05:36:28Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-05-04T05:36:28Z",
-    "hit_count": 20
+    "hit_count": 21
   },
   {
     "path": "/.dockercfg",
@@ -116751,7 +116751,7 @@
     "path": "/mac.php",
     "category": "php-probes",
     "first_seen": "2026-05-06T20:33:02Z",
-    "hit_count": 23
+    "hit_count": 25
   },
   {
     "path": "//file6.php",
@@ -117147,7 +117147,7 @@
     "path": "/docs/api.json",
     "category": "unknown-path",
     "first_seen": "2026-05-08T04:44:18Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/docs/api",
@@ -118077,85 +118077,85 @@
     "path": "/login.do",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:16Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/solr/",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:18Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/aspera/faspex/",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:50Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/showLogin.cc",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:50Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/index.jsp",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:44:05Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/WebInterface/",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:44:14Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/sugar_version.json",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:44:47Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/Telerik.Web.UI.WebResource.axd",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:02Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/js/NewWindow_2_all.js",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:12Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/zabbix/favicon.ico",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:12Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/identity",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:21Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/cf_scripts/scripts/ajax/ckeditor/ckeditor.js",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:32Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/wp-json",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:43Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/owa/",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:46:07Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/insc.php",
@@ -128163,13 +128163,13 @@
     "path": "/google-service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-05-15T06:50:50Z",
-    "hit_count": 13
+    "hit_count": 14
   },
   {
     "path": "/firebase-service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-05-15T06:50:50Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/.env.production.copy",
@@ -132273,7 +132273,7 @@
     "path": "/key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-19T18:46:04Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/keys/service-account.json",
@@ -132825,7 +132825,7 @@
     "path": "/jj.php",
     "category": "php-probes",
     "first_seen": "2026-05-23T06:21:36Z",
-    "hit_count": 13
+    "hit_count": 15
   },
   {
     "path": "/cgf.php",
@@ -133173,67 +133173,67 @@
     "path": "/config/service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:47Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/config/credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/keyfile.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/firebase-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/app/credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/client_secret.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/gcp-service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/sa-key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/client_secrets.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/application_default_credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-05-23T15:39:48Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/gcp-key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-24T18:14:24Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/gcp-sa.json",
@@ -133251,7 +133251,7 @@
     "path": "/.config/gcloud/application_default_credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-05-24T18:14:26Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/firebase-key.json",
@@ -133263,19 +133263,19 @@
     "path": "/gcloud-service-key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-24T18:14:27Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/service_account.json",
     "category": "unknown-path",
     "first_seen": "2026-05-24T18:14:27Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/gcp_key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-24T18:14:28Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/cloud-key.json",
@@ -133653,7 +133653,7 @@
     "path": "/sa-private-key.json",
     "category": "unknown-path",
     "first_seen": "2026-05-28T07:23:08Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/alr.php",
@@ -134715,7 +134715,7 @@
     "path": "/this_is_a_new_hello_world.php",
     "category": "php-probes",
     "first_seen": "2026-06-01T20:44:08Z",
-    "hit_count": 12
+    "hit_count": 14
   },
   {
     "path": "/.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0",
@@ -134763,7 +134763,7 @@
     "path": "/.gcp/credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-02T04:18:51Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/app/config/gcp.json",
@@ -134907,67 +134907,67 @@
     "path": "/secrets/service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-06-04T14:05:04Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/google_key.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/secrets/gcp-key.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/google_credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/google-application-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/config/gcp.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/gcp.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/google-services.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/.openclaw/openclaw.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/config/gcp-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/.openclaw/agents/main/agent/models.json",
     "category": "unknown-path",
     "first_seen": "2026-06-05T06:49:05Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/filefuns",
@@ -135165,7 +135165,7 @@
     "path": "/mosty.php",
     "category": "php-probes",
     "first_seen": "2026-06-08T17:57:18Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/007.php",
@@ -135231,67 +135231,67 @@
     "path": "/config/firebase_credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:25:59Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/secrets/gcp-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:25:59Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/credentials/service-account.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:25:59Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/firebase_credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/service-account-config.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/serviceAccount.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/google-cloud.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/google_service_app.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/service-account-credentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/serviceAccountCredentials.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/service-account-file.json",
     "category": "unknown-path",
     "first_seen": "2026-06-09T20:26:00Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/bitrix/js/main/jquery/jquery-1.12.4.min.js.php",
@@ -138045,7 +138045,7 @@
     "path": "/.well-known/ucp",
     "category": "unknown-path",
     "first_seen": "2026-06-13T18:47:58Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/webring/sketch.png",
@@ -138183,7 +138183,7 @@
     "path": "/wp-lamburg.php",
     "category": "php-probes",
     "first_seen": "2026-06-15T16:56:51Z",
-    "hit_count": 1
+    "hit_count": 3
   },
   {
     "path": "/jac.php",
@@ -138292,5 +138292,41 @@
     "category": "unknown-path",
     "first_seen": "2026-06-16T16:29:02Z",
     "hit_count": 1
+  },
+  {
+    "path": "/libraries/elfinder/src/connectors/php/connector.php",
+    "category": "php-probes",
+    "first_seen": "2026-06-17T08:42:42Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/tmp/z8qetjy1.php",
+    "category": "php-probes",
+    "first_seen": "2026-06-18T01:39:49Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/images/z8qetjy1.php",
+    "category": "php-probes",
+    "first_seen": "2026-06-18T01:39:50Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/media/z8qetjy1.php",
+    "category": "php-probes",
+    "first_seen": "2026-06-18T01:39:50Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/reverb/redis",
+    "category": "unknown-path",
+    "first_seen": "2026-06-18T01:39:52Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/wp-json/webmention/1.0/endpoint",
+    "category": "unknown-path",
+    "first_seen": "2026-06-18T01:39:54Z",
+    "hit_count": 3
   }
 ]
