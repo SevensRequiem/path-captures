@@ -2056,6 +2056,7 @@
 /.codefresh/
 /.composer/auth.json
 /.config.js
+/.config.yaml
 /.config/config.json
 /.config/env/production.js
 /.config/gcloud/access_tokens.db
@@ -8575,6 +8576,7 @@
 /wp-content/plugins/wp-catcher/
 /wp-content/plugins/wp-file-manager/lib/
 /wp-content/plugins/wp-file-uploader/
+/wp-content/plugins/wp-google-map-gold/Licensing/README_License.txt
 /wp-content/plugins/wp-mail-smtp/sendgrid_keys.json
 /wp-content/plugins/wp-theme-editor/
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
