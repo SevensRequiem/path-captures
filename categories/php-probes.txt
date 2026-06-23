@@ -2071,6 +2071,7 @@
 /administrator/components/com_smtp/config.php
 /administrator/config/mail.php
 /administrator/index.php
+/administrator/index2.php
 /administrator/info.php
 /administrator/logs/error.php
 /administrator/phpinfo.php
@@ -2517,6 +2518,7 @@
 /assets/jQuery-File-Upload/server/php/index.php
 /assets/jquery-ui/images/lock2.php
 /assets/js/doc.php
+/assets/js/elfinder/php/connector.php
 /assets/js/jquery-file-upload/server/php/index.php
 /assets/kcfinder/browse.php
 /assets/kcfinder/upload.php
@@ -2850,6 +2852,7 @@
 /blog/wp-content/about.php
 /blog/wp-includes/about.php
 /blog/wp-login.php
+/blog/xmlrpc.php
 /blox.php
 /blqjs.php
 /blsvgeyaza.php
@@ -8612,6 +8615,7 @@
 /vendor/tf_updater/index.php
 /venom.php
 /veoblmpa.php
+/ver.php
 /verification.php
 /verify.php
 /verinfo.php
@@ -11230,6 +11234,7 @@
 /wp-includes/wp_class_datlib.php
 /wp-includes/wp_wrong_datlib.php
 /wp-includes/xl2023.php
+/wp-includes/xmlrpc.php
 /wp-includes/xy.php
 /wp-includes_function.php
 /wp-includesxc/js/imgareaselect/zo.php
@@ -11278,6 +11283,7 @@
 /wp-m57.php
 /wp-magic.php
 /wp-mai.php
+/wp-mail-json.php
 /wp-mail.php
 /wp-mail.php/wp-includes/ID3/.info.php
 /wp-mail.php/wp-includes/ID3/Core32.php

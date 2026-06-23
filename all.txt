@@ -5288,6 +5288,7 @@
 /about.php/wp-content/x/index.php
 /about.php525
 /about.php7
+/about/
 /about/chosen.php
 /about/contact
 /about/function.php
@@ -5602,6 +5603,7 @@
 /administrator/.git/config
 /administrator/7.php
 /administrator/components/com_acymailing/acymailing.php
+/administrator/components/com_jce/jce.xml
 /administrator/components/com_jclassifiedsmanager/helpers/upload.php
 /administrator/components/com_jnews/jnews.php
 /administrator/components/com_mail/config.php
@@ -5612,6 +5614,7 @@
 /administrator/config/.env
 /administrator/config/mail.php
 /administrator/index.php
+/administrator/index2.php
 /administrator/info%2ephp
 /administrator/info.php
 /administrator/logs/error.php
@@ -6489,6 +6492,7 @@
 /assets/js/app.f8ec9fb3.js
 /assets/js/app.js
 /assets/js/doc.php
+/assets/js/elfinder/php/connector.php
 /assets/js/jquery-file-upload/server/php/index.php
 /assets/kcfinder/browse.php
 /assets/kcfinder/upload.php
@@ -7469,6 +7473,7 @@
 /blog/wp-includes/
 /blog/wp-includes/about.php
 /blog/wp-login.php
+/blog/xmlrpc.php
 /blogroll
 /blogs/%2eenv
 /blogs/.env
@@ -8143,6 +8148,7 @@
 /cms/*
 /cms/.env
 /cms/.git/config
+/cms/administrator/
 /cms/api
 /cms/asdf.php
 /cms/crm/info.php
@@ -9356,6 +9362,7 @@
 /csc.php
 /css.php
 /css.phphmgm.ir
+/css/
 /css/.env
 /css/000.php
 /css/ALFA_DATA/alfacgiapi/perl.alfa
@@ -10785,6 +10792,7 @@
 /file-upload
 /file.php
 /file.php%20
+/file/
 /file/Fin/9f9c41c8-e946-4260-864d-39d5c0a54ef6.jpg
 /file/NSFW/403892de-038d-4000-a920-241b7bb589ab.jpeg
 /file/a/3ca47628-d41a-4d91-979a-e574ea42ab49.jpg
@@ -12375,6 +12383,7 @@
 /joomla.zip
 /joomla/.env
 /joomla/.git/config
+/joomla/administrator/
 /joomla/administrator/index.php
 /jp.php
 /jpg.php
@@ -14486,6 +14495,7 @@
 /pcloud.zip
 /pcp/simple.php
 /pdf.php
+/pdf/
 /pdi.php
 /pdkebrby.php
 /pdo.php
@@ -14709,6 +14719,7 @@
 /plugins/DaoZM.php
 /plugins/admin.php
 /plugins/content/apismtp/apismtp.php
+/plugins/editors/jce/jce.xml
 /plugins/elfinder/connectors/php/connector.php
 /plugins/filemanager/dialog.php
 /plugins/finder/categories/
@@ -14774,6 +14785,7 @@
 /portal/.env.production
 /portal/.env.staging
 /portal/.git/config
+/portal/administrator/
 /portal/api
 /portal/asdf.php
 /portal/backend/phpinfo.php
@@ -16647,6 +16659,7 @@
 /site/.gitignore
 /site/access.log
 /site/adminer.php
+/site/administrator/
 /site/administrator/index.php
 /site/all/libraries/mailchimp/.env
 /site/app.js.bak
@@ -18355,6 +18368,7 @@
 /update/403.php
 /update/da222.php
 /update/f35.php
+/update/files/
 /update/g.php
 /update/gely.php
 /update/nf.php
@@ -18867,6 +18881,7 @@
 /venom.php
 /venv/
 /veoblmpa.php
+/ver.php
 /vercel%252ejson
 /vercel%2ejson
 /vercel.json
@@ -19025,6 +19040,7 @@
 /web/.gitignore
 /web/access.log
 /web/adminer.php
+/web/administrator/
 /web/api/config.js
 /web/app.js
 /web/app.js.bak
@@ -20136,6 +20152,7 @@
 /wp-content/ALFA_DATA/alfacgiapi/perl.alfa
 /wp-content/Files/
 /wp-content/ID3/img/img/block/
+/wp-content/IXR/
 /wp-content/OMrMKfSU.php
 /wp-content/Text/about.php
 /wp-content/V2_xml.php
@@ -20493,6 +20510,8 @@
 /wp-content/plugins/fooevents_custom_attendee_fields/fooevents-custom-attendee-fields.php
 /wp-content/plugins/ftde.php
 /wp-content/plugins/futurio-pro/
+/wp-content/plugins/giftware/changelog.txt
+/wp-content/plugins/giftware/public/js/ultimate-woocommerce-gift-card-public.js
 /wp-content/plugins/gmail-smtp/gmail-smtp.php
 /wp-content/plugins/gmail-smtp/includes/settings.php
 /wp-content/plugins/google-seo-rank/
@@ -21625,6 +21644,7 @@
 /wp-includes/blocks/button/
 /wp-includes/blocks/button/index.php
 /wp-includes/blocks/buttons/
+/wp-includes/blocks/calendar/
 /wp-includes/blocks/calendar/index.php
 /wp-includes/blocks/categories/wp-blog.php
 /wp-includes/blocks/chosen.php
@@ -22364,6 +22384,7 @@
 /wp-includes/wp_class_datlib.php
 /wp-includes/wp_wrong_datlib.php
 /wp-includes/xl2023.php
+/wp-includes/xmlrpc.php
 /wp-includes/xy.php
 /wp-includes_function.php
 /wp-includesxc/js/imgareaselect/zo.php
@@ -22448,6 +22469,7 @@
 /wp-m57.php
 /wp-magic.php
 /wp-mai.php
+/wp-mail-json.php
 /wp-mail.php
 /wp-mail.php/wp-includes/ID3/.info.php
 /wp-mail.php/wp-includes/ID3/Core32.php
@@ -22905,6 +22927,7 @@
 /xminie.php
 /xml.php
 /xml.zip
+/xmlrpc
 /xmlrpc%252ephp
 /xmlrpc%2ephp
 /xmlrpc.php

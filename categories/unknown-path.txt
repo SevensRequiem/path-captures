@@ -2885,6 +2885,7 @@
 /aaabbbccc
 /about
 /about-us
+/about/
 /about/contact
 /access
 /access.log
@@ -2986,6 +2987,7 @@
 /administrator.zip
 /administrator/
 /administrator/%2eenv
+/administrator/components/com_jce/jce.xml
 /administrator/config/%2eenv
 /administrator/info%2ephp
 /administrator/manifests/files/joomla.xml
@@ -3987,6 +3989,7 @@
 /cms/
 /cms/%2eenv
 /cms/*
+/cms/administrator/
 /cms/api
 /cms/dashboard
 /cms/login
@@ -4404,6 +4407,7 @@
 /crontab
 /crossdomain.xml
 /css.phphmgm.ir
+/css/
 /css/ALFA_DATA/alfacgiapi/perl.alfa
 /css/colors/
 /css/colors/blue/
@@ -4877,6 +4881,7 @@
 /file
 /file-manager/initialize
 /file-upload
+/file/
 /file/Fin/9f9c41c8-e946-4260-864d-39d5c0a54ef6.jpg
 /file/NSFW/403892de-038d-4000-a920-241b7bb589ab.jpeg
 /file/a/3ca47628-d41a-4d91-979a-e574ea42ab49.jpg
@@ -5471,6 +5476,7 @@
 /joomla.tar
 /joomla.tar.gz
 /joomla.zip
+/joomla/administrator/
 /js
 /js/
 /js/NewWindow_2_all.js
@@ -6242,6 +6248,7 @@
 /paypal_client_id.txt
 /paypal_secret.txt
 /pcloud.zip
+/pdf/
 /persistence.xml
 /persona/login
 /persona/register
@@ -6320,6 +6327,7 @@
 /plugins.tar.gz
 /plugins.zip
 /plugins/
+/plugins/editors/jce/jce.xml
 /plugins/finder/categories/
 /plugins/jquery.filer/uploads/
 /plugins/payments/stripe%252ejson
@@ -6340,6 +6348,7 @@
 /portal.tar
 /portal.zip
 /portal/
+/portal/administrator/
 /portal/api
 /portal/dashboard
 /portal/login
@@ -7159,6 +7168,7 @@
 /site/.gitconfig
 /site/.gitignore
 /site/access.log
+/site/administrator/
 /site/backup.tar.gz
 /site/bundle.js
 /site/bundle.js.map
@@ -7893,6 +7903,7 @@
 /unleash.json
 /unreal.zip
 /up/.well-known/
+/update/files/
 /updraft.tar
 /updraft.tar.gz
 /updraft.zip
@@ -8183,6 +8194,7 @@
 /web.zip
 /web/.gitignore
 /web/access.log
+/web/administrator/
 /web/api/config.js
 /web/app.js
 /web/backup.tar.gz
@@ -8447,6 +8459,7 @@
 /wp-content/ALFA_DATA/alfacgiapi/perl.alfa
 /wp-content/Files/
 /wp-content/ID3/img/img/block/
+/wp-content/IXR/
 /wp-content/ai1wm-backups.tar
 /wp-content/ai1wm-backups.tar.gz
 /wp-content/ai1wm-backups.zip
@@ -8524,6 +8537,8 @@
 /wp-content/plugins/fluent-smtp/debug.log
 /wp-content/plugins/fluent-smtp/readme.txt
 /wp-content/plugins/futurio-pro/
+/wp-content/plugins/giftware/changelog.txt
+/wp-content/plugins/giftware/public/js/ultimate-woocommerce-gift-card-public.js
 /wp-content/plugins/google-seo-rank/
 /wp-content/plugins/hello-dolly/
 /wp-content/plugins/ioptimization/
@@ -8781,6 +8796,7 @@
 /wp-includes/blocks/button
 /wp-includes/blocks/button/
 /wp-includes/blocks/buttons/
+/wp-includes/blocks/calendar/
 /wp-includes/blocks/code/
 /wp-includes/blocks/code/jquery/
 /wp-includes/blocks/comment-content/
@@ -8981,6 +8997,7 @@
 /xleet
 /xleet/
 /xml.zip
+/xmlrpc
 /xmlrpc%252ephp
 /xmlrpc%2ephp
 /xmlrpc.tar
