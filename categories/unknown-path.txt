@@ -2067,6 +2067,7 @@
 /.config/gh/hosts.yml
 /.config/git/credentials
 /.config/op/config
+/.continue/config.json
 /.credentials
 /.credentials.cfg
 /.credentials.conf
@@ -2081,6 +2082,7 @@
 /.db_backup.tar
 /.db_backup.tar.gz
 /.db_credentials
+/.dev.vars
 /.digitalocean/doctl/config.yaml
 /.docker.env
 /.docker/
@@ -2312,6 +2314,7 @@
 //blog/robots.txt
 //blog/wp-includes/wlwmanifest.xml
 //cdn.js
+//cdn.requiem.moe/exports/blog-archive.json
 //cms/wp-includes/wlwmanifest.xml
 //contact
 //feed/
