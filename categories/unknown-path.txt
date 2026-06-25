@@ -2285,6 +2285,7 @@
 /.well-known/acme-challenge/block-supports/
 /.well-known/agent-card.json
 /.well-known/atproto-did
+/.well-known/carbon.txt
 /.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0
 /.well-known/discord
 /.well-known/jwks.json
@@ -3860,6 +3861,7 @@
 /cache/stripe.json
 /canary
 /capture/
+/carbon.txt
 /careers_not_hosted
 /careers_not_hosted/
 /cart
