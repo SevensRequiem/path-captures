@@ -3228,6 +3228,7 @@
 /app/register
 /app/route
 /app/secrets.json
+/app/sendgrid.py
 /app/serverless%252eyaml
 /app/serverless%252eyml
 /app/serverless%2eyaml
@@ -3603,6 +3604,7 @@
 /backend/register
 /backend/secrets.json
 /backend/sendgrid.js
+/backend/sendgrid.py
 /backend/service-account.json
 /backend/settings.json
 /backend/settings.py
@@ -3682,6 +3684,7 @@
 /backup/mandrill_templates.json
 /backup/phpinfo%2ephp
 /backup/sendgrid.json
+/backup/sendgrid.zip
 /backup/sendgrid_config
 /backup/sendgrid_contacts.json
 /backup/sendgrid_keys
@@ -4746,6 +4749,7 @@
 /email/mandrill.json
 /email/postmark.json
 /email/sendgrid.json
+/email/sendgrid.py
 /email/smtp_config.json
 /email/sparkpost.json
 /email_templates.json
@@ -4856,6 +4860,7 @@
 /export.json
 /export.zip
 /exported/phpinfo%2ephp
+/exports/sendgrid.zip
 /express.zip
 /external
 /extranet
@@ -5499,6 +5504,7 @@
 /js/jcrop/
 /js/main.js
 /js/plupload/
+/js/sendgrid.js
 /js/tinymce/skins/lightgray/fonts/
 /js/tinymce/utils/
 /js/tinymce/utils/%20
@@ -5786,10 +5792,13 @@
 /mail/config.json
 /mail/config.yaml
 /mail/config.yml
+/mail/sendgrid.py
 /mailchimp.json
 /mailchimp_api_key.txt
 /mailchimp_transactional.json
 /mailer.zip
+/mailer/sendgrid.js
+/mailer/sendgrid.py
 /mailer_dsn_keys.js
 /mailer_dsn_keys.json
 /mailer_url_keys.js
@@ -6520,6 +6529,7 @@
 /public/env.js
 /public/js/app.js.map
 /public/js/main.js
+/public/js/sendgrid.js
 /public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
 /public/s3-bucket.json
 /public/s3.json
@@ -6899,15 +6909,24 @@
 /sendgrid%252ejson
 /sendgrid%2eenv
 /sendgrid%2ejson
+/sendgrid-backup.zip
+/sendgrid-config.js
 /sendgrid-config.json
+/sendgrid-config.zip
+/sendgrid-export.zip
 /sendgrid.conf
 /sendgrid.config.js
 /sendgrid.config.json
 /sendgrid.env
 /sendgrid.ini
+/sendgrid.js
 /sendgrid.json
 /sendgrid.key
+/sendgrid.min.js
+/sendgrid.py
+/sendgrid.yaml
 /sendgrid.yml
+/sendgrid.zip
 /sendgrid/config
 /sendgrid/config.cfg
 /sendgrid/config.conf
@@ -6920,8 +6939,12 @@
 /sendgrid_api.txt
 /sendgrid_api_key.json
 /sendgrid_api_key.txt
+/sendgrid_backup.zip
+/sendgrid_config.py
 /sendgrid_contacts.json
 /sendgrid_domain.json
+/sendgrid_export.zip
+/sendgrid_helper.py
 /sendgrid_keys
 /sendgrid_keys.js
 /sendgrid_keys.json
@@ -7358,6 +7381,8 @@
 /src/main.dev.js
 /src/main.js
 /src/secrets.json
+/src/sendgrid.js
+/src/sendgrid.py
 /src/settings.json
 /src/settings.py
 /src/site.conf
@@ -8938,6 +8963,7 @@
 /wp-json/wp/v2/settings
 /wp-json/wp/v2/tags
 /wp-json/wp/v2/users
+/wp-json/wp/v2/users/
 /wp-links-opml
 /wp-login
 /wp-login%252ephp
@@ -9001,6 +9027,7 @@
 /xampp/php-cgi.exe
 /xleet
 /xleet/
+/xll.asp
 /xml.zip
 /xmlrpc
 /xmlrpc%252ephp
