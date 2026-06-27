@@ -2458,6 +2458,7 @@
 /Diff/Engine/Engine/
 /Diff/Renderer/
 /Docker.md
+/FCKeditor/fckeditor.js
 /Far/catalog.html
 /Files/
 /Gemfile
@@ -2939,6 +2940,7 @@
 /admin.zip
 /admin/
 /admin/*
+/admin/FCKeditor/fckeditor.js
 /admin/Files/
 /admin/artisan
 /admin/config
@@ -2959,6 +2961,7 @@
 /admin/env
 /admin/fckeditor/editor/
 /admin/fckeditor/editor/filemanager/
+/admin/fckeditor/fckeditor.js
 /admin/images/slider/
 /admin/log-viewer
 /admin/login
@@ -3937,6 +3940,8 @@
 /ci/.gitignore
 /circle.yml
 /ckeditor/plugins/fontawesome/dialogs/
+/class/FCKeditor/fckeditor.js
+/class/fckeditor/fckeditor.js
 /classwithtostring.phpl
 /clerk/sso-callback
 /clerk/webhook
@@ -4012,6 +4017,8 @@
 /comments/feed/
 /commerce.zip
 /common.zip
+/common/FCKeditor/fckeditor.js
+/common/fckeditor/fckeditor.js
 /communication.zip
 /community
 /company
@@ -4721,6 +4728,8 @@
 /ecs/v4/credentials
 /edge.zip
 /editor/*
+/editor/FCKeditor/fckeditor.js
+/editor/fckeditor/fckeditor.js
 /eks/metadata
 /eks/secrets/iam
 /el
@@ -4878,6 +4887,7 @@
 /favicon.png
 /fb
 /fcgi/php-cgi.exe
+/fckeditor/fckeditor.js
 /feature.zip
 /feature_flags.json
 /feed
@@ -5224,6 +5234,8 @@
 /html.tar
 /html.tar.gz
 /html.zip
+/html/js/FCKeditor/fckeditor.js
+/html/js/fckeditor/fckeditor.js
 /httpd%252econf
 /httpd%2econf
 /httpd.conf
@@ -5360,7 +5372,9 @@
 /inc/phpinfo%2ephp
 /includ
 /include/
+/include/FCKeditor/fckeditor.js
 /include/ckeditor/images/addon.gif
+/include/fckeditor/fckeditor.js
 /include/phpinfo%2ephp
 /includes
 /includes/
@@ -5489,6 +5503,7 @@
 /joomla/administrator/
 /js
 /js/
+/js/FCKeditor/fckeditor.js
 /js/NewWindow_2_all.js
 /js/api.js
 /js/app.[hash].js
@@ -5501,6 +5516,7 @@
 /js/config.js
 /js/contact_me.js
 /js/env.js
+/js/fckeditor/fckeditor.js
 /js/jcrop/
 /js/main.js
 /js/plupload/
@@ -5656,8 +5672,10 @@
 /letsencrypt/live
 /lib.zip
 /lib/
+/lib/FCKeditor/fckeditor.js
 /lib/aws_ses.js
 /lib/config.js
+/lib/fckeditor/fckeditor.js
 /lib/mailer/ses.js
 /lib/mandrill.js
 /lib/payment.js
@@ -5847,9 +5865,11 @@
 /manage.py
 /manage/
 /manage/*
+/manage/FCKeditor/fckeditor.js
 /manage/api
 /manage/dashboard
 /manage/env
+/manage/fckeditor/fckeditor.js
 /manage/login
 /manage/staffinfo
 /management
@@ -5947,9 +5967,11 @@
 /models.zip
 /moderator/
 /modules/
+/modules/FCKeditor/fckeditor.js
 /modules/contrib/sendgrid_mail/sendgrid_mail.module
 /modules/contrib/sendgrid_mail/sendgrid_mail.services.yml
 /modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po
+/modules/fckeditor/fckeditor.js
 /modules/mod_ariimageslidersa/
 /modules/mod_footer/tmpl/
 /modules/mod_simplefileuploadv1.3/elements/
@@ -6521,12 +6543,14 @@
 /public/.config.json
 /public/.gitconfig
 /public/.s3cfg
+/public/FCKeditor/fckeditor.js
 /public/aws_keys.json
 /public/aws_secrets.json
 /public/backup.zip
 /public/bucket.json
 /public/client/planinfo
 /public/env.js
+/public/fckeditor/fckeditor.js
 /public/js/app.js.map
 /public/js/main.js
 /public/js/sendgrid.js
@@ -6893,6 +6917,7 @@
 /secrets/stripe.env
 /secrets/stripe.json
 /secrets/token.env
+/secrets/vault.json
 /secure
 /secure.tar
 /secure.tar.gz
@@ -8146,6 +8171,7 @@
 /vault.env
 /vault.json
 /vault.yml
+/vault/secrets/config
 /vault_token.txt
 /vendor
 /vendor.js
