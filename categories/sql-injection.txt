@@ -7,6 +7,8 @@
 /'%20+%20encodeURI(r.image)%20+%20'
 /'%20+%20escapeHtml(data.url)%20+%20'
 /'%20+%20escapeHtml(s.url)%20+%20'
+/.aws/config;
+/.aws/credentials;
 /.env;.css
 /.env;.jpg
 /Set-Cookie:%20_csrf=ThqyKyppbZCuFUBNslGoHkwYBtLHiNDq;%20Expires=Wed,%2025%20Jun%202025%2002:48:11%20GMT

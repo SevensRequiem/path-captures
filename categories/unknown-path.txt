@@ -1951,9 +1951,13 @@
 /%c0%aewell-known/openid-configuration
 /%c0/
 /*
+/*.action
+/*.do
+/*.jsp/
 /*/[id]
 /*/[slug]
 /*update.cgi*
+/+CSCOT+/translation-table
 /.%20git
 /.%2565%256Ev
 /.%2565%256e%2576
@@ -2222,6 +2226,7 @@
 /.s3/secrets.json
 /.s3cfg
 /.s3cfg~
+/.s3credentials
 /.secrets
 /.semaphore/secrets.yml
 /.sendgrid
@@ -2311,23 +2316,72 @@
 //2019/wp-includes/wlwmanifest.xml
 //2020/wp-includes/wlwmanifest.xml
 //2021/wp-includes/wlwmanifest.xml
+//@vite/client
+//SetupWizard.aspx/xyzprobe
+//WebInterface/Login.html
+//__nextjs_original-stack-frame
+//_next/image
+//_profiler/empty/search/results
+//actuator/health
+//admin/
+//admin/media/upload
+//admin/upload
+//api/attachment
+//api/file
+//api/file/upload
+//api/health
+//api/image/upload
+//api/images
+//api/media
+//api/media/upload
+//api/status
+//api/tags
+//api/upload
+//api/v1/auto_login
+//api/v1/security/login
+//api/v2.0/sys/status
 //blog/
 //blog/robots.txt
 //blog/wp-includes/wlwmanifest.xml
 //cdn.js
 //cdn.requiem.moe/exports/blog-archive.json
+//cli
 //cms/wp-includes/wlwmanifest.xml
 //contact
+//core/CHANGELOG.txt
+//documents/upload
+//favicon.ico
 //feed/
+//file/upload
+//fortisandbox/
 //git.chanpinqingbaoju.com
+//global-protect/login.esp
+//grafana/api/health
+//graphql
+//image/upload
+//info
+//livewire/livewire.js
+//livewire/message
+//livewire/update
+//login
+//login/
+//media
 //media/wp-includes/wlwmanifest.xml
+//modules/ps_emailsubscription/
 //news/
 //news/wp-includes/wlwmanifest.xml
 //nsfw
+//panel/upload
+//photos/upload
 //plugins/generic/pdfJsViewer/pdf.js/web/viewer.html
 //proc/1/environ
 //proc/self/cmdline
 //proc/self/environ
+//queue/status
+//rest/login
+//rest/settings
+//sanctum/csrf-cookie
+//server-status
 //shop/wp-includes/wlwmanifest.xml
 //site/
 //site/wp-includes/wlwmanifest.xml
@@ -2337,6 +2391,10 @@
 //storage/framework/sessions/
 //test/wp-includes/wlwmanifest.xml
 //tmp/
+//upload
+//uploads
+//v1/agent/self
+//v1/catalog/services
 //vendor/phpunit/phpunit/phpunit.xsd
 //web/wp-includes/wlwmanifest.xml
 //website/wp-includes/wlwmanifest.xml
@@ -2355,6 +2413,7 @@
 //wp-includes/js/tinymce/themes/inlite/
 //wp-includes/l10n/
 //wp-includes/wlwmanifest.xml
+//wp-json/gravitysmtp/v1/tests/mock-data
 //wp/
 //wp/wp-includes/wlwmanifest.xml
 //wp1/wp-includes/wlwmanifest.xml
@@ -2634,6 +2693,7 @@
 /_middleware
 /_netrc
 /_next
+/_next..%2f.htpasswd
 /_next/
 /_next/%64ebug
 /_next/BUILD_ID
@@ -2744,7 +2804,10 @@
 /_next/server/server-reference-manifest%2ejson
 /_next/server/server-reference-manifest.js
 /_next/server/server-reference-manifest.json
+/_next/settings.py
 /_next/static
+/_next/static..%2f..%2f..%2fetc/passwd
+/_next/static..%2f.htpasswd
 /_next/static/
 /_next/static/*
 /_next/static/build-id.txt
@@ -2835,6 +2898,7 @@
 /_next/webpack-hmr%3fpage%3d/index
 /_nodes
 /_nodes/stats
+/_nuxt/__ENV.js
 /_nuxt/app.js
 /_nuxt/builds/latest.json
 /_nuxt/manifest.json
@@ -2916,6 +2980,7 @@
 /actuator/env/aws
 /actuator/env/cloud
 /actuator/gateway/globalfilters
+/actuator/gateway/refresh
 /actuator/gateway/routes/0day
 /actuator/gateway/routes/hack
 /actuator/health
@@ -3039,6 +3104,8 @@
 /ao_ccss/
 /apache.conf
 /apache2.conf
+/api%252e%252e%252f%252e%252e%252fetc/passwd
+/api%252e%252e%252f.htpasswd
 /api-docs
 /api-docs.json
 /api-docs.yaml
@@ -3062,6 +3129,7 @@
 /api-key.txt
 /api-keys.json
 /api-reference
+/api..%2f.htpasswd
 /api.key
 /api.zip
 /api_keys.js
@@ -3086,6 +3154,7 @@
 /app-7d66de919618d3830635.js
 /app-config.js
 /app-config.json
+/app..%2f.htpasswd
 /app.js
 /app.js.map
 /app.json
@@ -3297,6 +3366,8 @@
 /aspera/faspex/wp-admin/
 /aspnet.zip
 /asset-manifest.json
+/assets%252e%252e%252f%252e%252e%252fetc/passwd
+/assets%252e%252e%252f.htpasswd
 /assets.tar
 /assets.tar.gz
 /assets.zip
@@ -4127,6 +4198,7 @@
 /config/database.env
 /config/database.js
 /config/database.json
+/config/database.yaml
 /config/database.yml
 /config/db%2eenv
 /config/db.env
@@ -4311,6 +4383,7 @@
 /console/
 /console/%2eenv
 /console/*
+/console/console.portal
 /constant.js
 /constants.ini
 /constants.js
@@ -4326,6 +4399,7 @@
 /contact_us
 /contactus
 /contactus/
+/content%252e%252e%252f.htpasswd
 /content.tar
 /content.tar.gz
 /content.zip
@@ -4421,6 +4495,8 @@
 /cron.zip
 /crontab
 /crossdomain.xml
+/css%252e%252e%252f%252e%252e%252fetc/passwd
+/css%252e%252e%252f.htpasswd
 /css.phphmgm.ir
 /css/
 /css/ALFA_DATA/alfacgiapi/perl.alfa
@@ -4685,6 +4761,7 @@
 /dotenv.zip
 /dotnet.zip
 /down.html
+/download..%2f.htpasswd
 /downloads.tar
 /downloads.tar.gz
 /downloads.zip
@@ -4722,6 +4799,7 @@
 /ec2_keypair.pem
 /ecommerce.zip
 /ecosystem.config.js
+/ecp/
 /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 /ecs/task-credentials
 /ecs/task-credentials.json
@@ -4783,6 +4861,7 @@
 /env.development
 /env.example
 /env.js
+/env.js.map
 /env.json
 /env.list
 /env.local
@@ -4835,6 +4914,7 @@
 /etc/gitlab/gitlab%252erb
 /etc/gitlab/gitlab%2erb
 /etc/hosts
+/etc/httpd/conf/httpd.conf
 /etc/ipsec.secrets
 /etc/letsencrypt/live
 /etc/mail/sendmail%252ecf
@@ -4946,12 +5026,16 @@
 /filemanager/
 /filemanager/initialize
 /files
+/files%252e%252e%252f%252e%252e%252fetc/passwd
+/files%252e%252e%252f.htpasswd
+/files..%2f.htpasswd
 /files.tar
 /files.tar.gz
 /files.zip
 /files/
 /files/ALFA_DATA/alfacgiapi/perl.alfa
 /files/upload
+/fileupload/toolsAny
 /filezilla.xml
 /fin/
 /fin/catalog.html
@@ -5052,6 +5136,7 @@
 /gcp/tokens.json
 /gcp_key.json
 /general.zip
+/geoserver/ows
 /getcmd
 /ghost.zip
 /gif/
@@ -5189,6 +5274,7 @@
 /home/ubuntu/%2eaws/credentials
 /home/ubuntu/%2ebash_history
 /home/ubuntu/.aws/credentials
+/home/www-data/.ssh/id_rsa
 /horizon
 /horizon/
 /horizon/api/jobs/completed
@@ -5271,6 +5357,7 @@
 /ignition/health-check
 /illustrator.zip
 /images
+/images%252e%252e%252f%252e%252e%252fetc/passwd
 /images.tar
 /images.tar.gz
 /images.zip
@@ -5282,6 +5369,9 @@
 /images/smilies/
 /images/stories/
 /imap.zip
+/img%252e%252e%252f%252e%252e%252fetc/passwd
+/img%252e%252e%252f.htpasswd
+/img..%2f.htpasswd
 /img/
 /img/67e4b9b336eb8c3916fe2ba4
 /img/67e4b9b336eb8c3916fe2ba8
@@ -5502,6 +5592,9 @@
 /joomla.zip
 /joomla/administrator/
 /js
+/js%252e%252e%252f%252e%252e%252fetc/passwd
+/js%252e%252e%252f.htpasswd
+/js..%2f.htpasswd
 /js/
 /js/FCKeditor/fckeditor.js
 /js/NewWindow_2_all.js
@@ -5517,8 +5610,10 @@
 /js/contact_me.js
 /js/env.js
 /js/fckeditor/fckeditor.js
+/js/init.js
 /js/jcrop/
 /js/main.js
+/js/main.js.map
 /js/plupload/
 /js/sendgrid.js
 /js/tinymce/skins/lightgray/fonts/
@@ -5670,6 +5765,9 @@
 /legacy/tests/9.2.0
 /legal.zip
 /letsencrypt/live
+/lib%252e%252e%252f%252e%252e%252fetc/passwd
+/lib%252e%252e%252f.htpasswd
+/lib..%2f.htpasswd
 /lib.zip
 /lib/
 /lib/FCKeditor/fckeditor.js
@@ -5913,6 +6011,9 @@
 /master_key.txt
 /mc_api_key.txt
 /me
+/media%252e%252e%252f%252e%252e%252fetc/passwd
+/media%252e%252e%252f.htpasswd
+/media..%2f.htpasswd
 /media.tar
 /media.tar.gz
 /media.zip
@@ -5948,6 +6049,8 @@
 /meteor.settings.json
 /metrics
 /metrics.zip
+/mgmt/tm/util/
+/mgmt/tm/util/bash
 /microservice.zip
 /microservices.zip
 /middleware.js
@@ -6162,6 +6265,7 @@
 /options.zip
 /oracle.zip
 /order
+/orders
 /orders.zip
 /orders/*
 /organization
@@ -6235,6 +6339,8 @@
 /pages/api/stripe.js
 /pages/api/stripe.ts
 /pages/api/webhook.js
+/pages/doenterpagevariables.action
+/panel
 /panel.tar
 /panel.tar.gz
 /panel.zip
@@ -6533,6 +6639,7 @@
 /proxy
 /psalm.xml
 /public
+/public..%2f.htpasswd
 /public.key
 /public.pem
 /public.tar
@@ -6551,6 +6658,7 @@
 /public/backup.zip
 /public/bucket.json
 /public/client/planinfo
+/public/config.js
 /public/env.js
 /public/fckeditor/fckeditor.js
 /public/js/app.js.map
@@ -6658,6 +6766,8 @@
 /reset
 /reset-password
 /resources
+/resources%252e%252e%252f.htpasswd
+/resources..%2f.htpasswd
 /resources.zip
 /resources/js
 /resources/js/app.js.map
@@ -6669,6 +6779,7 @@
 /rest/*
 /rest/V1/guest-carts
 /rest/V1/store/storeConfigs
+/rest/api/latest/projects
 /rest/credential-translation
 /rest/credentials-for-node
 /rest/default/V1/store/storeConfigs
@@ -6730,6 +6841,7 @@
 /root/.gitconfig
 /root/.netrc
 /root/.s3cfg
+/root/.ssh/id_rsa
 /route53.json
 /routes/billing.js
 /routes/checkout.js
@@ -6754,6 +6866,7 @@
 /runtime-config.js
 /runtime-config.js.map
 /runtime-env.js
+/runtime.js
 /runtime.js.map
 /runtime/cache
 /runtime/logs
@@ -7184,6 +7297,8 @@
 /sftp.json
 /sftp.zip
 /sg_api_key.txt
+/share%252e%252e%252f.htpasswd
+/share..%2f.htpasswd
 /shared.zip
 /shared/aws/credentials
 /shared/config/config.js
@@ -7458,6 +7573,8 @@
 /startup.sh
 /state
 /static
+/static%252e%252e%252f.htpasswd
+/static..%2f.htpasswd
 /static.js
 /static.tar
 /static.tar.gz
@@ -7496,6 +7613,7 @@
 /stderr
 /stdout
 /storage
+/storage..%2f.htpasswd
 /storage.zip
 /storage/
 /storage/%2eenv
@@ -7588,6 +7706,7 @@
 /storage/v1/object
 /storage/v1/object/sign
 /store
+/store..%2f.htpasswd
 /store.tar
 /store.tar.gz
 /store.zip
@@ -7926,6 +8045,7 @@
 /token.txt
 /tokens.json
 /tokens.zip
+/tomcatwar.jsp
 /toml.zip
 /tools
 /tools.zip
@@ -7951,6 +8071,7 @@
 /uat.zip
 /ubh/
 /ui.zip
+/ui/vropspluginui/rest/services/uploadova
 /uk/
 /under-construction.html
 /uninstall.sh
@@ -7978,6 +8099,8 @@
 /uploader
 /uploadify
 /uploads
+/uploads%252e%252e%252f%252e%252e%252fetc/passwd
+/uploads..%2f.htpasswd
 /uploads.tar
 /uploads.tar.gz
 /uploads.zip
@@ -8176,6 +8299,7 @@
 /vault/secrets/config
 /vault_token.txt
 /vendor
+/vendor%252e%252e%252f%252e%252e%252fetc/passwd
 /vendor.js
 /vendor.js.map
 /vendor.tar
@@ -8229,6 +8353,7 @@
 /voyager/settings
 /voyager/users
 /vpn.ovpn
+/vpns/portal/scripts/
 /vps.zip
 /vue.zip
 /vultr.zip
@@ -8541,6 +8666,7 @@
 /wp-content/debug%252elog
 /wp-content/debug%2elog
 /wp-content/debug.log
+/wp-content/debug.log.1
 /wp-content/debug.tar
 /wp-content/debug.tar.gz
 /wp-content/debug.zip
@@ -8634,6 +8760,7 @@
 /wp-content/plugins/seoplugins/
 /wp-content/plugins/seox/
 /wp-content/plugins/simple/
+/wp-content/plugins/smtp-mail/tmp/debug.log
 /wp-content/plugins/smtp-mailer/readme.txt
 /wp-content/plugins/sparkpost_keys.json
 /wp-content/plugins/tunnelforms/
@@ -8651,6 +8778,10 @@
 /wp-content/plugins/wp-file-uploader/
 /wp-content/plugins/wp-google-map-gold/Licensing/README_License.txt
 /wp-content/plugins/wp-mail-smtp/sendgrid_keys.json
+/wp-content/plugins/wp-mail-smtp/tmp/debug.log
+/wp-content/plugins/wp-security-audit-log/
+/wp-content/plugins/wp-security-audit-log/readme.txt
+/wp-content/plugins/wp-smtp/debug.log
 /wp-content/plugins/wp-theme-editor/
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/xt
@@ -8738,6 +8869,7 @@
 /wp-content/uploads/2026/%2eenv
 /wp-content/uploads/api_keys.json
 /wp-content/uploads/aws_keys.json
+/wp-content/uploads/debug.log
 /wp-content/uploads/elementor/css/
 /wp-content/uploads/fluent-smtp/debug.log
 /wp-content/uploads/fluent-smtp/debug.log.1
@@ -9076,6 +9208,7 @@
 /zXc0z
 /zabbix/favicon.ico
 /zoo
+/ztp/cgi-bin/handler
 /zxq8m3k-test-none
 /zz-nonexistent-test-8492.html
 /~%252f.boto
