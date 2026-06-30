@@ -93,9 +93,29 @@
 /%22/assets/js/theme.js
 /%22/graphql
 /%252e%252e%252f%252e%252e%252f%252e%2565%256e%2576
+/%252e%252e%252f%252e%252e%252fetc%252fpasswd
 /%252e%252e%252f%252e%2565%256e%2576
+/%252e%252e/%252e%252e/etc/passwd
 /%252e%252e/%252e%2565%256e%2576
 /%252e%252e/%252e%2565%256ev
+/%252e%252e/.aws/credentials
+/%252e%252e/etc/apache2/apache2.conf
+/%252e%252e/etc/hosts
+/%252e%252e/etc/nginx/nginx.conf
+/%252e%252e/etc/passwd
+/%252e%252e/etc/shadow
+/%252e%252e/proc/net/tcp
+/%252e%252e/proc/self/cmdline
+/%252e%252e/proc/self/environ
+/%252e%252e/proc/version
+/%252e%252e/root/.bash_history
+/%252e%252e/root/.mysql_history
+/%252e%252e/var/log/apache2/access.log
+/%252e%252e/var/log/nginx/access.log
+/%252e%252e/var/www/.git/config
+/%252e%252e/var/www/html/.git/config
+/%252e%252e/var/www/html/config.php
+/%252e%252e/var/www/html/configuration.php
 /%252e%2565%256e%2576
 /%252e%2565%256e%2576.local
 /%252e%2565%256e%2576.production
@@ -947,6 +967,7 @@
 /%2577%2570%252D%2563%256F%256E%2566%2569%2567.%2570%2568%2570.%2562%2561%256B
 /%26quot%3Bhttps%3A/www.youtube.com/watch
 /%2Eenv
+/%2e%2e%5c/%2e%2e%5c/etc/passwd
 /%2e%65%6e%76
 /%2eAWS_
 /%2eaction
@@ -2285,6 +2306,7 @@
 /%E3%81%AE.php
 /%E5%B9%B3%E4%BB%AE%E5%90%8Ds.php
 /%c0
+/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
 /%c0%aeenv.example
 /%c0%aeenv.prod
 /%c0%aewell-known/openid-configuration
@@ -2330,14 +2352,20 @@
 /.%68%74%70%61%73%73%77%64
 /..%252f..%252f.ENV
 /..%255c..%255c..%255c..%255c..%255c..%255cvar/log/apache2/access.log
+/..%5C..%5C..%5Cetc%5Cpasswd
 /..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log
+/..%5c..%5c..%5cetc%5cpasswd
+/..%c0%af..%c0%afetc%c0%afpasswd
 /..%c0%af.env
+/..%e0%80%af../etc/passwd
 /....//....//.env
+/..;/WEB-INF/web.xml
 /..php
 /.012263646060568.php
 /.109753674214724.php
 /.284214373991941.php
 /.561988674612251.php
+/.;/WEB-INF/web.xml
 /.AWS_/credentials
 /.AwS/CrEdEnTiAlS
 /.DS_Store
@@ -3473,6 +3501,7 @@
 //blog/wp-includes/wlwmanifest.xml
 //bom30txv.php
 //botol.php
+//btx25.php
 //buy.php
 //bv7binary.php
 //byp.php
@@ -3547,6 +3576,7 @@
 //dostshell.php
 //dox.php
 //dropdown.php
+//dx.php
 //e.php
 //echo.php
 //edit.php
@@ -3703,6 +3733,7 @@
 //leaf.php
 //lela.php
 //ler.php
+//like.php
 //livewire/livewire.js
 //livewire/message
 //livewire/update
@@ -3735,6 +3766,7 @@
 //memek.php
 //meta.php
 //mia.php
+//min.php
 //mini.php5
 //misc.php
 //miya.php
@@ -3915,6 +3947,7 @@
 //version.php
 //vfr.php
 //w.php
+//w3lls.php
 //w3llstore.php
 //wander.php
 //web.php
@@ -4010,6 +4043,7 @@
 //xindex.php
 //xmlrpc.php
 //xmrlpc.php
+//xozx.php
 //xve22.php
 //xwpg.php
 //xx.php
@@ -4068,6 +4102,7 @@
 /0kk850af.php
 /0o.php
 /0o0.php
+/0okj.php
 /0x.php
 /0x0.php
 /0x0x.php
@@ -4399,6 +4434,7 @@
 /5cnobsvIfGg.php
 /5drd24.php
 /5index.php
+/5shagu.php
 /5svPkCuORXp.php
 /5tdwvyWnTbRiMS8f18HXNBbALHKB5t4j.php
 /5xkfgawzejgwqh9hiaznCdefault.php
@@ -4477,6 +4513,10 @@
 /:8081/.env
 /:8443/.env
 /:8983
+/;/META-INF/MANIFEST.MF
+/;/WEB-INF/classes/application.properties
+/;/WEB-INF/classes/application.yml
+/;/WEB-INF/web.xml
 /;k.php
 /@.php
 /@fs/.git/config
@@ -5093,6 +5133,7 @@
 /_next/data/[build-id]/admin.json
 /_next/data/[build-id]/config.json
 /_next/data/[build-id]/index.json
+/_next/data/build.json
 /_next/data/build_id/
 /_next/data/build_id/%255b...slug%255d.json
 /_next/data/build_id/%255bslug%255d.json
@@ -5343,6 +5384,7 @@
 /a/index.json
 /a/index.php
 /a1.php
+/a11.php
 /a1vx.php
 /a2.php
 /a2wLG5AuW4b.php
@@ -5472,6 +5514,7 @@
 /actuator/env/cloud
 /actuator/gateway/globalfilters
 /actuator/gateway/refresh
+/actuator/gateway/routes
 /actuator/gateway/routes/0day
 /actuator/gateway/routes/hack
 /actuator/health
@@ -5593,6 +5636,7 @@
 /admin/db.php
 /admin/db.sql
 /admin/db_dump.php
+/admin/debug
 /admin/debug.php
 /admin/debug/default/view
 /admin/dologin.php
@@ -6509,6 +6553,7 @@
 /appsettings.json
 /appsettings.json.bak
 /appsettings.local.json
+/appt.php
 /apreset.php
 /apsarasarts/okk.php
 /aq.php
@@ -6565,6 +6610,7 @@
 /aspera/faspex/wp-admin/
 /aspera/faspex/wp-admin/gecko-litespeed.php
 /aspnet.zip
+/aspnet_client~1
 /ass.php
 /assacc.php
 /asset-manifest.json
@@ -6578,6 +6624,7 @@
 /assets../config/database.yml
 /assets../config/settings.py
 /assets../configuration.php
+/assets../etc/passwd
 /assets../settings.py
 /assets.php
 /assets.tar
@@ -7574,7 +7621,9 @@
 /bless11.php
 /bless13.php
 /bless14.php
+/bless18.php
 /bless2.php
+/bless24.php
 /bless25.php
 /bless3.php
 /bless4.php
@@ -7786,6 +7835,7 @@
 /buildkite/.env
 /bulk/.env
 /bullet.php
+/bumxewlsll.php
 /bundle.js
 /bundle.js.map
 /bundleconfig.json
@@ -8328,6 +8378,8 @@
 /cms/server/phpinfo.php
 /cms/service/phpinfo.php
 /cms/time.php
+/cms/wp-json/gravitysmtp/v1/connectors
+/cms/wp-json/gravitysmtp/v1/tests/mock-data
 /cms/wp-login.php
 /cms/xampp/info.php
 /cmsmessages/information.aspx
@@ -11122,6 +11174,7 @@
 /files../config/database.yml
 /files../config/settings.py
 /files../configuration.php
+/files../etc/passwd
 /files../settings.py
 /files.php
 /files.php%20
@@ -11177,6 +11230,7 @@
 /fit/
 /fit/catalog.json
 /fit/index.json
+/fiu.php
 /fix.php
 /fix/as.php
 /fix/up.php
@@ -11869,6 +11923,7 @@
 /host-info.php
 /host-manager
 /host-manager/html
+/host-manager/html;jsessionid=x
 /host-manager/text
 /host-phpinfo.php
 /host.php
@@ -12835,6 +12890,7 @@
 /keys/sendgrid_keys.json
 /keys/service-account.json
 /keys/stripe.txt
+/keyyy.php
 /kgmuq.php
 /khanlinks/.env
 /khgdl.php
@@ -13700,6 +13756,7 @@
 /manage/*
 /manage/.env
 /manage/FCKeditor/fckeditor.js
+/manage/actuator/env
 /manage/api
 /manage/dashboard
 /manage/env
@@ -13709,6 +13766,7 @@
 /management
 /management.zip
 /management/
+/management/actuator/env
 /management/api
 /management/assets/assets/css/
 /management/dashboard
@@ -13718,6 +13776,7 @@
 /manager.php
 /manager.zip
 /manager/html
+/manager/html;jsessionid=x
 /manda.php
 /mandrill-config.json
 /mandrill-config.php
@@ -13860,6 +13919,7 @@
 /media/develop/phpinfo.php
 /media/development/iinfo.php
 /media/dog.php
+/media/editors/jce/js/editor.min.js
 /media/filemanager/dialog.php
 /media/help/info.php
 /media/help/phpinfo.php
@@ -13994,6 +14054,7 @@
 /mmrp.php
 /mms.php
 /mnkalo.php
+/mnpiyfeish.php
 /mnt.zip
 /mo.php
 /moYleCH45qG.php
@@ -16297,6 +16358,7 @@
 /sao.php
 /saorix1.php
 /sapi/debug/default/view
+/satan.php
 /saudishell.php
 /save.php
 /saxzgf5.php
@@ -17029,6 +17091,7 @@
 /site.tar.gz
 /site.webmanifest
 /site.zip
+/site/
 /site/%2eenv
 /site/.config
 /site/.env
@@ -17085,6 +17148,7 @@
 /site/wp-config.php
 /site/wp-config.php.old
 /site/wp-includes/
+/site/wp-json/gravitysmtp/v1/connectors
 /site/xmlrpc.php
 /site1.sql
 /site2.php
@@ -17496,6 +17560,7 @@
 /ssl/private
 /ssl/private.key
 /ssl_certificate.key
+/ssla.php
 /sso_config.json
 /sss.php
 /sst.config.ts
@@ -17600,6 +17665,7 @@
 /static../config.php
 /static../config/database.yml
 /static../config/settings.py
+/static../etc/passwd
 /static../manage.py
 /static../var/www/html/%2eenv
 /static../var/www/html/.env
@@ -18070,6 +18136,7 @@
 /telescope
 /telescope/
 /telescope/api/cache
+/telescope/api/commands
 /telescope/api/dumps
 /telescope/api/events
 /telescope/api/exceptions
@@ -18887,6 +18954,7 @@
 /ups.php
 /uqcxit7i.php
 /url
+/urlar.php
 /urlmem-app/.env
 /us.php
 /usa.php
@@ -19854,6 +19922,9 @@
 /wordpress/wp-includes/class-wp-http-ixr-client-view.php
 /wordpress/wp-includes/style-engine/
 /wordpress/wp-includes/wp-config-sample.php
+/wordpress/wp-json/gravitysmtp/v1/connectors
+/wordpress/wp-json/gravitysmtp/v1/stats
+/wordpress/wp-json/gravitysmtp/v1/tests/mock-data
 /wordpress/wp-login.php
 /wordpress/xmlrpc.php
 /wordpress_backup.tar
@@ -20109,6 +20180,7 @@
 /wp-admin/css/wp/
 /wp-admin/date.php
 /wp-admin/defaults.php
+/wp-admin/doc.php
 /wp-admin/dofault.php
 /wp-admin/dropdown.php
 /wp-admin/edit-tags-session.php
@@ -20633,6 +20705,7 @@
 /wp-content/backups.tar
 /wp-content/backups.tar.gz
 /wp-content/backups.zip
+/wp-content/backups/
 /wp-content/backups/data.sql
 /wp-content/backups/database.sql
 /wp-content/backups/db.sql
@@ -21219,6 +21292,7 @@
 /wp-content/plugins/wpforms/class-wpforms-update.php
 /wp-content/plugins/wps-hide-login/wps-hide-login.php
 /wp-content/plugins/wpsearch/login.php
+/wp-content/plugins/wpvivid-backuprestore/
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/x/wp-classs-editor.php
 /wp-content/plugins/xc.php
@@ -21696,6 +21770,7 @@
 /wp-db.zip
 /wp-defaul.php
 /wp-demomav.php
+/wp-dengko.php
 /wp-denmono.php
 /wp-der.php
 /wp-domain.php
@@ -22846,7 +22921,9 @@
 /wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/config
+/wp-json/gravitysmtp/v1/connectors
 /wp-json/gravitysmtp/v1/settings
+/wp-json/gravitysmtp/v1/stats
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
 /wp-json/post-smtp/v1/logs
@@ -22953,9 +23030,11 @@
 /wp-png.php
 /wp-pop.php
 /wp-post-data.php
+/wp-pp.php
 /wp-raze.php
 /wp-rdf.php
 /wp-rhvi43.php
+/wp-rrtx.php
 /wp-rss.php
 /wp-sanita.php
 /wp-scanner.php
@@ -22995,6 +23074,7 @@
 /wp-supports.php
 /wp-sx10.php
 /wp-sx9.php
+/wp-sync.php
 /wp-system.php
 /wp-taglin.php
 /wp-tap.php
@@ -23012,6 +23092,7 @@
 /wp-tiroto.php
 /wp-title.php
 /wp-tivate.php
+/wp-tkdc.php
 /wp-today.php
 /wp-tot.php
 /wp-trackback.php
@@ -23069,6 +23150,9 @@
 /wp/wp-content/plugins/classic-editor/js/geido.php
 /wp/wp-includes//index.php
 /wp/wp-includes/menu.php
+/wp/wp-json/gravitysmtp/v1/settings
+/wp/wp-json/gravitysmtp/v1/stats
+/wp/wp-json/gravitysmtp/v1/tests/mock-data
 /wp/wp-login.php
 /wp/xleet.php
 /wp/xmlrpc.php
@@ -23300,6 +23384,7 @@
 /x9.php
 /x=34.php
 /xBrain.php
+/xSx.php
 /xa.php
 /xajxfrbx.php
 /xamarin.zip
@@ -23368,6 +23453,7 @@
 /xleetx.php
 /xlettt.php
 /xll.asp
+/xll.php
 /xltavrat.php
 /xltt.php
 /xm.php

@@ -7,10 +7,16 @@
 /'%20+%20encodeURI(r.image)%20+%20'
 /'%20+%20escapeHtml(data.url)%20+%20'
 /'%20+%20escapeHtml(s.url)%20+%20'
+/..;/WEB-INF/web.xml
+/.;/WEB-INF/web.xml
 /.aws/config;
 /.aws/credentials;
 /.env;.css
 /.env;.jpg
+/;/META-INF/MANIFEST.MF
+/;/WEB-INF/classes/application.properties
+/;/WEB-INF/classes/application.yml
+/;/WEB-INF/web.xml
 /Set-Cookie:%20_csrf=ThqyKyppbZCuFUBNslGoHkwYBtLHiNDq;%20Expires=Wed,%2025%20Jun%202025%2002:48:11%20GMT
 /actuator;/env;
 /api/doesnotexist
@@ -18,6 +24,8 @@
 /doesnotexist_0777
 /doesnotexist_5810
 /doesnotexist_6734
+/host-manager/html;jsessionid=x
+/manager/html;jsessionid=x
 /s/031323e29323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /s/032313e2433313e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /s/0323e25323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties

