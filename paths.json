@@ -9,7 +9,7 @@
     "path": "/test.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T02:36:29Z",
-    "hit_count": 534
+    "hit_count": 535
   },
   {
     "path": "/wordpress/wp-admin/setup-config.php",
@@ -21,13 +21,13 @@
     "path": "/xmlrpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T04:04:14Z",
-    "hit_count": 4458
+    "hit_count": 4461
   },
   {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:20:16Z",
-    "hit_count": 1307
+    "hit_count": 1308
   },
   {
     "path": "/asc.php",
@@ -39,73 +39,73 @@
     "path": "/wk/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:52Z",
-    "hit_count": 511
+    "hit_count": 515
   },
   {
     "path": "/inputs.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:52Z",
-    "hit_count": 1111
+    "hit_count": 1115
   },
   {
     "path": "/ioxi-o.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:52Z",
-    "hit_count": 1684
+    "hit_count": 1688
   },
   {
     "path": "/function/function.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:52Z",
-    "hit_count": 354
+    "hit_count": 356
   },
   {
     "path": "/rip.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:52Z",
-    "hit_count": 860
+    "hit_count": 863
   },
   {
     "path": "/admin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:53Z",
-    "hit_count": 1619
+    "hit_count": 1623
   },
   {
     "path": "/wp-content/uploads/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:53Z",
-    "hit_count": 482
+    "hit_count": 484
   },
   {
     "path": "/cache.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:53Z",
-    "hit_count": 414
+    "hit_count": 415
   },
   {
     "path": "/themes.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:53Z",
-    "hit_count": 519
+    "hit_count": 523
   },
   {
     "path": "/an.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:53Z",
-    "hit_count": 405
+    "hit_count": 406
   },
   {
     "path": "/index/function.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:54Z",
-    "hit_count": 811
+    "hit_count": 815
   },
   {
     "path": "/randkeyword.PhP7",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:54Z",
-    "hit_count": 331
+    "hit_count": 332
   },
   {
     "path": "/ws.php",
@@ -117,13 +117,13 @@
     "path": "/404.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:54Z",
-    "hit_count": 708
+    "hit_count": 712
   },
   {
     "path": "/wp-admin/user/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:54Z",
-    "hit_count": 272
+    "hit_count": 275
   },
   {
     "path": "/wp-conf.php",
@@ -141,25 +141,25 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 12721
+    "hit_count": 12727
   },
   {
     "path": "/abc.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 451
+    "hit_count": 452
   },
   {
     "path": "/abcd.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 1198
+    "hit_count": 1199
   },
   {
     "path": "/as.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:56Z",
-    "hit_count": 1048
+    "hit_count": 1053
   },
   {
     "path": "/wp-trackback.php",
@@ -171,43 +171,43 @@
     "path": "/about.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:56Z",
-    "hit_count": 1532
+    "hit_count": 1536
   },
   {
     "path": "/file.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:56Z",
-    "hit_count": 1514
+    "hit_count": 1518
   },
   {
     "path": "/adminfuns.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:57Z",
-    "hit_count": 1423
+    "hit_count": 1427
   },
   {
     "path": "/wp-good.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:57Z",
-    "hit_count": 920
+    "hit_count": 922
   },
   {
     "path": "/goods.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:57Z",
-    "hit_count": 1250
+    "hit_count": 1254
   },
   {
     "path": "/class-t.api.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:57Z",
-    "hit_count": 856
+    "hit_count": 857
   },
   {
     "path": "/sf.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:58Z",
-    "hit_count": 650
+    "hit_count": 653
   },
   {
     "path": "/kbfr.php",
@@ -225,13 +225,13 @@
     "path": "/chosen.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:58Z",
-    "hit_count": 958
+    "hit_count": 960
   },
   {
     "path": "/classwithtostring.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:59Z",
-    "hit_count": 1232
+    "hit_count": 1237
   },
   {
     "path": "/defaults.php",
@@ -243,7 +243,7 @@
     "path": "/info.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:49:00Z",
-    "hit_count": 1719
+    "hit_count": 1722
   },
   {
     "path": "/wp-includes/Requests/src/Response/about.php",
@@ -255,37 +255,37 @@
     "path": "/wp-content/admin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:49:01Z",
-    "hit_count": 1094
+    "hit_count": 1098
   },
   {
     "path": "/wp-content/themes/admin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:49:01Z",
-    "hit_count": 1062
+    "hit_count": 1066
   },
   {
     "path": "/wp-content/themes/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:49:01Z",
-    "hit_count": 546
+    "hit_count": 549
   },
   {
     "path": "/wp-content/plugins/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:49:02Z",
-    "hit_count": 618
+    "hit_count": 620
   },
   {
     "path": "/222.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T06:25:54Z",
-    "hit_count": 1043
+    "hit_count": 1047
   },
   {
     "path": "/edit.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T06:25:55Z",
-    "hit_count": 883
+    "hit_count": 887
   },
   {
     "path": "/fff.php",
@@ -309,13 +309,13 @@
     "path": "/wp-content/uploads/admin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T06:25:58Z",
-    "hit_count": 571
+    "hit_count": 573
   },
   {
     "path": "/wp.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T06:25:59Z",
-    "hit_count": 831
+    "hit_count": 836
   },
   {
     "path": "/elep.php",
@@ -351,13 +351,13 @@
     "path": "/bolt.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T06:26:01Z",
-    "hit_count": 801
+    "hit_count": 802
   },
   {
     "path": "/bless.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T06:26:01Z",
-    "hit_count": 575
+    "hit_count": 576
   },
   {
     "path": "/w4.php",
@@ -387,7 +387,7 @@
     "path": "/test1.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:03Z",
-    "hit_count": 408
+    "hit_count": 410
   },
   {
     "path": "/tymn.php",
@@ -507,7 +507,7 @@
     "path": "/wp-admin/js/pe9rsn.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:16Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "//wp-content/plugins/index.php",
@@ -519,13 +519,13 @@
     "path": "//special.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:17Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "//bak.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:18Z",
-    "hit_count": 19
+    "hit_count": 20
   },
   {
     "path": "//wp-content/upgrade/about.php",
@@ -561,7 +561,7 @@
     "path": "//core.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:22Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "//about.php",
@@ -585,13 +585,13 @@
     "path": "//hi.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:25Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "//wp-content/cong.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:25Z",
-    "hit_count": 48
+    "hit_count": 49
   },
   {
     "path": "//wp-content/index.php",
@@ -621,7 +621,7 @@
     "path": "//d2.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:29Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "//new/index.php",
@@ -783,7 +783,7 @@
     "path": "/plugins.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:47Z",
-    "hit_count": 197
+    "hit_count": 199
   },
   {
     "path": "/xoot.php",
@@ -807,7 +807,7 @@
     "path": "/xa.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:49Z",
-    "hit_count": 166
+    "hit_count": 167
   },
   {
     "path": "/er.php",
@@ -855,13 +855,13 @@
     "path": "/nw.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:54Z",
-    "hit_count": 95
+    "hit_count": 96
   },
   {
     "path": "/666.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:55Z",
-    "hit_count": 393
+    "hit_count": 394
   },
   {
     "path": "/kj.php",
@@ -903,7 +903,7 @@
     "path": "/ms-edit.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:54:59Z",
-    "hit_count": 1144
+    "hit_count": 1146
   },
   {
     "path": "/grsiuk.php",
@@ -1011,7 +1011,7 @@
     "path": "/num.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:09Z",
-    "hit_count": 74
+    "hit_count": 76
   },
   {
     "path": "/makeasmtp.php",
@@ -1035,7 +1035,7 @@
     "path": "/we.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:12Z",
-    "hit_count": 195
+    "hit_count": 196
   },
   {
     "path": "/zwso.php",
@@ -1059,7 +1059,7 @@
     "path": "/a.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:14Z",
-    "hit_count": 347
+    "hit_count": 348
   },
   {
     "path": "/dev.php",
@@ -1077,7 +1077,7 @@
     "path": "/155.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:16Z",
-    "hit_count": 196
+    "hit_count": 197
   },
   {
     "path": "/goat.php",
@@ -1113,7 +1113,7 @@
     "path": "/default.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:21Z",
-    "hit_count": 299
+    "hit_count": 300
   },
   {
     "path": "/class.1.php",
@@ -1137,7 +1137,7 @@
     "path": "/manager.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:26Z",
-    "hit_count": 220
+    "hit_count": 221
   },
   {
     "path": "/wp-update.php",
@@ -1167,7 +1167,7 @@
     "path": "/gifclass.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:29Z",
-    "hit_count": 307
+    "hit_count": 309
   },
   {
     "path": "/miansha.php",
@@ -1185,7 +1185,7 @@
     "path": "/ok.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:31Z",
-    "hit_count": 177
+    "hit_count": 178
   },
   {
     "path": "/fi.php",
@@ -1233,13 +1233,13 @@
     "path": "/bgymj.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:36Z",
-    "hit_count": 379
+    "hit_count": 380
   },
   {
     "path": "/xpwer1.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:37Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "//lala.php",
@@ -1329,13 +1329,13 @@
     "path": "/alfa.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:49Z",
-    "hit_count": 567
+    "hit_count": 570
   },
   {
     "path": "/x.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:50Z",
-    "hit_count": 358
+    "hit_count": 359
   },
   {
     "path": "/xxxx.php",
@@ -1353,7 +1353,7 @@
     "path": "/f35.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:51Z",
-    "hit_count": 480
+    "hit_count": 481
   },
   {
     "path": "/wp-admin/about.php",
@@ -1395,7 +1395,7 @@
     "path": "/wp-includes/ID3/about.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:56Z",
-    "hit_count": 97
+    "hit_count": 99
   },
   {
     "path": "/.well-known/admin.php",
@@ -1407,7 +1407,7 @@
     "path": "/init.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:57Z",
-    "hit_count": 203
+    "hit_count": 205
   },
   {
     "path": "/wp-content/plugins/pwnd/as.php",
@@ -1419,7 +1419,7 @@
     "path": "/k.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:55:58Z",
-    "hit_count": 583
+    "hit_count": 585
   },
   {
     "path": "/X7x.php",
@@ -1461,7 +1461,7 @@
     "path": "/a1.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:56:03Z",
-    "hit_count": 165
+    "hit_count": 166
   },
   {
     "path": "/lala.php",
@@ -1473,7 +1473,7 @@
     "path": "/aaa.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:56:04Z",
-    "hit_count": 364
+    "hit_count": 365
   },
   {
     "path": "/a2.php",
@@ -1491,7 +1491,7 @@
     "path": "//av.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T07:56:06Z",
-    "hit_count": 180
+    "hit_count": 181
   },
   {
     "path": "//.env",
@@ -1503,7 +1503,7 @@
     "path": "/txets.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T10:03:16Z",
-    "hit_count": 368
+    "hit_count": 369
   },
   {
     "path": "/wp-content/txets.php",
@@ -1539,7 +1539,7 @@
     "path": "/wp-includes/Text/Diff/Engine/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:38Z",
-    "hit_count": 35
+    "hit_count": 37
   },
   {
     "path": "/css/autoload_classmap.php",
@@ -1551,13 +1551,13 @@
     "path": "/.well-known/acme-challenge/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:39Z",
-    "hit_count": 132
+    "hit_count": 133
   },
   {
     "path": "/wp-includes/IXR/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:39Z",
-    "hit_count": 61
+    "hit_count": 62
   },
   {
     "path": "/wp-includes/js/jcrop/Jcrop.php",
@@ -1569,19 +1569,19 @@
     "path": "/images/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:39Z",
-    "hit_count": 97
+    "hit_count": 99
   },
   {
     "path": "/wp-file.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:39Z",
-    "hit_count": 108
+    "hit_count": 110
   },
   {
     "path": "/wp-cron.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:40Z",
-    "hit_count": 142
+    "hit_count": 144
   },
   {
     "path": "/24.php",
@@ -1599,7 +1599,7 @@
     "path": "/wp-admin/js/admiin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:40Z",
-    "hit_count": 16
+    "hit_count": 18
   },
   {
     "path": "/about.PHP",
@@ -1611,7 +1611,7 @@
     "path": "/wp-content/edit.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:40Z",
-    "hit_count": 35
+    "hit_count": 37
   },
   {
     "path": "/wp-admin/css/colors/about.php",
@@ -1629,13 +1629,13 @@
     "path": "/wp-content/1.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:41Z",
-    "hit_count": 36
+    "hit_count": 38
   },
   {
     "path": "/wp-includes/css/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T12:31:41Z",
-    "hit_count": 98
+    "hit_count": 99
   },
   {
     "path": "/man.php",
@@ -1755,7 +1755,7 @@
     "path": "/vx.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T14:03:08Z",
-    "hit_count": 281
+    "hit_count": 282
   },
   {
     "path": "/shas.php",
@@ -1833,13 +1833,13 @@
     "path": "/wp-admin/css/colors/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:38Z",
-    "hit_count": 101
+    "hit_count": 102
   },
   {
     "path": "/wp-content/shell20211028.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:38Z",
-    "hit_count": 15
+    "hit_count": 17
   },
   {
     "path": "/wp-content/admin-header.php",
@@ -1863,7 +1863,7 @@
     "path": "/wp-content/upgrade/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:39Z",
-    "hit_count": 339
+    "hit_count": 342
   },
   {
     "path": "/buy.php",
@@ -1875,7 +1875,7 @@
     "path": "/wp-admin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:39Z",
-    "hit_count": 175
+    "hit_count": 177
   },
   {
     "path": "/wp-admin/css/colors/light/about.php",
@@ -1887,7 +1887,7 @@
     "path": "/atomlib.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:39Z",
-    "hit_count": 451
+    "hit_count": 454
   },
   {
     "path": "/special.php",
@@ -1899,7 +1899,7 @@
     "path": "/wp-admin/js/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:40Z",
-    "hit_count": 302
+    "hit_count": 303
   },
   {
     "path": "/error.php",
@@ -1923,7 +1923,7 @@
     "path": "/dropdown.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:40Z",
-    "hit_count": 434
+    "hit_count": 435
   },
   {
     "path": "/wp-includes/style-engine/wp-conflg.php",
@@ -1941,7 +1941,7 @@
     "path": "/wp-content/uploads/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:40Z",
-    "hit_count": 30
+    "hit_count": 32
   },
   {
     "path": "/wp-admin/admin.php",
@@ -1953,7 +1953,7 @@
     "path": "/images/images/about.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:40Z",
-    "hit_count": 47
+    "hit_count": 48
   },
   {
     "path": "/wp-links.php",
@@ -1971,19 +1971,19 @@
     "path": "/wp-admin/network/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:41Z",
-    "hit_count": 140
+    "hit_count": 143
   },
   {
     "path": "/wp-content/plugins/admin.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:41Z",
-    "hit_count": 332
+    "hit_count": 334
   },
   {
     "path": "/wp-content/languages/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:41Z",
-    "hit_count": 102
+    "hit_count": 104
   },
   {
     "path": "/wp-content/themes/seotheme/mar.php",
@@ -2007,13 +2007,13 @@
     "path": "/wp-content/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:41Z",
-    "hit_count": 606
+    "hit_count": 610
   },
   {
     "path": "/simple.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:41Z",
-    "hit_count": 554
+    "hit_count": 555
   },
   {
     "path": "/wp-includes/js/tinymce/skins/wordpress/images/index.php",
@@ -2031,7 +2031,7 @@
     "path": "/wp-includes/js/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T17:52:41Z",
-    "hit_count": 55
+    "hit_count": 57
   },
   {
     "path": "/tews.php",
@@ -2049,7 +2049,7 @@
     "path": "/NewFile.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:15Z",
-    "hit_count": 108
+    "hit_count": 109
   },
   {
     "path": "/lock6.php",
@@ -2079,7 +2079,7 @@
     "path": "/wp-admin/file.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:20Z",
-    "hit_count": 50
+    "hit_count": 52
   },
   {
     "path": "/contact.php",
@@ -2253,13 +2253,13 @@
     "path": "/ad.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:35Z",
-    "hit_count": 29
+    "hit_count": 30
   },
   {
     "path": "/403.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:36Z",
-    "hit_count": 353
+    "hit_count": 356
   },
   {
     "path": "/acp.php",
@@ -2271,7 +2271,7 @@
     "path": "/css/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:37Z",
-    "hit_count": 170
+    "hit_count": 172
   },
   {
     "path": "/mek.php",
@@ -2307,7 +2307,7 @@
     "path": "/elp.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:40Z",
-    "hit_count": 307
+    "hit_count": 308
   },
   {
     "path": "/great.php",
@@ -2451,7 +2451,7 @@
     "path": "/xleet.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:53Z",
-    "hit_count": 113
+    "hit_count": 114
   },
   {
     "path": "/minik.php",
@@ -2481,7 +2481,7 @@
     "path": "/link.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:39:57Z",
-    "hit_count": 114
+    "hit_count": 115
   },
   {
     "path": "/ynz.PhP7",
@@ -2517,7 +2517,7 @@
     "path": "/h.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:40:00Z",
-    "hit_count": 59
+    "hit_count": 60
   },
   {
     "path": "/hi.php",
@@ -2559,7 +2559,7 @@
     "path": "/0x.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T18:40:03Z",
-    "hit_count": 436
+    "hit_count": 437
   },
   {
     "path": "/jvirglze.php",
@@ -3063,25 +3063,25 @@
     "path": "/phpinfo.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T08:45:49Z",
-    "hit_count": 591
+    "hit_count": 592
   },
   {
     "path": "/php.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T08:45:58Z",
-    "hit_count": 538
+    "hit_count": 541
   },
   {
     "path": "/php_info.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T08:46:00Z",
-    "hit_count": 226
+    "hit_count": 227
   },
   {
     "path": "/i.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T08:46:02Z",
-    "hit_count": 233
+    "hit_count": 235
   },
   {
     "path": "/pi.php",
@@ -3255,7 +3255,7 @@
     "path": "/bb.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T09:54:47Z",
-    "hit_count": 171
+    "hit_count": 172
   },
   {
     "path": "/dsd.php",
@@ -3561,7 +3561,7 @@
     "path": "/mini.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T09:55:01Z",
-    "hit_count": 242
+    "hit_count": 244
   },
   {
     "path": "/rtx.php",
@@ -3573,7 +3573,7 @@
     "path": "/moon.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T09:55:01Z",
-    "hit_count": 327
+    "hit_count": 329
   },
   {
     "path": "/gec.php",
@@ -3627,7 +3627,7 @@
     "path": "/sid3.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T09:55:04Z",
-    "hit_count": 264
+    "hit_count": 266
   },
   {
     "path": "/backups/backup.sql",
@@ -3651,13 +3651,13 @@
     "path": "/gelay.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T16:20:01Z",
-    "hit_count": 131
+    "hit_count": 132
   },
   {
     "path": "/aa.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T16:20:01Z",
-    "hit_count": 745
+    "hit_count": 750
   },
   {
     "path": "/tmp.php",
@@ -3675,19 +3675,19 @@
     "path": "/wp-admin/a.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T16:20:01Z",
-    "hit_count": 70
+    "hit_count": 72
   },
   {
     "path": "/xmrlpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T16:20:01Z",
-    "hit_count": 293
+    "hit_count": 294
   },
   {
     "path": "/wp-content/plugins/core-plugin/include.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T16:20:01Z",
-    "hit_count": 97
+    "hit_count": 99
   },
   {
     "path": "/class.php",
@@ -3711,7 +3711,7 @@
     "path": "/o.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T16:20:01Z",
-    "hit_count": 163
+    "hit_count": 164
   },
   {
     "path": "/mari.php",
@@ -3855,7 +3855,7 @@
     "path": "/.git/config",
     "category": "env-config",
     "first_seen": "2026-02-28T18:43:55Z",
-    "hit_count": 2355
+    "hit_count": 2362
   },
   {
     "path": "/www.sql",
@@ -3891,7 +3891,7 @@
     "path": "/yas.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T22:59:34Z",
-    "hit_count": 75
+    "hit_count": 76
   },
   {
     "path": "/cwclass.php",
@@ -3903,13 +3903,13 @@
     "path": "/wp-admin/images/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T22:59:34Z",
-    "hit_count": 77
+    "hit_count": 79
   },
   {
     "path": "/wp-includes/ID3/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T22:59:34Z",
-    "hit_count": 248
+    "hit_count": 249
   },
   {
     "path": "/wp-includes/SimplePie/cah.php",
@@ -3921,7 +3921,7 @@
     "path": "/cah.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T23:50:23Z",
-    "hit_count": 54
+    "hit_count": 55
   },
   {
     "path": "/wp-content/plugins/pwnd/acp.php",
@@ -3945,7 +3945,7 @@
     "path": "/edit-tags.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T23:50:28Z",
-    "hit_count": 72
+    "hit_count": 73
   },
   {
     "path": "/as1337.php",
@@ -4017,7 +4017,7 @@
     "path": "/wp-includes/fonts/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T01:11:37Z",
-    "hit_count": 176
+    "hit_count": 177
   },
   {
     "path": "/wp-admin/css/colors/blue/index.php",
@@ -5169,7 +5169,7 @@
     "path": "/adminer.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:47:01Z",
-    "hit_count": 186
+    "hit_count": 188
   },
   {
     "path": "/adminer/.env",
@@ -6021,13 +6021,13 @@
     "path": "/db.sql",
     "category": "backup-files",
     "first_seen": "2026-03-01T04:47:14Z",
-    "hit_count": 126
+    "hit_count": 127
   },
   {
     "path": "/db_backup.sql",
     "category": "backup-files",
     "first_seen": "2026-03-01T04:47:14Z",
-    "hit_count": 109
+    "hit_count": 110
   },
   {
     "path": "/debug.php",
@@ -6153,7 +6153,7 @@
     "path": "/docker-compose.yml",
     "category": "devops-exposure",
     "first_seen": "2026-03-01T04:47:16Z",
-    "hit_count": 281
+    "hit_count": 282
   },
   {
     "path": "/doc/.env",
@@ -6285,7 +6285,7 @@
     "path": "/dump.sql",
     "category": "backup-files",
     "first_seen": "2026-03-01T04:47:18Z",
-    "hit_count": 132
+    "hit_count": 133
   },
   {
     "path": "/e2e/.env",
@@ -7551,7 +7551,7 @@
     "path": "/p.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:47:39Z",
-    "hit_count": 349
+    "hit_count": 350
   },
   {
     "path": "/packages/styled-ui-docs/.env",
@@ -9093,7 +9093,7 @@
     "path": "/u.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:48:02Z",
-    "hit_count": 92
+    "hit_count": 93
   },
   {
     "path": "/ubuntu/.env",
@@ -9243,7 +9243,7 @@
     "path": "/w.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:48:05Z",
-    "hit_count": 422
+    "hit_count": 426
   },
   {
     "path": "/web-dist/.env",
@@ -9339,7 +9339,7 @@
     "path": "/wp-config.txt",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:06Z",
-    "hit_count": 129
+    "hit_count": 130
   },
   {
     "path": "/wp-content/.env",
@@ -9909,7 +9909,7 @@
     "path": "/database.sql",
     "category": "backup-files",
     "first_seen": "2026-03-01T04:48:24Z",
-    "hit_count": 123
+    "hit_count": 124
   },
   {
     "path": "/mysql.sql",
@@ -9921,7 +9921,7 @@
     "path": "/backup.sql",
     "category": "backup-files",
     "first_seen": "2026-03-01T04:48:24Z",
-    "hit_count": 148
+    "hit_count": 149
   },
   {
     "path": "/site.sql",
@@ -10125,7 +10125,7 @@
     "path": "/database_backup.sql",
     "category": "backup-files",
     "first_seen": "2026-03-01T04:48:28Z",
-    "hit_count": 73
+    "hit_count": 74
   },
   {
     "path": "/core/config.php",
@@ -10143,7 +10143,7 @@
     "path": "/wp-config-sample.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:48:28Z",
-    "hit_count": 279
+    "hit_count": 280
   },
   {
     "path": "/wordpress/wp-config-sample.php",
@@ -10155,7 +10155,7 @@
     "path": "/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:29Z",
-    "hit_count": 623
+    "hit_count": 625
   },
   {
     "path": "/.svn/entries",
@@ -10227,7 +10227,7 @@
     "path": "/setup.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T04:48:32Z",
-    "hit_count": 88
+    "hit_count": 89
   },
   {
     "path": "/setup-config.php",
@@ -10647,7 +10647,7 @@
     "path": "/akcc.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T09:26:43Z",
-    "hit_count": 250
+    "hit_count": 251
   },
   {
     "path": "/shelp.php",
@@ -10665,7 +10665,7 @@
     "path": "/dex.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T09:26:46Z",
-    "hit_count": 77
+    "hit_count": 78
   },
   {
     "path": "//zwso.php",
@@ -10707,7 +10707,7 @@
     "path": "/php8.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T09:27:08Z",
-    "hit_count": 350
+    "hit_count": 351
   },
   {
     "path": "/lufix1.php",
@@ -10725,7 +10725,7 @@
     "path": "/wp-admin/css/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T09:27:13Z",
-    "hit_count": 153
+    "hit_count": 156
   },
   {
     "path": "/files.php",
@@ -10941,7 +10941,7 @@
     "path": "/st.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T12:55:05Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/index.php/login",
@@ -10995,7 +10995,7 @@
     "path": "/filemanager/dialog.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T14:25:59Z",
-    "hit_count": 39
+    "hit_count": 41
   },
   {
     "path": "/admin/assets/plugins/kcfinder/upload.php",
@@ -11571,7 +11571,7 @@
     "path": "/wp-admin/maint/admin.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T17:36:46Z",
-    "hit_count": 152
+    "hit_count": 153
   },
   {
     "path": "/wp-includes/admin.php",
@@ -11589,7 +11589,7 @@
     "path": "/item.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T17:36:47Z",
-    "hit_count": 314
+    "hit_count": 317
   },
   {
     "path": "/my.php",
@@ -11613,7 +11613,7 @@
     "path": "/1.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T17:36:48Z",
-    "hit_count": 670
+    "hit_count": 674
   },
   {
     "path": "/kk.php",
@@ -11709,7 +11709,7 @@
     "path": "/wp-admin/classwithtostring.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T17:37:06Z",
-    "hit_count": 80
+    "hit_count": 83
   },
   {
     "path": "/wp-content/themes/twentytwentytwo/index.php",
@@ -11739,7 +11739,7 @@
     "path": "/wp-includes/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T17:37:06Z",
-    "hit_count": 74
+    "hit_count": 76
   },
   {
     "path": "/wp-includes/blocks/search/index.php",
@@ -11763,7 +11763,7 @@
     "path": "/wp-includes/style-engine/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T17:37:06Z",
-    "hit_count": 62
+    "hit_count": 63
   },
   {
     "path": "/backups/sql.sql",
@@ -11919,7 +11919,7 @@
     "path": "/m.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T23:49:03Z",
-    "hit_count": 186
+    "hit_count": 188
   },
   {
     "path": "/wp-admin/network/wp-conflg.php",
@@ -12009,7 +12009,7 @@
     "path": "/wp-admin/maint/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T23:49:07Z",
-    "hit_count": 238
+    "hit_count": 240
   },
   {
     "path": "/uploads/autoload_classmap.php",
@@ -12099,7 +12099,7 @@
     "path": "/gg.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T23:49:10Z",
-    "hit_count": 160
+    "hit_count": 162
   },
   {
     "path": "/we2.php",
@@ -12165,7 +12165,7 @@
     "path": "/radio.php",
     "category": "php-probes",
     "first_seen": "2026-03-01T23:49:12Z",
-    "hit_count": 328
+    "hit_count": 330
   },
   {
     "path": "/file7.php",
@@ -12297,7 +12297,7 @@
     "path": "/core/install.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T08:42:47Z",
-    "hit_count": 17
+    "hit_count": 18
   },
   {
     "path": "/s.php",
@@ -12315,7 +12315,7 @@
     "path": "/wp-includes/js/codemirror/about.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T11:49:32Z",
-    "hit_count": 21
+    "hit_count": 23
   },
   {
     "path": "/shutin.sql",
@@ -12357,7 +12357,7 @@
     "path": "/gecko-new.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T13:17:50Z",
-    "hit_count": 94
+    "hit_count": 95
   },
   {
     "path": "/cookie.php",
@@ -12393,7 +12393,7 @@
     "path": "/text.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T13:17:51Z",
-    "hit_count": 46
+    "hit_count": 48
   },
   {
     "path": "/feeds.php",
@@ -12483,7 +12483,7 @@
     "path": "/plugin.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T13:17:58Z",
-    "hit_count": 65
+    "hit_count": 67
   },
   {
     "path": "/cloud.php",
@@ -12495,13 +12495,13 @@
     "path": "/wp-configs.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T13:17:58Z",
-    "hit_count": 82
+    "hit_count": 84
   },
   {
     "path": "/2.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T13:17:59Z",
-    "hit_count": 407
+    "hit_count": 410
   },
   {
     "path": "/input.php",
@@ -12753,7 +12753,7 @@
     "path": "/dr.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T15:55:05Z",
-    "hit_count": 25
+    "hit_count": 26
   },
   {
     "path": "/sto.php",
@@ -12945,7 +12945,7 @@
     "path": "/mds.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T15:55:19Z",
-    "hit_count": 30
+    "hit_count": 31
   },
   {
     "path": "/dlu.php",
@@ -13149,7 +13149,7 @@
     "path": "/terraform.tfstate.backup",
     "category": "backup-files",
     "first_seen": "2026-03-02T17:05:20Z",
-    "hit_count": 121
+    "hit_count": 122
   },
   {
     "path": "/$(pwd)/.env",
@@ -13305,7 +13305,7 @@
     "path": "/.git/COMMIT_EDITMSG",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:28Z",
-    "hit_count": 109
+    "hit_count": 110
   },
   {
     "path": "/.git/description",
@@ -13317,7 +13317,7 @@
     "path": "/.git/FETCH_HEAD",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:28Z",
-    "hit_count": 116
+    "hit_count": 117
   },
   {
     "path": "/.git/ORIG_HEAD",
@@ -13611,7 +13611,7 @@
     "path": "/docker-compose.yaml",
     "category": "devops-exposure",
     "first_seen": "2026-03-02T17:06:26Z",
-    "hit_count": 36
+    "hit_count": 37
   },
   {
     "path": "/docker-compose.dev.yml",
@@ -13623,7 +13623,7 @@
     "path": "/docker-compose.prod.yml",
     "category": "devops-exposure",
     "first_seen": "2026-03-02T17:06:26Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/.kube/config",
@@ -14103,7 +14103,7 @@
     "path": "/wp-mail.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T18:50:42Z",
-    "hit_count": 359
+    "hit_count": 361
   },
   {
     "path": "/db1.sql",
@@ -14145,7 +14145,7 @@
     "path": "/file61.php",
     "category": "php-probes",
     "first_seen": "2026-03-02T20:19:29Z",
-    "hit_count": 266
+    "hit_count": 267
   },
   {
     "path": "/eee.php",
@@ -14775,7 +14775,7 @@
     "path": "/send.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T08:30:06Z",
-    "hit_count": 22
+    "hit_count": 24
   },
   {
     "path": "/ee.php",
@@ -14829,7 +14829,7 @@
     "path": "/tes.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T08:30:08Z",
-    "hit_count": 46
+    "hit_count": 47
   },
   {
     "path": "/headers.php",
@@ -14841,7 +14841,7 @@
     "path": "/system_log.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T08:30:08Z",
-    "hit_count": 176
+    "hit_count": 177
   },
   {
     "path": "/wp-gr.php",
@@ -14853,7 +14853,7 @@
     "path": "/epinyins.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T08:30:08Z",
-    "hit_count": 66
+    "hit_count": 67
   },
   {
     "path": "/asus.php",
@@ -14919,7 +14919,7 @@
     "path": "/wp-admin/css/colors/coffee/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T09:22:30Z",
-    "hit_count": 43
+    "hit_count": 44
   },
   {
     "path": "/dapa.php",
@@ -14985,13 +14985,13 @@
     "path": "/wp-includes/SimplePie/about.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T10:49:23Z",
-    "hit_count": 68
+    "hit_count": 70
   },
   {
     "path": "/wso.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T10:49:23Z",
-    "hit_count": 95
+    "hit_count": 100
   },
   {
     "path": "/wp-includes/PHPMailer/index.php",
@@ -15063,7 +15063,7 @@
     "path": "/term.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T11:12:27Z",
-    "hit_count": 382
+    "hit_count": 383
   },
   {
     "path": "/global.php",
@@ -15105,7 +15105,7 @@
     "path": "/h02ugyh.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T11:12:38Z",
-    "hit_count": 40
+    "hit_count": 41
   },
   {
     "path": "/a4.php",
@@ -15129,7 +15129,7 @@
     "path": "/ccs.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T11:12:44Z",
-    "hit_count": 124
+    "hit_count": 125
   },
   {
     "path": "/apk.php",
@@ -15495,7 +15495,7 @@
     "path": "/wp-includes/Text/about.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T15:17:57Z",
-    "hit_count": 53
+    "hit_count": 55
   },
   {
     "path": "/wp-admin/css/colors/ocean/about.php",
@@ -15513,7 +15513,7 @@
     "path": "/wp-includes/SimplePie/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T15:17:57Z",
-    "hit_count": 26
+    "hit_count": 28
   },
   {
     "path": "/news.php",
@@ -15525,7 +15525,7 @@
     "path": "/file5.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T17:46:34Z",
-    "hit_count": 97
+    "hit_count": 100
   },
   {
     "path": "/wp-admin/includes/cloud.php",
@@ -15549,7 +15549,7 @@
     "path": "/wpc.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T17:46:34Z",
-    "hit_count": 28
+    "hit_count": 29
   },
   {
     "path": "/wp-sing.php",
@@ -15561,7 +15561,7 @@
     "path": "/wp-includes/Requests/library/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T17:46:34Z",
-    "hit_count": 32
+    "hit_count": 33
   },
   {
     "path": "/wp-admin/js/about.php",
@@ -15579,7 +15579,7 @@
     "path": "/deepseek_d.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T17:46:34Z",
-    "hit_count": 30
+    "hit_count": 31
   },
   {
     "path": "/wp-admin/file-manaager2.php",
@@ -15591,13 +15591,13 @@
     "path": "/wp-admin/images/admin.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T17:46:35Z",
-    "hit_count": 194
+    "hit_count": 195
   },
   {
     "path": "/wp-block.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T17:46:35Z",
-    "hit_count": 104
+    "hit_count": 106
   },
   {
     "path": "/wp-includes/ID3/file.php",
@@ -15753,7 +15753,7 @@
     "path": "/wp-admin/js/widgets/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 20
+    "hit_count": 22
   },
   {
     "path": "/favicon.php",
@@ -15771,7 +15771,7 @@
     "path": "/file56.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 9
+    "hit_count": 11
   },
   {
     "path": "/c.php",
@@ -15813,13 +15813,13 @@
     "path": "/wp-includes/block-supports/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 14
+    "hit_count": 16
   },
   {
     "path": "/wp-includes/IXR/chosen.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp-admin/wp-admins.php",
@@ -15867,13 +15867,13 @@
     "path": "/admin/controller/extension/extension/ultra.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 60
+    "hit_count": 61
   },
   {
     "path": "/wp-includes/IXR/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 11
+    "hit_count": 13
   },
   {
     "path": "/admin/admin.php",
@@ -15891,7 +15891,7 @@
     "path": "/wp-content/x/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T20:14:31Z",
-    "hit_count": 42
+    "hit_count": 43
   },
   {
     "path": "/by.php",
@@ -16107,13 +16107,13 @@
     "path": "/wp-content/plugins/dummyyummy/wp-signup.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T22:57:22Z",
-    "hit_count": 37
+    "hit_count": 39
   },
   {
     "path": "/wp-content/themes/twentytwenty/404.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T22:57:22Z",
-    "hit_count": 40
+    "hit_count": 41
   },
   {
     "path": "/wp-includes/about.php",
@@ -16125,7 +16125,7 @@
     "path": "/gecko.php",
     "category": "php-probes",
     "first_seen": "2026-03-03T22:57:22Z",
-    "hit_count": 127
+    "hit_count": 128
   },
   {
     "path": "/wp-content.php.php",
@@ -16335,7 +16335,7 @@
     "path": "/wp-includes/SimplePie/admin.php",
     "category": "php-probes",
     "first_seen": "2026-03-04T05:12:03Z",
-    "hit_count": 37
+    "hit_count": 38
   },
   {
     "path": "/wp-content/plugins/all-in-one-wp-security-and-firewall/templates/wp.php",
@@ -16437,7 +16437,7 @@
     "path": "/wp-content/themes/alera/alpha.php",
     "category": "php-probes",
     "first_seen": "2026-03-04T06:02:22Z",
-    "hit_count": 31
+    "hit_count": 33
   },
   {
     "path": "/wp-content/plugins/cp-pro/js.php",
@@ -16449,7 +16449,7 @@
     "path": "/wp-info.php",
     "category": "php-probes",
     "first_seen": "2026-03-04T06:02:22Z",
-    "hit_count": 88
+    "hit_count": 89
   },
   {
     "path": "/ak.php",
@@ -16683,7 +16683,7 @@
     "path": "/wp-admins.php",
     "category": "php-probes",
     "first_seen": "2026-03-04T07:58:17Z",
-    "hit_count": 23
+    "hit_count": 25
   },
   {
     "path": "/webadmin.php",
@@ -17517,19 +17517,19 @@
     "path": "/cgi-bin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:21Z",
-    "hit_count": 281
+    "hit_count": 282
   },
   {
     "path": "/wp-admin/js/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 201
+    "hit_count": 205
   },
   {
     "path": "/wp-admin/js/widgets/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 184
+    "hit_count": 187
   },
   {
     "path": "/wp-admin/maint/",
@@ -17541,31 +17541,31 @@
     "path": "/wp-admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 552
+    "hit_count": 556
   },
   {
     "path": "/wp-content/uploads/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 340
+    "hit_count": 344
   },
   {
     "path": "/wp-content/themes/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 158
+    "hit_count": 159
   },
   {
     "path": "/wp-includes/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 208
+    "hit_count": 209
   },
   {
     "path": "/wp-includes/js/crop/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 105
+    "hit_count": 108
   },
   {
     "path": "/.env.template",
@@ -17649,7 +17649,7 @@
     "path": "/.well-known/discord",
     "category": "unknown-path",
     "first_seen": "2026-03-05T07:05:58Z",
-    "hit_count": 127
+    "hit_count": 129
   },
   {
     "path": "/img/68507e601764a789a5b3687b",
@@ -17733,7 +17733,7 @@
     "path": "/wp-includes/images/smilies/about.php",
     "category": "php-probes",
     "first_seen": "2026-03-05T10:07:12Z",
-    "hit_count": 137
+    "hit_count": 138
   },
   {
     "path": "/wp-themes.php",
@@ -17805,7 +17805,7 @@
     "path": "/h2h.php",
     "category": "php-probes",
     "first_seen": "2026-03-05T10:12:32Z",
-    "hit_count": 28
+    "hit_count": 29
   },
   {
     "path": "/ok356.php",
@@ -17853,7 +17853,7 @@
     "path": "//wp-content/plugins/erinyani/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T10:29:07Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/x/",
@@ -17865,7 +17865,7 @@
     "path": "//wp-includes/js/jquery/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T10:29:08Z",
-    "hit_count": 75
+    "hit_count": 76
   },
   {
     "path": "//wp-includes/js/dist/",
@@ -17877,19 +17877,19 @@
     "path": "/wp-content/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T10:29:10Z",
-    "hit_count": 164
+    "hit_count": 165
   },
   {
     "path": "//wp-includes/css/dist/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T10:29:11Z",
-    "hit_count": 74
+    "hit_count": 75
   },
   {
     "path": "//wp-includes/l10n/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T10:29:11Z",
-    "hit_count": 72
+    "hit_count": 73
   },
   {
     "path": "/wp-includes/SimplePie/",
@@ -18027,7 +18027,7 @@
     "path": "/wp-includes/PHPMailer/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T13:04:26Z",
-    "hit_count": 144
+    "hit_count": 146
   },
   {
     "path": "/wp-includes/Requests/src/Cookie/",
@@ -18063,7 +18063,7 @@
     "path": "/wp-includes/ID3/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T13:04:26Z",
-    "hit_count": 121
+    "hit_count": 122
   },
   {
     "path": "/jquery-file-upload/server/php/index.php",
@@ -18129,31 +18129,31 @@
     "path": "/wp/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 100
+    "hit_count": 101
   },
   {
     "path": "/old/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 100
+    "hit_count": 101
   },
   {
     "path": "/new/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 97
+    "hit_count": 98
   },
   {
     "path": "/backup/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 100
+    "hit_count": 101
   },
   {
     "path": "/wordpress/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 102
+    "hit_count": 103
   },
   {
     "path": "/app/Services/StripeService.php",
@@ -18309,7 +18309,7 @@
     "path": "/wp-admin/css/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:05:24Z",
-    "hit_count": 178
+    "hit_count": 179
   },
   {
     "path": "/login.php",
@@ -19209,7 +19209,7 @@
     "path": "/secrets.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 69
+    "hit_count": 70
   },
   {
     "path": "/credentials.json",
@@ -19221,13 +19221,13 @@
     "path": "/config.yml",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 47
+    "hit_count": 48
   },
   {
     "path": "/config.yaml",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 35
+    "hit_count": 36
   },
   {
     "path": "/aws.config.json",
@@ -19239,7 +19239,7 @@
     "path": "/config/secrets.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:16Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/config/smtp",
@@ -19359,7 +19359,7 @@
     "path": "/env",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:10Z",
-    "hit_count": 83
+    "hit_count": 85
   },
   {
     "path": "/env.list",
@@ -19611,7 +19611,7 @@
     "path": "/storage/logs/laravel.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:17Z",
-    "hit_count": 59
+    "hit_count": 60
   },
   {
     "path": "/composer.lock",
@@ -19773,7 +19773,7 @@
     "path": "/.npmrc",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:20Z",
-    "hit_count": 52
+    "hit_count": 53
   },
   {
     "path": "/.nuxt/",
@@ -20181,13 +20181,13 @@
     "path": "/debug.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:30Z",
-    "hit_count": 24
+    "hit_count": 25
   },
   {
     "path": "/debug/default/view",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:30Z",
-    "hit_count": 73
+    "hit_count": 74
   },
   {
     "path": "/debug/default/view.html",
@@ -20235,7 +20235,7 @@
     "path": "/error.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:32Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/firebase.json",
@@ -20403,7 +20403,7 @@
     "path": "/logs/app.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:38Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/logs/error.log",
@@ -20541,7 +20541,7 @@
     "path": "/phpinfo.html",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:41Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/phpinfo.txt",
@@ -20841,7 +20841,7 @@
     "path": "/vercel.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:51Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/vite.config.ts",
@@ -21711,7 +21711,7 @@
     "path": "/vendor/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:45:02Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/tmp/",
@@ -21735,7 +21735,7 @@
     "path": "/.bash_history",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:45:02Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/.bashrc",
@@ -22737,13 +22737,13 @@
     "path": "/terraform/terraform.tfstate",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:53:58Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/.terraform/terraform.tfstate",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:53:58Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/terraform/aws.tf",
@@ -23013,7 +23013,7 @@
     "path": "/apikey.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:18Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/api-key.txt",
@@ -23271,7 +23271,7 @@
     "path": "/.well-known/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:23Z",
-    "hit_count": 150
+    "hit_count": 152
   },
   {
     "path": "/panel/",
@@ -23295,7 +23295,7 @@
     "path": "/app.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:23Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/var/log/",
@@ -23307,7 +23307,7 @@
     "path": "/application.log",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:23Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/access.log",
@@ -23343,7 +23343,7 @@
     "path": "/terraform.tfstate",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:23Z",
-    "hit_count": 38
+    "hit_count": 39
   },
   {
     "path": "/terraform.tfvars",
@@ -23463,7 +23463,7 @@
     "path": "/sftp-config.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:24Z",
-    "hit_count": 29
+    "hit_count": 30
   },
   {
     "path": "/ftp.txt",
@@ -26871,31 +26871,31 @@
     "path": "/wp-admin/images/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T22:36:55Z",
-    "hit_count": 164
+    "hit_count": 167
   },
   {
     "path": "/wp-includes/html-api/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T22:36:55Z",
-    "hit_count": 129
+    "hit_count": 132
   },
   {
     "path": "/wp-admin/css/colors/ectoplasm/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T22:36:55Z",
-    "hit_count": 169
+    "hit_count": 172
   },
   {
     "path": "/wp-includes/images/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T22:36:55Z",
-    "hit_count": 138
+    "hit_count": 139
   },
   {
     "path": "/wp-content/plugins/WordPressCore/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T22:36:55Z",
-    "hit_count": 96
+    "hit_count": 98
   },
   {
     "path": "/wp-content/plugins/hello-dolly/",
@@ -26913,19 +26913,19 @@
     "path": "/wp-content/cache/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T23:53:39Z",
-    "hit_count": 50
+    "hit_count": 51
   },
   {
     "path": "/wp-includes/rest-api/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T23:53:39Z",
-    "hit_count": 93
+    "hit_count": 96
   },
   {
     "path": "/wp-includes/fonts/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T23:53:39Z",
-    "hit_count": 90
+    "hit_count": 91
   },
   {
     "path": "/wp-includes/js/thickbox/",
@@ -26949,7 +26949,7 @@
     "path": "/wp-includes/css/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T23:53:39Z",
-    "hit_count": 57
+    "hit_count": 59
   },
   {
     "path": "/wp-content/languages/",
@@ -27495,7 +27495,7 @@
     "path": "/js.php",
     "category": "php-probes",
     "first_seen": "2026-03-06T06:03:46Z",
-    "hit_count": 36
+    "hit_count": 37
   },
   {
     "path": "/js1.php",
@@ -27591,7 +27591,7 @@
     "path": "/mah.php",
     "category": "php-probes",
     "first_seen": "2026-03-06T06:03:47Z",
-    "hit_count": 96
+    "hit_count": 98
   },
   {
     "path": "/lwbdene/index.php",
@@ -27789,7 +27789,7 @@
     "path": "/.vscode/sftp.json",
     "category": "unknown-path",
     "first_seen": "2026-03-06T11:08:59Z",
-    "hit_count": 92
+    "hit_count": 93
   },
   {
     "path": "/acfipnci.php",
@@ -27891,13 +27891,13 @@
     "path": "/media/system/js/core.js",
     "category": "unknown-path",
     "first_seen": "2026-03-06T16:11:00Z",
-    "hit_count": 42
+    "hit_count": 43
   },
   {
     "path": "/wp-includes/js/jquery/jquery.js",
     "category": "unknown-path",
     "first_seen": "2026-03-06T16:11:04Z",
-    "hit_count": 43
+    "hit_count": 44
   },
   {
     "path": "/dup-installer/main.installer.php",
@@ -28383,7 +28383,7 @@
     "path": "/wp-includes/customize/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-07T00:51:48Z",
-    "hit_count": 55
+    "hit_count": 57
   },
   {
     "path": "/plugins/function.php",
@@ -28593,7 +28593,7 @@
     "path": "/asd.php",
     "category": "php-probes",
     "first_seen": "2026-03-07T00:52:04Z",
-    "hit_count": 199
+    "hit_count": 201
   },
   {
     "path": "/55b76.php",
@@ -28803,7 +28803,7 @@
     "path": "/cgi-bin/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-07T00:52:10Z",
-    "hit_count": 75
+    "hit_count": 76
   },
   {
     "path": "/vynypyss.php",
@@ -29043,7 +29043,7 @@
     "path": "/wp-includes/pomo/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 44
+    "hit_count": 47
   },
   {
     "path": "/wp-includes/widgets/",
@@ -29055,13 +29055,13 @@
     "path": "/wp-includes/js/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 32
+    "hit_count": 33
   },
   {
     "path": "/wp-admin/network/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 39
+    "hit_count": 40
   },
   {
     "path": "/wp-admin/user/",
@@ -29115,7 +29115,7 @@
     "path": "/wp-includes/certificates/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 32
+    "hit_count": 34
   },
   {
     "path": "/wp-includes/SimplePie/Content/",
@@ -29127,7 +29127,7 @@
     "path": "/wp-includes/rest-api/fields/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 42
+    "hit_count": 44
   },
   {
     "path": "/wp-includes/Requests/Cookie/",
@@ -29157,7 +29157,7 @@
     "path": "/wp-includes/sitemaps/providers/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 14
+    "hit_count": 16
   },
   {
     "path": "/wp-content/plugins/ninja-forms/",
@@ -29205,7 +29205,7 @@
     "path": "/wp-admin/css/colors/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 27
+    "hit_count": 28
   },
   {
     "path": "/wp-includes/Text/Diff/",
@@ -29235,7 +29235,7 @@
     "path": "/wp-includes/block-supports/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 59
+    "hit_count": 62
   },
   {
     "path": "/wp-includes/js/codemirror/",
@@ -29301,7 +29301,7 @@
     "path": "/wp-includes/images/smilies/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 28
+    "hit_count": 29
   },
   {
     "path": "/Site/",
@@ -29313,7 +29313,7 @@
     "path": "/wp-includes/images/crystal/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 29
+    "hit_count": 31
   },
   {
     "path": "/wp-includes/rest-api/search/",
@@ -29343,7 +29343,7 @@
     "path": "/wp-includes/php-compat/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T05:35:26Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/wp-includes/Requests/Auth/",
@@ -29511,7 +29511,7 @@
     "path": "/wp-admin/css/colors/ocean/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T06:01:27Z",
-    "hit_count": 18
+    "hit_count": 20
   },
   {
     "path": "/.well-known",
@@ -29523,7 +29523,7 @@
     "path": "/wp-includes/block-bindings/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T06:01:27Z",
-    "hit_count": 43
+    "hit_count": 46
   },
   {
     "path": "/wp-includes/ID3",
@@ -29631,7 +29631,7 @@
     "path": "/size.php",
     "category": "php-probes",
     "first_seen": "2026-03-07T07:30:14Z",
-    "hit_count": 92
+    "hit_count": 94
   },
   {
     "path": "/yr.PHP",
@@ -30183,7 +30183,7 @@
     "path": "/wp-includes/blocks/about.php",
     "category": "php-probes",
     "first_seen": "2026-03-07T07:57:26Z",
-    "hit_count": 31
+    "hit_count": 33
   },
   {
     "path": "/wp-admin/css/about.php",
@@ -30195,7 +30195,7 @@
     "path": "/wp-admin/images/about.php",
     "category": "php-probes",
     "first_seen": "2026-03-07T07:57:26Z",
-    "hit_count": 37
+    "hit_count": 39
   },
   {
     "path": "/.well-known/pki-validation/cloud.php",
@@ -31893,7 +31893,7 @@
     "path": "/lol.php",
     "category": "php-probes",
     "first_seen": "2026-03-08T20:02:23Z",
-    "hit_count": 42
+    "hit_count": 45
   },
   {
     "path": "/hg.php",
@@ -32187,7 +32187,7 @@
     "path": "/wp-includes/style-engine/autoload_classmap.php",
     "category": "php-probes",
     "first_seen": "2026-03-08T21:10:53Z",
-    "hit_count": 72
+    "hit_count": 73
   },
   {
     "path": "/wp-includes/widgets/autoload_classmap.php",
@@ -32841,13 +32841,13 @@
     "path": "/wp-content/uploads/2024/",
     "category": "unknown-path",
     "first_seen": "2026-03-09T20:58:09Z",
-    "hit_count": 24
+    "hit_count": 26
   },
   {
     "path": "/wp-content/et-cache/",
     "category": "unknown-path",
     "first_seen": "2026-03-09T20:58:09Z",
-    "hit_count": 14
+    "hit_count": 16
   },
   {
     "path": "/wp-content/uploads/2023/",
@@ -32859,13 +32859,13 @@
     "path": "/administrator/manifests/files/joomla.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-09T21:18:53Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/magento_version",
     "category": "unknown-path",
     "first_seen": "2026-03-09T21:18:53Z",
-    "hit_count": 17
+    "hit_count": 18
   },
   {
     "path": "//wp-includes/ID3/license.txt",
@@ -32877,7 +32877,7 @@
     "path": "/banner.gif",
     "category": "unknown-path",
     "first_seen": "2026-03-10T01:07:48Z",
-    "hit_count": 14
+    "hit_count": 15
   },
   {
     "path": "/setup/",
@@ -32937,7 +32937,7 @@
     "path": "/actuator/env",
     "category": "unknown-path",
     "first_seen": "2026-03-10T06:53:05Z",
-    "hit_count": 101
+    "hit_count": 102
   },
   {
     "path": "/swagger-ui.html",
@@ -33021,7 +33021,7 @@
     "path": "/archive.php",
     "category": "php-probes",
     "first_seen": "2026-03-10T13:54:56Z",
-    "hit_count": 112
+    "hit_count": 113
   },
   {
     "path": "/wp-content/panel.php",
@@ -33213,7 +33213,7 @@
     "path": "/19.php",
     "category": "php-probes",
     "first_seen": "2026-03-11T04:52:21Z",
-    "hit_count": 105
+    "hit_count": 106
   },
   {
     "path": "/wgift1.php",
@@ -33339,7 +33339,7 @@
     "path": "/ws83.php",
     "category": "php-probes",
     "first_seen": "2026-03-11T08:35:30Z",
-    "hit_count": 188
+    "hit_count": 189
   },
   {
     "path": "/%E3%81%AE.php",
@@ -33579,7 +33579,7 @@
     "path": "/wp-includes/wp-class.php",
     "category": "php-probes",
     "first_seen": "2026-03-11T23:43:41Z",
-    "hit_count": 17
+    "hit_count": 19
   },
   {
     "path": "/js/fm.php",
@@ -36933,7 +36933,7 @@
     "path": "/wp-admin/css/colors/midnight/",
     "category": "unknown-path",
     "first_seen": "2026-03-13T14:12:33Z",
-    "hit_count": 41
+    "hit_count": 42
   },
   {
     "path": "/wp-includes/blocks/nextpage/index.php",
@@ -37125,7 +37125,7 @@
     "path": "/files/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-13T23:48:49Z",
-    "hit_count": 49
+    "hit_count": 50
   },
   {
     "path": "/css/item.php",
@@ -37713,7 +37713,7 @@
     "path": "/like.php",
     "category": "php-probes",
     "first_seen": "2026-03-15T00:05:04Z",
-    "hit_count": 35
+    "hit_count": 36
   },
   {
     "path": "/door.php",
@@ -38073,7 +38073,7 @@
     "path": "/wp-admin/css/colors/blue/admin.php",
     "category": "php-probes",
     "first_seen": "2026-03-16T05:26:06Z",
-    "hit_count": 20
+    "hit_count": 22
   },
   {
     "path": "/.well-known/acme-challenge/about.php",
@@ -38409,7 +38409,7 @@
     "path": "/100.php",
     "category": "php-probes",
     "first_seen": "2026-03-16T15:05:43Z",
-    "hit_count": 348
+    "hit_count": 349
   },
   {
     "path": "/randoms.php",
@@ -40863,7 +40863,7 @@
     "path": "/wp-admin/css/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-03-17T15:43:13Z",
-    "hit_count": 21
+    "hit_count": 23
   },
   {
     "path": "/images/autoload_classmap.php",
@@ -41157,7 +41157,7 @@
     "path": "/wp-content/uploads/goods.php",
     "category": "php-probes",
     "first_seen": "2026-03-17T15:43:15Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/wp-includes/assets/wp-includes/assets/script-loader-packages.php",
@@ -41775,19 +41775,19 @@
     "path": "/wp-includes/Requests/library/",
     "category": "unknown-path",
     "first_seen": "2026-03-17T23:36:55Z",
-    "hit_count": 11
+    "hit_count": 13
   },
   {
     "path": "/wp-includes/blocks/block/",
     "category": "unknown-path",
     "first_seen": "2026-03-17T23:36:55Z",
-    "hit_count": 20
+    "hit_count": 22
   },
   {
     "path": "/wp-admin/css/colors/modern/",
     "category": "unknown-path",
     "first_seen": "2026-03-17T23:36:55Z",
-    "hit_count": 45
+    "hit_count": 47
   },
   {
     "path": "/wp-login",
@@ -41913,7 +41913,7 @@
     "path": "/xper1.php",
     "category": "php-probes",
     "first_seen": "2026-03-18T04:42:42Z",
-    "hit_count": 84
+    "hit_count": 85
   },
   {
     "path": "/gelio1.php",
@@ -46107,7 +46107,7 @@
     "path": "/ggb.php",
     "category": "php-probes",
     "first_seen": "2026-03-18T21:24:21Z",
-    "hit_count": 85
+    "hit_count": 86
   },
   {
     "path": "/xff.php",
@@ -46257,7 +46257,7 @@
     "path": "/wp-includes/js/tinymce/plugins/compat3x/css/",
     "category": "unknown-path",
     "first_seen": "2026-03-19T18:55:31Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/phps.php",
@@ -46353,7 +46353,7 @@
     "path": "/wp-admin/css/colors/blue/",
     "category": "unknown-path",
     "first_seen": "2026-03-19T20:18:52Z",
-    "hit_count": 47
+    "hit_count": 49
   },
   {
     "path": "/r",
@@ -46617,7 +46617,7 @@
     "path": "/config",
     "category": "unknown-path",
     "first_seen": "2026-03-20T14:10:22Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/config.cfg",
@@ -48915,7 +48915,7 @@
     "path": "/xwpg.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:13Z",
-    "hit_count": 18
+    "hit_count": 19
   },
   {
     "path": "/tanjiro.php",
@@ -49197,7 +49197,7 @@
     "path": "/s1.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:15Z",
-    "hit_count": 18
+    "hit_count": 19
   },
   {
     "path": "/kdgok.php",
@@ -49497,7 +49497,7 @@
     "path": "/sec.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:17Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/doelr.php",
@@ -49851,7 +49851,7 @@
     "path": "/www.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:19Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/s12.php",
@@ -50115,7 +50115,7 @@
     "path": "/cc3.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:21Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/hsx.php",
@@ -50925,7 +50925,7 @@
     "path": "/wp-Blogs.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:27Z",
-    "hit_count": 154
+    "hit_count": 155
   },
   {
     "path": "/lock1.php",
@@ -51081,7 +51081,7 @@
     "path": "/atex1.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:28Z",
-    "hit_count": 25
+    "hit_count": 26
   },
   {
     "path": "/wp-64wscx6shd.php",
@@ -51303,7 +51303,7 @@
     "path": "/iov.php",
     "category": "php-probes",
     "first_seen": "2026-03-20T17:49:30Z",
-    "hit_count": 29
+    "hit_count": 30
   },
   {
     "path": "/lx.php",
@@ -51675,7 +51675,7 @@
     "path": "/log/error.log",
     "category": "unknown-path",
     "first_seen": "2026-03-20T23:26:46Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/js",
@@ -52245,7 +52245,7 @@
     "path": "/manage/env",
     "category": "unknown-path",
     "first_seen": "2026-03-21T00:31:54Z",
-    "hit_count": 19
+    "hit_count": 20
   },
   {
     "path": "//static.cloudflareinsights.com/beacon.min.js",
@@ -52401,7 +52401,7 @@
     "path": "/wp-includes/blocks/shortcode/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-21T11:57:15Z",
-    "hit_count": 30
+    "hit_count": 31
   },
   {
     "path": "/wp-includes/css/dist/widgets/about.php",
@@ -52467,7 +52467,7 @@
     "path": "/config.toml",
     "category": "unknown-path",
     "first_seen": "2026-03-21T14:03:59Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/.aws",
@@ -52689,7 +52689,7 @@
     "path": "/admin/controller/extension/",
     "category": "unknown-path",
     "first_seen": "2026-03-21T20:31:38Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/files/num.php",
@@ -62859,7 +62859,7 @@
     "path": "/backup/database.sql",
     "category": "backup-files",
     "first_seen": "2026-03-26T02:05:59Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/backup/users.sql",
@@ -63663,7 +63663,7 @@
     "path": "/wdone1.php",
     "category": "php-probes",
     "first_seen": "2026-03-26T19:27:04Z",
-    "hit_count": 38
+    "hit_count": 39
   },
   {
     "path": "/wp-content/uploads/2024/.env",
@@ -63969,7 +63969,7 @@
     "path": "/wp-includes/css/dist/widgets/",
     "category": "unknown-path",
     "first_seen": "2026-03-26T23:17:28Z",
-    "hit_count": 5
+    "hit_count": 7
   },
   {
     "path": "/wp-includes/css/dist/block-library/",
@@ -67737,7 +67737,7 @@
     "path": "/.zsh_history",
     "category": "unknown-path",
     "first_seen": "2026-03-28T11:20:56Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/169.254.169.254/latest/meta-data/",
@@ -70251,7 +70251,7 @@
     "path": "/cro.php",
     "category": "php-probes",
     "first_seen": "2026-03-28T20:45:23Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/export.php",
@@ -71613,7 +71613,7 @@
     "path": "/wp-temp.php",
     "category": "php-probes",
     "first_seen": "2026-03-30T19:48:54Z",
-    "hit_count": 88
+    "hit_count": 89
   },
   {
     "path": "/wp-asudo.php",
@@ -71739,13 +71739,13 @@
     "path": "/wp-includes/blocks/button/index.php",
     "category": "php-probes",
     "first_seen": "2026-03-31T05:22:38Z",
-    "hit_count": 6
+    "hit_count": 8
   },
   {
     "path": "/wp-content/atomlib.php",
     "category": "php-probes",
     "first_seen": "2026-03-31T05:22:38Z",
-    "hit_count": 4
+    "hit_count": 6
   },
   {
     "path": "/filter.php",
@@ -75477,7 +75477,7 @@
     "path": "/wmore1.php",
     "category": "php-probes",
     "first_seen": "2026-04-01T03:21:58Z",
-    "hit_count": 92
+    "hit_count": 93
   },
   {
     "path": "/ibcqocdtu3eovdx2hwj7Cdefault.php",
@@ -75567,13 +75567,13 @@
     "path": "/ortasekerli1.php",
     "category": "php-probes",
     "first_seen": "2026-04-01T03:21:59Z",
-    "hit_count": 118
+    "hit_count": 119
   },
   {
     "path": "/a7.php",
     "category": "php-probes",
     "first_seen": "2026-04-01T03:21:59Z",
-    "hit_count": 260
+    "hit_count": 262
   },
   {
     "path": "/index-20260330022921.php",
@@ -80613,7 +80613,7 @@
     "path": "/9.php",
     "category": "php-probes",
     "first_seen": "2026-04-01T23:46:42Z",
-    "hit_count": 75
+    "hit_count": 77
   },
   {
     "path": "/herp.php",
@@ -81903,7 +81903,7 @@
     "path": "/min.php",
     "category": "php-probes",
     "first_seen": "2026-04-01T23:48:37Z",
-    "hit_count": 32
+    "hit_count": 33
   },
   {
     "path": "/wp-backup-sql-302.php",
@@ -82461,7 +82461,7 @@
     "path": "/.well-known/acme-challenge/makeasmtp.php",
     "category": "php-probes",
     "first_seen": "2026-04-02T00:05:42Z",
-    "hit_count": 5
+    "hit_count": 7
   },
   {
     "path": "/wp-content/themes/404.php",
@@ -82785,7 +82785,7 @@
     "path": "/nano.php",
     "category": "php-probes",
     "first_seen": "2026-04-02T10:56:29Z",
-    "hit_count": 43
+    "hit_count": 44
   },
   {
     "path": "/f35_S.php",
@@ -83793,7 +83793,7 @@
     "path": "/HLA-dd.php",
     "category": "php-probes",
     "first_seen": "2026-04-03T19:14:02Z",
-    "hit_count": 43
+    "hit_count": 44
   },
   {
     "path": "/55l453.php",
@@ -84129,7 +84129,7 @@
     "path": "/bthil.php",
     "category": "php-probes",
     "first_seen": "2026-04-04T19:31:48Z",
-    "hit_count": 200
+    "hit_count": 202
   },
   {
     "path": "/zwq.php",
@@ -84171,7 +84171,7 @@
     "path": "/dx.php",
     "category": "php-probes",
     "first_seen": "2026-04-04T21:22:13Z",
-    "hit_count": 248
+    "hit_count": 249
   },
   {
     "path": "/prosell2.php",
@@ -85221,7 +85221,7 @@
     "path": "/wert.php",
     "category": "php-probes",
     "first_seen": "2026-04-06T16:53:21Z",
-    "hit_count": 44
+    "hit_count": 45
   },
   {
     "path": "/css/shlo.php",
@@ -85395,7 +85395,7 @@
     "path": "/turkshell.php",
     "category": "php-probes",
     "first_seen": "2026-04-06T21:54:06Z",
-    "hit_count": 34
+    "hit_count": 35
   },
   {
     "path": "/tea.php",
@@ -85905,7 +85905,7 @@
     "path": "/water.php",
     "category": "php-probes",
     "first_seen": "2026-04-08T07:36:11Z",
-    "hit_count": 29
+    "hit_count": 30
   },
   {
     "path": "/bbny.php",
@@ -86463,7 +86463,7 @@
     "path": "/zxcs.php",
     "category": "php-probes",
     "first_seen": "2026-04-09T00:16:17Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/ca-022.php",
@@ -86775,7 +86775,7 @@
     "path": "/popo.php",
     "category": "php-probes",
     "first_seen": "2026-04-09T09:35:34Z",
-    "hit_count": 59
+    "hit_count": 60
   },
   {
     "path": "/web/aws/credentials.php",
@@ -86811,7 +86811,7 @@
     "path": "/aboute.php",
     "category": "php-probes",
     "first_seen": "2026-04-09T13:12:11Z",
-    "hit_count": 73
+    "hit_count": 74
   },
   {
     "path": "/x9.php",
@@ -87183,7 +87183,7 @@
     "path": "/de.php",
     "category": "php-probes",
     "first_seen": "2026-04-10T04:20:14Z",
-    "hit_count": 33
+    "hit_count": 34
   },
   {
     "path": "/admin-filters.php",
@@ -87429,7 +87429,7 @@
     "path": "/fone1.php",
     "category": "php-probes",
     "first_seen": "2026-04-10T13:55:14Z",
-    "hit_count": 99
+    "hit_count": 101
   },
   {
     "path": "/xxiviLDIot.php",
@@ -87501,7 +87501,7 @@
     "path": "/3PJcpMFsD8B.php",
     "category": "php-probes",
     "first_seen": "2026-04-10T14:33:48Z",
-    "hit_count": 14
+    "hit_count": 15
   },
   {
     "path": "/wp-admin/shell.php",
@@ -88635,7 +88635,7 @@
     "path": "/flox.php",
     "category": "php-probes",
     "first_seen": "2026-04-10T20:28:58Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "//sl.php",
@@ -90411,7 +90411,7 @@
     "path": "/samll.php",
     "category": "php-probes",
     "first_seen": "2026-04-12T12:46:05Z",
-    "hit_count": 40
+    "hit_count": 41
   },
   {
     "path": "/aios-bootstrap.php",
@@ -91899,7 +91899,7 @@
     "path": "/wp-admin/css/colors/sunrise/",
     "category": "unknown-path",
     "first_seen": "2026-04-14T11:54:13Z",
-    "hit_count": 20
+    "hit_count": 22
   },
   {
     "path": "/wp-includes/ID3/wp-includes/IXR/",
@@ -94017,7 +94017,7 @@
     "path": "/.well-known/atproto-did",
     "category": "unknown-path",
     "first_seen": "2026-04-15T22:06:54Z",
-    "hit_count": 96
+    "hit_count": 97
   },
   {
     "path": "/web/app_dev.php/_profiler",
@@ -95553,7 +95553,7 @@
     "path": "/public/css.php",
     "category": "php-probes",
     "first_seen": "2026-04-16T21:07:06Z",
-    "hit_count": 25
+    "hit_count": 27
   },
   {
     "path": "/app/Secrets/AWSKeys.php",
@@ -96141,7 +96141,7 @@
     "path": "/vendor/phpunit/phpunit/phpunit.xsd",
     "category": "unknown-path",
     "first_seen": "2026-04-17T11:45:28Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/wp-kikikoko.php",
@@ -96195,7 +96195,7 @@
     "path": "/xmini.php",
     "category": "php-probes",
     "first_seen": "2026-04-17T12:16:59Z",
-    "hit_count": 15
+    "hit_count": 16
   },
   {
     "path": "/aws/aws_secret_config.php",
@@ -96297,7 +96297,7 @@
     "path": "/wp-post-data.php",
     "category": "php-probes",
     "first_seen": "2026-04-17T19:08:46Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/class-wp-recovery-mode-key-service-add.php",
@@ -96381,7 +96381,7 @@
     "path": "/xmu.php",
     "category": "php-probes",
     "first_seen": "2026-04-18T01:30:22Z",
-    "hit_count": 52
+    "hit_count": 53
   },
   {
     "path": "/img/67e4b9b336eb8c3916fe2c07",
@@ -98241,13 +98241,13 @@
     "path": "/xxa.php",
     "category": "php-probes",
     "first_seen": "2026-04-21T12:21:58Z",
-    "hit_count": 31
+    "hit_count": 32
   },
   {
     "path": "/.well-known/tdmrep.json",
     "category": "unknown-path",
     "first_seen": "2026-04-22T06:37:25Z",
-    "hit_count": 9
+    "hit_count": 11
   },
   {
     "path": "/ax.php",
@@ -98331,13 +98331,13 @@
     "path": "/zoko.php",
     "category": "php-probes",
     "first_seen": "2026-04-23T11:09:06Z",
-    "hit_count": 19
+    "hit_count": 20
   },
   {
     "path": "/solo1.php",
     "category": "php-probes",
     "first_seen": "2026-04-23T11:09:06Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/locales.php",
@@ -98379,7 +98379,7 @@
     "path": "/drykl.php",
     "category": "php-probes",
     "first_seen": "2026-04-23T11:09:28Z",
-    "hit_count": 31
+    "hit_count": 32
   },
   {
     "path": "/plupload/examples/upload.php",
@@ -98715,7 +98715,7 @@
     "path": "/crgio.php",
     "category": "php-probes",
     "first_seen": "2026-04-24T07:47:30Z",
-    "hit_count": 40
+    "hit_count": 41
   },
   {
     "path": "//x7root.php",
@@ -99699,7 +99699,7 @@
     "path": "/academy.php",
     "category": "php-probes",
     "first_seen": "2026-04-26T14:03:49Z",
-    "hit_count": 14
+    "hit_count": 15
   },
   {
     "path": "/ouh.php",
@@ -99819,7 +99819,7 @@
     "path": "/actuator/configprops",
     "category": "unknown-path",
     "first_seen": "2026-04-26T22:39:43Z",
-    "hit_count": 31
+    "hit_count": 32
   },
   {
     "path": "/%74%65%73%74.%70%68%70",
@@ -100053,7 +100053,7 @@
     "path": "/white.php",
     "category": "php-probes",
     "first_seen": "2026-04-27T10:31:50Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/link-template-git.php",
@@ -100437,7 +100437,7 @@
     "path": "/bob.php",
     "category": "php-probes",
     "first_seen": "2026-04-30T02:44:05Z",
-    "hit_count": 32
+    "hit_count": 33
   },
   {
     "path": "/spawns.php",
@@ -100653,7 +100653,7 @@
     "path": "/olik.php",
     "category": "php-probes",
     "first_seen": "2026-05-01T04:49:18Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/rasse.php",
@@ -111153,7 +111153,7 @@
     "path": "/.vercel/output/config.json",
     "category": "unknown-path",
     "first_seen": "2026-05-02T19:44:06Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/.vercel/output/functions/",
@@ -116697,7 +116697,7 @@
     "path": "/aaa.php/getid3-core.php",
     "category": "php-probes",
     "first_seen": "2026-05-05T08:33:40Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/build/manifest.json",
@@ -116853,7 +116853,7 @@
     "path": "/phpi.php",
     "category": "php-probes",
     "first_seen": "2026-05-07T12:14:29Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/phpinformation.php",
@@ -117579,7 +117579,7 @@
     "path": "/op.php",
     "category": "php-probes",
     "first_seen": "2026-05-11T09:38:37Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/backup.wp-config.php",
@@ -118161,7 +118161,7 @@
     "path": "/insc.php",
     "category": "php-probes",
     "first_seen": "2026-05-12T01:56:15Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/wp-content/themes/txets.php",
@@ -127551,7 +127551,7 @@
     "path": "/wp-test.php",
     "category": "php-probes",
     "first_seen": "2026-05-14T11:17:36Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/wp-indx.php",
@@ -128091,73 +128091,73 @@
     "path": "/ws54.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:35Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/96i.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:36Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/wp-content/themes/pridmag/il.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:36Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/wap.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:36Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/wp-admin/wp.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:36Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/w1.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:37Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/cv.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:38Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/sagax1.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:38Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/ncx.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:38Z",
-    "hit_count": 23
+    "hit_count": 24
   },
   {
     "path": "/zup.php73",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:38Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/wp-blink.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:39Z",
-    "hit_count": 37
+    "hit_count": 39
   },
   {
     "path": "/ww5.php",
     "category": "php-probes",
     "first_seen": "2026-05-15T05:41:39Z",
-    "hit_count": 25
+    "hit_count": 26
   },
   {
     "path": "/google-service-account.json",
@@ -130695,7 +130695,7 @@
     "path": "/logs/laravel.log",
     "category": "unknown-path",
     "first_seen": "2026-05-18T03:17:42Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/api/secrets/.env",
@@ -132111,7 +132111,7 @@
     "path": "/ops.php",
     "category": "php-probes",
     "first_seen": "2026-05-18T12:11:03Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/6ph78840.php",
@@ -132123,13 +132123,13 @@
     "path": "/zxz.php",
     "category": "php-probes",
     "first_seen": "2026-05-18T12:11:04Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/ingfo.php",
     "category": "php-probes",
     "first_seen": "2026-05-18T12:11:04Z",
-    "hit_count": 19
+    "hit_count": 20
   },
   {
     "path": "/alfs.php",
@@ -132207,7 +132207,7 @@
     "path": "/0d.php",
     "category": "php-probes",
     "first_seen": "2026-05-18T12:11:08Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/UsbXax.php",
@@ -132777,7 +132777,7 @@
     "path": "/201.php",
     "category": "php-probes",
     "first_seen": "2026-05-23T06:21:02Z",
-    "hit_count": 16
+    "hit_count": 17
   },
   {
     "path": "//abcd.php",
@@ -132819,13 +132819,13 @@
     "path": "//wp-includes/assets/",
     "category": "unknown-path",
     "first_seen": "2026-05-23T06:21:36Z",
-    "hit_count": 22
+    "hit_count": 23
   },
   {
     "path": "/jj.php",
     "category": "php-probes",
     "first_seen": "2026-05-23T06:21:36Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/cgf.php",
@@ -132849,7 +132849,7 @@
     "path": "/sid4.php",
     "category": "php-probes",
     "first_seen": "2026-05-23T06:21:37Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/askg.php",
@@ -133971,7 +133971,7 @@
     "path": "/mg.php",
     "category": "php-probes",
     "first_seen": "2026-05-28T15:27:06Z",
-    "hit_count": 8
+    "hit_count": 9
   },
   {
     "path": "/ayzv4.php",
@@ -134715,7 +134715,7 @@
     "path": "/this_is_a_new_hello_world.php",
     "category": "php-probes",
     "first_seen": "2026-06-01T20:44:08Z",
-    "hit_count": 57
+    "hit_count": 58
   },
   {
     "path": "/.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0",
@@ -135345,7 +135345,7 @@
     "path": "/docker-compose.production.yml",
     "category": "devops-exposure",
     "first_seen": "2026-06-12T03:54:38Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/docker-compose.prod.yaml",
@@ -135879,7 +135879,7 @@
     "path": "/app/secrets.json",
     "category": "unknown-path",
     "first_seen": "2026-06-12T03:54:38Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/server/actuator/env",
@@ -136029,7 +136029,7 @@
     "path": "/app/config.yml",
     "category": "unknown-path",
     "first_seen": "2026-06-12T03:54:38Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/log/debug.log",
@@ -138201,7 +138201,7 @@
     "path": "/sixxis.php",
     "category": "php-probes",
     "first_seen": "2026-06-16T13:39:10Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/s2.php",
@@ -138225,7 +138225,7 @@
     "path": "/122.php",
     "category": "php-probes",
     "first_seen": "2026-06-16T13:39:11Z",
-    "hit_count": 18
+    "hit_count": 19
   },
   {
     "path": "/dvjul.php",
@@ -138765,7 +138765,7 @@
     "path": "/wicked.php",
     "category": "php-probes",
     "first_seen": "2026-06-20T08:30:29Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/zr-257.php",
@@ -138909,7 +138909,7 @@
     "path": "/nwflm.php",
     "category": "php-probes",
     "first_seen": "2026-06-22T00:23:19Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wp-manager2.php",
@@ -140055,7 +140055,7 @@
     "path": "/xyn.php",
     "category": "php-probes",
     "first_seen": "2026-06-28T11:01:54Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/green3.php",
@@ -142455,91 +142455,91 @@
     "path": "/hp,php",
     "category": "unknown-path",
     "first_seen": "2026-06-30T23:45:53Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/wp-content/uploads/2021/02/index.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:45:57Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/op.php.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:45:58Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/zc-208.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:45:59Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/1996.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:00Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/2000.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:01Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/llyuxaqd.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:02Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/wp-care.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:02Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/wp-pass.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:03Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/wp-file-120.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:04Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/g30DRm.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:06Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/yuuds.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:07Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/ano.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:07Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/btex.php",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:07Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/BDKR28.PHP",
     "category": "php-probes",
     "first_seen": "2026-06-30T23:46:07Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/voldemort_lock.php",
@@ -142659,6 +142659,198 @@
     "path": "/ayuvbvh.php",
     "category": "php-probes",
     "first_seen": "2026-07-01T19:31:00Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//wp-admin/js/widget/",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T03:01:37Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//uploads/fungsi.php",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:37Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//uploads/function.php",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:38Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//wso112233a.php",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:38Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//wp-includes/js/wp-emoji-release.min.js",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T03:01:38Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//firewall.php7",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:39Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//ip.php",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:39Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//worksec.php",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:39Z",
+    "hit_count": 1
+  },
+  {
+    "path": "//arig.php",
+    "category": "php-probes",
+    "first_seen": "2026-07-02T03:01:40Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/app/config.yaml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:28Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/app/config.toml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:28Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/config/config.yaml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:28Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/config/config.toml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:28Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/src/config.yaml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:28Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.config/app.yaml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:28Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/app/logs/error.log",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/tmp/laravel.log",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.python_history",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.node_repl_history",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.irb_history",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.pry_history",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/secrets/secrets.json",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:29Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.secrets.json",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.sh_history",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.fish_history",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/sql/database.sql",
+    "category": "backup-files",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/.streamlit/secrets.toml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/app/.streamlit/secrets.toml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/src/.streamlit/secrets.toml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/infra/terraform.tfstate",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/infrastructure/terraform.tfstate",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/deploy/terraform.tfstate",
+    "category": "unknown-path",
+    "first_seen": "2026-07-02T04:40:30Z",
     "hit_count": 1
   }
 ]

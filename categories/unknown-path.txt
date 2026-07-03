@@ -2081,6 +2081,7 @@
 /.composer/auth.json
 /.config.js
 /.config.yaml
+/.config/app.yaml
 /.config/config.json
 /.config/env/production.js
 /.config/gcloud/access_tokens.db
@@ -2145,6 +2146,7 @@
 /.eslintrc
 /.firebase/hosting.json
 /.firebaserc
+/.fish_history
 /.flaskenv
 /.ftp-config.json
 /.ftp-sync.json
@@ -2196,6 +2198,7 @@
 /.idea/dataSources.xml
 /.idea/deployment.xml
 /.idea/workspace.xml
+/.irb_history
 /.jenv-version
 /.linode-cli
 /.local
@@ -2213,6 +2216,7 @@
 /.next/server/
 /.next/server/app/
 /.next/server/pages/
+/.node_repl_history
 /.npmrc
 /.nuxt/
 /.nvmrc
@@ -2232,9 +2236,11 @@
 /.powenv
 /.production
 /.project
+/.pry_history
 /.psql_history
 /.pypirc
 /.python-version
+/.python_history
 /.rbenv-gemsets
 /.rbenv-vars
 /.rbenv-version
@@ -2248,6 +2254,7 @@
 /.s3cfg~
 /.s3credentials
 /.secrets
+/.secrets.json
 /.semaphore/secrets.yml
 /.sendgrid
 /.sendgrid/config
@@ -2261,6 +2268,7 @@
 /.settings.json
 /.settings/
 /.sftp-config.json
+/.sh_history
 /.smtp-credentials
 /.smtp.json
 /.sparkpost
@@ -2273,6 +2281,7 @@
 /.ssh/id_rsa.pub
 /.ssh/known_hosts
 /.ssh/sftp-config.json
+/.streamlit/secrets.toml
 /.stripe/
 /.terraform.lock.hcl
 /.terraform.tfstate
@@ -2420,6 +2429,7 @@
 //website/wp-includes/wlwmanifest.xml
 //wordpress/
 //wordpress/wp-includes/wlwmanifest.xml
+//wp-admin/js/widget/
 //wp-content/plugins/erinyani/
 //wp-content/plugins/wp-file-manager/admin/
 //wp-includes/ID3/license.txt
@@ -2431,6 +2441,7 @@
 //wp-includes/js/dist/
 //wp-includes/js/jquery/
 //wp-includes/js/tinymce/themes/inlite/
+//wp-includes/js/wp-emoji-release.min.js
 //wp-includes/l10n/
 //wp-includes/sitemaps/
 //wp-includes/wlwmanifest.xml
@@ -3232,6 +3243,7 @@
 /app/.environment
 /app/.gitconfig
 /app/.gitignore
+/app/.streamlit/secrets.toml
 /app/.terraform/terraform.tfstate
 /app/@slot/
 /app/@slot/default
@@ -3267,6 +3279,8 @@
 /app/checkout/stripe.js
 /app/config.js
 /app/config.json
+/app/config.toml
+/app/config.yaml
 /app/config.yml
 /app/config/%2eenv
 /app/config/.gitignore
@@ -3300,6 +3314,7 @@
 /app/loading
 /app/login
 /app/logs/dev.log
+/app/logs/error.log
 /app/logs/prod.log
 /app/middleware
 /app/netlify%252etoml
@@ -4211,6 +4226,8 @@
 /config/config.env
 /config/config.js
 /config/config.json
+/config/config.toml
+/config/config.yaml
 /config/config.yml
 /config/constant.js
 /config/constants.js
@@ -4680,6 +4697,7 @@
 /deploy/credentials.json
 /deploy/secrets.json
 /deploy/service-account.json
+/deploy/terraform.tfstate
 /deploy/terraform.tfvars
 /deployment-config.json
 /deployment.yaml
@@ -5528,7 +5546,9 @@
 /infophp%2ephp
 /infra/aws.tf
 /infra/ses.tf
+/infra/terraform.tfstate
 /infra/terraform.tfvars
+/infrastructure/terraform.tfstate
 /ini.zip
 /init.sh
 /inngest
@@ -7051,6 +7071,7 @@
 /secrets/master.key
 /secrets/postmark.json
 /secrets/secret.key
+/secrets/secrets.json
 /secrets/sendgrid.json
 /secrets/sendgrid_config
 /secrets/sendgrid_keys
@@ -7517,6 +7538,7 @@
 /src/
 /src/%2eenv
 /src/.gitignore
+/src/.streamlit/secrets.toml
 /src/FileUpload.js
 /src/access.log
 /src/api/config.js
@@ -7529,6 +7551,7 @@
 /src/config.js
 /src/config.json
 /src/config.ts
+/src/config.yaml
 /src/config.yml
 /src/config/common.js
 /src/config/config.json
@@ -8068,6 +8091,7 @@
 /tmp/config.yaml
 /tmp/config.yml
 /tmp/error.log
+/tmp/laravel.log
 /tmp/logs
 /tmp/phpinfo%2ephp
 /tmp/sessions/

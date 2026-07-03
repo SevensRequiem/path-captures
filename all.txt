@@ -2472,6 +2472,7 @@
 /.config.js
 /.config.yaml
 /.config/.env
+/.config/app.yaml
 /.config/config.json
 /.config/env/production.js
 /.config/gcloud/access_tokens.db
@@ -2746,6 +2747,7 @@
 /.eslintrc
 /.firebase/hosting.json
 /.firebaserc
+/.fish_history
 /.fk.php
 /.flaskenv
 /.ftp-config.json
@@ -2872,6 +2874,7 @@
 /.idea/deployment.xml
 /.idea/workspace.xml
 /.info.php
+/.irb_history
 /.jenv-version
 /.kube/config
 /.kube/credentials
@@ -2895,6 +2898,7 @@
 /.next/server/
 /.next/server/app/
 /.next/server/pages/
+/.node_repl_history
 /.npmrc
 /.nuxt/
 /.nvmrc
@@ -2920,9 +2924,11 @@
 /.powenv
 /.production
 /.project
+/.pry_history
 /.psql_history
 /.pypirc
 /.python-version
+/.python_history
 /.qiodeme.php
 /.qiodetme.php
 /.qiofetme.php
@@ -2944,6 +2950,7 @@
 /.satykct.Php
 /.save
 /.secrets
+/.secrets.json
 /.semaphore/secrets.yml
 /.sendgrid
 /.sendgrid/config
@@ -2958,6 +2965,7 @@
 /.settings/
 /.sftp-config.json
 /.sghb.php
+/.sh_history
 /.smtp-credentials
 /.smtp.json
 /.sparkpost
@@ -2971,6 +2979,7 @@
 /.ssh/known_hosts
 /.ssh/sftp-config.json
 /.strapi/.env
+/.streamlit/secrets.toml
 /.stripe.bak
 /.stripe/
 /.svn
@@ -3467,6 +3476,7 @@
 //app.php
 //application.php
 //arab.php
+//arig.php
 //assets.php
 //assets/css/index.php
 //assets/images/accesson.php
@@ -3608,6 +3618,7 @@
 //file6.php
 //file61.php
 //filemanger2.php
+//firewall.php7
 //flox.php
 //fm.php
 //fone1.php
@@ -3705,6 +3716,7 @@
 //injection.php
 //inputs.php
 //install.php
+//ip.php
 //iranshell.php
 //isp.php
 //iya.php
@@ -3940,6 +3952,8 @@
 //uploader.php
 //uploads
 //uploads.php
+//uploads/function.php
+//uploads/fungsi.php
 //uploadshell.php
 //user.php
 //v.php
@@ -3968,6 +3982,7 @@
 //wordpress/fw.php
 //wordpress/wp-admin/install.php
 //wordpress/wp-includes/wlwmanifest.xml
+//worksec.php
 //wos.php
 //wp-2019.php
 //wp-activate.php
@@ -3976,6 +3991,7 @@
 //wp-admin/images/wp-conflg.php
 //wp-admin/install.php
 //wp-admin/js/index.php
+//wp-admin/js/widget/
 //wp-admin/js/widgets/index.php
 //wp-admin/maint/index.php
 //wp-admin/user/index.php
@@ -4023,6 +4039,7 @@
 //wp-includes/js/jcrop/Jcrop.php
 //wp-includes/js/jquery/
 //wp-includes/js/tinymce/themes/inlite/
+//wp-includes/js/wp-emoji-release.min.js
 //wp-includes/l10n/
 //wp-includes/sitemaps/
 //wp-includes/wlwmanifest.xml
@@ -4043,6 +4060,7 @@
 //wso-2.5.php
 //wso.php
 //wso1.php
+//wso112233a.php
 //x.php
 //x7root.php
 //xfile25.php
@@ -6237,6 +6255,7 @@
 /app/.git/config
 /app/.gitconfig
 /app/.gitignore
+/app/.streamlit/secrets.toml
 /app/.terraform/terraform.tfstate
 /app//.env.back
 /app/@slot/
@@ -6340,6 +6359,8 @@
 /app/config.js
 /app/config.json
 /app/config.php
+/app/config.toml
+/app/config.yaml
 /app/config.yml
 /app/config/%2eenv
 /app/config/.env
@@ -6416,6 +6437,7 @@
 /app/loading
 /app/login
 /app/logs/dev.log
+/app/logs/error.log
 /app/logs/prod.log
 /app/middleware
 /app/netlify%252etoml
@@ -8754,6 +8776,8 @@
 /config/config.php
 /config/config.php.bak
 /config/config.php~
+/config/config.toml
+/config/config.yaml
 /config/config.yml
 /config/config_global.php.bak
 /config/config_ucenter.php.bak
@@ -10096,6 +10120,7 @@
 /deploy/service-account.json
 /deploy/service/info.php
 /deploy/services/info.php
+/deploy/terraform.tfstate
 /deploy/terraform.tfvars
 /deploy/test.php
 /deploy/time.php
@@ -12525,9 +12550,11 @@
 /infra/aws.tf
 /infra/docker-compose.yml
 /infra/ses.tf
+/infra/terraform.tfstate
 /infra/terraform.tfvars
 /infrastructure/.env
 /infrastructure/docker-compose.yml
+/infrastructure/terraform.tfstate
 /ingfo.php
 /inghl.php
 /ini.php
@@ -16495,6 +16522,7 @@
 /secrets/master.key
 /secrets/postmark.json
 /secrets/secret.key
+/secrets/secrets.json
 /secrets/sendgrid.json
 /secrets/sendgrid_config
 /secrets/sendgrid_keys
@@ -17402,6 +17430,7 @@
 /sql/%2eenv
 /sql/.env
 /sql/backup.sql
+/sql/database.sql
 /sql/db.sql
 /sql/dump.sql
 /sql1.sql
@@ -17447,6 +17476,7 @@
 /src/.git/config
 /src/.git/logs/HEAD
 /src/.gitignore
+/src/.streamlit/secrets.toml
 /src/Exception/Http/about.php
 /src/FileUpload.js
 /src/Mail/Mailer.php
@@ -17483,6 +17513,7 @@
 /src/config.php
 /src/config.php.bak
 /src/config.ts
+/src/config.yaml
 /src/config.yml
 /src/config/.env
 /src/config/aws.php
@@ -18681,6 +18712,7 @@
 /tmp/env.save
 /tmp/error.log
 /tmp/execute.php
+/tmp/laravel.log
 /tmp/logs
 /tmp/phpinfo%2ephp
 /tmp/phpinfo.php
