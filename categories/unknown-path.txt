@@ -5047,6 +5047,7 @@
 /favicon.ico
 /favicon.png
 /fb
+/fbi
 /fcgi/php-cgi.exe
 /fckeditor/fckeditor.js
 /feature.zip
@@ -5572,6 +5573,7 @@
 /info
 /info%252ephp
 /info%2ephp
+/info.html
 /info.log
 /info.php_
 /info.txt
@@ -6106,6 +6108,7 @@
 /media/*
 /media/editors/jce/js/editor.min.js
 /media/jui/js/bootstrap.min.js
+/media/jui/js/jquery.min.js
 /media/system/js/core.js
 /media/vendor/jquery/js/jquery.min.js
 /mega.zip
@@ -6513,7 +6516,9 @@
 /php5.ini
 /phpMyAdmin/
 /php_error.log
+/php_info
 /php_info%2ephp
+/php_info.html
 /phpinfo
 /phpinfo%252ephp
 /phpinfo%2ephp
@@ -9088,6 +9093,7 @@
 /wp-includes/block-supports/
 /wp-includes/blocks/
 /wp-includes/blocks/archives/
+/wp-includes/blocks/audi/
 /wp-includes/blocks/audio/
 /wp-includes/blocks/block/
 /wp-includes/blocks/button
