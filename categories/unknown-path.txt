@@ -2515,6 +2515,7 @@
 /:6379
 /:8983
 /@fs/etc/passwd
+/@vite-hmr
 /@vite/client
 /@vite/env
 /ALFA_DATA
@@ -2692,6 +2693,7 @@
 /__test%2ephp
 /__test__
 /__tests__
+/__vite_ping
 /__webpack-dev-server
 /__webpack_dev_server__
 /__webpack_dev_server__/sockjs.bundle.js
@@ -6257,6 +6259,7 @@
 /node_modules.tar.gz
 /node_modules.zip
 /node_modules/
+/node_modules/.vite/deps
 /nodejs.zip
 /nonexistent_path_1773942172
 /notifications.zip
@@ -8738,6 +8741,7 @@
 /wp-backup.tar
 /wp-backup.tar.gz
 /wp-backup.zip
+/wp-block
 /wp-complete.tar
 /wp-complete.tar.gz
 /wp-complete.zip
