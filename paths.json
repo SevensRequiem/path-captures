@@ -141,7 +141,7 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 12764
+    "hit_count": 12769
   },
   {
     "path": "/abc.php",
@@ -3855,7 +3855,7 @@
     "path": "/.git/config",
     "category": "env-config",
     "first_seen": "2026-02-28T18:43:55Z",
-    "hit_count": 2382
+    "hit_count": 2384
   },
   {
     "path": "/www.sql",
@@ -9465,7 +9465,7 @@
     "path": "/api/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:14Z",
-    "hit_count": 68
+    "hit_count": 69
   },
   {
     "path": "/vendor/drupal/coder/.git/info/refs",
@@ -9549,7 +9549,7 @@
     "path": "/wp-content/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:17Z",
-    "hit_count": 63
+    "hit_count": 64
   },
   {
     "path": "/blog/wp-content/themes/.git/config",
@@ -10155,7 +10155,7 @@
     "path": "/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:29Z",
-    "hit_count": 634
+    "hit_count": 635
   },
   {
     "path": "/.svn/entries",
@@ -11793,7 +11793,7 @@
     "path": "/admin/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-01T22:39:30Z",
-    "hit_count": 29
+    "hit_count": 30
   },
   {
     "path": "/xxx.php",
@@ -13413,7 +13413,7 @@
     "path": "/app/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-02T17:05:33Z",
-    "hit_count": 126
+    "hit_count": 127
   },
   {
     "path": "/$(pwd)/.git/config",
@@ -16863,13 +16863,13 @@
     "path": "/administrator/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:26Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/frontend/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:26Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/cms/.git/config",
@@ -16911,7 +16911,7 @@
     "path": "/blog/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:26Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/prod/.git/config",
@@ -16929,31 +16929,31 @@
     "path": "/wordpress/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 12
+    "hit_count": 13
   },
   {
     "path": "/public/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 29
+    "hit_count": 30
   },
   {
     "path": "/backend/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 14
+    "hit_count": 15
   },
   {
     "path": "/build/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/src/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/backup/.git/config",
@@ -16965,7 +16965,7 @@
     "path": "/www/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/dev/.git/config",
@@ -16983,7 +16983,7 @@
     "path": "/dist/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/logs/.git/config",
@@ -17001,7 +17001,7 @@
     "path": "/wp-admin/.git/config",
     "category": "env-config",
     "first_seen": "2026-03-04T19:36:27Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/tmp/.git/config",
@@ -17541,7 +17541,7 @@
     "path": "/wp-admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 585
+    "hit_count": 590
   },
   {
     "path": "/wp-content/uploads/",
@@ -18075,7 +18075,7 @@
     "path": "/home",
     "category": "unknown-path",
     "first_seen": "2026-03-05T13:42:06Z",
-    "hit_count": 141
+    "hit_count": 142
   },
   {
     "path": "/_ignition/execute-solution",
@@ -18129,31 +18129,31 @@
     "path": "/wp/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 107
+    "hit_count": 108
   },
   {
     "path": "/old/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 107
+    "hit_count": 108
   },
   {
     "path": "/new/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 103
+    "hit_count": 104
   },
   {
     "path": "/backup/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 107
+    "hit_count": 108
   },
   {
     "path": "/wordpress/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 109
+    "hit_count": 110
   },
   {
     "path": "/app/Services/StripeService.php",
@@ -19191,7 +19191,7 @@
     "path": "/config.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 137
+    "hit_count": 138
   },
   {
     "path": "/secure/.env",
@@ -19209,7 +19209,7 @@
     "path": "/secrets.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T18:45:15Z",
-    "hit_count": 71
+    "hit_count": 72
   },
   {
     "path": "/credentials.json",
@@ -19959,7 +19959,7 @@
     "path": "/administrator/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:22Z",
-    "hit_count": 37
+    "hit_count": 38
   },
   {
     "path": "/app-7d66de919618d3830635.js",
@@ -21453,7 +21453,7 @@
     "path": "/appsettings.json",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:59Z",
-    "hit_count": 85
+    "hit_count": 86
   },
   {
     "path": "/connectionstrings.json",
@@ -27891,13 +27891,13 @@
     "path": "/media/system/js/core.js",
     "category": "unknown-path",
     "first_seen": "2026-03-06T16:11:00Z",
-    "hit_count": 58
+    "hit_count": 59
   },
   {
     "path": "/wp-includes/js/jquery/jquery.js",
     "category": "unknown-path",
     "first_seen": "2026-03-06T16:11:04Z",
-    "hit_count": 49
+    "hit_count": 50
   },
   {
     "path": "/dup-installer/main.installer.php",
@@ -32859,7 +32859,7 @@
     "path": "/administrator/manifests/files/joomla.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-09T21:18:53Z",
-    "hit_count": 17
+    "hit_count": 18
   },
   {
     "path": "/magento_version",
@@ -32937,7 +32937,7 @@
     "path": "/actuator/env",
     "category": "unknown-path",
     "first_seen": "2026-03-10T06:53:05Z",
-    "hit_count": 103
+    "hit_count": 104
   },
   {
     "path": "/swagger-ui.html",
@@ -54207,7 +54207,7 @@
     "path": "/src/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-23T11:05:41Z",
-    "hit_count": 18
+    "hit_count": 19
   },
   {
     "path": "/src/.git/logs/HEAD",
@@ -62127,7 +62127,7 @@
     "path": "/public/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-23T19:08:39Z",
-    "hit_count": 14
+    "hit_count": 15
   },
   {
     "path": "/html/.git/HEAD",
@@ -62145,7 +62145,7 @@
     "path": "/app/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-23T19:08:40Z",
-    "hit_count": 14
+    "hit_count": 15
   },
   {
     "path": "/wp-content/.git/HEAD",
@@ -64143,7 +64143,7 @@
     "path": "/alfacgiapi/perl.alfa",
     "category": "unknown-path",
     "first_seen": "2026-03-27T08:31:06Z",
-    "hit_count": 3
+    "hit_count": 5
   },
   {
     "path": "/alfacgiapi/",
@@ -84267,19 +84267,19 @@
     "path": "/packages/.git/config",
     "category": "env-config",
     "first_seen": "2026-04-05T04:04:47Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/microservices/.git/config",
     "category": "env-config",
     "first_seen": "2026-04-05T04:04:47Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "/libs/.git/config",
     "category": "env-config",
     "first_seen": "2026-04-05T04:04:47Z",
-    "hit_count": 1
+    "hit_count": 2
   },
   {
     "path": "//feed/",
@@ -90579,7 +90579,7 @@
     "path": "/img/683c730b3f039181a43fb03f",
     "category": "unknown-path",
     "first_seen": "2026-04-12T18:11:12Z",
-    "hit_count": 5
+    "hit_count": 6
   },
   {
     "path": "/ssh3ll.php",
@@ -91011,7 +91011,7 @@
     "path": "/ALFA_DATA/alfacgiapi/perl.alfa",
     "category": "unknown-path",
     "first_seen": "2026-04-13T11:00:35Z",
-    "hit_count": 10
+    "hit_count": 12
   },
   {
     "path": "/tmp_images/alfacgiapi/perl.alfa",
@@ -94017,7 +94017,7 @@
     "path": "/.well-known/atproto-did",
     "category": "unknown-path",
     "first_seen": "2026-04-15T22:06:54Z",
-    "hit_count": 103
+    "hit_count": 104
   },
   {
     "path": "/web/app_dev.php/_profiler",
@@ -143547,6 +143547,108 @@
     "path": "/modules/mod_impact/elements/upload_file.php",
     "category": "php-probes",
     "first_seen": "2026-07-11T05:16:12Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/][file:./src/gifs/banners/requim.moe.gif]]",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T04:29:46Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/alfacgiapi/bash.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:19Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/alfacgiapi/py.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:19Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ALFA_DATA/alfacgiapi/bash.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:19Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ALFA_DATA/alfacgiapi/py.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/jancox/alfacgiapi/bash.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ERENUSE/Erencgiapi/bash.Eren",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ERENUSE/Erencgiapi/perl.Eren",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/jancox/alfacgiapi/perl.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/jancox/alfacgiapi/py.alfa",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ERENUSE/Erencgiapi/py.Eren",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ERENUSE/bash.Eren",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ERENUSE/perl.Eren",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/ERENUSE/py.Eren",
+    "category": "unknown-path",
+    "first_seen": "2026-07-12T09:23:20Z",
+    "hit_count": 2
+  },
+  {
+    "path": "/modules/.git/config",
+    "category": "env-config",
+    "first_seen": "2026-07-12T11:22:08Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/language/en-GB/en-GB.xml",
+    "category": "unknown-path",
+    "first_seen": "2026-07-13T00:37:30Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/backend/.git/HEAD",
+    "category": "env-config",
+    "first_seen": "2026-07-13T01:29:10Z",
     "hit_count": 1
   }
 ]

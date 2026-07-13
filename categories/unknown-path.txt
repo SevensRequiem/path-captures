@@ -2521,8 +2521,10 @@
 /ALFA_DATA
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
+/ALFA_DATA/alfacgiapi/bash.alfa
 /ALFA_DATA/alfacgiapi/perl.alfa
 /ALFA_DATA/alfacgiapi/perl.alfa%22
+/ALFA_DATA/alfacgiapi/py.alfa
 /API.md
 /API/common.js
 /API/config.js
@@ -2564,6 +2566,12 @@
 /Diff/Engine/Engine/
 /Diff/Renderer/
 /Docker.md
+/ERENUSE/Erencgiapi/bash.Eren
+/ERENUSE/Erencgiapi/perl.Eren
+/ERENUSE/Erencgiapi/py.Eren
+/ERENUSE/bash.Eren
+/ERENUSE/perl.Eren
+/ERENUSE/py.Eren
 /FCKeditor/fckeditor.js
 /Far/catalog.html
 /Files/
@@ -2637,6 +2645,7 @@
 /[tenant]/*
 /[workspace]/*
 /]
+/][file:./src/gifs/banners/requim.moe.gif]]
 /__/api/projects/_/config
 /__/auth/handler
 /__/firebase/init.json
@@ -3152,7 +3161,9 @@
 /alerts.zip
 /alfacgiapi
 /alfacgiapi/
+/alfacgiapi/bash.alfa
 /alfacgiapi/perl.alfa
+/alfacgiapi/py.alfa
 /alpha
 /alpha.zip
 /altair
@@ -5655,6 +5666,9 @@
 /inventory.zip
 /ionic.zip
 /ios.zip
+/jancox/alfacgiapi/bash.alfa
+/jancox/alfacgiapi/perl.alfa
+/jancox/alfacgiapi/py.alfa
 /java.zip
 /jekyll.zip
 /jenkins.groovy
@@ -5778,6 +5792,7 @@
 /lambda/ses.js
 /lambda_config.json
 /lang
+/language/en-GB/en-GB.xml
 /laravel-file-manager/initialize
 /laravel-filemanager/initialize
 /laravel.log

@@ -580,6 +580,7 @@
 /backend/.env.staging
 /backend/.env.test
 /backend/.git
+/backend/.git/HEAD
 /backend/.git/config
 /backend/config/.env
 /backend/config/.env.sample
@@ -1108,6 +1109,7 @@
 /minified/.env
 /misc/.env
 /modules/.env
+/modules/.git/config
 /monerod/.env
 /mongo/.env
 /mongodb/.env

@@ -4591,9 +4591,11 @@
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
 /ALFA_DATA/alfacgiapi/all.php
+/ALFA_DATA/alfacgiapi/bash.alfa
 /ALFA_DATA/alfacgiapi/menu.php
 /ALFA_DATA/alfacgiapi/perl.alfa
 /ALFA_DATA/alfacgiapi/perl.alfa%22
+/ALFA_DATA/alfacgiapi/py.alfa
 /ALFA_DATA/alfacgiapi/upfile.php
 /ALFA_DATA/autoload_classmap.php
 /ALFA_DATA/index.php
@@ -4733,6 +4735,12 @@
 /EGXmfurAPxb.php
 /EM.php
 /EOew9G6oPtY.php
+/ERENUSE/Erencgiapi/bash.Eren
+/ERENUSE/Erencgiapi/perl.Eren
+/ERENUSE/Erencgiapi/py.Eren
+/ERENUSE/bash.Eren
+/ERENUSE/perl.Eren
+/ERENUSE/py.Eren
 /Eagle.php
 /EmailConfig.php
 /Engine.php
@@ -5045,6 +5053,7 @@
 /[tenant]/*
 /[workspace]/*
 /]
+/][file:./src/gifs/banners/requim.moe.gif]]
 /__/api/projects/_/config
 /__/auth/handler
 /__/firebase/init.json
@@ -5975,9 +5984,11 @@
 /alfacgiapi
 /alfacgiapi/
 /alfacgiapi/admin.php
+/alfacgiapi/bash.alfa
 /alfacgiapi/bypass.php
 /alfacgiapi/perl.alfa
 /alfacgiapi/perl.alfa.php
+/alfacgiapi/py.alfa
 /alfakun.php
 /alfanew.PHP7
 /alfanew.php
@@ -7215,6 +7226,7 @@
 /backend/.env.staging
 /backend/.env.test
 /backend/.git
+/backend/.git/HEAD
 /backend/.git/config
 /backend/.gitconfig
 /backend/.gitignore
@@ -12786,6 +12798,9 @@
 /jak.php
 /jal.php
 /jancok.php
+/jancox/alfacgiapi/bash.alfa
+/jancox/alfacgiapi/perl.alfa
+/jancox/alfacgiapi/py.alfa
 /jane.php
 /jatest3.php
 /jatest4.php
@@ -13124,6 +13139,7 @@
 /lang.php
 /lang/es.php
 /language/cron.php
+/language/en-GB/en-GB.xml
 /lanka.php
 /lanou.php
 /lanz.php
@@ -14223,6 +14239,7 @@
 /modules.php
 /modules/
 /modules/.env
+/modules/.git/config
 /modules/FCKeditor/fckeditor.js
 /modules/contrib/sendgrid_mail/sendgrid_mail.module
 /modules/contrib/sendgrid_mail/sendgrid_mail.services.yml
