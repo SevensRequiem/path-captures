@@ -27,7 +27,7 @@
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:20:16Z",
-    "hit_count": 1327
+    "hit_count": 1328
   },
   {
     "path": "/asc.php",
@@ -141,7 +141,7 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 12783
+    "hit_count": 12787
   },
   {
     "path": "/abc.php",
@@ -3057,7 +3057,7 @@
     "path": "//xmlrpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T07:15:50Z",
-    "hit_count": 883
+    "hit_count": 884
   },
   {
     "path": "/phpinfo.php",
@@ -3855,7 +3855,7 @@
     "path": "/.git/config",
     "category": "env-config",
     "first_seen": "2026-02-28T18:43:55Z",
-    "hit_count": 2385
+    "hit_count": 2386
   },
   {
     "path": "/www.sql",
@@ -17541,7 +17541,7 @@
     "path": "/wp-admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 602
+    "hit_count": 605
   },
   {
     "path": "/wp-content/uploads/",
@@ -18075,7 +18075,7 @@
     "path": "/home",
     "category": "unknown-path",
     "first_seen": "2026-03-05T13:42:06Z",
-    "hit_count": 143
+    "hit_count": 144
   },
   {
     "path": "/_ignition/execute-solution",
@@ -19959,7 +19959,7 @@
     "path": "/administrator/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:44:22Z",
-    "hit_count": 38
+    "hit_count": 39
   },
   {
     "path": "/app-7d66de919618d3830635.js",
@@ -27687,103 +27687,103 @@
     "path": "//wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:05Z",
-    "hit_count": 171
+    "hit_count": 172
   },
   {
     "path": "//blog/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//web/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//wordpress/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//website/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 171
+    "hit_count": 172
   },
   {
     "path": "//wp/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//news/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 171
+    "hit_count": 172
   },
   {
     "path": "//2018/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 161
+    "hit_count": 162
   },
   {
     "path": "//shop/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 168
+    "hit_count": 169
   },
   {
     "path": "//2019/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 168
+    "hit_count": 169
   },
   {
     "path": "//wp1/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//test/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//media/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 161
+    "hit_count": 162
   },
   {
     "path": "//wp2/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 171
+    "hit_count": 172
   },
   {
     "path": "//site/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//cms/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:07Z",
-    "hit_count": 172
+    "hit_count": 173
   },
   {
     "path": "//sito/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:07Z",
-    "hit_count": 171
+    "hit_count": 172
   },
   {
     "path": "/.vscode/sftp.json",
@@ -28293,13 +28293,13 @@
     "path": "/llms.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-07T00:04:36Z",
-    "hit_count": 9
+    "hit_count": 10
   },
   {
     "path": "/humans.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-07T00:04:36Z",
-    "hit_count": 6
+    "hit_count": 7
   },
   {
     "path": "/440.php",
@@ -52149,7 +52149,7 @@
     "path": "/donate",
     "category": "unknown-path",
     "first_seen": "2026-03-21T00:27:44Z",
-    "hit_count": 13
+    "hit_count": 14
   },
   {
     "path": "/pricing",
@@ -63981,7 +63981,7 @@
     "path": "/ai.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-26T23:18:12Z",
-    "hit_count": 4
+    "hit_count": 5
   },
   {
     "path": "/Content/",
@@ -99501,7 +99501,7 @@
     "path": "/wp-json/gravitysmtp/v1/tests/mock-data",
     "category": "unknown-path",
     "first_seen": "2026-04-25T06:54:54Z",
-    "hit_count": 74
+    "hit_count": 76
   },
   {
     "path": "/wp-includes/sitemaps/providers/class-wp-sitemaps-upload.php/wp-admin/js/widgets/qlex1.php",
@@ -117135,7 +117135,7 @@
     "path": "/img/67e4b9b336eb8c3916fe2bc0",
     "category": "unknown-path",
     "first_seen": "2026-05-08T03:01:29Z",
-    "hit_count": 4
+    "hit_count": 6
   },
   {
     "path": "/img/67e4b9b336eb8c3916fe2ba4",
@@ -143691,6 +143691,12 @@
     "path": "/public/class-walker-footer-dev.php",
     "category": "php-probes",
     "first_seen": "2026-07-15T11:39:17Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/admin/uploadify/uploadify.css",
+    "category": "unknown-path",
+    "first_seen": "2026-07-16T16:16:38Z",
     "hit_count": 1
   }
 ]
