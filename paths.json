@@ -21,13 +21,13 @@
     "path": "/xmlrpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T04:04:14Z",
-    "hit_count": 4478
+    "hit_count": 4479
   },
   {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:20:16Z",
-    "hit_count": 1332
+    "hit_count": 1334
   },
   {
     "path": "/asc.php",
@@ -141,7 +141,7 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 12790
+    "hit_count": 12791
   },
   {
     "path": "/abc.php",
@@ -3795,7 +3795,7 @@
     "path": "/wp-admin/admin-ajax.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T18:20:23Z",
-    "hit_count": 157
+    "hit_count": 161
   },
   {
     "path": "/wp-admin/load-scripts.php",
@@ -17541,7 +17541,7 @@
     "path": "/wp-admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 605
+    "hit_count": 606
   },
   {
     "path": "/wp-content/uploads/",
@@ -18075,7 +18075,7 @@
     "path": "/home",
     "category": "unknown-path",
     "first_seen": "2026-03-05T13:42:06Z",
-    "hit_count": 144
+    "hit_count": 145
   },
   {
     "path": "/_ignition/execute-solution",
@@ -33501,7 +33501,7 @@
     "path": "/wp-json/",
     "category": "unknown-path",
     "first_seen": "2026-03-11T11:07:36Z",
-    "hit_count": 36
+    "hit_count": 39
   },
   {
     "path": "/wp",
@@ -33549,7 +33549,7 @@
     "path": "/home.html",
     "category": "unknown-path",
     "first_seen": "2026-03-11T15:48:55Z",
-    "hit_count": 28
+    "hit_count": 30
   },
   {
     "path": "/modules/mod_simplefileuploadv1.3/elements/filemanager.php",
@@ -39501,7 +39501,7 @@
     "path": "/wp-content/plugins/fix/up.php",
     "category": "php-probes",
     "first_seen": "2026-03-17T15:42:59Z",
-    "hit_count": 34
+    "hit_count": 35
   },
   {
     "path": "/.well-known/acme-challenge/atomlib.php",
@@ -64143,7 +64143,7 @@
     "path": "/alfacgiapi/perl.alfa",
     "category": "unknown-path",
     "first_seen": "2026-03-27T08:31:06Z",
-    "hit_count": 5
+    "hit_count": 7
   },
   {
     "path": "/alfacgiapi/",
@@ -91011,7 +91011,7 @@
     "path": "/ALFA_DATA/alfacgiapi/perl.alfa",
     "category": "unknown-path",
     "first_seen": "2026-04-13T11:00:35Z",
-    "hit_count": 12
+    "hit_count": 14
   },
   {
     "path": "/tmp_images/alfacgiapi/perl.alfa",
@@ -91329,7 +91329,7 @@
     "path": "/img/67e4b9b336eb8c3916fe2bee",
     "category": "unknown-path",
     "first_seen": "2026-04-14T05:30:36Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/actuator;/env;",
@@ -94017,7 +94017,7 @@
     "path": "/.well-known/atproto-did",
     "category": "unknown-path",
     "first_seen": "2026-04-15T22:06:54Z",
-    "hit_count": 107
+    "hit_count": 108
   },
   {
     "path": "/web/app_dev.php/_profiler",
@@ -117195,7 +117195,7 @@
     "path": "/img/683da4efde874c2df237a576",
     "category": "unknown-path",
     "first_seen": "2026-05-08T05:38:44Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/img/67e4b9b336eb8c3916fe2bf7",
@@ -143559,79 +143559,79 @@
     "path": "/alfacgiapi/bash.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:19Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/alfacgiapi/py.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:19Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ALFA_DATA/alfacgiapi/bash.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:19Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ALFA_DATA/alfacgiapi/py.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/jancox/alfacgiapi/bash.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ERENUSE/Erencgiapi/bash.Eren",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ERENUSE/Erencgiapi/perl.Eren",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/jancox/alfacgiapi/perl.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/jancox/alfacgiapi/py.alfa",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ERENUSE/Erencgiapi/py.Eren",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ERENUSE/bash.Eren",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ERENUSE/perl.Eren",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/ERENUSE/py.Eren",
     "category": "unknown-path",
     "first_seen": "2026-07-12T09:23:20Z",
-    "hit_count": 2
+    "hit_count": 4
   },
   {
     "path": "/modules/.git/config",
@@ -143788,5 +143788,11 @@
     "category": "unknown-path",
     "first_seen": "2026-07-18T01:32:42Z",
     "hit_count": 1
+  },
+  {
+    "path": "/wp-content/plugins/super-forms/readme.txt",
+    "category": "unknown-path",
+    "first_seen": "2026-07-18T07:43:43Z",
+    "hit_count": 2
   }
 ]
