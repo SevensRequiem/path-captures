@@ -2009,6 +2009,7 @@
 /.AWS_/credentials
 /.AwS/CrEdEnTiAlS
 /.DS_Store
+/.aider.conf.yml
 /.amplify/
 /.amplifyrc
 /.anthropic/config.json
@@ -2063,6 +2064,7 @@
 /.backup.zip
 /.backup/
 /.bash_history
+/.bash_profile
 /.bashrc
 /.bitbucket-pipelines.yml
 /.bitbucket/pipelines.yml
@@ -2075,13 +2077,17 @@
 /.cache/payment.json
 /.cargo/credentials
 /.classpath
+/.claude.json
+/.claude/settings.json
 /.cloudfront/config.json
 /.cloudfront/keys.json
 /.cloudfront/secrets.json
 /.codefresh/
+/.codex/config.toml
 /.composer/auth.json
 /.config.js
 /.config.yaml
+/.config/anthropic/credentials/default.json
 /.config/app.yaml
 /.config/config.json
 /.config/env/production.js
@@ -2189,6 +2195,9 @@
 /.gitlab/merge_request_templates
 /.gitlab/secrets.yml
 /.gitmodules
+/.gradle/gradle.properties
+/.hermes/auth.json
+/.hermes/config.yaml
 /.hg/
 /.hg/hgrc
 /.history
@@ -2206,6 +2215,7 @@
 /.login
 /.maintenance
 /.mandrill
+/.mcp.json
 /.my.cnf
 /.mysql_history
 /.netlify/functions/*
@@ -2236,6 +2246,7 @@
 /.postmark
 /.powenv
 /.production
+/.profile
 /.project
 /.pry_history
 /.psql_history
@@ -2338,6 +2349,7 @@
 /.yarnrc.yml
 /.zsh_history
 /.zshenv
+/.zshrc
 //
 ///%2eenv
 ///%61dmin
@@ -2515,6 +2527,7 @@
 /:6379
 /:8983
 /@fs/etc/passwd
+/@fs/proc/self/environ
 /@vite-hmr
 /@vite/client
 /@vite/env
@@ -3977,11 +3990,14 @@
 /boards/nsfw/
 /boot.zip
 /bootstrap
+/bootstrap.properties
+/bootstrap.yml
 /bootstrap/cache
 /bower_components.zip
 /box.zip
 /braintree.json
 /browserconfig.xml
+/bugbounty
 /bugsnag.zip
 /build-manifest.json
 /build.gradle
@@ -4317,6 +4333,7 @@
 /config/environments/production/stripe.rb
 /config/error.log
 /config/features.json
+/config/firebase-admin.json
 /config/firebase_credentials.json
 /config/gcloud.json
 /config/gcp-credentials.json
@@ -4920,6 +4937,7 @@
 /elasticsearch_cluster_yml
 /elmah%252eaxd
 /elmah%2eaxd
+/elmah.axd
 /email.json
 /email.zip
 /email/config
@@ -5140,6 +5158,7 @@
 /final.zip
 /firebase%252ejson
 /firebase%2ejson
+/firebase-admin.json
 /firebase-adminsdk.json
 /firebase-config.json
 /firebase-credentials.json
@@ -5403,6 +5422,7 @@
 /host-manager
 /host-manager/html
 /host-manager/text
+/host.key
 /host.zip
 /hostgator.zip
 /hosting.json
@@ -5447,6 +5467,8 @@
 /icloud.zip
 /icons.zip
 /icons/favicon.ico
+/id_dsa
+/id_ecdsa
 /id_ed25519
 /id_rsa
 /id_rsa.pub
@@ -5926,6 +5948,7 @@
 /local/config.yml
 /local/phpinfo%2ephp
 /local_settings.py
+/localhost.key
 /localhost.zip
 /log
 /log-in
@@ -6255,6 +6278,7 @@
 /newrelic.ini
 /newrelic.yml
 /newrelic.zip
+/news-sitemap.xml
 /newsite
 /newsletter
 /newsletter.zip
@@ -6271,6 +6295,7 @@
 /nginx/config.yml
 /nginx_status
 /ngsw-worker.js
+/ngsw.json
 /node/
 /node/.env_example
 /node/1
@@ -6690,6 +6715,7 @@
 /private_key
 /private_key.pem
 /private_keys
+/privatekey.key
 /privatekey.pem
 /privkey.pem
 /proc.zip
@@ -6772,6 +6798,7 @@
 /public/.gitconfig
 /public/.s3cfg
 /public/FCKeditor/fckeditor.js
+/public/admin.json
 /public/aws_keys.json
 /public/aws_secrets.json
 /public/backup.zip
@@ -6894,6 +6921,8 @@
 /resources/lang
 /resources/sass
 /resources/views
+/responsible-disclosure
+/responsible-disclosure-policy
 /rest-api/fields/
 /rest.zip
 /rest/*
@@ -7159,6 +7188,7 @@
 /secure.tar.gz
 /secure.zip
 /secure/config
+/security
 /security.txt
 /security.zip
 /seed.zip
@@ -7302,6 +7332,7 @@
 /service.pwd
 /service.zip
 /service/email_service.py
+/service/responsible-disclosure
 /service/rest/v1/status
 /serviceAccount.json
 /serviceAccountCredentials.json
@@ -7669,8 +7700,10 @@
 /ssl.zip
 /ssl/cert.pem
 /ssl/certs
+/ssl/localhost.key
 /ssl/private
 /ssl/private.key
+/ssl/server.key
 /ssl_certificate.key
 /sso_config.json
 /sst.config.ts
@@ -9207,6 +9240,7 @@
 /wp-includes/js/tinymce/themes/inlite/
 /wp-includes/js/tinymce/utils/
 /wp-includes/js/tinymce/utils/%20
+/wp-includes/js/wp-emoji.js
 /wp-includes/l10n/
 /wp-includes/php-compat/
 /wp-includes/phpmailer/
