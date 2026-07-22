@@ -4366,8 +4366,10 @@
 /2024/.env
 /2024/phpinfo%2ephp
 /2024/phpinfo.php
+/2025
 /2025.sql
 /2025/%2eenv
+/2026
 /2026.php
 /2026.sql
 /2026/%2eenv
@@ -15367,6 +15369,7 @@
 /plugins/system/mailgun/mailgun.php
 /plugins/system/piwik/piwik.php
 /plugins/system/sendgrid/sendgrid.php
+/plugins/uploadify/uploadify.css
 /plugins/woocommerce/templates/taxonomy-product_cat.php
 /plupload/examples/upload.php
 /plus/90sec.php
