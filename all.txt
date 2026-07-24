@@ -2828,6 +2828,7 @@
 /.git/refs/stash
 /.git/refs/tags/
 /.git/shell.php
+/.git/zzcanary-4e22e56d5e3a3399
 /.gitattributes
 /.gitconfig
 /.github
@@ -2990,6 +2991,7 @@
 /.ssh/id_rsa.pub
 /.ssh/known_hosts
 /.ssh/sftp-config.json
+/.ssh/zzcanary-5a852cc41b6eb19f
 /.strapi/.env
 /.streamlit/secrets.toml
 /.stripe.bak
@@ -3017,6 +3019,7 @@
 /.svn/tmp/
 /.svn/tmp/tempfile
 /.svn/wc.db
+/.svn/zzcanary-5a02660f611024d5
 /.terraform.lock.hcl
 /.terraform.tfstate
 /.terraform/
@@ -3062,6 +3065,7 @@
 /.vscode/sftp-config.json
 /.vscode/sftp.json
 /.vscode/tasks.json
+/.vscode/zzcanary-78939f7ba206206b.json
 /.well-known
 /.well-known.php
 /.well-known/
@@ -4124,6 +4128,7 @@
 /0.php
 /00.php
 /000.php
+/001.php
 /002.php
 /003.php
 /006.php
@@ -5487,6 +5492,8 @@
 /_vercel/routes
 /_vercel/trace
 /_vti_bin/*
+/_vti_pvt/service.pwd
+/_vti_pvt/zzcanary-40396ad2ec4657b9
 /_waku/*
 /_worker.js
 /_worker.js.map
@@ -5646,6 +5653,7 @@
 /actuator/sessions
 /actuator/threaddump
 /actuator/trace
+/actuator/zzcanary-9533e47700f04b7
 /actuator;/env;
 /acwfihfh.php
 /ad.php
@@ -6071,6 +6079,7 @@
 /amplify/team-provider-info%252ejson
 /amplify/team-provider-info%2ejson
 /amplify/team-provider-info.json
+/amplifyconfiguration.json
 /amplitude.zip
 /amthd.php
 /amwxl.php
@@ -7160,6 +7169,7 @@
 /awscli.conf
 /awsconfig.js
 /awsconfig.json
+/awsconfiguration.json
 /awslogs.conf
 /awsmobile.json
 /awstats/.env
@@ -9389,6 +9399,7 @@
 /config/yahoo_mail.php
 /config/zoho.php
 /config/zoho_mail.php
+/config/zzcanary-4507a37503263638.json
 /config1.sql
 /config2.sql
 /configPCJ/f35.php
@@ -11018,6 +11029,8 @@
 /etc/sendgrid%2eenv
 /etc/shadow
 /etc/ssh/sshd_config
+/etc/ssl/private/server.key
+/etc/ssl/private/zzcanary-309a7e6a1a9373
 /etc/ssmtp/ssmtp%252econf
 /etc/ssmtp/ssmtp%2econf
 /etc/sudoers
@@ -13123,6 +13136,7 @@
 /kill.php
 /killer.php
 /kinesis.json
+/kir.php
 /kiss.php
 /kiwkiw.php
 /kj.php
@@ -15133,6 +15147,7 @@
 /paypal/webhook
 /paypal_client_id.txt
 /paypal_secret.txt
+/pbck.php
 /pcloud.zip
 /pcp/simple.php
 /pdf.php
@@ -16292,6 +16307,7 @@
 /reune.php
 /revealability.php
 /reverb/redis
+/reviall.php
 /revision.php
 /revslider/includes/external/page/index.php
 /rex.php
@@ -17983,6 +17999,7 @@
 /status%2ephp
 /status.php
 /stderr
+/stdin.php
 /stdout
 /stg/.env
 /stg/.env.local
@@ -18092,6 +18109,7 @@
 /storage/logs/stripe.log
 /storage/logs/stripe_transactions.log
 /storage/logs/worker.log
+/storage/logs/zzcanary-55b7d491f42c0e1
 /storage/mandrill.json
 /storage/mandrill_templates.json
 /storage/oauth-personal-access.key
@@ -18952,6 +18970,7 @@
 /todo.php
 /toine.php
 /token
+/token.json
 /token.php
 /token.sql
 /token.txt
@@ -19284,6 +19303,7 @@
 /user/xampp/info.php
 /user1.sql
 /user_1.sql
+/user_secrets.yml
 /userfuns.php
 /userpanel.sql
 /users
@@ -20815,6 +20835,7 @@
 /wp-admin/zoko.php
 /wp-admin/zwso.php
 /wp-admin/zz.php
+/wp-admin/zzcanary-1dfd5d782c67be92.php
 /wp-admins.php
 /wp-advaced.php
 /wp-aespa.php
@@ -23242,6 +23263,7 @@
 /wp-js.php
 /wp-json
 /wp-json/
+/wp-json/batch/v1
 /wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/config
@@ -23906,6 +23928,7 @@
 /yindu.php
 /yitlu.php
 /yj03.php
+/yj09.php
 /yjlqpamf.php
 /yjoxrfglsep.php
 /ylzed0twj8l9drdbchc1oocfCdefault.php
@@ -23928,6 +23951,7 @@
 /yu.php
 /yuighh.php
 /yunu.php
+/yup.php
 /yussef.php
 /yuuds.php
 /yuzuru1.php
@@ -24045,6 +24069,12 @@
 /zz.php
 /zz10.php
 /zz8.php
+/zzcanary-16f4d68c1f0d72ee.xml
+/zzcanary-2121d1cc9551264d.json
+/zzcanary-2723322589d91c0.yml
+/zzcanary-58d2e7e9f52243f4
+/zzcanary-60386c69c61c166e.sql
+/zzcanary-681bfaf14167b8b3.php
 /zzkhe.php
 /zzx.php
 /zzxy.php

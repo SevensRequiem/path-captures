@@ -297,6 +297,7 @@
 /.git/refs/remotes/origin/master
 /.git/refs/stash
 /.git/refs/tags/
+/.git/zzcanary-4e22e56d5e3a3399
 /.github/.env
 /.gitlab-ci/.env
 /.gitlab/.env
@@ -330,6 +331,7 @@
 /.svn/tmp/
 /.svn/tmp/tempfile
 /.svn/wc.db
+/.svn/zzcanary-5a02660f611024d5
 /.vercel/.env.production.local
 /.vscode/.env
 /.well-known/.env

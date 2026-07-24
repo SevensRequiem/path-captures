@@ -2293,6 +2293,7 @@
 /.ssh/id_rsa.pub
 /.ssh/known_hosts
 /.ssh/sftp-config.json
+/.ssh/zzcanary-5a852cc41b6eb19f
 /.streamlit/secrets.toml
 /.stripe/
 /.terraform.lock.hcl
@@ -2323,6 +2324,7 @@
 /.vscode/sftp-config.json
 /.vscode/sftp.json
 /.vscode/tasks.json
+/.vscode/zzcanary-78939f7ba206206b.json
 /.well-known
 /.well-known/
 /.well-known/*
@@ -3032,6 +3034,8 @@
 /_vercel/routes
 /_vercel/trace
 /_vti_bin/*
+/_vti_pvt/service.pwd
+/_vti_pvt/zzcanary-40396ad2ec4657b9
 /_waku/*
 /_worker.js
 /_worker.js.map
@@ -3086,6 +3090,7 @@
 /actuator/sessions
 /actuator/threaddump
 /actuator/trace
+/actuator/zzcanary-9533e47700f04b7
 /admin
 /admin%252ehtml
 /admin%2ehtml
@@ -3188,6 +3193,7 @@
 /amplify/team-provider-info%252ejson
 /amplify/team-provider-info%2ejson
 /amplify/team-provider-info.json
+/amplifyconfiguration.json
 /amplitude.zip
 /analytics.zip
 /android.zip
@@ -3708,6 +3714,7 @@
 /awscli.conf
 /awsconfig.js
 /awsconfig.json
+/awsconfiguration.json
 /awslogs.conf
 /awsmobile.json
 /azure
@@ -4474,6 +4481,7 @@
 /config/stripe_connect.yml
 /config/test.json
 /config/utils.js
+/config/zzcanary-4507a37503263638.json
 /configmap.yml
 /configprops
 /configs
@@ -5052,6 +5060,8 @@
 /etc/sendgrid%2eenv
 /etc/shadow
 /etc/ssh/sshd_config
+/etc/ssl/private/server.key
+/etc/ssl/private/zzcanary-309a7e6a1a9373
 /etc/ssmtp/ssmtp%252econf
 /etc/ssmtp/ssmtp%2econf
 /etc/sudoers
@@ -7843,6 +7853,7 @@
 /storage/logs/stripe.log
 /storage/logs/stripe_transactions.log
 /storage/logs/worker.log
+/storage/logs/zzcanary-55b7d491f42c0e1
 /storage/mandrill.json
 /storage/mandrill_templates.json
 /storage/oauth-personal-access.key
@@ -8208,6 +8219,7 @@
 /tmps/
 /tmui/login.jsp/%252e.%3b/tmui/locallb/workspace/fileread.jsp%3ffilename%3d/config/bigip%252econf
 /token
+/token.json
 /token.txt
 /tokens.json
 /tokens.zip
@@ -8283,6 +8295,7 @@
 /user/login
 /user/register
 /user/umi.min.js
+/user_secrets.yml
 /users
 /users.zip
 /users/%61dmin
@@ -9273,6 +9286,7 @@
 /wp-includes/wp-includes/
 /wp-json
 /wp-json/
+/wp-json/batch/v1
 /wp-json/bricks/v1/render_element
 /wp-json/bricks/v1/render_element/
 /wp-json/gravitysmtp/v1/config
@@ -9395,6 +9409,10 @@
 /ztp/cgi-bin/handler
 /zxq8m3k-test-none
 /zz-nonexistent-test-8492.html
+/zzcanary-16f4d68c1f0d72ee.xml
+/zzcanary-2121d1cc9551264d.json
+/zzcanary-2723322589d91c0.yml
+/zzcanary-58d2e7e9f52243f4
 /~%252f.boto
 /~%252f.netrc
 /~%252f.s3cfg
