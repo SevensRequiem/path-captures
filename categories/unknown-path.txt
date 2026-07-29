@@ -3883,6 +3883,7 @@
 /backup/stripe.json
 /backup/stripe_customers.json
 /backup/stripe_products.json
+/backup/wp-json/batch/v1
 /backup1.tar
 /backup1.tar.gz
 /backup1.zip
@@ -4812,6 +4813,7 @@
 /dev/phpinfo%2ephp
 /dev/stripe-test.env
 /dev/test
+/dev/wp-json/batch/v1
 /dev_settings.py
 /develop.zip
 /develop/%2eenv
@@ -5296,6 +5298,7 @@
 /go.mod
 /godaddy.zip
 /godot.zip
+/goods
 /google-analytics.zip
 /google-application-credentials.json
 /google-cloud.json
@@ -6283,6 +6286,7 @@
 /namecheap.zip
 /native.zip
 /neo4j.zip
+/neshe
 /netlify.toml
 /new
 /new.tar
@@ -6395,6 +6399,7 @@
 /old/info%2ephp
 /old/phpinfo%2ephp
 /old/stripe.config.js
+/old/wp-json/batch/v1
 /old_site/
 /oldsite
 /oldsite/
@@ -7745,6 +7750,7 @@
 /staging/config/common.js
 /staging/config/config.js
 /staging/config/constants.js
+/staging/wp-json/batch/v1
 /standard.zip
 /start.sh
 /startup.sh
@@ -8116,6 +8122,7 @@
 /test/phpinfo%2ephp
 /test/stripe.config.js
 /test/testing%2ephp
+/test/wp-json/batch/v1
 /test1
 /testing
 /testing.zip
@@ -8743,6 +8750,7 @@
 /wordpress/wp-includes/
 /wordpress/wp-includes/blocks/accordion/
 /wordpress/wp-includes/style-engine/
+/wordpress/wp-json/batch/v1
 /wordpress/wp-json/gravitysmtp/v1/connectors
 /wordpress/wp-json/gravitysmtp/v1/stats
 /wordpress/wp-json/gravitysmtp/v1/tests/mock-data
@@ -9347,6 +9355,7 @@
 /wp/
 /wp/%2eenv
 /wp/wp-admin/includes/
+/wp/wp-json/batch/v1
 /wp/wp-json/gravitysmtp/v1/settings
 /wp/wp-json/gravitysmtp/v1/stats
 /wp/wp-json/gravitysmtp/v1/tests/mock-data
