@@ -2328,6 +2328,7 @@
 /.well-known
 /.well-known/
 /.well-known/*
+/.well-known/.well-known/
 /.well-known/acme-challenge/
 /.well-known/acme-challenge/*
 /.well-known/acme-challenge/block-supports/
@@ -2340,6 +2341,7 @@
 /.well-known/openid-configuration
 /.well-known/pki-validation
 /.well-known/pki-validation/
+/.well-known/pki-validation/configKZU/Jump/0-woodhous/Ven-C/Ven-US/0-upstartd/
 /.well-known/security.txt
 /.well-known/stripe.txt
 /.well-known/stripe/
@@ -4129,6 +4131,7 @@
 /ci/.gitignore
 /circle.yml
 /ckeditor/plugins/fontawesome/dialogs/
+/class-php
 /class/FCKeditor/fckeditor.js
 /class/fckeditor/fckeditor.js
 /classwithtostring.phpl
@@ -5270,6 +5273,7 @@
 /gcp_key.json
 /general.zip
 /geoserver/ows
+/get/config
 /getcmd
 /ghost.zip
 /gif/
@@ -6161,6 +6165,7 @@
 /master/login
 /master_key.txt
 /mc_api_key.txt
+/mcp-rest/test/connection
 /me
 /media%252e%252e%252f%252e%252e%252fetc/passwd
 /media%252e%252e%252f.htpasswd
@@ -7709,6 +7714,7 @@
 /src/settings.py
 /src/site.conf
 /src/utils/payment.js
+/src=/assets/images/saturn.jpg
 /srv.zip
 /srv/%252eenv
 /srv/%2eenv
