@@ -2294,6 +2294,7 @@
 /.ssh/known_hosts
 /.ssh/sftp-config.json
 /.ssh/zzcanary-5a852cc41b6eb19f
+/.ssh/zzcanary-7ca18a1f6012aab4
 /.streamlit/secrets.toml
 /.stripe/
 /.terraform.lock.hcl
@@ -2324,6 +2325,7 @@
 /.vscode/sftp-config.json
 /.vscode/sftp.json
 /.vscode/tasks.json
+/.vscode/zzcanary-2d645b72f6dd1b9a.json
 /.vscode/zzcanary-78939f7ba206206b.json
 /.well-known
 /.well-known/
@@ -2332,6 +2334,7 @@
 /.well-known/acme-challenge/
 /.well-known/acme-challenge/*
 /.well-known/acme-challenge/block-supports/
+/.well-known/acme-challenge/file
 /.well-known/agent-card.json
 /.well-known/atproto-did
 /.well-known/carbon.txt
@@ -3039,6 +3042,7 @@
 /_vti_bin/*
 /_vti_pvt/service.pwd
 /_vti_pvt/zzcanary-40396ad2ec4657b9
+/_vti_pvt/zzcanary-78e02ea2fcebf3f3
 /_waku/*
 /_worker.js
 /_worker.js.map
@@ -3093,6 +3097,7 @@
 /actuator/sessions
 /actuator/threaddump
 /actuator/trace
+/actuator/zzcanary-654d29200126e5eb
 /actuator/zzcanary-9533e47700f04b7
 /admin
 /admin%252ehtml
@@ -4488,6 +4493,7 @@
 /config/test.json
 /config/utils.js
 /config/zzcanary-4507a37503263638.json
+/config/zzcanary-fde680aacd9ab6e.json
 /configmap.yml
 /configprops
 /configs
@@ -5069,6 +5075,7 @@
 /etc/ssh/sshd_config
 /etc/ssl/private/server.key
 /etc/ssl/private/zzcanary-309a7e6a1a9373
+/etc/ssl/private/zzcanary-759fe7505a5a9d22
 /etc/ssmtp/ssmtp%252econf
 /etc/ssmtp/ssmtp%2econf
 /etc/sudoers
@@ -6215,6 +6222,7 @@
 /microservices.zip
 /middleware.js
 /middleware.ts
+/mifta.ph
 /migration.zip
 /mini
 /mirror.zip
@@ -7869,6 +7877,7 @@
 /storage/logs/stripe_transactions.log
 /storage/logs/worker.log
 /storage/logs/zzcanary-55b7d491f42c0e1
+/storage/logs/zzcanary-7e071cd1a71f9087
 /storage/mandrill.json
 /storage/mandrill_templates.json
 /storage/oauth-personal-access.key
@@ -9050,6 +9059,7 @@
 /wp-content/upgrade-temp-backup/plugins/images/
 /wp-content/upgrade/
 /wp-content/upload/
+/wp-content/uploads
 /wp-content/uploads-webpc/
 /wp-content/uploads.tar
 /wp-content/uploads.tar.gz
@@ -9397,6 +9407,7 @@
 /x/
 /x/catalog.json
 /x/index.json
+/x402.ph
 /x7hkiufttq9zX.notathing
 /xamarin.zip
 /xampp/php-cgi%2eexe
@@ -9431,7 +9442,11 @@
 /zzcanary-16f4d68c1f0d72ee.xml
 /zzcanary-2121d1cc9551264d.json
 /zzcanary-2723322589d91c0.yml
+/zzcanary-45d78e8711e7e91b.xml
 /zzcanary-58d2e7e9f52243f4
+/zzcanary-63ac4b910357f1a3
+/zzcanary-734ff671058810a2.json
+/zzcanary-7b3ec812cfaa0333.yml
 /~%252f.boto
 /~%252f.netrc
 /~%252f.s3cfg

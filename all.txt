@@ -2832,6 +2832,7 @@
 /.git/refs/stash
 /.git/refs/tags/
 /.git/shell.php
+/.git/zzcanary-17ae362992607f52
 /.git/zzcanary-4e22e56d5e3a3399
 /.gitattributes
 /.gitconfig
@@ -2997,6 +2998,7 @@
 /.ssh/known_hosts
 /.ssh/sftp-config.json
 /.ssh/zzcanary-5a852cc41b6eb19f
+/.ssh/zzcanary-7ca18a1f6012aab4
 /.strapi/.env
 /.streamlit/secrets.toml
 /.stripe.bak
@@ -3025,6 +3027,7 @@
 /.svn/tmp/tempfile
 /.svn/wc.db
 /.svn/zzcanary-5a02660f611024d5
+/.svn/zzcanary-631a78ccb822a3a0
 /.terraform.lock.hcl
 /.terraform.tfstate
 /.terraform/
@@ -3038,7 +3041,9 @@
 /.tmb/LA.php
 /.tmb/a5.php
 /.tmb/admin.php
+/.tmb/class_api.php
 /.tmb/cloud.php
+/.tmb/cpabpkyk.php
 /.tmb/doc.php
 /.tmb/dropdown.php
 /.tmb/index.php
@@ -3046,6 +3051,8 @@
 /.tmb/nano.php
 /.tmb/users.php
 /.tmb/warm.PhP7
+/.tmb/wp-login.php
+/.tmbalfa.php
 /.trash7206/index.php
 /.trash7309/index.php
 /.travis.yml
@@ -3071,6 +3078,7 @@
 /.vscode/sftp-config.json
 /.vscode/sftp.json
 /.vscode/tasks.json
+/.vscode/zzcanary-2d645b72f6dd1b9a.json
 /.vscode/zzcanary-78939f7ba206206b.json
 /.well-known
 /.well-known.php
@@ -3079,11 +3087,13 @@
 /.well-known/.env
 /.well-known/.well-known/
 /.well-known/.well-known/cc.php
+/.well-known//.well-known/owlmailer.php
 /.well-known/1.php
 /.well-known/11.php
 /.well-known/222.php
 /.well-known/7.php
 /.well-known/8.php
+/.well-known/991176.php
 /.well-known/Hd.php
 /.well-known/Okxob.php
 /.well-known/a5.php
@@ -3096,14 +3106,18 @@
 /.well-known/acme-challenge/aa.php
 /.well-known/acme-challenge/about.php
 /.well-known/acme-challenge/admin.php
+/.well-known/acme-challenge/adminfuns.php
 /.well-known/acme-challenge/atomlib.php
 /.well-known/acme-challenge/autoload_classmap.php
 /.well-known/acme-challenge/block-supports/
+/.well-known/acme-challenge/classsmtps.php
 /.well-known/acme-challenge/cloud.php
 /.well-known/acme-challenge/content.php
 /.well-known/acme-challenge/doc.php
+/.well-known/acme-challenge/file
 /.well-known/acme-challenge/file.php
 /.well-known/acme-challenge/flower.php
+/.well-known/acme-challenge/fond.php
 /.well-known/acme-challenge/gecko-old.php
 /.well-known/acme-challenge/iR7SzrsOUEP.php
 /.well-known/acme-challenge/index.php
@@ -3112,10 +3126,12 @@
 /.well-known/acme-challenge/mah.php
 /.well-known/acme-challenge/makeasmtp.php
 /.well-known/acme-challenge/mariju.php
+/.well-known/acme-challenge/moon.php
 /.well-known/acme-challenge/muse.php
 /.well-known/acme-challenge/new.php
 /.well-known/acme-challenge/plugins.php
 /.well-known/acme-challenge/radio.php
+/.well-known/acme-challenge/sx.php
 /.well-known/acme-challenge/upfile.php
 /.well-known/acme-challenge/wp-load.php
 /.well-known/acme-challenge/wp-login.php
@@ -3124,10 +3140,12 @@
 /.well-known/admin.php
 /.well-known/adminer.php
 /.well-known/agent-card.json
+/.well-known/amaxx.php
 /.well-known/ans.php
 /.well-known/as.php
 /.well-known/atproto-did
 /.well-known/autoload_classmap.php
+/.well-known/bek.php
 /.well-known/buy.php
 /.well-known/cache-compat.php
 /.well-known/caches.php
@@ -3135,15 +3153,18 @@
 /.well-known/carbon.txt
 /.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0
 /.well-known/chosen.php
+/.well-known/class.api.php
 /.well-known/classwithtostring.php
 /.well-known/cloud.php
 /.well-known/cofbgxlk.php
 /.well-known/cong.php
 /.well-known/content.php
 /.well-known/core.php
+/.well-known/cwianpri.php
 /.well-known/db-status.php
 /.well-known/discord
 /.well-known/dropdown.php
+/.well-known/elp.php
 /.well-known/f35.php
 /.well-known/file.php
 /.well-known/file.php/
@@ -3158,6 +3179,7 @@
 /.well-known/info.php
 /.well-known/install.php
 /.well-known/jwks.json
+/.well-known/kwggvpup.php
 /.well-known/link.php
 /.well-known/lo.php
 /.well-known/load.php
@@ -3173,34 +3195,56 @@
 /.well-known/pki-validation.php
 /.well-known/pki-validation/
 /.well-known/pki-validation/1.php
+/.well-known/pki-validation/101d2ae2-f2f3-4977-b35d-b3a0ad74a469.php
 /.well-known/pki-validation/2index.php
 /.well-known/pki-validation/LA.php
+/.well-known/pki-validation/Newsupway.php
 /.well-known/pki-validation/a.php
 /.well-known/pki-validation/about.php
 /.well-known/pki-validation/admin.php
 /.well-known/pki-validation/afnew.php
+/.well-known/pki-validation/amaxx.php
 /.well-known/pki-validation/atomlib.php
 /.well-known/pki-validation/autoload_classmap.php
+/.well-known/pki-validation/bb.php
+/.well-known/pki-validation/cifcxgxm.php
+/.well-known/pki-validation/ckyocyyp.php
 /.well-known/pki-validation/class_api.php
 /.well-known/pki-validation/classwithtostring.php
 /.well-known/pki-validation/cloud.php
 /.well-known/pki-validation/configKZU/Jump/0-woodhous/Ven-C/Ven-US/0-upstartd/
+/.well-known/pki-validation/content.php
+/.well-known/pki-validation/content.php.suspected
 /.well-known/pki-validation/doc.php
 /.well-known/pki-validation/dropdown.php
 /.well-known/pki-validation/flower.php
 /.well-known/pki-validation/fm.php
+/.well-known/pki-validation/fond.php
+/.well-known/pki-validation/gkiliuew.php
 /.well-known/pki-validation/gu.php
+/.well-known/pki-validation/iR7SzrsOUEP.php
+/.well-known/pki-validation/ibkejxnu.php
 /.well-known/pki-validation/index.php
 /.well-known/pki-validation/install.php
 /.well-known/pki-validation/kur.php
+/.well-known/pki-validation/lang-load-role.php
+/.well-known/pki-validation/link.php
+/.well-known/pki-validation/mar.php
 /.well-known/pki-validation/mariju.php
 /.well-known/pki-validation/moon.php
+/.well-known/pki-validation/plugins.php
+/.well-known/pki-validation/post.php
 /.well-known/pki-validation/pwnd.php
 /.well-known/pki-validation/rafa.php
 /.well-known/pki-validation/server.php
+/.well-known/pki-validation/shell.php
 /.well-known/pki-validation/siteindex.php
+/.well-known/pki-validation/ssl.php
+/.well-known/pki-validation/sx.php
+/.well-known/pki-validation/themes.php
 /.well-known/pki-validation/webdb.php
 /.well-known/pki-validation/worksec.php
+/.well-known/pki-validation/wp-admin/install.php
 /.well-known/pki-validation/wp-login.php
 /.well-known/pki-validation/xleet.php
 /.well-known/pki-validation/xmrlpc.php
@@ -4253,6 +4297,7 @@
 /123.php
 /1234.php
 /124.php
+/1254xx.php
 /12htKbyVOUv.php
 /12j.php
 /13.php
@@ -4350,6 +4395,7 @@
 /1LCN4gZoE6l.php
 /1M5AUSOKfa2.php
 /1OHG2bNXlx7.php
+/1PJcpMFsD8B.php
 /1PaszdfCrbx.php
 /1Xw8GjudKLl.php
 /1_1_PhpInfo.php
@@ -4395,6 +4441,7 @@
 /1sGWU9qf.php
 /1vbqo.php
 /1wld4ctl.php
+/1wvekeybd9it2di2vyipgr6Cdefault.php
 /1wx.php
 /1xmomo.php
 /1yade.php
@@ -4427,6 +4474,7 @@
 /2023
 /2023/%2eenv
 /2023/.env
+/2023/08/admin.php
 /2023/phpinfo%2ephp
 /2023/phpinfo.php
 /2024
@@ -4527,6 +4575,7 @@
 /404wired.com_db.sql
 /404wired.sql
 /404wired_backup.sql
+/406.php
 /40p9ixjd.php
 /41.php
 /41Wppt5xB9.php
@@ -4594,6 +4643,7 @@
 /6623.php
 /666.php
 /667.php
+/66b867516c8f01.php
 /67.php
 /69R8Rs.php
 /6IhPpTqJ2g5.php
@@ -4918,6 +4968,7 @@
 /HtQmJOArI4R.php
 /IAM.md
 /ID3.php
+/ID3/rk2.php
 /IDNAEncoder-term.php
 /IDhrIlrLb.php
 /INFECTED.php
@@ -5048,6 +5099,7 @@
 /Rk41.php
 /RsR.php
 /RxR.php
+/RxR_uvhya.php
 /SE6yfkFKuQA.php
 /SHOP
 /SITE
@@ -5097,6 +5149,7 @@
 /UsbXax.php
 /User_info/.env
 /UzA27vPKbtG.php
+/V2.php
 /V3.php
 /V5.php
 /VCPwTSn1ZA2.php
@@ -5579,6 +5632,7 @@
 /_vti_bin/*
 /_vti_pvt/service.pwd
 /_vti_pvt/zzcanary-40396ad2ec4657b9
+/_vti_pvt/zzcanary-78e02ea2fcebf3f3
 /_waku/*
 /_worker.js
 /_worker.js.map
@@ -5597,6 +5651,7 @@
 /a3.php
 /a31.php
 /a332.php
+/a3ampzmbipnkpxeqhqpsanCdefault.php
 /a3xGcWr65LM.php
 /a4.php
 /a4.php/wp-admin/index.php
@@ -5624,6 +5679,7 @@
 /aaa.php/getid3-core.php
 /aaaa.php
 /aaabbbccc
+/aabb.php
 /aaf.php
 /aafewc0k.php
 /aahana/worksec.php
@@ -5703,6 +5759,7 @@
 /acl.config.php
 /acm_certificate.json
 /acme-challenge/.env
+/acme-challengek.php
 /acme.php
 /acme/.env
 /acme_challenges/.env
@@ -5740,6 +5797,7 @@
 /actuator/sessions
 /actuator/threaddump
 /actuator/trace
+/actuator/zzcanary-654d29200126e5eb
 /actuator/zzcanary-9533e47700f04b7
 /actuator;/env;
 /acwfihfh.php
@@ -5943,6 +6001,7 @@
 /admin2
 /admin2.php
 /admin2/
+/admin403.php
 /admin404.php
 /admin836.php
 /adminLite/jQuery-File-Upload/server/php/index.php
@@ -6013,6 +6072,7 @@
 /admins.php
 /admins/crm/info.php
 /admins/server/info.php
+/adminwp.php
 /admir.php
 /admit-card.php
 /admlo.php
@@ -6122,6 +6182,7 @@
 /alfacgiapi/perl.alfa
 /alfacgiapi/perl.alfa.php
 /alfacgiapi/py.alfa
+/alfacgiapiwp.php
 /alfakun.php
 /alfanew.PHP7
 /alfanew.php
@@ -6351,6 +6412,7 @@
 /api_keys.yml
 /api_keys/sendgrid_keys.json
 /apikey.txt
+/apikey/natural.php
 /apikeys.json
 /apikeys.php
 /apis
@@ -6938,6 +7000,7 @@
 /assets/v3.php
 /assets/vendor-[hash].js
 /assets/worders_front/
+/assetsadmin.php
 /assfhjza.php
 /astab.php
 /astra/inc/fm.php
@@ -7835,6 +7898,7 @@
 /bin.zip
 /bin/.devenv
 /bin/.env
+/binalfa.php
 /bingo.php
 /bipas.php
 /bipzx.php
@@ -7940,6 +8004,7 @@
 /blog/wp-login.php
 /blog/xmlrpc.php
 /blog/xyn.php
+/blogai/issue.php
 /blogroll
 /blogs/%2eenv
 /blogs/.env
@@ -8153,6 +8218,7 @@
 /c1.php
 /c100.php
 /c4.php
+/c451f.php
 /c5007147cdindex.php
 /c55cdler.php
 /c6jpzOQvtPyeM9hdefault.php
@@ -8234,6 +8300,7 @@
 /catalog.zip
 /catalog/controller/mail/mailgun.php
 /catalog/controller/mail/sendgrid.php
+/catalogbypass.php
 /catuploadcsv.php
 /cb/
 /cbrfo.php
@@ -8453,6 +8520,7 @@
 /class-wp-block-editor-context-first.php
 /class-wp-block-metadata-registry.php
 /class-wp-block-method.php
+/class-wp-block-type.php
 /class-wp-cmd.php
 /class-wp-cmd.php/fied.php
 /class-wp-customize-date-time-control.php
@@ -8514,6 +8582,7 @@
 /class-wp-widget-media-audio-module.php
 /class-wp-widget-media-images.php
 /class-wp-widget-media-statement.php
+/class-wp-widget-tag.php
 /class-wp-widget-tags.php
 /class-wp-xmlrpc-server-other.php
 /class-wp.php
@@ -8685,6 +8754,7 @@
 /cnzcsfwm.php
 /co.php
 /cobaini.php
+/cocot.php
 /code.tar
 /code.tar.gz
 /code.zip
@@ -8726,8 +8796,10 @@
 /colors/blue/xboom.php
 /colors/coffee/cloud.php
 /colors/coffee/index.php
+/colors/coffee/mailer.php
 /colors/ectoplasm/about.php
 /colors/ectoplasm/mKSJUaFdm.php
+/colors/ectoplasm/wp-login.php
 /colors/index.php
 /colors/light/about.php
 /colors/light/alfa-rex.php
@@ -9528,6 +9600,7 @@
 /config/zoho.php
 /config/zoho_mail.php
 /config/zzcanary-4507a37503263638.json
+/config/zzcanary-fde680aacd9ab6e.json
 /config1.sql
 /config2.sql
 /configPCJ/f35.php
@@ -9642,6 +9715,7 @@
 /content/*
 /content/.env
 /content/debug.log
+/contentbypass.php
 /contentloader1.php
 /continuous.zip
 /contracts/.env
@@ -10011,6 +10085,7 @@
 /cxxuv.php
 /cyanamids.php
 /cyber.php
+/cybershell.php
 /cyberwarrior.php
 /cyl.php
 /cylul.php
@@ -10611,10 +10686,12 @@
 /director/login
 /directories/.env
 /dirs.php
+/disagimons.php
 /disagraeed.php
 /disagraeosc.php
 /disagraep.php
 /disagreed.php
+/disagreop.php
 /disagrsod.php
 /disagrsxr.php
 /discord.zip
@@ -10642,16 +10719,32 @@
 /dist/.env
 /dist/.git/config
 /dist/.vite/manifest.json
+/dist/about.php
+/dist/alfa-rex.php
 /dist/app.js.map
+/dist/autoload_classmap.php
+/dist/block-library/admin.php
 /dist/bundle.js.map
+/dist/components/about.php
 /dist/default.php
+/dist/edit-site/about.php
 /dist/edit-widgets/about.php
 /dist/edit-widgets/index.php
 /dist/js/app.[hash].js
+/dist/list-reusable-blocks/themes.php
 /dist/main.js.map
 /dist/manifest.json
+/dist/niil.php
+/dist/test.php
+/dist/vendor/vcard.php
 /dist/widgets/about.php
+/dist/wp-login.php
+/distadmin.php
+/distalfa.php
+/distbypass.php
+/distk.php
 /distribution.zip
+/distwp.php
 /division.zip
 /dj/index.php
 /django-blog/.env
@@ -10673,7 +10766,11 @@
 /do.php
 /doc.php
 /doc/.env
+/docadmin.php
+/docalfa.php
+/docbypass.php
 /docindex.php
+/dock.php
 /docker-cloud.yml
 /docker-compose%252eyml
 /docker-compose%2eyml
@@ -10736,6 +10833,8 @@
 /docs/i.php
 /docs/phpinfo.php
 /docs/swagger
+/docsadmin.php
+/docsalfa.php
 /document.php
 /documentation
 /documentation.zip
@@ -10754,6 +10853,7 @@
 /doesnotexist_9489
 /doesnotexist_9785
 /doiconvs
+/doiconvs.php
 /doko.php
 /dom.php
 /domain.zip
@@ -10862,9 +10962,11 @@
 /dynamodb.json
 /dynamodb_config.json
 /dyqvcfqv.php
+/dyui.php
 /dyxbc.php
 /dz.php
 /e
+/e-preview.php
 /e.php
 /e/data/images/arrow.gif
 /e/data/js/ajax.js
@@ -10906,18 +11008,23 @@
 /ecs/task-credentials.json
 /ecs/v4/credentials
 /ectoplasm.php
+/ed35f.php
 /edd.php
 /edge.zip
 /edit-comments.php
 /edit-css.php
+/edit-form.php
 /edit-tags.php
 /edit-video.php
 /edit-wolf.php
 /edit.php
 /edit.phphttps://win55.bike/ioxi-o.php
+/editor.php
 /editor/*
 /editor/FCKeditor/fckeditor.js
 /editor/fckeditor/fckeditor.js
+/editor/filemanager.php
+/editor/filemanager/updates.php
 /editor/plugins/filemanager/dialog.php
 /edorxrr.php
 /ee.php
@@ -10953,8 +11060,12 @@
 /elasticsearch/_search
 /elasticsearch_cluster_yml
 /elect.php
+/elementor/wp-error_log.php
+/elementor/wp-login.php
 /elementor/wp-wjvngrh.php
+/elements/filemanager.php
 /elements/udd.php
+/elements/wp-2019.php
 /elep.php
 /elf.php
 /elmah%252eaxd
@@ -11006,6 +11117,8 @@
 /encrypted.zip
 /encryption_key.txt
 /end.php
+/endpoints/atomlib.php
+/endpoints/class-wp-rest-attachment-controller.php
 /endpoints/index.php
 /engine.php
 /engine/%2eenv
@@ -11058,6 +11171,7 @@
 /env/example/.env
 /env/template/.env
 /envato-css.php
+/envato-market/inc/class-envato-market-github.php
 /enviar-recibo.php
 /environment
 /environment.js
@@ -11077,6 +11191,7 @@
 /er.php
 /ercor.php
 /erin1.PhP7
+/erinyani/asasx.php
 /ern1.PhP7
 /ern1.php
 /ernebypass.php
@@ -11109,6 +11224,7 @@
 /erp/time.php
 /erp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /erp/xampp/info.php
+/err.php
 /error.log
 /error.php
 /error/
@@ -11176,6 +11292,7 @@
 /etc/ssh/sshd_config
 /etc/ssl/private/server.key
 /etc/ssl/private/zzcanary-309a7e6a1a9373
+/etc/ssl/private/zzcanary-759fe7505a5a9d22
 /etc/ssmtp/ssmtp%252econf
 /etc/ssmtp/ssmtp%2econf
 /etc/sudoers
@@ -11389,6 +11506,7 @@
 /fffff.php
 /fffm.php
 /ffile.php
+/ffs.php
 /fgd.php
 /fgertreyersd.php
 /fgopb4cj.php
@@ -11398,6 +11516,7 @@
 /fi2.php
 /fi22.php
 /fictioner.php
+/fierza.php
 /fierzashell.php
 /figma.zip
 /filament
@@ -11501,6 +11620,7 @@
 /file88.php
 /file9.php
 /file_browser.php
+/file_uploadsbypass.php
 /fileas.php
 /filebrowser.php
 /filefuns
@@ -11638,6 +11758,7 @@
 /fonts/fontawesome-webfont.php
 /fonts/index.php
 /fonts/install.php
+/fonts/iqb.php
 /fonts/pass.php
 /footer.php
 /fopen.php
@@ -11998,6 +12119,7 @@
 /google-cloud/keys.json
 /google-credentials.json
 /google-key.json
+/google-seo-rank/module.php
 /google-service-account.json
 /google-services.json
 /google.php
@@ -12393,6 +12515,7 @@
 /i1.php
 /i6z19N.php
 /i7jxlwce.php
+/i99z7zzbwtpteujvv6s8hiCdefault.php
 /iKScdefault.php
 /iQps3ldefault.php
 /iR7SzrsOUEP.php
@@ -12807,6 +12930,7 @@
 /index26.php
 /index3.php
 /index4.php
+/index404.php
 /index_dev%2ephp/_profiler/open
 /index_dev.php
 /index_dev.php/_profiler/open
@@ -13040,6 +13164,7 @@
 /ix.php
 /ixDa12w6LRt.php
 /ixj.php
+/ixpsdyrw.php
 /ixtspjyt.php
 /iyjzstwk.php
 /iyy.php
@@ -13694,6 +13819,7 @@
 /libraries/phpmailer/xleet.php
 /libraries/vendor/updates.php
 /library/.env
+/library/about.php
 /libs-func.php
 /libs/.env
 /libs/.git/config
@@ -13715,6 +13841,7 @@
 /link.php/wp-content/plugins/wp-conflg.php
 /linkedin.zip
 /linkpreview/db.php
+/linkpreviewk.php
 /links
 /links/
 /links/add.php
@@ -14336,6 +14463,7 @@
 /media%252e%252e%252f%252e%252e%252fetc/passwd
 /media%252e%252e%252f.htpasswd
 /media%252e%252e%252fconfiguration.php
+/media-admin.php
 /media-new.php
 /media..%2f.htpasswd
 /media..%2fconfig.php
@@ -14450,6 +14578,7 @@
 /middleware.js
 /middleware.ts
 /midnight.php
+/mifta.ph
 /mifta.php
 /migrate.php
 /migrate/.env
@@ -14535,6 +14664,7 @@
 /modules/contrib/sendgrid_mail/sendgrid_mail.services.yml
 /modules/contrib/sendgrid_mail/sendgrid_mail.settings.php
 /modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po
+/modules/elfinder/connectors/php/connector.php
 /modules/ets_whatsapp/security.php
 /modules/fckeditor/fckeditor.js
 /modules/file.php
@@ -14653,6 +14783,7 @@
 /mysql-backup.tar
 /mysql-backup.tar.gz
 /mysql-backup.zip
+/mysql.php
 /mysql.sql
 /mysql.tar
 /mysql.tar.gz
@@ -15278,6 +15409,7 @@
 /pages/api/stripe.ts
 /pages/api/webhook.js
 /pages/doenterpagevariables.action
+/pagesk.php
 /pah.php
 /paku.php
 /palsy.php
@@ -15566,6 +15698,7 @@
 /pkey.sql
 /pkg/stripe/keys.go
 /pki-validation/
+/pki-validationwp.php
 /plans
 /platform/.env
 /playbook.yml
@@ -16010,6 +16143,7 @@
 /prototype.zip
 /providers.php
 /providers.tf
+/providers/as.php
 /providers/index.php
 /proxy
 /proxy.php
@@ -16543,6 +16677,7 @@
 /rgjrq.php
 /rh.php
 /rh1.php
+/rightbar_burgundy.php
 /rin.php
 /rip
 /rip.php
@@ -17572,6 +17707,7 @@
 /simattacker.php
 /simi.php
 /simple-shell.php
+/simple-upload.php
 /simple.php
 /simple/function.php
 /simshell.php
@@ -17711,6 +17847,7 @@
 /sk_test.txt
 /skaffold.yaml
 /sketch.zip
+/sketch/404.php
 /skizoo.php
 /sko.php
 /sktjlh5u.php
@@ -17826,6 +17963,7 @@
 /spa/backend/.env
 /spa/frontend/.env
 /spadex.php
+/spam.php
 /sparkpost-config.php
 /sparkpost.backup
 /sparkpost.bak
@@ -18298,6 +18436,7 @@
 /storage/debug.log
 /storage/debugbar
 /storage/debugbar/*.json
+/storage/download/admin.php
 /storage/exports
 /storage/files
 /storage/framework
@@ -18346,6 +18485,7 @@
 /storage/logs/stripe_transactions.log
 /storage/logs/worker.log
 /storage/logs/zzcanary-55b7d491f42c0e1
+/storage/logs/zzcanary-7e071cd1a71f9087
 /storage/mandrill.json
 /storage/mandrill_templates.json
 /storage/oauth-personal-access.key
@@ -18642,6 +18782,7 @@
 /task.php
 /tasks.zip
 /tax.php
+/taxonomy.php
 /tbmfx.php
 /tbute.php
 /tcp.php
@@ -19011,6 +19152,7 @@
 /textures.zip
 /tf.php
 /tfile.php
+/tflow/goat.php
 /tflow/up.php
 /tfm.php
 /tgrs.php
@@ -19286,6 +19428,7 @@
 /tuyul.php
 /tw0.php
 /twenty.php
+/twenty/twenty.php
 /twentyfive/include.php
 /twentytwentyfour/about.php
 /twentytwentyfour/bypass.php
@@ -19294,6 +19437,7 @@
 /twentytwentyfour/wonder.php
 /twentytwentythree/patterns/index.php
 /twentytwentytwo/assets/fonts/index.php
+/twentytwentytwo/atomlib.php
 /twentytwentytwo/index.php
 /twentytwentytwo/waf_defender.php
 /twilio-config.php
@@ -19492,6 +19636,7 @@
 /uploads/v2.php
 /uploads/wpxadmin.php
 /uploads/xsec.php
+/uploadsadmin.php
 /uploadshell.php
 /uploadx.php
 /uploartg.php
@@ -19556,6 +19701,7 @@
 /user/xampp/info.php
 /user1.sql
 /user_1.sql
+/user_guidek.php
 /user_secrets.yml
 /userfuns.php
 /userpanel.sql
@@ -19928,6 +20074,7 @@
 /vendor/symfony/mime/Message.php
 /vendor/tf_updater/index.php
 /vendors.js.map
+/vendorswp.php
 /vendors~main.f286c0f60bdc707d91a8.bundle.js
 /venom.php
 /venv/
@@ -20047,6 +20194,7 @@
 /water.php
 /waw.php
 /wawaa.php
+/wawe.php
 /wawe_gH298.php
 /wax.php
 /wb.php
@@ -20375,6 +20523,7 @@
 /widgets.php
 /widgets/about.php
 /widgets/autoload_classmap.php
+/widgets/browser.php
 /widgets/bypass.php
 /widgets/cloud.php
 /widgets/index.php
@@ -21114,6 +21263,7 @@
 /wp-admin/zwso.php
 /wp-admin/zz.php
 /wp-admin/zzcanary-1dfd5d782c67be92.php
+/wp-admin/zzcanary-68eb52b9f56a40e3.php
 /wp-admins.php
 /wp-advaced.php
 /wp-aespa.php
@@ -21340,6 +21490,7 @@
 /wp-content/css/
 /wp-content/data.sql
 /wp-content/database.php
+/wp-content/db-cache.php
 /wp-content/db-status.php
 /wp-content/db.sql
 /wp-content/db_backup.sql
@@ -22018,6 +22169,7 @@
 /wp-content/themes/news-portal/sitebar.php
 /wp-content/themes/news-portal/user-install.php
 /wp-content/themes/news-portal/zdata.php
+/wp-content/themes/oceanwp/functions.php
 /wp-content/themes/plugin-install.php
 /wp-content/themes/plugins.php
 /wp-content/themes/pridmag/
@@ -22070,6 +22222,7 @@
 /wp-content/themes/tutorstarter/assets/dist/images/
 /wp-content/themes/twenty/
 /wp-content/themes/twenty/twenty.php
+/wp-content/themes/twentyeleven/functions.php
 /wp-content/themes/twentyfifteen/content-search.bar.php
 /wp-content/themes/twentyfive/
 /wp-content/themes/twentyfive/include.php
@@ -22077,8 +22230,10 @@
 /wp-content/themes/twentynineteen/sass/forms/
 /wp-content/themes/twentynineteen/sass/site/
 /wp-content/themes/twentythirteen/
+/wp-content/themes/twentythirteen/functions.php
 /wp-content/themes/twentytwenty/404.php
 /wp-content/themes/twentytwenty/assets/fonts/inter/index.php
+/wp-content/themes/twentytwenty/functions.php
 /wp-content/themes/twentytwentyfive/
 /wp-content/themes/twentytwentyfive/admin.php
 /wp-content/themes/twentytwentyfive/assets/
@@ -22175,6 +22330,7 @@
 /wp-content/upgrade/wp-login.php
 /wp-content/upload.php
 /wp-content/upload/
+/wp-content/uploads
 /wp-content/uploads-webpc/
 /wp-content/uploads.tar
 /wp-content/uploads.tar.gz
@@ -22383,6 +22539,7 @@
 /wp-dengko.php
 /wp-denmono.php
 /wp-der.php
+/wp-doft/noimg.php
 /wp-domain.php
 /wp-edit.php
 /wp-editor.php
@@ -23665,6 +23822,7 @@
 /wp-png.php
 /wp-pop.php
 /wp-post-data.php
+/wp-post-editor.php
 /wp-pownton.php
 /wp-pp.php
 /wp-ppoxua4.php
@@ -23848,6 +24006,7 @@
 /wpp-config.php~
 /wpp.php
 /wpputty.php
+/wpr-addons/forms/rk.php
 /wps.php
 /wpsml-sys.php
 /wpssl.php
@@ -24024,6 +24183,7 @@
 /x2x.php
 /x3.php
 /x3x.php
+/x402.ph
 /x402.php
 /x50.php
 /x56.php
@@ -24381,9 +24541,15 @@
 /zzcanary-16f4d68c1f0d72ee.xml
 /zzcanary-2121d1cc9551264d.json
 /zzcanary-2723322589d91c0.yml
+/zzcanary-40919c5afcad728a.php
+/zzcanary-45d78e8711e7e91b.xml
+/zzcanary-5627d71147c748a0.sql
 /zzcanary-58d2e7e9f52243f4
 /zzcanary-60386c69c61c166e.sql
+/zzcanary-63ac4b910357f1a3
 /zzcanary-681bfaf14167b8b3.php
+/zzcanary-734ff671058810a2.json
+/zzcanary-7b3ec812cfaa0333.yml
 /zzkhe.php
 /zzx.php
 /zzxy.php
