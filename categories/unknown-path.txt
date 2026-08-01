@@ -2304,8 +2304,10 @@
 /.terraform/stripe.tfstate
 /.terraform/terraform.tfstate
 /.terraformrc
+/.tmb
 /.tmb/
 /.travis.yml
+/.user.ini
 /.vault-token
 /.venv
 /.venv/
@@ -2336,11 +2338,14 @@
 /.well-known/acme-challenge/block-supports/
 /.well-known/acme-challenge/file
 /.well-known/agent-card.json
+/.well-known/agent.json
 /.well-known/atproto-did
 /.well-known/carbon.txt
 /.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0
 /.well-known/discord
 /.well-known/jwks.json
+/.well-known/mcp
+/.well-known/mcp/server-card.json
 /.well-known/openid-configuration
 /.well-known/pki-validation
 /.well-known/pki-validation/
@@ -4637,6 +4642,7 @@
 /css/ALFA_DATA/alfacgiapi/perl.alfa
 /css/colors/
 /css/colors/blue/
+/css/colors/ocean/
 /css/dist/editor/
 /css/dmtixucz/golden-access/
 /current.tar
@@ -5947,6 +5953,7 @@
 /lib/stripe.ts
 /lib/stripe_helper.rb
 /libraries.zip
+/libraries/legacy/
 /license.key
 /license.txt
 /license.zip
@@ -6225,6 +6232,7 @@
 /mifta.ph
 /migration.zip
 /mini
+/minishell
 /mirror.zip
 /misc.zip
 /miscellaneous.zip
@@ -6307,6 +6315,7 @@
 /new.zip
 /new/
 /new/%2eenv
+/newlms/assets/frontend/
 /newrelic.ini
 /newrelic.yml
 /newrelic.zip
@@ -8903,6 +8912,7 @@
 /wp-content/plugins/
 /wp-content/plugins/Cache/
 /wp-content/plugins/WordPressCore/
+/wp-content/plugins/akbifoe/
 /wp-content/plugins/api_keys.json
 /wp-content/plugins/apikey/
 /wp-content/plugins/aws_config.json
@@ -8920,12 +8930,17 @@
 /wp-content/plugins/core-stab/
 /wp-content/plugins/core/
 /wp-content/plugins/cp-pro/
+/wp-content/plugins/custom/
 /wp-content/plugins/dummyyummy/
 /wp-content/plugins/easy-themes-manager/
+/wp-content/plugins/efhkgws/
+/wp-content/plugins/elementor-pro/modules/woocommerce/skins/
 /wp-content/plugins/elementor/
 /wp-content/plugins/elementor/assets/js/packages/editor-app-bar/
 /wp-content/plugins/elementor/modules/floating-buttons/classes/render/
+/wp-content/plugins/elementor/modules/landing-pages/documents/
 /wp-content/plugins/email-subscribers/
+/wp-content/plugins/envato-market/inc/
 /wp-content/plugins/erin/
 /wp-content/plugins/erin/yani/
 /wp-content/plugins/erinyani/
@@ -8936,8 +8951,11 @@
 /wp-content/plugins/giftware/changelog.txt
 /wp-content/plugins/giftware/public/js/ultimate-woocommerce-gift-card-public.js
 /wp-content/plugins/google-seo-rank/
+/wp-content/plugins/gvxnffc/
 /wp-content/plugins/hello-dolly/
+/wp-content/plugins/html404/
 /wp-content/plugins/ioptimization/
+/wp-content/plugins/ioxi/
 /wp-content/plugins/ioxi/ioxi/
 /wp-content/plugins/js-support-ticket/
 /wp-content/plugins/jupiterx-core/
@@ -8983,6 +9001,7 @@
 /wp-content/plugins/updraftplus/css/updraftplus-notices.css
 /wp-content/plugins/updraftplus/js/updraft-admin-restore.js
 /wp-content/plugins/updraftplus/readme.txt
+/wp-content/plugins/vslnxrk/
 /wp-content/plugins/watch/
 /wp-content/plugins/woocommerce/readme.txt
 /wp-content/plugins/wp-cache-sys/
@@ -9020,6 +9039,7 @@
 /wp-content/themes/classic/inc/
 /wp-content/themes/digital-download/
 /wp-content/themes/evita/
+/wp-content/themes/h47vbpo2/
 /wp-content/themes/hideo/
 /wp-content/themes/jupiter/framework/
 /wp-content/themes/neve/assets/apps/dashboard/build/
@@ -9068,6 +9088,7 @@
 /wp-content/uploads/2018/03/
 /wp-content/uploads/2020/10/official-logo-512x512.png
 /wp-content/uploads/2021/
+/wp-content/uploads/2021/03/
 /wp-content/uploads/2021/10/
 /wp-content/uploads/2022/
 /wp-content/uploads/2022/07/
@@ -9209,6 +9230,7 @@
 /wp-includes/blocks/comment-date/
 /wp-includes/blocks/comments-pagination-numbers/
 /wp-includes/blocks/details/
+/wp-includes/blocks/file/
 /wp-includes/blocks/footnotes/
 /wp-includes/blocks/freeform/
 /wp-includes/blocks/gallery/
@@ -9371,6 +9393,7 @@
 /wp/
 /wp/%2eenv
 /wp/wp-admin/includes/
+/wp/wp-content/plugins/ioptimi/
 /wp/wp-json/batch/v1
 /wp/wp-json/gravitysmtp/v1/settings
 /wp/wp-json/gravitysmtp/v1/stats
