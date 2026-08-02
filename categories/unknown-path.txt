@@ -3142,6 +3142,7 @@
 /admin/login
 /admin/logs
 /admin/logs/laravel.log
+/admin/plugins/uploadify/uploadify.css
 /admin/public/js/uploadify/uploadify.css
 /admin/pulse
 /admin/register
@@ -8772,6 +8773,7 @@
 /wordpress/wp-content/themes/twentytwenty/
 /wordpress/wp-content/uploads/
 /wordpress/wp-includes/
+/wordpress/wp-includes/IXR/
 /wordpress/wp-includes/blocks/accordion/
 /wordpress/wp-includes/style-engine/
 /wordpress/wp-json/batch/v1
@@ -9004,6 +9006,7 @@
 /wp-content/plugins/vslnxrk/
 /wp-content/plugins/watch/
 /wp-content/plugins/woocommerce/readme.txt
+/wp-content/plugins/wordfence/
 /wp-content/plugins/wp-cache-sys/
 /wp-content/plugins/wp-catcher/
 /wp-content/plugins/wp-file-manager/lib/
@@ -9075,6 +9078,7 @@
 /wp-content/updraft.zip
 /wp-content/updraft/
 /wp-content/upgrade
+/wp-content/upgrade-temp-backup/
 /wp-content/upgrade-temp-backup/photo-gallery/
 /wp-content/upgrade-temp-backup/plugins/images/
 /wp-content/upgrade/
@@ -9303,6 +9307,7 @@
 /wp-includes/js/tinymce/skins/lightgray/img/
 /wp-includes/js/tinymce/skins/wordpress/images/
 /wp-includes/js/tinymce/themes/
+/wp-includes/js/tinymce/themes/advanced/skins/default/
 /wp-includes/js/tinymce/themes/inlite/
 /wp-includes/js/tinymce/utils/
 /wp-includes/js/tinymce/utils/%20
@@ -9313,7 +9318,9 @@
 /wp-includes/pomo
 /wp-includes/pomo/
 /wp-includes/random_compat/
+/wp-includes/rest-api
 /wp-includes/rest-api/
+/wp-includes/rest-api/ZVQCc/
 /wp-includes/rest-api/endpoints/
 /wp-includes/rest-api/fields/
 /wp-includes/rest-api/search/
