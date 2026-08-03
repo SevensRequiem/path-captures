@@ -284,7 +284,9 @@
 /.alf.php
 /.backup/phpinfo.php
 /.bod/.ll/ss.php
+/.cfg_aae.php
 /.conf.php
+/.core_2b9.php
 /.dela.php
 /.dha.php
 /.dj/index.php
@@ -1384,6 +1386,7 @@
 /0x1337.php
 /0x1949.php
 /0x19493QU8ZQ.php
+/0x1ss.php
 /0x55.php
 /0xD.php
 /0xs.php
@@ -1837,6 +1840,7 @@
 /Core-Econ/upH.php
 /Core-EconX/up.php
 /Core-wp.php
+/Core.php
 /Cpanel.php
 /Crypto.php
 /CtbwG6DoKi9.php
@@ -1931,6 +1935,7 @@
 /Ipv6.php
 /IxJqO3ZfPN4.php
 /JBClHUIw9TW.php
+/JGv6e06cAQ.php
 /JKydQumkIarjMJ4default.php
 /JMckCndy4s3.php
 /Jar.php/aa.php
@@ -1984,6 +1989,7 @@
 /PHPMailer.php
 /PHPinfo.php
 /PXmpeIJJ.php
+/Parser.php
 /PkZqAth1FD5.php
 /PlBpgHxo9Lt.php
 /Public/initJs.php
@@ -2003,8 +2009,10 @@
 /R8VAeb4LThg.php
 /RIP.php
 /Radio.php
+/Rating.php
 /RcIOBhCiG6.php
 /Renderer.php
+/Restriction.php
 /RioX.php
 /Rk41.php
 /RsR.php
@@ -2531,6 +2539,8 @@
 /an7.php
 /an8.php
 /an9.php
+/analytics.php
+/analyze.php
 /anbu.php
 /anczg.php
 /and.php
@@ -2904,6 +2914,7 @@
 /auth.php
 /auth/oauth2/lib.php
 /author-template-less.php
+/author-template.php
 /auto.php
 /auto_seo.php
 /autodiagnosis.php
@@ -3605,6 +3616,7 @@
 /class-wp-customize-nav-menu-section-boolean.php
 /class-wp-date-query-beta.php
 /class-wp-dependency-get.php
+/class-wp-error.php
 /class-wp-filesystem-direct.php
 /class-wp-font-face.php
 /class-wp-font-library.php
@@ -3693,6 +3705,7 @@
 /class_api.php
 /class_appfun.php
 /classc.php
+/classes.php
 /classes/Mail.php
 /classfuns.php
 /classgoto24.php
@@ -3703,6 +3716,7 @@
 /claw.php
 /clay.php
 /clcdu.php
+/clean.php
 /clen.php
 /cli/7.php
 /cli_bootstrap.php
@@ -4533,6 +4547,7 @@
 /current/service/phpinfo.php
 /current/xampp/info.php
 /current/xampp/phpinfo.php
+/custom-background.php
 /custom-classname-merge.php
 /custom_file_3_1768522008.php
 /customer-io.php
@@ -5156,6 +5171,7 @@
 /eterezrezt.php
 /ethnogr.php
 /eu.php
+/eubrzjghnc.php
 /euhpb.php
 /euocu.php
 /eursi.php
@@ -5184,6 +5200,7 @@
 /exp.php
 /explorer/index_.php
 /export.php
+/export_data.php
 /exported/phpinfo.php
 /ext.php
 /ext/settings.php
@@ -5269,6 +5286,7 @@
 /feature/services/info.php
 /feature/services/phpinfo.php
 /fedora.php
+/feed-rss.php
 /feed-rss2-queue.php
 /feed-rsss.php
 /feed.php
@@ -5404,6 +5422,7 @@
 /fk.php7
 /fkohd.php
 /flap.php
+/flash.php
 /fleen.php
 /flex.php
 /flower.php
@@ -5509,6 +5528,7 @@
 /function/time.php
 /function/xampp/phpinfo.php
 /functions.php
+/functions.wp-styles.php
 /fungsi.php
 /funtion.php
 /fv.php
@@ -5564,6 +5584,7 @@
 /gdftps.php
 /gdn.php
 /ge.php
+/gears-manifest.php
 /gebase.php
 /gebase.php69
 /gec.php
@@ -5873,6 +5894,7 @@
 /id.php
 /idea.php
 /identity.php
+/idkyuhco.php
 /ids.php
 /idx.php
 /iee52ruz0s81ndrdefault.php
@@ -6004,6 +6026,7 @@
 /img/wp-admin/class.php
 /img/xmrlpc.php
 /import.php
+/import_data.php
 /impressum.php
 /impressumde.php
 /impressumen.php
@@ -6471,6 +6494,7 @@
 /lang.php
 /lang/en.php
 /lang/es.php
+/langs.php
 /language/cron.php
 /lanka.php
 /lanou.php
@@ -6627,6 +6651,7 @@
 /libraries/phpmailer/updates.php
 /libraries/phpmailer/xleet.php
 /libraries/vendor/updates.php
+/library.php
 /library/about.php
 /library/index.php
 /libs-func.php
@@ -6891,6 +6916,7 @@
 /mailer/time.php
 /mailer_config.php
 /mailer_dsn.php
+/mailer_send.php
 /mailer_url.php
 /mailershell.php
 /mailgun-config.php
@@ -7160,6 +7186,7 @@
 /moto.php
 /motu.php
 /mountps.php
+/mpv4w-2022.php
 /mpvloi.php
 /mpxct.php
 /mr.php
@@ -7229,6 +7256,7 @@
 /ndak/1.php
 /ne2026.php
 /network.php
+/networks.php
 /new-ui/about.php
 /new-ui/ad-admin/libs/config.php
 /new-ui/home.php
@@ -7340,6 +7368,7 @@
 /nrmkg.php
 /nrmvjhdu.php
 /nsexz.php
+/nt.php
 /ntaps.php
 /ntfs.php
 /nti.php
@@ -7490,7 +7519,9 @@
 /ova-tools.php
 /ova-wso.php
 /ova.php
+/ovaajwoju.php
 /ovaaotqdq.php
+/ovaizmsld.php
 /ovajckrrj.php
 /ovajelmxf.php
 /ovajkgsbb.php
@@ -7685,6 +7716,7 @@
 /pip.php
 /pixelpages/application/views/auth/common/about.php7
 /pjkkq.php
+/pki-validation.php
 /pki-validationalfa.php
 /pki-validationk.php
 /pki-validationwp.php
@@ -7723,6 +7755,7 @@
 /plupload/examples/upload.php
 /plus/90sec.php
 /plus/mytag_js.php
+/plyaylut.php
 /pm.php
 /pm90apbv3v5fvgkbguyiCdefault.php
 /pmemek.php
@@ -8138,6 +8171,7 @@
 /re.php
 /rea889y.php
 /read.php
+/reading.php
 /readme.php
 /rebaxbqw.php
 /receiver.php
@@ -8158,6 +8192,7 @@
 /rep.php
 /repair.php
 /repeater.php
+/reporter.php
 /repurify.php
 /req.php
 /request.php
@@ -8184,6 +8219,7 @@
 /revealability.php
 /reviall.php
 /revision.php
+/revisions-js.php
 /revslider/includes/external/page/index.php
 /rex.php
 /rex/l/index.php
@@ -8687,6 +8723,7 @@
 /spawns.php
 /spcA2qaMDHu.php
 /special.php
+/spell.php
 /spip.php
 /spire.php
 /sppxcanzbu.php
@@ -8694,6 +8731,7 @@
 /spurwing.php
 /spytaiqe.php
 /sqaoi.php
+/sqcjlcoruo.php
 /sql-test.php
 /sql.php
 /sql.php7
@@ -8817,6 +8855,7 @@
 /stats.php
 /status.php
 /stdin.php
+/stem.php
 /sterJs.php
 /stg/api/info.php
 /stg/current/info.php
@@ -9191,6 +9230,7 @@
 /themes/zMousse/otuz1.php
 /themes/zmousse/otuz1.php
 /themes4.php
+/themes7.php
 /thh.php
 /thickbox.php
 /think.php
@@ -9905,6 +9945,7 @@
 /wp-1ogin.php
 /wp-2018.php
 /wp-2019.php
+/wp-2025.php
 /wp-22.php
 /wp-3x94erjd.php
 /wp-4doption1.php
@@ -12593,6 +12634,7 @@
 /wp-wp.php
 /wp-wpbak.php
 /wp-ws68.php
+/wp-wso.php
 /wp-wz.php
 /wp-x.php
 /wp-x7.php

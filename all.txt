@@ -2465,6 +2465,7 @@
 /.cache
 /.cache/payment.json
 /.cargo/credentials
+/.cfg_aae.php
 /.circleci/.env
 /.circleci/config.yml
 /.circleci/configs/development.yml
@@ -2495,6 +2496,7 @@
 /.config/git/credentials
 /.config/op/config
 /.continue/config.json
+/.core_2b9.php
 /.cpanel/caches/config/.env
 /.credentials
 /.credentials.cfg
@@ -4297,6 +4299,7 @@
 /0x1337.php
 /0x1949.php
 /0x19493QU8ZQ.php
+/0x1ss.php
 /0x55.php
 /0xD.php
 /0xs.php
@@ -4904,6 +4907,7 @@
 /Core-Econ/upH.php
 /Core-EconX/up.php
 /Core-wp.php
+/Core.php
 /Cpanel.php
 /Crypto.php
 /CtbwG6DoKi9.php
@@ -5037,6 +5041,7 @@
 /Ipv6.php
 /IxJqO3ZfPN4.php
 /JBClHUIw9TW.php
+/JGv6e06cAQ.php
 /JKydQumkIarjMJ4default.php
 /JMckCndy4s3.php
 /Jar.php/aa.php
@@ -5112,6 +5117,7 @@
 /PHPMailer.php
 /PHPinfo.php
 /PXmpeIJJ.php
+/Parser.php
 /Passportjs/.env
 /Pipfile
 /Pipfile.lock
@@ -5142,6 +5148,7 @@
 /README.md
 /RIP.php
 /Radio.php
+/Rating.php
 /RcIOBhCiG6.php
 /ReactClient/.env
 /Release.zip
@@ -5149,6 +5156,7 @@
 /Requests/Exception/
 /Requests/Transport/
 /Requests/Utility/
+/Restriction.php
 /RioX.php
 /Rk41.php
 /RsR.php
@@ -6322,7 +6330,9 @@
 /an8.php
 /an9.php
 /anaconda/.env
+/analytics.php
 /analytics.zip
+/analyze.php
 /anbu.php
 /anczg.php
 /and.php
@@ -7161,6 +7171,7 @@
 /authLogin.cgi
 /authentication.zip
 /author-template-less.php
+/author-template.php
 /authorization.zip
 /auto.php
 /auto_seo.php
@@ -8658,6 +8669,7 @@
 /class-wp-customize-nav-menu-section-boolean.php
 /class-wp-date-query-beta.php
 /class-wp-dependency-get.php
+/class-wp-error.php
 /class-wp-filesystem-direct.php
 /class-wp-font-face.php
 /class-wp-font-library.php
@@ -8748,6 +8760,7 @@
 /class_api.php
 /class_appfun.php
 /classc.php
+/classes.php
 /classes/Mail.php
 /classfuns.php
 /classgoto24.php
@@ -8759,6 +8772,7 @@
 /claw.php
 /clay.php
 /clcdu.php
+/clean.php
 /clen.php
 /clerk/sso-callback
 /clerk/webhook
@@ -10138,6 +10152,7 @@
 /crop/admin.php
 /crop/uword.php
 /crossdomain.xml
+/crusader-404-probe
 /cryo_project/.env
 /crystal.php
 /cs.php
@@ -10232,6 +10247,7 @@
 /current/service/phpinfo.php
 /current/xampp/info.php
 /current/xampp/phpinfo.php
+/custom-background.php
 /custom-classname-merge.php
 /custom.zip
 /custom/.env
@@ -11487,6 +11503,7 @@
 /eterezrezt.php
 /ethnogr.php
 /eu.php
+/eubrzjghnc.php
 /euhpb.php
 /euocu.php
 /eursi.php
@@ -11557,6 +11574,7 @@
 /export.sql
 /export.zip
 /export/.env
+/export_data.php
 /exported/phpinfo%2ephp
 /exported/phpinfo.php
 /exports/db.sql
@@ -11673,6 +11691,7 @@
 /fedex/.env
 /fedora.php
 /feed
+/feed-rss.php
 /feed-rss2-queue.php
 /feed-rsss.php
 /feed.php
@@ -11912,6 +11931,7 @@
 /fk.php7
 /fkohd.php
 /flap.php
+/flash.php
 /flask.zip
 /flask/.env
 /flask_test_uploads/.env
@@ -12090,6 +12110,7 @@
 /function/time.php
 /function/xampp/phpinfo.php
 /functions.php
+/functions.wp-styles.php
 /functions/.env
 /functions/.runtimeconfig.json
 /functions/email/mandrill.js
@@ -12191,6 +12212,7 @@
 /gdftps.php
 /gdn.php
 /ge.php
+/gears-manifest.php
 /gebase.php
 /gebase.php69
 /gec.php
@@ -12753,6 +12775,7 @@
 /idea.php
 /identity
 /identity.php
+/idkyuhco.php
 /ids.php
 /idx.php
 /iee52ruz0s81ndrdefault.php
@@ -13001,6 +13024,7 @@
 /import.php
 /import.zip
 /import/.env
+/import_data.php
 /impressum
 /impressum.php
 /impressumde.php
@@ -13758,6 +13782,7 @@
 /lang.php
 /lang/en.php
 /lang/es.php
+/langs.php
 /language/cron.php
 /language/en-GB/en-GB.xml
 /lanka.php
@@ -14042,6 +14067,7 @@
 /libraries/phpmailer/updates.php
 /libraries/phpmailer/xleet.php
 /libraries/vendor/updates.php
+/library.php
 /library/.env
 /library/about.php
 /library/index.php
@@ -14466,6 +14492,7 @@
 /mailer_dsn.php
 /mailer_dsn_keys.js
 /mailer_dsn_keys.json
+/mailer_send.php
 /mailer_url.php
 /mailer_url_keys.js
 /mailer_url_keys.json
@@ -14974,6 +15001,7 @@
 /motu.php
 /mountps.php
 /moveitisapi/moveitisapi.dll
+/mpv4w-2022.php
 /mpvloi.php
 /mpxct.php
 /mr.php
@@ -15091,6 +15119,7 @@
 /nest/.env
 /netlify.toml
 /network.php
+/networks.php
 /new
 /new-js/.env
 /new-ui/about.php
@@ -15286,6 +15315,7 @@
 /nsexz.php
 /nsfw
 /nsfw/
+/nt.php
 /ntaps.php
 /ntfs.php
 /nti.php
@@ -15562,7 +15592,9 @@
 /ova-tools.php
 /ova-wso.php
 /ova.php
+/ovaajwoju.php
 /ovaaotqdq.php
+/ovaizmsld.php
 /ovajckrrj.php
 /ovajelmxf.php
 /ovajkgsbb.php
@@ -15964,6 +15996,7 @@
 /pk_test.txt
 /pkey.sql
 /pkg/stripe/keys.go
+/pki-validation.php
 /pki-validation/
 /pki-validationalfa.php
 /pki-validationk.php
@@ -16024,6 +16057,7 @@
 /plupload/examples/upload.php
 /plus/90sec.php
 /plus/mytag_js.php
+/plyaylut.php
 /pm.php
 /pm90apbv3v5fvgkbguyiCdefault.php
 /pma/
@@ -16785,6 +16819,7 @@
 /react/config/.env
 /react_todo/.env
 /read.php
+/reading.php
 /readme.html
 /readme.md
 /readme.php
@@ -16848,6 +16883,7 @@
 /repo.zip
 /repo/.env
 /report.zip
+/reporter.php
 /reports.zip
 /repos/.env
 /repository.zip
@@ -16947,6 +16983,7 @@
 /reverb/redis
 /reviall.php
 /revision.php
+/revisions-js.php
 /revslider/includes/external/page/index.php
 /rex.php
 /rex/l/index.php
@@ -18288,6 +18325,7 @@
 /spearmint/.env
 /special.php
 /special.zip
+/spell.php
 /spikes/config-material-app/.env
 /spip.php
 /spire.php
@@ -18298,6 +18336,7 @@
 /spurwing.php
 /spytaiqe.php
 /sqaoi.php
+/sqcjlcoruo.php
 /sql-backup.tar
 /sql-backup.tar.gz
 /sql-backup.zip
@@ -18673,6 +18712,7 @@
 /stderr
 /stdin.php
 /stdout
+/stem.php
 /sterJs.php
 /stg/.env
 /stg/.env.local
@@ -19514,6 +19554,7 @@
 /themes/zMousse/otuz1.php
 /themes/zmousse/otuz1.php
 /themes4.php
+/themes7.php
 /thh.php
 /thickbox.php
 /think.php
@@ -21005,6 +21046,7 @@
 /wp-2024.tar.gz
 /wp-2024.zip
 /wp-20240527.zip
+/wp-2025.php
 /wp-2025.tar
 /wp-2025.tar.gz
 /wp-2025.zip
@@ -24345,6 +24387,7 @@
 /wp-wp.php
 /wp-wpbak.php
 /wp-ws68.php
+/wp-wso.php
 /wp-wz.php
 /wp-x.php
 /wp-x7.php
