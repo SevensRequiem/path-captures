@@ -2057,6 +2057,7 @@
 /.aws_secrets.json
 /.azure-pipelines.yml
 /.azure/
+/.azure/azureProfile.json
 /.azure/credentials
 /.babelrc
 /.backup.tar
@@ -2542,7 +2543,9 @@
 /:6379
 /:8983
 /@fs/etc/passwd
+/@fs/home/node/.aws/credentials
 /@fs/proc/self/environ
+/@fs/root/.aws/credentials
 /@vite-hmr
 /@vite/client
 /@vite/env
@@ -3114,6 +3117,7 @@
 /admin.zip
 /admin/
 /admin/*
+/admin/.aws/credentials
 /admin/FCKeditor/fckeditor.js
 /admin/Files/
 /admin/artisan
@@ -3203,6 +3207,7 @@
 /alpha
 /alpha.zip
 /altair
+/amazon/credentials
 /amplify.yml
 /amplify/.config/local-aws-info.json
 /amplify/team-provider-info%252ejson
@@ -3322,6 +3327,7 @@
 /app/(group)/layout
 /app/(group)/page
 /app/*
+/app/.aws/credentials
 /app/.environment
 /app/.gitconfig
 /app/.gitignore
@@ -3764,6 +3770,7 @@
 /backend.zip
 /backend/%252eenv
 /backend/%2eenv
+/backend/.aws/credentials
 /backend/.gitconfig
 /backend/.gitignore
 /backend/actuator/configprops
@@ -4125,6 +4132,7 @@
 /cgi-bin/php81/php-cgi.exe
 /cgi-bin/php82/php-cgi.exe
 /cgi-bin/php83/php-cgi.exe
+/cgi-bin/test
 /cgi_bin/
 /changelog.txt
 /changelog.zip
@@ -4624,12 +4632,15 @@
 /credentials.yml
 /credentials.zip
 /credentials/%61dmin
+/credentials/amazon.txt
 /credentials/api
 /credentials/aws.env
+/credentials/aws.txt
 /credentials/aws_keys.env
 /credentials/payment.json
 /credentials/service-account.json
 /credentials/stripe.json
+/creds.json
 /creds.zip
 /cron
 /cron.sh
@@ -5092,6 +5103,7 @@
 /example.env
 /example.zip
 /exceptions.zip
+/execute
 /experimental
 /experimental.zip
 /explore
@@ -5288,6 +5300,7 @@
 /gcp_key.json
 /general.zip
 /geoserver/ows
+/geoserver/wfs
 /get/config
 /getcmd
 /ghost.zip
@@ -6760,6 +6773,7 @@
 /private_key
 /private_key.pem
 /private_keys
+/privatekey.json
 /privatekey.key
 /privatekey.pem
 /privkey.pem
@@ -7052,6 +7066,7 @@
 /rpc.zip
 /rss.xml
 /ruby.zip
+/run
 /run.sh
 /run.zip
 /run/secrets/kubernetes.io/serviceaccount/token
@@ -8091,6 +8106,7 @@
 /template/
 /templates
 /templates.zip
+/templates/
 /templates/emails/
 /templates/mandrill/
 /templates/sendgrid/
@@ -8713,6 +8729,7 @@
 /well-known/pki-validation
 /wercker.yml
 /werkzeug/console
+/wfs
 /whatsapp.zip
 /whm
 /whm.zip
@@ -9015,6 +9032,8 @@
 /wp-content/plugins/wp-google-map-gold/Licensing/README_License.txt
 /wp-content/plugins/wp-mail-smtp/sendgrid_keys.json
 /wp-content/plugins/wp-mail-smtp/tmp/debug.log
+/wp-content/plugins/wp-migrate-db-pro/readme.txt
+/wp-content/plugins/wp-migrate-db/readme.txt
 /wp-content/plugins/wp-security-audit-log/
 /wp-content/plugins/wp-security-audit-log/readme.txt
 /wp-content/plugins/wp-smtp/debug.log
@@ -9043,6 +9062,7 @@
 /wp-content/themes/classic/inc/
 /wp-content/themes/digital-download/
 /wp-content/themes/evita/
+/wp-content/themes/fswefy0o/
 /wp-content/themes/h47vbpo2/
 /wp-content/themes/hideo/
 /wp-content/themes/jupiter/framework/
@@ -9072,6 +9092,7 @@
 /wp-content/themes/twentytwentyone/
 /wp-content/themes/twentytwentythree/patterns/
 /wp-content/themes/twentytwentytwo/assets/fonts/
+/wp-content/themes/twentytwentytwo/styles/
 /wp-content/themes/twentytwentytwo/templates/
 /wp-content/themes/wp-pridmag/
 /wp-content/updraft.tar
@@ -9100,6 +9121,7 @@
 /wp-content/uploads/2023/
 /wp-content/uploads/2023/02/1677572030-814390417fe413b.png
 /wp-content/uploads/2023/03/
+/wp-content/uploads/2023/05/
 /wp-content/uploads/2023/08/
 /wp-content/uploads/2023/08/logo-gold.png
 /wp-content/uploads/2024/
@@ -9136,6 +9158,7 @@
 /wp-content/uploads/well-known/
 /wp-content/uploads/wp-file-manager-pro/
 /wp-content/uploads/wp-mail-smtp/sendgrid_keys.json
+/wp-content/uploads/wpr-addons/forms/
 /wp-content/w3tc-config/
 /wp-content/well-known/
 /wp-content/wflogs/fonts/
