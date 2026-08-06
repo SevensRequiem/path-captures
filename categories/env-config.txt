@@ -1625,6 +1625,7 @@
 /var/cache/.env
 /var/tmp/.env
 /var/www/.env
+/var/www/.git/config
 /var/www/config/.env
 /var/www/html/.env
 /vault/.env

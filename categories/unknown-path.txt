@@ -3128,6 +3128,7 @@
 /admin/console
 /admin/constant.js
 /admin/constants.js
+/admin/controller/extension
 /admin/controller/extension/
 /admin/controller/extension/extension/
 /admin/controllers/merchant.js
@@ -4683,6 +4684,7 @@
 /data/config.yml
 /data/config/database.yml
 /datab
+/datab/
 /database
 /database%2ephp
 /database-backup.tar
@@ -6076,6 +6078,7 @@
 /logs/stripe_errors.log
 /logs/stripe_webhook.log
 /logs/system.log
+/m5c9h7sz5
 /magento.tar
 /magento.tar.gz
 /magento.zip
@@ -8860,6 +8863,7 @@
 /wp-admin/maint/network/
 /wp-admin/maint/providers/
 /wp-admin/meta/
+/wp-admin/network
 /wp-admin/network/
 /wp-admin/network/cache/
 /wp-admin/network/colors/
@@ -8881,6 +8885,7 @@
 /wp-complete.tar
 /wp-complete.tar.gz
 /wp-complete.zip
+/wp-content
 /wp-content-backup.tar
 /wp-content-backup.tar.gz
 /wp-content-backup.zip
@@ -9263,6 +9268,7 @@
 /wp-includes/assets/
 /wp-includes/assets/certificates/
 /wp-includes/bk/
+/wp-includes/block-bindings
 /wp-includes/block-bindings/
 /wp-includes/block-bindings/wp-content/
 /wp-includes/block-patterns/
@@ -9340,6 +9346,7 @@
 /wp-includes/customize/
 /wp-includes/customize/abilities-api/
 /wp-includes/customize/fonts/
+/wp-includes/fonts
 /wp-includes/fonts/
 /wp-includes/html-api/
 /wp-includes/html-api/widgets/
