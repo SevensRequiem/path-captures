@@ -2445,6 +2445,7 @@
 //static.cloudflareinsights.com/beacon.min.js
 //storage.ko-fi.com/cdn/widget/Widget_2.js
 //storage/framework/sessions/
+//terms
 //test/wp-includes/wlwmanifest.xml
 //tmp/
 //upload
@@ -3067,6 +3068,7 @@
 /about-us
 /about/
 /about/contact
+/about/privacy
 /access
 /access.log
 /access_key.txt
@@ -4576,6 +4578,9 @@
 /controllers/stripeController.js
 /controlpanel
 /controlpanel/
+/cookie-en-privacyverklaring
+/cookie-privacybeleid
+/cookiebeleid
 /copy.zip
 /cordova.zip
 /core
@@ -4676,6 +4681,7 @@
 /dashboard/api
 /dashboard/dashboard
 /dashboard/login
+/data-protection
 /data.db
 /data.tar
 /data.tar.gz
@@ -4721,6 +4727,7 @@
 /database_url.txt
 /datadog.json
 /datadog.zip
+/datenschutzerklarung
 /db%2ephp
 /db-admin/
 /db-backup.tar
@@ -5010,6 +5017,8 @@
 /en/_next/data/build_id/index.json
 /en/login
 /en/phpinfo
+/en/privacy
+/en/privacy-policy
 /encrypted.zip
 /encryption_key.txt
 /engine/%2eenv
@@ -5669,6 +5678,7 @@
 /index.ts
 /index.zip
 /index/
+/index/key/
 /index_dev%2ephp/_profiler/open
 /inetpub.tar
 /inetpub.tar.gz
@@ -5686,6 +5696,7 @@
 /info/php%2ephp
 /info/phpinfo%2ephp
 /infophp%2ephp
+/informativa-sulla-privacy
 /infra/aws.tf
 /infra/ses.tf
 /infra/terraform.tfstate
@@ -5960,6 +5971,8 @@
 /legacy/tests/9.1.1
 /legacy/tests/9.2.0
 /legal.zip
+/legal/privacy
+/legal/privacy-policy
 /letsencrypt/live
 /lib%252e%252e%252f%252e%252e%252fetc/passwd
 /lib%252e%252e%252f.htpasswd
@@ -6375,6 +6388,9 @@
 /nginx_status
 /ngsw-worker.js
 /ngsw.json
+/nl/privacy
+/nl/privacy-policy
+/nl/privacyverklaring
 /node/
 /node/.env_example
 /node/1
@@ -6729,6 +6745,9 @@
 /pol/1.json
 /pol/catalog.json
 /policy.zip
+/politica-de-privacidad
+/politica-de-privacidade
+/politique-de-confidentialite
 /pom.xml
 /pomo/
 /pong
@@ -6774,7 +6793,13 @@
 /printenv.tmp
 /prisma/schema%2eprisma
 /prisma/schema.prisma
+/privacidad
+/privacy-beleid
+/privacy-notice
+/privacy-verklaring
 /privacy.zip
+/privacybeleid
+/privacyverklaring
 /private
 /private-key
 /private.json
@@ -8182,6 +8207,7 @@
 /tenant
 /tenants
 /terms
+/terms-of-service
 /terms.zip
 /terraform
 /terraform%252etfstate
@@ -9616,6 +9642,7 @@
 /yml.zip
 /youtube.zip
 /z.ph
+/z9x8c7v6b5-debug-trigger-docmock.de
 /z9x8c7v6b5-debug-trigger-requiem.moe
 /zXc0z
 /zabbix/favicon.ico
