@@ -2294,6 +2294,7 @@
 /.ssh/id_rsa.pub
 /.ssh/known_hosts
 /.ssh/sftp-config.json
+/.ssh/zzcanary-29f93b17fa42b4a1
 /.ssh/zzcanary-5a852cc41b6eb19f
 /.ssh/zzcanary-7ca18a1f6012aab4
 /.streamlit/secrets.toml
@@ -2329,6 +2330,7 @@
 /.vscode/sftp.json
 /.vscode/tasks.json
 /.vscode/zzcanary-2d645b72f6dd1b9a.json
+/.vscode/zzcanary-71b9d2244083dcb6.json
 /.vscode/zzcanary-78939f7ba206206b.json
 /.well-known
 /.well-known/
@@ -3052,6 +3054,7 @@
 /_vercel/trace
 /_vti_bin/*
 /_vti_pvt/service.pwd
+/_vti_pvt/zzcanary-3bf0a3dea9b90094
 /_vti_pvt/zzcanary-40396ad2ec4657b9
 /_vti_pvt/zzcanary-78e02ea2fcebf3f3
 /_waku/*
@@ -3109,6 +3112,7 @@
 /actuator/sessions
 /actuator/threaddump
 /actuator/trace
+/actuator/zzcanary-34f6169d2b2eb58b
 /actuator/zzcanary-654d29200126e5eb
 /actuator/zzcanary-9533e47700f04b7
 /admin
@@ -7995,6 +7999,7 @@
 /storage/logs/stripe_transactions.log
 /storage/logs/worker.log
 /storage/logs/zzcanary-55b7d491f42c0e1
+/storage/logs/zzcanary-5b888ad5bc418dbd
 /storage/logs/zzcanary-7e071cd1a71f9087
 /storage/mandrill.json
 /storage/mandrill_templates.json
@@ -9653,9 +9658,13 @@
 /zzcanary-16f4d68c1f0d72ee.xml
 /zzcanary-2121d1cc9551264d.json
 /zzcanary-2723322589d91c0.yml
+/zzcanary-31a9331f3d6b984e.yml
+/zzcanary-42e01f541761dd19.xml
 /zzcanary-45d78e8711e7e91b.xml
 /zzcanary-58d2e7e9f52243f4
+/zzcanary-6024563d5f219c88.json
 /zzcanary-63ac4b910357f1a3
+/zzcanary-727eed893760752
 /zzcanary-734ff671058810a2.json
 /zzcanary-7b3ec812cfaa0333.yml
 /~%252f.boto
