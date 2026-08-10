@@ -47,6 +47,8 @@
 /404wired.com_db.sql
 /404wired.sql
 /404wired_backup.sql
+/@fs/root/.aws/credentials.backup
+/@fs/root/.aws/credentials.bak
 /admin/app.js.bak
 /admin/backup.sql
 /admin/db.sql
@@ -154,6 +156,7 @@
 /config.stripe.old
 /config/app.js.bak
 /config/backup.sql
+/config/credentials.json.bak
 /config/db.sql
 /config/dump.sql
 /config/site.sql
