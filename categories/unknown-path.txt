@@ -2653,6 +2653,7 @@
 /CHANGELOG
 /CHANGELOG.md
 /CHANGELOG.txt
+/CLAUDE.md
 /CVS
 /CVS/Entries
 /CVS/Root
@@ -3773,6 +3774,7 @@
 /aws/sts/tokens.json
 /aws/token
 /aws/token.json
+/awsConfig.js
 /aws_access_key_id.txt
 /aws_access_keys.txt
 /aws_account.json
@@ -3981,6 +3983,7 @@
 /backup/stripe.json
 /backup/stripe_customers.json
 /backup/stripe_products.json
+/backup/wp-content/themes/
 /backup/wp-json/batch/v1
 /backup1.tar
 /backup1.tar.gz
@@ -4166,6 +4169,7 @@
 /catalog.json
 /catalog.zip
 /cb/
+/ccx/
 /cd.zip
 /cdk.context.json
 /cdk.json
@@ -4214,6 +4218,7 @@
 /cgi-bin/php82/php-cgi.exe
 /cgi-bin/php83/php-cgi.exe
 /cgi-bin/test
+/cgi-sys/
 /cgi_bin/
 /changelog.txt
 /changelog.zip
@@ -4310,6 +4315,7 @@
 /code.tar.gz
 /code.zip
 /coinbase/webhook
+/colors/coffee/
 /comments/feed/
 /commerce.zip
 /common.zip
@@ -4353,6 +4359,7 @@
 /config.js
 /config.js.map
 /config.json
+/config.json.js
 /config.local
 /config.local.php_old
 /config.phpinfo
@@ -5643,6 +5650,7 @@
 /images/01.jpg
 /images/ALFA_DATA/alfacgiapi/perl.alfa
 /images/crystal/
+/images/headers/
 /images/media/
 /images/smilies/
 /images/stories/
@@ -6096,6 +6104,8 @@
 /lib/stripe_helper.rb
 /libraries.zip
 /libraries/legacy/
+/libraries/php
+/libraries/vendor/
 /license.key
 /license.txt
 /license.zip
@@ -7358,6 +7368,7 @@
 /sdk/anima.js
 /search
 /search/label/PHP-Shells
+/sec/core/tests/Drupal/FunctionalTests/Hal/
 /secret.env
 /secret.json
 /secret.tar
@@ -8311,6 +8322,7 @@
 /templates/
 /templates/emails/
 /templates/mandrill/
+/templates/p/snippets/g8ofh3h3db/raw/
 /templates/sendgrid/
 /templates/sparkpost/
 /temporary.zip
@@ -8454,6 +8466,7 @@
 /tmp/.aws/secrets.json
 /tmp/.config
 /tmp/.gitconfig
+/tmp/.phpEsretb_zablokowane
 /tmp/aws_keys.json
 /tmp/aws_secrets.json
 /tmp/backup.zip
@@ -9165,6 +9178,7 @@
 /wp-content/plugins/backup-backup/includes/
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-content/plugins/cache-wordpress/
+/wp-content/plugins/carousel-slider/assets/
 /wp-content/plugins/classic-editor
 /wp-content/plugins/classic-editor/
 /wp-content/plugins/content-management/
@@ -9174,13 +9188,16 @@
 /wp-content/plugins/core/
 /wp-content/plugins/cp-pro/
 /wp-content/plugins/custom/
+/wp-content/plugins/df2xx/
 /wp-content/plugins/dmozhzr/
 /wp-content/plugins/dummyyummy/
 /wp-content/plugins/easy-themes-manager/
 /wp-content/plugins/efhkgws/
 /wp-content/plugins/elementor-pro/modules/woocommerce/skins/
 /wp-content/plugins/elementor/
+/wp-content/plugins/elementor/assets/images/
 /wp-content/plugins/elementor/assets/js/packages/editor-app-bar/
+/wp-content/plugins/elementor/core/admin/ui/components/
 /wp-content/plugins/elementor/modules/floating-buttons/classes/render/
 /wp-content/plugins/elementor/modules/landing-pages/documents/
 /wp-content/plugins/email-subscribers/
@@ -9199,12 +9216,16 @@
 /wp-content/plugins/gvxnffc/
 /wp-content/plugins/hello-dolly/
 /wp-content/plugins/html404/
+/wp-content/plugins/idjnpjx/
+/wp-content/plugins/imfrxbc/
+/wp-content/plugins/instabuilder2/cache/plugins/
 /wp-content/plugins/ioptimization/
 /wp-content/plugins/ioxi/
 /wp-content/plugins/ioxi/ioxi/
 /wp-content/plugins/js-support-ticket/
 /wp-content/plugins/jupiterx-core/
 /wp-content/plugins/keys.json
+/wp-content/plugins/kfhfxvy/
 /wp-content/plugins/linkpreview/
 /wp-content/plugins/litespeed-cache/
 /wp-content/plugins/litespeed-cache/readme.txt
@@ -9215,6 +9236,8 @@
 /wp-content/plugins/mandrill_keys.json
 /wp-content/plugins/masterx/
 /wp-content/plugins/mtodm/
+/wp-content/plugins/myhbidf/
+/wp-content/plugins/nekztbn/
 /wp-content/plugins/ninja-forms-uploads/assets/js/nfpluginsettings.js
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/nupkc/configUGT/
@@ -9256,6 +9279,7 @@
 /wp-content/plugins/wordfence/
 /wp-content/plugins/wp-cache-sys/
 /wp-content/plugins/wp-catcher/
+/wp-content/plugins/wp-content/uploads/wp_live_chat/
 /wp-content/plugins/wp-file-manager/lib/
 /wp-content/plugins/wp-file-uploader/
 /wp-content/plugins/wp-google-map-gold/Licensing/README_License.txt
@@ -9267,13 +9291,16 @@
 /wp-content/plugins/wp-security-audit-log/readme.txt
 /wp-content/plugins/wp-smtp/debug.log
 /wp-content/plugins/wp-theme-editor/
+/wp-content/plugins/wpforms-lite/templates/admin/empty-states/payments/
 /wp-content/plugins/wpvivid-backuprestore/
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/xt
 /wp-content/plugins/xt/
 /wp-content/plugins/xxdddxxx/
 /wp-content/plugins/yanierin/
+/wp-content/plugins/ygdfcil/
 /wp-content/plugins/zaen/includes/
+/wp-content/plugins2/loco-translate/tpl/debug/
 /wp-content/sendgrid_keys.json
 /wp-content/settings/
 /wp-content/themes.tar
@@ -9285,6 +9312,7 @@
 /wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/
 /wp-content/themes/Avada/licensing/
 /wp-content/themes/Avada/shortcodes/
+/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors/plugins/fullscreen/
 /wp-content/themes/aahana/
 /wp-content/themes/activello/assets/fonts/
 /wp-content/themes/alera/
@@ -9294,10 +9322,12 @@
 /wp-content/themes/classic/inc/
 /wp-content/themes/digital-download/
 /wp-content/themes/evita/
+/wp-content/themes/f25zgwig/
 /wp-content/themes/fswefy0o/
 /wp-content/themes/h47vbpo2/
 /wp-content/themes/hideo/
 /wp-content/themes/jupiter/framework/
+/wp-content/themes/krs2kdwa/
 /wp-content/themes/neve/assets/apps/dashboard/build/
 /wp-content/themes/news-portal/content-
 /wp-content/themes/pridmag/
@@ -9321,6 +9351,7 @@
 /wp-content/themes/twentytwentyfive/
 /wp-content/themes/twentytwentyfive/assets/
 /wp-content/themes/twentytwentyfive/parts/
+/wp-content/themes/twentytwentyfive/styles/sections/
 /wp-content/themes/twentytwentyfour/
 /wp-content/themes/twentytwentyfour/assets/
 /wp-content/themes/twentytwentyone/
@@ -9330,6 +9361,7 @@
 /wp-content/themes/twentytwentytwo/parts/
 /wp-content/themes/twentytwentytwo/styles/
 /wp-content/themes/twentytwentytwo/templates/
+/wp-content/themes/wp-classic/inc/
 /wp-content/themes/wp-mail.phpp
 /wp-content/themes/wp-pridmag/
 /wp-content/updraft.tar
@@ -9350,6 +9382,7 @@
 /wp-content/uploads.tar.gz
 /wp-content/uploads.zip
 /wp-content/uploads/
+/wp-content/uploads//wp-content/uploads/
 /wp-content/uploads/2018/03/
 /wp-content/uploads/2020/10/official-logo-512x512.png
 /wp-content/uploads/2021/
@@ -9370,6 +9403,7 @@
 /wp-content/uploads/2025/%2eenv
 /wp-content/uploads/2026/
 /wp-content/uploads/2026/%2eenv
+/wp-content/uploads/BbUMY/
 /wp-content/uploads/api_keys.json
 /wp-content/uploads/aws_keys.json
 /wp-content/uploads/debug.log
@@ -9428,6 +9462,7 @@
 /wp-full.tar
 /wp-full.tar.gz
 /wp-full.zip
+/wp-includes
 /wp-includes.tar
 /wp-includes.tar.gz
 /wp-includes.zip
@@ -9483,6 +9518,7 @@
 /wp-includes/alfacgiapi/perl.alfa
 /wp-includes/assets/
 /wp-includes/assets/certificates/
+/wp-includes/bk
 /wp-includes/bk/
 /wp-includes/block-bindings
 /wp-includes/block-bindings/
@@ -9505,6 +9541,7 @@
 /wp-includes/blocks/comment-content/
 /wp-includes/blocks/comment-date/
 /wp-includes/blocks/comment-reply-link/
+/wp-includes/blocks/comment-template/
 /wp-includes/blocks/comments-pagination-next/
 /wp-includes/blocks/comments-pagination-numbers/
 /wp-includes/blocks/details/
@@ -9543,6 +9580,7 @@
 /wp-includes/blocks/social-links/
 /wp-includes/blocks/spacer/
 /wp-includes/blocks/table/
+/wp-includes/blocks/table/int/tmpl/
 /wp-includes/blocks/tag-cloud/
 /wp-includes/blocks/video/
 /wp-includes/certificates/
@@ -9558,6 +9596,7 @@
 /wp-includes/css/dist/edit-post/
 /wp-includes/css/dist/edit-site/
 /wp-includes/css/dist/edit-widgets/
+/wp-includes/css/dist/list-reusable-blocks/
 /wp-includes/css/dist/nux/
 /wp-includes/css/dist/reusable-blocks/
 /wp-includes/css/dist/widgets/
@@ -9595,6 +9634,7 @@
 /wp-includes/js/thickbox/
 /wp-includes/js/tinymce/
 /wp-includes/js/tinymce/langs/
+/wp-includes/js/tinymce/plugins/
 /wp-includes/js/tinymce/plugins/compat3x/
 /wp-includes/js/tinymce/plugins/compat3x/css/
 /wp-includes/js/tinymce/plugins/directionality/
@@ -9644,6 +9684,7 @@
 /wp-includes/theme-compat/patterns/
 /wp-includes/widgets/
 /wp-includes/wp-includes/
+/wp-includesmaps/p/snippets/g8ofh3h3db/raw/
 /wp-json
 /wp-json/
 /wp-json/batch/v1
@@ -9704,6 +9745,7 @@
 /wp/
 /wp/%2eenv
 /wp/wp-admin/includes/
+/wp/wp-admin/includes/wp-admin/
 /wp/wp-content/plugins/ioptimi/
 /wp/wp-content/themes/f6pe9wcj/
 /wp/wp-includes/
