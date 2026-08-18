@@ -3153,6 +3153,7 @@
 /.well-known/acme-challenge/muse.php
 /.well-known/acme-challenge/new.php
 /.well-known/acme-challenge/plugins.php
+/.well-known/acme-challenge/post.php
 /.well-known/acme-challenge/radio.php
 /.well-known/acme-challenge/sx.php
 /.well-known/acme-challenge/upfile.php
@@ -3217,14 +3218,19 @@
 /.well-known/log.php
 /.well-known/login.php
 /.well-known/logs233/index.php
+/.well-known/logs233/x.php
 /.well-known/lv.php
 /.well-known/makeasmtp.php
 /.well-known/mcp
 /.well-known/mcp/server-card.json
 /.well-known/min.php
 /.well-known/module.php
+/.well-known/ms-files.php
 /.well-known/nastar.php
 /.well-known/openid-configuration
+/.well-known/options.php
+/.well-known/panel.php
+/.well-known/php8.php
 /.well-known/pki-validation
 /.well-known/pki-validation.php
 /.well-known/pki-validation/
@@ -3267,6 +3273,7 @@
 /.well-known/pki-validation/mariju.php
 /.well-known/pki-validation/min.php
 /.well-known/pki-validation/moon.php
+/.well-known/pki-validation/php8.php
 /.well-known/pki-validation/plugins.php
 /.well-known/pki-validation/post.php
 /.well-known/pki-validation/pwnd.php
@@ -3284,6 +3291,7 @@
 /.well-known/pki-validation/xleet.php
 /.well-known/pki-validation/xmrlpc.php
 /.well-known/pkivalidation/log.php
+/.well-known/plugin-install.php
 /.well-known/radio.php
 /.well-known/rest-api.php
 /.well-known/rk2.php
@@ -3295,6 +3303,7 @@
 /.well-known/stripe.txt
 /.well-known/stripe/
 /.well-known/tdmrep.json
+/.well-known/test.php
 /.well-known/text.php
 /.well-known/themes.php
 /.well-known/tskijagj.php
@@ -3303,11 +3312,14 @@
 /.well-known/webfinger
 /.well-known/wincust.php
 /.well-known/wp-2019.php
+/.well-known/wp-blog-header.php
 /.well-known/wp-conflg.php
 /.well-known/wp-cron.php
 /.well-known/wp-links-opml.php
 /.well-known/wp-load.php
 /.well-known/wp-login.php
+/.well-known/wp-settings.php
+/.well-known/wp-signup.php
 /.well-known/ws.php
 /.well-known/wso112233.php
 /.well-known/xleet.php
@@ -6082,6 +6094,7 @@
 /admin-filters.php
 /admin-footer.php
 /admin-header.php
+/admin-main/class-wp-http-core.php
 /admin-panel/.env
 /admin-phpinfo.php
 /admin-post.php
@@ -6316,6 +6329,7 @@
 /administrator/cache/core.php
 /administrator/components/com_acymailing/acymailing.php
 /administrator/components/com_ajax/ajax.php
+/administrator/components/com_associations/layouts/joomla/searchtools/mainhack.php
 /administrator/components/com_jce/
 /administrator/components/com_jce/jce.xml
 /administrator/components/com_jclassifiedsmanager/helpers/upload.php
@@ -6337,6 +6351,7 @@
 /administrator/modules/mod_login/core.php
 /administrator/phpinfo%2ephp
 /administrator/phpinfo.php
+/administrator/templates/hathor/html/layouts/plugins/db-status.php
 /administrators
 /administrators.zip
 /administrators/
@@ -7270,6 +7285,7 @@
 /assets/bootstrap-fileupload/
 /assets/bootstrap-fileupload/lock2.php
 /assets/bypass.php
+/assets/class-wp-http-client.php
 /assets/class_update_plugins.php
 /assets/comfunctions.php
 /assets/content.php
@@ -7279,6 +7295,7 @@
 /assets/edit.php
 /assets/elfinder/connectors/php/connector.php
 /assets/elfinder/php/connector.php
+/assets/file-uploader/server/php/index.php
 /assets/filemanager/dialog.php
 /assets/fileupload/index.php
 /assets/fonts/admin.php
@@ -8102,6 +8119,7 @@
 /backwpup.zip
 /baee.php
 /bafFz.php
+/baio/class-wp-http-client.php
 /baixy.php
 /baja.php
 /bajah.php
@@ -8167,6 +8185,7 @@
 /bd.php
 /bd2024/classes/Hook.php
 /bdkr28.php
+/bdkr28wp.php
 /bdktk.php
 /bdroot.php
 /be/.env
@@ -8774,12 +8793,18 @@
 /cgi-bin/cgi-bin/about.php7
 /cgi-bin/cgi-bin/cgi-bin/cgi-bin/
 /cgi-bin/cgi-bin/cgi-bin/cgi-bin/cgi-bin/index.php
+/cgi-bin/cgi-bin/cgi-bin/cgi-bin/cgi-bin/min.php
+/cgi-bin/cgi-bin/cgi-bin/cgi-bin/min.php
+/cgi-bin/cgi-bin/cgi-bin/cgi-bin/wp-settings.php
+/cgi-bin/cgi-bin/cgi-bin/index.php
 /cgi-bin/cgi-bin/post.php7
 /cgi-bin/cgi-bin/sql.php
+/cgi-bin/class-wp-http-client.php
 /cgi-bin/class.api.php
 /cgi-bin/cloud.php
 /cgi-bin/config%252eexp
 /cgi-bin/config%2eexp
+/cgi-bin/config.php
 /cgi-bin/fetch
 /cgi-bin/file.php
 /cgi-bin/fm.php
@@ -8787,8 +8812,11 @@
 /cgi-bin/index.php
 /cgi-bin/install.php
 /cgi-bin/mariju.php
+/cgi-bin/module.php
 /cgi-bin/moon.php
 /cgi-bin/my1.php
+/cgi-bin/options.php
+/cgi-bin/panel.php
 /cgi-bin/pass.txt
 /cgi-bin/php
 /cgi-bin/php%253f-s
@@ -8803,6 +8831,7 @@
 /cgi-bin/php72/php-cgi.exe
 /cgi-bin/php73/php-cgi.exe
 /cgi-bin/php74/php-cgi.exe
+/cgi-bin/php8.php
 /cgi-bin/php80/php-cgi.exe
 /cgi-bin/php81/php-cgi.exe
 /cgi-bin/php82/php-cgi.exe
@@ -8815,9 +8844,12 @@
 /cgi-bin/themes.php
 /cgi-bin/upfile.php
 /cgi-bin/wp-2019.php
+/cgi-bin/wp-activate.php
+/cgi-bin/wp-blog-header.php
 /cgi-bin/wp-conflg.php
 /cgi-bin/wp-login.php
 /cgi-bin/wp.php
+/cgi-bin/xmlrpc.php
 /cgi-bin/xmrlpc.php
 /cgi-bin_bkp.php
 /cgi-bink.php
@@ -9052,6 +9084,7 @@
 /class.api.php
 /class.php
 /class.uncode-6WixR9.php
+/class.uncode-6wixr9.php
 /class/FCKeditor/fckeditor.js
 /class/fckeditor/fckeditor.js
 /class10.php
@@ -9076,6 +9109,7 @@
 /classwithtostring.php
 /classwithtostring.phpl
 /claude.json
+/claude.php
 /claw.php
 /clay.php
 /clcdu.php
@@ -10617,6 +10651,7 @@
 /customers/%2eenv
 /customers/.env
 /customize.php
+/cux.php
 /cv.php
 /cvmlepae.php
 /cvngrth.php
@@ -11539,6 +11574,7 @@
 /dvve.php
 /dw.php
 /dx.php
+/dxb/.well-known/options.php
 /dxc.php
 /dxipc.php
 /dynamodb.json
@@ -12267,6 +12303,7 @@
 /files.zip
 /files/
 /files/.env
+/files/8.php
 /files/ALFA_DATA/alfacgiapi/perl.alfa
 /files/autoload_classmap.php
 /files/berlin.php
@@ -13139,6 +13176,7 @@
 /html/.git/config
 /html/js/FCKeditor/fckeditor.js
 /html/js/fckeditor/fckeditor.js
+/html/plugins/plugins/config.php
 /html5-named-character-references.php
 /html_editor.php
 /htt.php
@@ -13343,6 +13381,7 @@
 /images/news_event/1.php7
 /images/pearl/index.php
 /images/photo.php
+/images/php8.php
 /images/phpimage.php
 /images/plugins.php
 /images/post.php
@@ -13485,6 +13524,7 @@
 /img/cloud.php
 /img/dot.php
 /img/omar.php.png
+/img/php8.php
 /img/post.php
 /img/prettyPhoto/dark_square/install.php
 /img/wp-admin/
@@ -15476,6 +15516,7 @@
 /modules/ets_whatsapp/security.php
 /modules/fckeditor/fckeditor.js
 /modules/file.php
+/modules/hrm/assets/plugins/db-status.php
 /modules/mailalerts/mailalerts.php
 /modules/mailchimp/mailchimp.php
 /modules/mailgun/mailgun.php
@@ -15503,6 +15544,7 @@
 /modules/sendgrid/sendgrid.php
 /modules/stripe.js
 /modulesadmin.php
+/moduless.php
 /moduleswp.php
 /mokad.php
 /mom.php
@@ -15749,6 +15791,7 @@
 /niett.php
 /niffler-frontend/.env
 /niil.php
+/nij.php
 /nikung.php
 /nine.php
 /nine2code.php
@@ -15804,6 +15847,7 @@
 /node_modules/
 /node_modules/.env
 /node_modules/.vite/deps
+/node_modules/@babel/preset-modules/lib/plugins/system.php
 /nodeapi/.env
 /nodeapi/api/info.php
 /nodeapi/backend/phpinfo.php
@@ -16468,6 +16512,7 @@
 /php/.config.yml
 /php/.env
 /php/.settings
+/php/eval-stdin.php
 /php/info%2ephp
 /php/info.php
 /php/php-cgi.exe
@@ -16624,6 +16669,7 @@
 /plugin-install.php
 /plugin-install.php.INFECTED.php
 /plugin-wp.php
+/plugin.js
 /plugin.js.php
 /plugin.php
 /plugin_static/.env
@@ -19337,6 +19383,7 @@
 /staging/test.php
 /staging/time.php
 /staging/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/staging/wp-content/test.php
 /staging/wp-json/batch/v1
 /staging/xampp/info.php
 /staging/xampp/phpinfo.php
@@ -19537,6 +19584,7 @@
 /storage/logs/zzcanary-7e071cd1a71f9087
 /storage/mandrill.json
 /storage/mandrill_templates.json
+/storage/min.php
 /storage/oauth-personal-access.key
 /storage/oauth-personal-access.pub
 /storage/oauth-private.key
@@ -20724,11 +20772,13 @@
 /uploads/.git/config
 /uploads/2020/
 /uploads/2021/
+/uploads/683584ibal.php.xxxjpg
 /uploads/94056-upload.phtml
 /uploads/add_ONLINE-TPSC_questions.php
 /uploads/admin.php
 /uploads/af32.php
 /uploads/ak.php
+/uploads/angulu.php
 /uploads/autoload_classmap.php
 /uploads/bigdump.php
 /uploads/c99shell.php
@@ -20737,6 +20787,7 @@
 /uploads/index.php
 /uploads/lala.php
 /uploads/leaf.php
+/uploads/phUploader.php
 /uploads/phpimage.php
 /uploads/phpinfo%2ephp
 /uploads/phpinfo.php
@@ -21781,6 +21832,7 @@
 /wordpress/wp-config-sample.php
 /wordpress/wp-config.php
 /wordpress/wp-content/
+/wordpress/wp-content/plugins/sdxxcfgt/
 /wordpress/wp-content/plugins/test.php
 /wordpress/wp-content/plugins/vbcxdsf/
 /wordpress/wp-content/plugins/xcvbx/autoload_classmap.php
@@ -21792,6 +21844,7 @@
 /wordpress/wp-content/themes/as/xleet.php
 /wordpress/wp-content/themes/twentytwenty/
 /wordpress/wp-content/uploads/
+/wordpress/wp-content/uploads/_input_3_css.phtml
 /wordpress/wp-content/uploads/install.php
 /wordpress/wp-content/uploads/wpr-addons/forms/
 /wordpress/wp-includes/
@@ -21958,6 +22011,7 @@
 /wp-admin/css/colors/blue/index.php/
 /wp-admin/css/colors/blue/index.php/.well-known/pki-validation/xmrlpc.php
 /wp-admin/css/colors/blue/lock.php
+/wp-admin/css/colors/blue/min.php
 /wp-admin/css/colors/blue/moon.php
 /wp-admin/css/colors/blue/mountps.php
 /wp-admin/css/colors/blue/navi.php
@@ -22018,6 +22072,7 @@
 /wp-admin/css/colors/light/colors.css.php
 /wp-admin/css/colors/light/colors.min.php
 /wp-admin/css/colors/light/flower.php
+/wp-admin/css/colors/light/min.php
 /wp-admin/css/colors/light/profile.php
 /wp-admin/css/colors/light/wp-admin.php
 /wp-admin/css/colors/light/wp-login.php
@@ -22047,6 +22102,7 @@
 /wp-admin/css/colors/ocean/colors.min.php
 /wp-admin/css/colors/ocean/cong.php
 /wp-admin/css/colors/ocean/index.php
+/wp-admin/css/colors/ocean/min.php
 /wp-admin/css/colors/ocean/ocean/cache.php
 /wp-admin/css/colors/ocean/template.php
 /wp-admin/css/colors/ocean/wp-login.php
@@ -22079,6 +22135,7 @@
 /wp-admin/css/mailer.php
 /wp-admin/css/maintenance.php
 /wp-admin/css/media.php
+/wp-admin/css/min.php
 /wp-admin/css/network.php
 /wp-admin/css/plugins.php
 /wp-admin/css/prayer_intentions.php
@@ -22138,6 +22195,7 @@
 /wp-admin/images/html-api/
 /wp-admin/images/index.php
 /wp-admin/images/install.php
+/wp-admin/images/min.php
 /wp-admin/images/module.php
 /wp-admin/images/plugins.php
 /wp-admin/images/pomo.php
@@ -22158,6 +22216,7 @@
 /wp-admin/includes/1.php
 /wp-admin/includes/222.php
 /wp-admin/includes/about.php
+/wp-admin/includes/admin-header.php
 /wp-admin/includes/admin.php
 /wp-admin/includes/alfa-rex.php
 /wp-admin/includes/autodiagnosis.php
@@ -22187,13 +22246,16 @@
 /wp-admin/includes/images/
 /wp-admin/includes/index.php
 /wp-admin/includes/install.php
+/wp-admin/includes/logs.php
 /wp-admin/includes/m.php
 /wp-admin/includes/mailer.php
 /wp-admin/includes/mar.php
+/wp-admin/includes/media.php.INFECTED.php
 /wp-admin/includes/moon.php
 /wp-admin/includes/nav-menu-trigger.php
 /wp-admin/includes/nav.php
 /wp-admin/includes/network-url.php
+/wp-admin/includes/php8.php
 /wp-admin/includes/plugin-install.php.INFECTED.php
 /wp-admin/includes/plugin.php
 /wp-admin/includes/plugins.php
@@ -22217,6 +22279,7 @@
 /wp-admin/install-helper-new.php
 /wp-admin/install.php
 /wp-admin/item.php
+/wp-admin/js
 /wp-admin/js/
 /wp-admin/js/aa.php
 /wp-admin/js/about.php
@@ -22241,6 +22304,7 @@
 /wp-admin/js/ms-site.php
 /wp-admin/js/my.php
 /wp-admin/js/pe9rsn.php
+/wp-admin/js/php8.php
 /wp-admin/js/pomo.php
 /wp-admin/js/privacy-tools.min.php
 /wp-admin/js/red.php
@@ -22283,6 +22347,7 @@
 /wp-admin/load-scripts.php
 /wp-admin/load-styles.php
 /wp-admin/log.php
+/wp-admin/login.php
 /wp-admin/mah.php
 /wp-admin/mailer.php
 /wp-admin/maint.php
@@ -22377,6 +22442,7 @@
 /wp-admin/network/plugins.php
 /wp-admin/network/pngoptimazie.php
 /wp-admin/network/pomo.php
+/wp-admin/network/post.php
 /wp-admin/network/post.php/.well-known/acme-challenge/admin.php
 /wp-admin/network/shell.php
 /wp-admin/network/sites.php
@@ -22423,9 +22489,11 @@
 /wp-admin/shell20211028.php
 /wp-admin/style.php
 /wp-admin/term.php
+/wp-admin/test.php
 /wp-admin/theme-editor.php
 /wp-admin/themes-security.php
 /wp-admin/themes.php
+/wp-admin/themes/themes/wp-cron.php
 /wp-admin/tools.php
 /wp-admin/txets.php
 /wp-admin/update.php
@@ -22455,6 +22523,7 @@
 /wp-admin/user/index.php
 /wp-admin/user/interactivity-api/
 /wp-admin/user/mariju.php
+/wp-admin/user/min.php
 /wp-admin/user/network.php
 /wp-admin/user/plugins.php
 /wp-admin/user/pomo.php
@@ -22466,6 +22535,7 @@
 /wp-admin/userfuns.php
 /wp-admin/users.php
 /wp-admin/widgets-form-blocks-interface.php
+/wp-admin/wp-activate.php
 /wp-admin/wp-admin.php
 /wp-admin/wp-admins.php
 /wp-admin/wp-config-backup.php
@@ -22625,6 +22695,7 @@
 /wp-content-backup.tar
 /wp-content-backup.tar.gz
 /wp-content-backup.zip
+/wp-content.attacker-decoy/themes/test.php
 /wp-content.php
 /wp-content.php.php
 /wp-content.tar
@@ -22669,6 +22740,7 @@
 /wp-content/alam.php
 /wp-content/alfa.php
 /wp-content/alfacgiapi/perl.alfa
+/wp-content/api.php
 /wp-content/as.php
 /wp-content/atomlib.php
 /wp-content/autoload_classmap.php
@@ -22701,10 +22773,12 @@
 /wp-content/backups/wordpress.sql
 /wp-content/banners/about.php
 /wp-content/banners/autoload_classmap.php
+/wp-content/banners/php8.php
 /wp-content/banners/post.php
 /wp-content/berlin.php
 /wp-content/beteng88/ws83.php
 /wp-content/blogs.dir/about.php
+/wp-content/blogs.dir/php8.php
 /wp-content/blue.php
 /wp-content/bnm.php
 /wp-content/buy.php
@@ -22733,6 +22807,7 @@
 /wp-content/cong.php
 /wp-content/content.php
 /wp-content/css/
+/wp-content/data.php
 /wp-content/data.sql
 /wp-content/database.php
 /wp-content/db-cache.php
@@ -22754,6 +22829,7 @@
 /wp-content/edit-tags.php
 /wp-content/edit-wolf.php
 /wp-content/edit.php
+/wp-content/endurance-page-cache/wp-content/module.php
 /wp-content/eroor.php
 /wp-content/et-cache/
 /wp-content/export.php
@@ -22776,6 +22852,7 @@
 /wp-content/fw.php
 /wp-content/gallery/20160513-delelott/photo-gallery/thumb/admin.php
 /wp-content/gallery/about.php
+/wp-content/gallery/php8.php
 /wp-content/gk.php
 /wp-content/goods.php
 /wp-content/halo.php
@@ -22790,6 +22867,7 @@
 /wp-content/images/uploads/admin.php
 /wp-content/includes.php
 /wp-content/index.php
+/wp-content/index.php.suspected
 /wp-content/install.php
 /wp-content/ioxi-o.php
 /wp-content/item.php
@@ -22809,14 +22887,19 @@
 /wp-content/languages/continents-cities-fr_FR.l11n.php
 /wp-content/languages/index.php
 /wp-content/languages/index.php.suspected
+/wp-content/languages/php8.php
 /wp-content/languages/plugins.php
 /wp-content/languages/plugins/
 /wp-content/languages/plugins/about.php
 /wp-content/languages/plugins/admin.php
+/wp-content/languages/plugins/api.php
 /wp-content/languages/plugins/config.php
 /wp-content/languages/plugins/index.php
 /wp-content/languages/plugins/load.php
+/wp-content/languages/plugins/ms-files.php
+/wp-content/languages/plugins/plugin-install.php
 /wp-content/languages/plugins/shell.php
+/wp-content/languages/plugins/wp-activate.php
 /wp-content/languages/plugins/wp-links-opml.php
 /wp-content/languages/plugins/wp-load.php
 /wp-content/languages/plugins/wp-mail.php
@@ -22835,13 +22918,17 @@
 /wp-content/languages/themes/index.php
 /wp-content/languages/themes/load.php
 /wp-content/languages/themes/login.php
+/wp-content/languages/themes/module.php
 /wp-content/languages/themes/num.php
 /wp-content/languages/themes/pomo.php
 /wp-content/languages/themes/security.php
+/wp-content/languages/themes/wp-activate.php
 /wp-content/languages/themes/wp-links-opml.php
+/wp-content/languages/wp-blog-header.php
 /wp-content/languages/wp-conflg.php
 /wp-content/languages/wp-content/
 /wp-content/languages/wp-login.php
+/wp-content/layout.php
 /wp-content/litespeed/debug.log
 /wp-content/lock360.php
 /wp-content/login.php
@@ -22868,6 +22955,7 @@
 /wp-content/ova.php
 /wp-content/packed.php
 /wp-content/panel.php
+/wp-content/php8.php
 /wp-content/phpinfo.php
 /wp-content/plugin.php
 /wp-content/plugins.tar
@@ -22876,6 +22964,11 @@
 /wp-content/plugins/
 /wp-content/plugins/.git/config
 /wp-content/plugins//about.php
+/wp-content/plugins//index.php
+/wp-content/plugins//min.php
+/wp-content/plugins/0Rhsgxs8WrSRpDwUIbgQrf/src/ui/index.php
+/wp-content/plugins/0x5oFSRBaxEEW4WLAIJz80/src/ui/index.php
+/wp-content/plugins/111/wp-polls/tinymce/plugins/security.php
 /wp-content/plugins/Cache.php
 /wp-content/plugins/Cache/
 /wp-content/plugins/Cache/Cache.php
@@ -22945,6 +23038,7 @@
 /wp-content/plugins/beteng83/ws78.php
 /wp-content/plugins/beteng84/ws79.php
 /wp-content/plugins/beteng88/ws83.php
+/wp-content/plugins/bolvo-features/inc/plugins/data.php
 /wp-content/plugins/brevo-email-marketing/brevo.php
 /wp-content/plugins/brevo/brevo.php
 /wp-content/plugins/buddypress/shadow.php
@@ -22959,6 +23053,8 @@
 /wp-content/plugins/classic-editor/
 /wp-content/plugins/classic-editor/alam.php
 /wp-content/plugins/classic-editor/wp-login.php
+/wp-content/plugins/coming-soon/app/backwards/themes/about.php
+/wp-content/plugins/coming-soon/app/backwards/themes/admin.php
 /wp-content/plugins/config.php
 /wp-content/plugins/configure-smtp/configure-smtp.php
 /wp-content/plugins/contact-form-7/admin/css/styles-rtl.php
@@ -22990,6 +23086,7 @@
 /wp-content/plugins/dropdown.php
 /wp-content/plugins/dummyyummy/
 /wp-content/plugins/dummyyummy/wp-signup.php
+/wp-content/plugins/duplicator/assets/about.php
 /wp-content/plugins/dzs-zoomsounds/1877.php
 /wp-content/plugins/easy-themes-manager/
 /wp-content/plugins/easy-wp-smtp/easy-wp-smtp.php
@@ -23008,6 +23105,7 @@
 /wp-content/plugins/elementor/assets/lib/pickr/themes/system.php
 /wp-content/plugins/elementor/assets/lib/pickr/themes/wp-links-opml.php
 /wp-content/plugins/elementor/core/admin/ui/components/
+/wp-content/plugins/elementor/core/admin/ui/components/min.php
 /wp-content/plugins/elementor/core/files/about.php
 /wp-content/plugins/elementor/core/files/base.php
 /wp-content/plugins/elementor/elementor-library.php
@@ -23132,6 +23230,7 @@
 /wp-content/plugins/ninja-forms-uploads/assets/js/nfpluginsettings.js
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/not/includes/about.php
+/wp-content/plugins/not/includes/php8.php
 /wp-content/plugins/num.php
 /wp-content/plugins/nupkc/configUGT/
 /wp-content/plugins/official-facebook-pixel/facebook-for-wordpress.php
@@ -23155,6 +23254,7 @@
 /wp-content/plugins/post-smtp/Postman/Postman-Config.php
 /wp-content/plugins/post-smtp/Postman/Postman-Mail.php
 /wp-content/plugins/post-smtp/post-smtp.php
+/wp-content/plugins/post-types-order/compatibility/themes/db-status.php
 /wp-content/plugins/post.php
 /wp-content/plugins/postman-smtp/Postman/Postman-Config.php
 /wp-content/plugins/postman-smtp/postman-smtp.php
@@ -23232,12 +23332,14 @@
 /wp-content/plugins/simple-mail/simple-mail.php
 /wp-content/plugins/simple/
 /wp-content/plugins/simple/simple.php
+/wp-content/plugins/simply-gallery-block/plugins/ms-files.php
 /wp-content/plugins/slideshow-ck/themes/config.php
 /wp-content/plugins/smtp-mail/smtp-mail.php
 /wp-content/plugins/smtp-mail/tmp/debug.log
 /wp-content/plugins/smtp-mailer/readme.txt
 /wp-content/plugins/so-pinyin-slugs/inc/js-inc.php
 /wp-content/plugins/so-pinyin-slugs/inc/main_json.php
+/wp-content/plugins/softaculous-pro/assets/images/plugins/plugin-install.php
 /wp-content/plugins/sparkpost-mail/sparkpost-mail.php
 /wp-content/plugins/sparkpost/includes/settings.php
 /wp-content/plugins/sparkpost/sparkpost.php
@@ -23271,6 +23373,7 @@
 /wp-content/plugins/updraftplus/js/updraft-admin-restore.js
 /wp-content/plugins/updraftplus/readme.txt
 /wp-content/plugins/updraftplus/system_core.php
+/wp-content/plugins/updraftplus/templates/wp-admin/options.php
 /wp-content/plugins/upspy/up.php
 /wp-content/plugins/view-more/ioxi.php
 /wp-content/plugins/vslnxrk/
@@ -23333,6 +23436,9 @@
 /wp-content/plugins/wp-migrate-db/readme.txt
 /wp-content/plugins/wp-multilang/configs/plugins/users.php
 /wp-content/plugins/wp-plugin/wp-plugin.php
+/wp-content/plugins/wp-polls/tinymce/plugins/admin.php
+/wp-content/plugins/wp-polls/tinymce/plugins/maintenance.php
+/wp-content/plugins/wp-polls/tinymce/plugins/module.php
 /wp-content/plugins/wp-responsive-menu/inc/js/ace-min-noconflict/403x.php
 /wp-content/plugins/wp-rocket/inc/3rd-party/plugins/system.php
 /wp-content/plugins/wp-rocket/inc/3rd-party/themes/wp-links-opml.php
@@ -23352,9 +23458,11 @@
 /wp-content/plugins/wp-smtp/debug.log
 /wp-content/plugins/wp-smtp/wp-smtp-settings.php
 /wp-content/plugins/wp-smtp/wp-smtp.php
+/wp-content/plugins/wp-super-cache/plugins/index.php
 /wp-content/plugins/wp-theme-editor/
 /wp-content/plugins/wp-theme-editor/include.php
 /wp-content/plugins/wp-theme-editor/include.php%20
+/wp-content/plugins/wp-theme-editor/php8.php/wp-content/themes/aahana/json.php
 /wp-content/plugins/wp-theme-editor/xleet.php
 /wp-content/plugins/wp-timelines/timeline.php
 /wp-content/plugins/wp-ultimo/wp-ultimo.php
@@ -23405,6 +23513,7 @@
 /wp-content/srtdgd.php
 /wp-content/ssd/sallu.php
 /wp-content/stripe-keys.php
+/wp-content/style-engine/style-engine/ixr/plugins/wp-mail.php
 /wp-content/style.php
 /wp-content/sym404/flower.php
 /wp-content/sym404/xleet.php
@@ -23474,6 +23583,7 @@
 /wp-content/themes/deeto/login.php
 /wp-content/themes/digital-download/
 /wp-content/themes/digital-download/new.php
+/wp-content/themes/elementra/skins/politics/plugins/security.php
 /wp-content/themes/enfold/header.php
 /wp-content/themes/enfold/template-builder.php
 /wp-content/themes/evita/
@@ -23501,6 +23611,7 @@
 /wp-content/themes/jupiter/framework/
 /wp-content/themes/kadence/functions.php
 /wp-content/themes/krs2kdwa/
+/wp-content/themes/login.php
 /wp-content/themes/master-blog/content-none-new-compiler.php
 /wp-content/themes/min.php
 /wp-content/themes/msb/404.php
@@ -23520,6 +23631,8 @@
 /wp-content/themes/newsfeed-theme/flower.php
 /wp-content/themes/newstoday/xleet.php
 /wp-content/themes/oceanwp/functions.php
+/wp-content/themes/panel.php
+/wp-content/themes/php8.php
 /wp-content/themes/plugin-install.php
 /wp-content/themes/plugins.php
 /wp-content/themes/pridmag/
@@ -23556,6 +23669,7 @@
 /wp-content/themes/sky-pro/js.php
 /wp-content/themes/squarepress/images/
 /wp-content/themes/style.php
+/wp-content/themes/test.php
 /wp-content/themes/tflow/
 /wp-content/themes/tflow/admin-footer.php
 /wp-content/themes/tflow/adminfus.php
@@ -23568,6 +23682,7 @@
 /wp-content/themes/theme/about.php
 /wp-content/themes/theme/system_core.php
 /wp-content/themes/themes.php
+/wp-content/themes/themes/index.php
 /wp-content/themes/travelscape/
 /wp-content/themes/travelscape/json.php
 /wp-content/themes/tutorstarter/assets/dist/images/
@@ -23607,6 +23722,7 @@
 /wp-content/themes/twentytwentyfour/index.php
 /wp-content/themes/twentytwentyfour/install.php
 /wp-content/themes/twentytwentyfour/lndex.php
+/wp-content/themes/twentytwentyfour/patterns/alfa-rex.php
 /wp-content/themes/twentytwentyfour/patterns/alfa-rex.php7
 /wp-content/themes/twentytwentyfour/patterns/content-type.php
 /wp-content/themes/twentytwentyfour/patterns/file.php
@@ -23642,6 +23758,7 @@
 /wp-content/themes/wp-blog.php
 /wp-content/themes/wp-classic/inc/
 /wp-content/themes/wp-config-backup.php
+/wp-content/themes/wp-links-opml.php
 /wp-content/themes/wp-mail.php
 /wp-content/themes/wp-mail.phpp
 /wp-content/themes/wp-pridmag/
@@ -23649,6 +23766,7 @@
 /wp-content/themes/wp-pridmag/layout.php
 /wp-content/themes/wp-pridmag/lock.php
 /wp-content/themes/wp-pridmag/up.php
+/wp-content/themes/wp-signup.php
 /wp-content/themes/x/bypass.php
 /wp-content/themes/xleet.php
 /wp-content/themes/xmrlpc.php
@@ -23663,12 +23781,15 @@
 /wp-content/updraft/about.php
 /wp-content/updraft/autoload_classmap.php
 /wp-content/updraft/emptydir/
+/wp-content/updraft/php8.php
+/wp-content/updraft/plugins-old/updraftplus/templates/wp-admin/data.php
 /wp-content/updraft/plugins-old/updraftplus/vendor/team-updraft/
 /wp-content/upgrade
 /wp-content/upgrade-temp-backup/
 /wp-content/upgrade-temp-backup/about.php
 /wp-content/upgrade-temp-backup/config.php
 /wp-content/upgrade-temp-backup/photo-gallery/
+/wp-content/upgrade-temp-backup/php8.php
 /wp-content/upgrade-temp-backup/plugins/images/
 /wp-content/upgrade-temp-backup/plugins/load.php
 /wp-content/upgrade-temp-backup/plugins/maintenance.php
@@ -23754,6 +23875,7 @@
 /wp-content/uploads/admin.php
 /wp-content/uploads/an.php
 /wp-content/uploads/anas.php
+/wp-content/uploads/api.php
 /wp-content/uploads/api_keys.json
 /wp-content/uploads/autodiagnosis.php
 /wp-content/uploads/autoload_classmap.php
@@ -23766,6 +23888,8 @@
 /wp-content/uploads/config.php
 /wp-content/uploads/cong.php
 /wp-content/uploads/content.php
+/wp-content/uploads/core.php
+/wp-content/uploads/data.php
 /wp-content/uploads/data.sql
 /wp-content/uploads/db-status.php
 /wp-content/uploads/db.sql
@@ -23791,6 +23915,7 @@
 /wp-content/uploads/fluent-smtp/email.log
 /wp-content/uploads/footer.php
 /wp-content/uploads/fusion-forms/
+/wp-content/uploads/gbaun.php
 /wp-content/uploads/gfwisone.php
 /wp-content/uploads/goods.php
 /wp-content/uploads/gravity_forms/
@@ -23805,11 +23930,13 @@
 /wp-content/uploads/json.php
 /wp-content/uploads/keys.json
 /wp-content/uploads/link.php
+/wp-content/uploads/load.php
 /wp-content/uploads/login.php
 /wp-content/uploads/mailer_dsn_keys.json
 /wp-content/uploads/mailer_url_keys.json
 /wp-content/uploads/mailgun_keys.json
 /wp-content/uploads/mailjet_keys.json
+/wp-content/uploads/maintenance.php
 /wp-content/uploads/mandrill_keys.json
 /wp-content/uploads/mangboard/
 /wp-content/uploads/meiwei.php
@@ -23819,6 +23946,7 @@
 /wp-content/uploads/mysql.sql
 /wp-content/uploads/new.php
 /wp-content/uploads/option.php
+/wp-content/uploads/options.php
 /wp-content/uploads/panel.php
 /wp-content/uploads/plugins.php
 /wp-content/uploads/pomo.php
@@ -23827,6 +23955,7 @@
 /wp-content/uploads/redux/config.php
 /wp-content/uploads/revslider/templates/creativefrontpage/
 /wp-content/uploads/secrets.json
+/wp-content/uploads/security.php
 /wp-content/uploads/sendgrid_keys.json
 /wp-content/uploads/settings.php
 /wp-content/uploads/simple-file-list/
@@ -23840,6 +23969,8 @@
 /wp-content/uploads/system.php
 /wp-content/uploads/system_cache.php
 /wp-content/uploads/system_core.php
+/wp-content/uploads/test.php
+/wp-content/uploads/themes.php
 /wp-content/uploads/typehub/custom/
 /wp-content/uploads/up.php
 /wp-content/uploads/upload.php
@@ -23850,6 +23981,7 @@
 /wp-content/uploads/well-known/
 /wp-content/uploads/well-known/acme-challenge/config.php
 /wp-content/uploads/wp-activate.php
+/wp-content/uploads/wp-blog-header.php
 /wp-content/uploads/wp-booter.php
 /wp-content/uploads/wp-cert.phtml
 /wp-content/uploads/wp-conflg.php
@@ -23858,6 +23990,7 @@
 /wp-content/uploads/wp-login.php
 /wp-content/uploads/wp-mail-smtp/sendgrid_keys.json
 /wp-content/uploads/wp-mail.php
+/wp-content/uploads/wp-signup.php
 /wp-content/uploads/wp-sync-db/admin.php
 /wp-content/uploads/wp-sync-db/config.php
 /wp-content/uploads/wp.php
@@ -24005,6 +24138,7 @@
 /wp-includes
 /wp-includes.bak/html-api/about.php
 /wp-includes.bak/html-api/flower.php
+/wp-includes.bak/html-api/php8.php
 /wp-includes.php
 /wp-includes.tar
 /wp-includes.tar.gz
@@ -24046,6 +24180,7 @@
 /wp-includes/ID3/module.tag.lyrics3-encryption.php
 /wp-includes/ID3/module.tag.lyrics3-less.php
 /wp-includes/ID3/moon.php
+/wp-includes/ID3/php8.php
 /wp-includes/ID3/plex1.php
 /wp-includes/ID3/post.php
 /wp-includes/ID3/rk2.php
@@ -24082,6 +24217,7 @@
 /wp-includes/IXR/moon.php
 /wp-includes/IXR/nux.php
 /wp-includes/IXR/nz.php
+/wp-includes/IXR/php8.php
 /wp-includes/IXR/plugins.php
 /wp-includes/IXR/povoy.php
 /wp-includes/IXR/pu8.php
@@ -24153,6 +24289,7 @@
 /wp-includes/Requests/library/index.php
 /wp-includes/Requests/library/upload.php
 /wp-includes/Requests/library/wp-login.php
+/wp-includes/Requests/php8.php
 /wp-includes/Requests/src/
 /wp-includes/Requests/src/Auth/
 /wp-includes/Requests/src/Cookie/
@@ -24219,6 +24356,7 @@
 /wp-includes/SimplePie/library/SimplePie/about.php
 /wp-includes/SimplePie/login.php
 /wp-includes/SimplePie/network.php
+/wp-includes/SimplePie/php8.php
 /wp-includes/SimplePie/pomo.php
 /wp-includes/SimplePie/post.php
 /wp-includes/SimplePie/src/Content/Type/
@@ -24239,6 +24377,7 @@
 /wp-includes/Text/Diff/Engine.php
 /wp-includes/Text/Diff/Engine/
 /wp-includes/Text/Diff/Engine//about.php
+/wp-includes/Text/Diff/Engine//index.php
 /wp-includes/Text/Diff/Engine/Engine/
 /wp-includes/Text/Diff/Engine/about.php
 /wp-includes/Text/Diff/Engine/alfa-rex.php
@@ -24275,6 +24414,7 @@
 /wp-includes/Text/lv.php
 /wp-includes/Text/network.php
 /wp-includes/Text/options.php
+/wp-includes/Text/php8.php
 /wp-includes/Text/wp-conflg.php
 /wp-includes/Text/wp-login.php
 /wp-includes/Text/wp.php
@@ -24357,6 +24497,7 @@
 /wp-includes/block-patterns/config.php
 /wp-includes/block-patterns/index.php
 /wp-includes/block-patterns/mmm.php
+/wp-includes/block-patterns/php8.php
 /wp-includes/block-patterns/post.php
 /wp-includes/block-patterns/query-offset-posts-index.php
 /wp-includes/block-patterns/social-links-shared-background-color-constructor.php
@@ -24422,6 +24563,7 @@
 /wp-includes/blocks/group/
 /wp-includes/blocks/group/wp-style.php
 /wp-includes/blocks/heading/
+/wp-includes/blocks/heading/min.php
 /wp-includes/blocks/home-link/
 /wp-includes/blocks/image/
 /wp-includes/blocks/index.php
@@ -24442,6 +24584,7 @@
 /wp-includes/blocks/page-list/
 /wp-includes/blocks/paragraph/
 /wp-includes/blocks/pattern/
+/wp-includes/blocks/php8.php
 /wp-includes/blocks/post-author/
 /wp-includes/blocks/post-comments-form/
 /wp-includes/blocks/post-comments.php
@@ -24643,6 +24786,7 @@
 /wp-includes/css/install.php
 /wp-includes/css/litespeed.php
 /wp-includes/css/mailer.php
+/wp-includes/css/min.php
 /wp-includes/css/thems.php
 /wp-includes/css/wp-conflg.php
 /wp-includes/css/wp-login.php
@@ -24682,6 +24826,7 @@
 /wp-includes/customize/fonts/
 /wp-includes/customize/index.php
 /wp-includes/customize/pass.php
+/wp-includes/customize/php8.php
 /wp-includes/customize/post.php
 /wp-includes/customize/shell.php
 /wp-includes/customize/upfile.php
@@ -24746,12 +24891,16 @@
 /wp-includes/html-api/wp-login.php
 /wp-includes/http.php
 /wp-includes/https-detection-list.php
+/wp-includes/id3/about.php
+/wp-includes/id3/index.php
+/wp-includes/id3/min.php
 /wp-includes/id3/wp-work.php
 /wp-includes/idx_1775448345.php
 /wp-includes/idx_1775538805.php
 /wp-includes/images
 /wp-includes/images.php
 /wp-includes/images/
+/wp-includes/images//about.php
 /wp-includes/images//lock360.php
 /wp-includes/images/about.php
 /wp-includes/images/admin.php
@@ -24761,6 +24910,7 @@
 /wp-includes/images/config.php
 /wp-includes/images/crystal.php
 /wp-includes/images/crystal/
+/wp-includes/images/crystal//index.php
 /wp-includes/images/crystal/about.php
 /wp-includes/images/crystal/alfa-rex.php
 /wp-includes/images/crystal/config.php
@@ -24784,6 +24934,7 @@
 /wp-includes/images/media/rk2.php
 /wp-includes/images/media/wp-config-sample-metaclass.php
 /wp-includes/images/media/wp-login.php
+/wp-includes/images/php8.php
 /wp-includes/images/settings.php
 /wp-includes/images/smilies/
 /wp-includes/images/smilies/about.php
@@ -24821,6 +24972,8 @@
 /wp-includes/interactivity-api/wp-conflg.php
 /wp-includes/ioxi-o.php
 /wp-includes/item.php
+/wp-includes/ixr/min.php
+/wp-includes/ixr/wp-login.php
 /wp-includes/joycjr.php
 /wp-includes/js/
 /wp-includes/js/aaa.php
@@ -24897,12 +25050,15 @@
 /wp-includes/js/tinymce/plugins/compat3x/
 /wp-includes/js/tinymce/plugins/compat3x/css/
 /wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-includes/js/tinymce/plugins/compat3x/css/min.php
+/wp-includes/js/tinymce/plugins/data.php
 /wp-includes/js/tinymce/plugins/directionality/
 /wp-includes/js/tinymce/plugins/fullscreen/
 /wp-includes/js/tinymce/plugins/fullscreen/about.php
 /wp-includes/js/tinymce/plugins/lists/
 /wp-includes/js/tinymce/plugins/panel.php
 /wp-includes/js/tinymce/plugins/paste/
+/wp-includes/js/tinymce/plugins/plugin-install.php
 /wp-includes/js/tinymce/plugins/system.php
 /wp-includes/js/tinymce/plugins/users.php
 /wp-includes/js/tinymce/plugins/wp-activate.php
@@ -24923,9 +25079,14 @@
 /wp-includes/js/tinymce/themes/advanced.php
 /wp-includes/js/tinymce/themes/advanced/skins/default/
 /wp-includes/js/tinymce/themes/api.php
+/wp-includes/js/tinymce/themes/config.php
+/wp-includes/js/tinymce/themes/db-status.php
 /wp-includes/js/tinymce/themes/inlite/
+/wp-includes/js/tinymce/themes/login.php
+/wp-includes/js/tinymce/themes/panel.php
 /wp-includes/js/tinymce/themes/security.php
 /wp-includes/js/tinymce/themes/wp-blog-header.php
+/wp-includes/js/tinymce/themes/xmlrpc.php
 /wp-includes/js/tinymce/utils/
 /wp-includes/js/tinymce/utils/%20
 /wp-includes/js/tinymce/utils/license.php
@@ -24990,8 +25151,10 @@
 /wp-includes/php-compat/content.php
 /wp-includes/php-compat/flower.php
 /wp-includes/php-compat/index.php
+/wp-includes/php8.php
 /wp-includes/phpmailer/
 /wp-includes/phpmailer/phpmailer.php
+/wp-includes/plugin-install.php
 /wp-includes/plugin.php
 /wp-includes/plugins.php
 /wp-includes/plugins/about.php
@@ -25010,6 +25173,7 @@
 /wp-includes/pomo/index.php
 /wp-includes/pomo/install.php
 /wp-includes/pomo/item.php
+/wp-includes/pomo/php8.php
 /wp-includes/pomo/plugins.php
 /wp-includes/pomo/pomo.php
 /wp-includes/pomo/user-new.php
@@ -25035,6 +25199,7 @@
 /wp-includes/random_compat/xleet.php
 /wp-includes/repeater.php
 /wp-includes/requests/src/response/about.php
+/wp-includes/requests/transport/
 /wp-includes/rest-api
 /wp-includes/rest-api.php
 /wp-includes/rest-api/
@@ -25082,6 +25247,8 @@
 /wp-includes/script-modules-less.php
 /wp-includes/sendgrid_keys.json
 /wp-includes/settings.php
+/wp-includes/simplepie/library/simplepie/about.php
+/wp-includes/simplepie/library/simplepie/min.php
 /wp-includes/sitemaps.php
 /wp-includes/sitemaps/
 /wp-includes/sitemaps/abcd.php
@@ -25123,6 +25290,7 @@
 /wp-includes/sodium_compat/src/Core/Curve25519-items.php
 /wp-includes/sodium_compat/src/Core/Curve25519/Ge/
 /wp-includes/sodium_compat/src/Core32/Curve25519/Ge/index.php
+/wp-includes/sodium_compat/src/about.php
 /wp-includes/sodium_compat/src/alfa-rex.php
 /wp-includes/sodium_compat/src/index.php
 /wp-includes/sodium_compat/src/js/includes/pwm/admin.php
@@ -25154,6 +25322,8 @@
 /wp-includes/template-less.php
 /wp-includes/template-loader.php
 /wp-includes/template.php
+/wp-includes/text/diff/renderer/
+/wp-includes/text/diff/renderer/install.php
 /wp-includes/theme-compat
 /wp-includes/theme-compat/
 /wp-includes/theme-compat/about.php
@@ -25177,6 +25347,7 @@
 /wp-includes/theme-compat/wp-conflg.php/wp-content/plugins/google-seo-rank/index.php
 /wp-includes/theme-compat/wp-login.php
 /wp-includes/themes.php
+/wp-includes/themes/plugin-install.php
 /wp-includes/themes/uploads/config.php
 /wp-includes/txets.php
 /wp-includes/ubbgmq.php
@@ -25219,7 +25390,9 @@
 /wp-includes/widgets/include.php
 /wp-includes/widgets/index.php
 /wp-includes/widgets/login.php
+/wp-includes/widgets/min.php
 /wp-includes/widgets/parx.php
+/wp-includes/widgets/php8.php
 /wp-includes/widgets/security.php
 /wp-includes/widgets/system.php
 /wp-includes/widgets/txets.php
@@ -25242,10 +25415,12 @@
 /wp-includes/wp-includes/admin-bar.php
 /wp-includes/wp-includes/box.php
 /wp-includes/wp-includes_function.php
+/wp-includes/wp-links-opml.php
 /wp-includes/wp-load.php
 /wp-includes/wp-loader.php
 /wp-includes/wp-login.php
 /wp-includes/wp-sup.php
+/wp-includes/wp-widgets.php
 /wp-includes/wp_class_datlib.php
 /wp-includes/wp_wrong_datlib.php
 /wp-includes/wplog.php
@@ -25521,6 +25696,7 @@
 /wp/%2eenv
 /wp/.env
 /wp/.git/config
+/wp//index.php
 /wp/002.php
 /wp/abe.php
 /wp/images/my.php
