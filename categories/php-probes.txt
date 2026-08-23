@@ -385,6 +385,7 @@
 /.well-known/acme-challenge/index.php
 /.well-known/acme-challenge/install.php
 /.well-known/acme-challenge/license.php
+/.well-known/acme-challenge/local-access.php
 /.well-known/acme-challenge/mah.php
 /.well-known/acme-challenge/makeasmtp.php
 /.well-known/acme-challenge/mariju.php
@@ -1306,6 +1307,7 @@
 //worksec.php
 //wos.php
 //wp-2019.php
+//wp-9p3vdgw.php
 //wp-activate.php
 //wp-admin.php
 //wp-admin/class-db.php
@@ -1365,6 +1367,7 @@
 //wp-includes/l10n/min.php
 //wp-includes/l10n/themes.php
 //wp-includes/style-engine/about.php
+//wp-includes/theme-compat/index.php
 //wp-links-opml.php
 //wp-load.php
 //wp-login.php
@@ -2440,6 +2443,7 @@
 /acfipnci.php
 /achan/administrator/index.php
 /achan/xmlrpc.php
+/acheckout.php
 /acip.php
 /acjsn.php
 /acl.config.php
@@ -3115,6 +3119,7 @@
 /assets/about.php
 /assets/admin.php
 /assets/admin/js/tinymce/plugins/filemanager/dialog.php
+/assets/admin/login/info.php
 /assets/admin/plugins/elfinder/connectors/php/connector.php
 /assets/admin/plugins/jquery-file-upload/server/php/index.php
 /assets/admin/plugins/plupload/examples/upload.php
@@ -4748,6 +4753,7 @@
 /conn_test.php
 /connect.php
 /connect.php.bak
+/connection-test.php
 /connection.php
 /connection.php.bak
 /connection_test.php
@@ -5570,6 +5576,7 @@
 /enacting.php
 /enclas.php
 /encrypt.php
+/encryption.php
 /end.php
 /endpoints/atomlib.php
 /endpoints/class-wp-rest-attachment-controller.php
@@ -7178,6 +7185,7 @@
 /law9.php
 /layou.php
 /layout.php
+/layout/438884/index.php
 /layouts/disagrsxr.php
 /lazqstrk.php
 /lb.php
@@ -7830,6 +7838,7 @@
 /mom.php
 /momo.php
 /mon.php
+/mona.php
 /monso.php
 /moo.php
 /moog/config.php
@@ -10715,6 +10724,7 @@
 /well-known/acme-challenge/about.php
 /well-known/acme-challenge/index.php
 /well-known/config.php
+/well-known/index.php
 /well-known/nano.php
 /wen.php
 /weoci.php
@@ -10796,6 +10806,7 @@
 /wordpress/wp-admin/setup-config.php
 /wordpress/wp-config-sample.php
 /wordpress/wp-config.php
+/wordpress/wp-content/plugins/cvqvgfk/index.php
 /wordpress/wp-content/plugins/test.php
 /wordpress/wp-content/plugins/xcvbx/autoload_classmap.php
 /wordpress/wp-content/plugins/xcvbx/flower.php
@@ -12722,6 +12733,7 @@
 /wp-content/wp-load.php
 /wp-content/wp-login.php
 /wp-content/wp-mail.php
+/wp-content/wp-plugins/aspose-pdf-importer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/wp-settings.php
 /wp-content/wp.php
 /wp-content/wp_wrong_datlib.php
@@ -13027,6 +13039,7 @@
 /wp-includes/Text/Diff/Engine/template-singl-portfolio.php
 /wp-includes/Text/Diff/Engine/theme.php
 /wp-includes/Text/Diff/Engine/tx1.php
+/wp-includes/Text/Diff/Engine/upload.php
 /wp-includes/Text/Diff/Engine/wp-login.php
 /wp-includes/Text/Diff/Engine/wp.php
 /wp-includes/Text/Diff/Renderer/about.php
@@ -13179,6 +13192,7 @@
 /wp-includes/blocks/list-item/index.php
 /wp-includes/blocks/loginout/about.php
 /wp-includes/blocks/media-text/index.php
+/wp-includes/blocks/missing/index.php
 /wp-includes/blocks/navigation-submenu/index.php
 /wp-includes/blocks/nextpage/index.php
 /wp-includes/blocks/nextpage/wp-cron.php
@@ -13187,7 +13201,9 @@
 /wp-includes/blocks/post-author-biography/824476/index.php
 /wp-includes/blocks/post-comments-form/index.php
 /wp-includes/blocks/post-comments.php
+/wp-includes/blocks/post-date/index.php
 /wp-includes/blocks/post-template/txets.php
+/wp-includes/blocks/post-terms/index.php
 /wp-includes/blocks/pullquote/aj.php
 /wp-includes/blocks/query-pagination-next/index.php
 /wp-includes/blocks/query-pagination-numbers/index.php
@@ -13554,6 +13570,7 @@
 /wp-includes/js/crop/admin.php
 /wp-includes/js/crop/config.php
 /wp-includes/js/crop/cropper.php
+/wp-includes/js/crop/index.php
 /wp-includes/js/crop/joker.php
 /wp-includes/js/crop/mart.php
 /wp-includes/js/crop/shell.php
@@ -13584,13 +13601,16 @@
 /wp-includes/js/mediaelement/wp-mediaelement.php
 /wp-includes/js/plupload/autoload_classmap.php
 /wp-includes/js/plupload/flower.php
+/wp-includes/js/plupload/index.php
 /wp-includes/js/settings.php
 /wp-includes/js/simi.php
 /wp-includes/js/thickbox/about.php
 /wp-includes/js/thickbox/alfa-rex.php8
 /wp-includes/js/thickbox/class-menushelp.php
+/wp-includes/js/thickbox/index.php
 /wp-includes/js/thickbox/thickbox.php
 /wp-includes/js/tinymce/flower.php
+/wp-includes/js/tinymce/index.php
 /wp-includes/js/tinymce/langs/about.php
 /wp-includes/js/tinymce/plugins/api.php
 /wp-includes/js/tinymce/plugins/autosave/langs.php
