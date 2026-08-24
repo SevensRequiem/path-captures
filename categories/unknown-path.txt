@@ -6239,6 +6239,7 @@
 /magento_version
 /mail.config.json
 /mail.zip
+/mail/
 /mail/config
 /mail/config.cfg
 /mail/config.conf
@@ -7129,6 +7130,7 @@
 /ray
 /razorpay.json
 /rc.zip
+/rc/
 /rclone.conf
 /rds.json
 /rds_credentials.json
@@ -7258,6 +7260,7 @@
 /root/.netrc
 /root/.s3cfg
 /root/.ssh/id_rsa
+/roundcube/
 /route53.json
 /routes/billing.js
 /routes/checkout.js
