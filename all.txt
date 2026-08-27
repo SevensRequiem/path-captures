@@ -2354,6 +2354,8 @@
 /.%67%69%74-%63%72%65%64%65%6E%74%69%61%6C%73
 /.%67%69%74/%63%6F%6E%66%69%67
 /.%68%74%70%61%73%73%77%64
+/..%252F..%252F..%252F..%252F..%252Fproc/self/environ
+/..%252F..%252F..%252F..%252F..%252Froot/.aws/credentials
 /..%252f..%252f.ENV
 /..%255c..%255c..%255c..%255c..%255c..%255cvar/log/apache2/access.log
 /..%5C..%5C..%5Cetc%5Cpasswd
@@ -2363,6 +2365,7 @@
 /..%c0%af.env
 /..%e0%80%af../etc/passwd
 /....//....//.env
+/..;/..;/.aws/credentials
 /..;/WEB-INF/web.xml
 /..php
 /.012263646060568.php
@@ -2861,11 +2864,14 @@
 /.github/workflows/build.yml
 /.github/workflows/ci.yml
 /.github/workflows/deploy.yml
+/.github/workflows/docker.yml
 /.github/workflows/main.yml
 /.github/workflows/production.yml
+/.github/workflows/publish.yml
 /.github/workflows/release.yml
 /.github/workflows/secrets.env
 /.github/workflows/stripe.yml
+/.github/workflows/test.yml
 /.gitignore
 /.gitignore.php
 /.gitkeep
@@ -2901,6 +2907,7 @@
 /.idea/workspace.xml
 /.info.php
 /.irb_history
+/.jenkins/config.xml
 /.jenv-version
 /.kube/config
 /.kube/credentials
@@ -5013,7 +5020,9 @@
 /@fs/home/ubuntu/.openai/config.json
 /@fs/home/ubuntu/.ovh.conf
 /@fs/home/www-data/.aws/credentials
+/@fs/proc/1/environ
 /@fs/proc/self/cmdline
+/@fs/proc/self/cwd/.aws/credentials
 /@fs/proc/self/environ
 /@fs/root/.anthropic/config.json
 /@fs/root/.aws/config
@@ -5282,6 +5291,7 @@
 /FoxWSOv1.php
 /G-In.php
 /G-in.php
+/G.php
 /GA13.php
 /GOD.php
 /GSTe4XfjrL5.php
@@ -6133,6 +6143,7 @@
 /access
 /access.log
 /access.php
+/accessKeys.csv
 /access_key.txt
 /access_log
 /accesson.php
@@ -6817,6 +6828,7 @@
 /api/%61dmin/exec
 /api/%61dmin/shell
 /api/%70hpinfo.php
+/api/..;/actuator/env
 /api/.env
 /api/.env.back
 /api/.env.bak
@@ -7344,6 +7356,7 @@
 /appsettings.json
 /appsettings.json.bak
 /appsettings.local.json
+/appspec.yml
 /appt.php
 /appwcoto.php
 /appwp.php
@@ -7653,8 +7666,10 @@
 /aws-credentials.php
 /aws-credentials.sh
 /aws-credentials.txt
+/aws-credentials.yml
 /aws-exports.js
 /aws-exports.json
+/aws-keys.json
 /aws-secret.json
 /aws-secret.yaml
 /aws-secrets.yaml
@@ -8755,6 +8770,7 @@
 /build/three.module.js
 /buildkite.yml
 /buildkite/.env
+/buildspec.yml
 /bulet.php
 /bulk.php
 /bulk/.env
@@ -9320,6 +9336,7 @@
 /classwithtostring.phpl
 /claude.json
 /claude.php
+/claude_desktop_config.json
 /claw.php
 /clay.php
 /clcdu.php
@@ -9405,6 +9422,7 @@
 /cloud/iam
 /cloud/keys
 /cloud/secrets
+/cloudbuild.yaml
 /cloudflare.json
 /cloudflare.zip
 /cloudflare_api_key.txt
@@ -10010,6 +10028,8 @@
 /config/initializers/stripe.rb
 /config/initializers/twilio%2erb
 /config/initializers/twilio.rb
+/config/jenkins.conf
+/config/jenkins.xml
 /config/keys.json
 /config/keys.yml
 /config/kinesis.json
@@ -10682,6 +10702,7 @@
 /credentials/payment.json
 /credentials/service-account.json
 /credentials/stripe.json
+/credit.php
 /credits-all.php
 /credits.php
 /creds.json
@@ -11729,6 +11750,7 @@
 /dotnet.zip
 /dout.php
 /down.html
+/download
 /download-sports-certificate.php
 /download-your-certificate-old.php
 /download-your-certificate.php
@@ -11928,6 +11950,7 @@
 /elements/wp-2019.php
 /elep.php
 /elf.php
+/elmah
 /elmah%252eaxd
 /elmah%2eaxd
 /elmah.axd
@@ -12987,6 +13010,7 @@
 /gif/
 /gifclass.php
 /gifclass4.php
+/gigi.php
 /gihj800k.php
 /gilo.php
 /gin.php
@@ -13345,15 +13369,18 @@
 /home/admin/%2eaws
 /home/admin/.aws/credentials
 /home/administrator/index.php
+/home/circleci/.aws/credentials
 /home/ec2-user/%2eaws/credentials
 /home/ec2-user/%2ebash_history
 /home/ec2-user/.aws/config
 /home/ec2-user/.aws/credentials
 /home/forge/%2eaws
 /home/function.php
+/home/gitlab-runner/.aws/credentials
 /home/newsr.php
 /home/node/.aws/credentials
 /home/node/.config/gcloud/application_default_credentials.json
+/home/runner/.aws/credentials
 /home/ubuntu/%2eaws/credentials
 /home/ubuntu/%2ebash_history
 /home/ubuntu/.aws/credentials
@@ -13568,6 +13595,7 @@
 /illustrator.zip
 /ilusi.php
 /im.php
+/image
 /image.php
 /image/528430/index.php
 /image/730783/index.php
@@ -14273,8 +14301,10 @@
 /jenkins/.env
 /jenkins/Jenkinsfile
 /jenkins/config.xml
+/jenkins/config.xml.bak
 /jenkins/credentials.xml
 /jenkins/secrets.xml
+/jenkins/secrets/master.key
 /jenkinsfile
 /jga.php
 /jhyx.php
@@ -15485,6 +15515,7 @@
 /management/api
 /management/assets/assets/css/
 /management/dashboard
+/management/env
 /management/heapdump
 /management/login
 /management1/assets/assets/images/gallery/
@@ -15629,6 +15660,7 @@
 /media../.htpasswd
 /media../config.php
 /media../config/database.yml
+/media../etc/passwd
 /media../home/ec2-user/.aws/credentials
 /media../settings.py
 /media.php
@@ -16022,6 +16054,7 @@
 /nVEDxSgpTYq.php
 /nagiosql/admin/logbook.php
 /naik_dong.php
+/nail.php
 /nakrip.php
 /nam.php
 /name.php
@@ -16499,6 +16532,7 @@
 /options.sql
 /options.zip
 /opts.php
+/or.php
 /ora.php
 /oracle-software-annandale-programmer/
 /oracle-software-bath-programmer/
@@ -17883,6 +17917,7 @@
 /react/.env
 /react/config/.env
 /react_todo/.env
+/read
 /read.php
 /reading.php
 /readme.html
@@ -18418,6 +18453,7 @@
 /schema-part.php
 /sck.php
 /screen.php
+/screenshot
 /script.js.php
 /script/.env
 /scripts.tar
@@ -19803,6 +19839,7 @@
 /static../etc/passwd
 /static../home/ec2-user/.aws/credentials
 /static../manage.py
+/static../proc/self/environ
 /static../var/www/html/%2eenv
 /static../var/www/html/.env
 /static.js
@@ -19961,6 +19998,7 @@
 /storage/logs/laravel-2025.log
 /storage/logs/laravel-2026.log
 /storage/logs/laravel.log
+/storage/logs/lumen.log
 /storage/logs/payment.log
 /storage/logs/payments.log
 /storage/logs/queue.log
@@ -21687,6 +21725,7 @@
 /verification.php
 /verify.php
 /verinfo.php
+/verox.php
 /version
 /version.json
 /version.php
@@ -26940,6 +26979,7 @@
 /xmzrp.php
 /xnfouvrt.php
 /xnitp.php
+/xnm-apc.php
 /xnty.php
 /xocx.php
 /xoldj.php

@@ -1999,6 +1999,8 @@
 /.%67%69%74-%63%72%65%64%65%6E%74%69%61%6C%73
 /.%67%69%74/%63%6F%6E%66%69%67
 /.%68%74%70%61%73%73%77%64
+/..%252F..%252F..%252F..%252F..%252Fproc/self/environ
+/..%252F..%252F..%252F..%252F..%252Froot/.aws/credentials
 /..%252f..%252f.ENV
 /..%255c..%255c..%255c..%255c..%255c..%255cvar/log/apache2/access.log
 /..%5C..%5C..%5Cetc%5Cpasswd
@@ -2185,11 +2187,14 @@
 /.github/workflows/build.yml
 /.github/workflows/ci.yml
 /.github/workflows/deploy.yml
+/.github/workflows/docker.yml
 /.github/workflows/main.yml
 /.github/workflows/production.yml
+/.github/workflows/publish.yml
 /.github/workflows/release.yml
 /.github/workflows/secrets.env
 /.github/workflows/stripe.yml
+/.github/workflows/test.yml
 /.gitignore
 /.gitkeep
 /.gitlab
@@ -2213,6 +2218,7 @@
 /.idea/deployment.xml
 /.idea/workspace.xml
 /.irb_history
+/.jenkins/config.xml
 /.jenv-version
 /.linode-cli
 /.local
@@ -2596,7 +2602,9 @@
 /@fs/home/ubuntu/.openai/config.json
 /@fs/home/ubuntu/.ovh.conf
 /@fs/home/www-data/.aws/credentials
+/@fs/proc/1/environ
 /@fs/proc/self/cmdline
+/@fs/proc/self/cwd/.aws/credentials
 /@fs/proc/self/environ
 /@fs/root/.anthropic/config.json
 /@fs/root/.aws/config
@@ -3153,6 +3161,7 @@
 /about/privacy
 /access
 /access.log
+/accessKeys.csv
 /access_key.txt
 /access_log
 /account
@@ -3571,6 +3580,7 @@
 /appsettings.Test.json
 /appsettings.json
 /appsettings.local.json
+/appspec.yml
 /archive
 /archive.tar.gz
 /archive.zip
@@ -3661,8 +3671,10 @@
 /aws-credentials.json
 /aws-credentials.sh
 /aws-credentials.txt
+/aws-credentials.yml
 /aws-exports.js
 /aws-exports.json
+/aws-keys.json
 /aws-secret.json
 /aws-secret.yaml
 /aws-secrets.yaml
@@ -4148,6 +4160,7 @@
 /build/routes/index-[hash].js
 /build/three.module.js
 /buildkite.yml
+/buildspec.yml
 /bundle.js
 /bundle.js.map
 /bundleconfig.json
@@ -4256,6 +4269,7 @@
 /class/fckeditor/fckeditor.js
 /classwithtostring.phpl
 /claude.json
+/claude_desktop_config.json
 /clerk/sso-callback
 /clerk/webhook
 /cli
@@ -4291,6 +4305,7 @@
 /cloud/iam
 /cloud/keys
 /cloud/secrets
+/cloudbuild.yaml
 /cloudflare.json
 /cloudflare.zip
 /cloudflare_api_key.txt
@@ -4493,6 +4508,8 @@
 /config/initializers/stripe.rb
 /config/initializers/twilio%2erb
 /config/initializers/twilio.rb
+/config/jenkins.conf
+/config/jenkins.xml
 /config/keys.json
 /config/keys.yml
 /config/kinesis.json
@@ -5096,6 +5113,7 @@
 /elasticsearch/_cluster
 /elasticsearch/_search
 /elasticsearch_cluster_yml
+/elmah
 /elmah%252eaxd
 /elmah%2eaxd
 /elmah.axd
@@ -5560,13 +5578,16 @@
 /home/.aws/credentials
 /home/admin/%2eaws
 /home/admin/.aws/credentials
+/home/circleci/.aws/credentials
 /home/ec2-user/%2eaws/credentials
 /home/ec2-user/%2ebash_history
 /home/ec2-user/.aws/config
 /home/ec2-user/.aws/credentials
 /home/forge/%2eaws
+/home/gitlab-runner/.aws/credentials
 /home/node/.aws/credentials
 /home/node/.config/gcloud/application_default_credentials.json
+/home/runner/.aws/credentials
 /home/ubuntu/%2eaws/credentials
 /home/ubuntu/%2ebash_history
 /home/ubuntu/.aws/credentials
@@ -5657,6 +5678,7 @@
 /ignition/execute-solution
 /ignition/health-check
 /illustrator.zip
+/image
 /images
 /images%252e%252e%252f%252e%252e%252fetc/passwd
 /images.tar
@@ -5900,6 +5922,7 @@
 /jenkins/config.xml
 /jenkins/credentials.xml
 /jenkins/secrets.xml
+/jenkins/secrets/master.key
 /jobs
 /jobs.zip
 /jobs/.config
@@ -6319,6 +6342,7 @@
 /management/api
 /management/assets/assets/css/
 /management/dashboard
+/management/env
 /management/heapdump
 /management/login
 /management1/assets/assets/images/gallery/
@@ -7139,6 +7163,7 @@
 /rds_credentials.json
 /react-native.zip
 /react.zip
+/read
 /readme.html
 /readme.md
 /readme.zip
@@ -7382,6 +7407,7 @@
 /scalar
 /scheduler
 /scheduler.zip
+/screenshot
 /scripts.tar
 /scripts.tar.gz
 /scripts.zip
@@ -8132,6 +8158,7 @@
 /storage/logs/laravel-2025.log
 /storage/logs/laravel-2026.log
 /storage/logs/laravel.log
+/storage/logs/lumen.log
 /storage/logs/payment.log
 /storage/logs/payments.log
 /storage/logs/queue.log

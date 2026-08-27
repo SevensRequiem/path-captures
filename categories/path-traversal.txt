@@ -46,6 +46,7 @@
 /dist../config/database.yml
 /dist../config/settings.py
 /dist../settings.py
+/download
 /download../.htaccess
 /download../.htpasswd
 /download../config/database.yml
@@ -85,6 +86,7 @@
 /media../.aws/credentials
 /media../.htpasswd
 /media../config/database.yml
+/media../etc/passwd
 /media../home/ec2-user/.aws/credentials
 /media../settings.py
 /owa/auth/x.js
@@ -108,6 +110,7 @@
 /static../etc/passwd
 /static../home/ec2-user/.aws/credentials
 /static../manage.py
+/static../proc/self/environ
 /static../var/www/html/%2eenv
 /static../var/www/html/.env
 /storage../config/database.yml
