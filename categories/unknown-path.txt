@@ -36,6 +36,7 @@
 /%20%20%20%20%22/website/config.env%22,
 /%20%20%20%20%22/wp-admin/%22
 /%20%20%20%20%22/wp-admin/%22,
+/%20github
 /%22,
 /%22/assets/js/ambient.js
 /%22/assets/js/ascii-header.js
@@ -2636,6 +2637,7 @@
 /@vite-hmr
 /@vite/client
 /@vite/env
+/ADClick.aspx
 /ALFA_DATA
 /ALFA_DATA/
 /ALFA_DATA/alfacgiapi/
@@ -2696,12 +2698,14 @@
 /Files/
 /Gemfile
 /Gemfile.lock
+/GetSessionAndBack
 /GoogleService-Info.plist
 /Gruntfile.js
 /IAM.md
 /INSTALL.txt
 /LICENSE
 /LOG.md
+/LinkClick.aspx
 /META-INF/context.xml
 /Makefile
 /NEW
@@ -2731,7 +2735,9 @@
 /SHOP
 /SITE
 /ServiceAccountKey.json
+/SetCulture
 /Shop
+/SignOut.aspx
 /Site
 /Site/
 /SonarQube.properties
@@ -3842,6 +3848,7 @@
 /awsconfiguration.json
 /awslogs.conf
 /awsmobile.json
+/ax.pl
 /azure
 /azure-blob.zip
 /azure-credentials.json
@@ -4273,6 +4280,8 @@
 /clerk/sso-callback
 /clerk/webhook
 /cli
+/click
+/clickthru
 /client.key
 /client.ovpn
 /client.pem
@@ -4988,6 +4997,7 @@
 /devtools
 /devtools.zip
 /digitalocean.zip
+/dil.asp
 /directadmin.zip
 /director
 /director/
@@ -5255,6 +5265,7 @@
 /exports/sendgrid.zip
 /express.zip
 /external
+/external_redirect
 /extranet
 /extranet/
 /extranet/api
@@ -5472,6 +5483,7 @@
 /gitlab/webhook
 /global.asax
 /global.zip
+/go
 /go.mod
 /godaddy.zip
 /godot.zip
@@ -5494,6 +5506,7 @@
 /google_oauth.json
 /google_service_app.json
 /googledrive.zip
+/goto
 /gql
 /gradle.properties
 /grafana
@@ -7177,6 +7190,7 @@
 /readyz
 /reception1/includes/tcpdf/examples/config/
 /redirect
+/redirect.aspx
 /redirect=/%61dmin
 /redirect_to=/%61dmin
 /redirect_uri=javascript:alert(1)
@@ -7732,6 +7746,7 @@
 /session
 /session.zip
 /sessions/
+/set_lang
 /settings
 /settings.cfg
 /settings.conf
@@ -8562,6 +8577,7 @@
 /trace.axd
 /trace.log
 /traces.zip
+/tracklinks.pl
 /trpc/*
 /tsconfig.app.json
 /tsconfig.json
@@ -8644,6 +8660,7 @@
 /users/impersonate
 /users/import
 /users/list
+/users/login
 /users/login-as
 /users/me
 /users/new
@@ -8851,6 +8868,7 @@
 /version3.zip
 /videos.zip
 /views/emails/
+/visit
 /vite.config.js
 /vite.config.ts
 /voyager
@@ -9408,6 +9426,7 @@
 /wp-content/themes/evita/
 /wp-content/themes/f25zgwig/
 /wp-content/themes/fswefy0o/
+/wp-content/themes/gaukingo/
 /wp-content/themes/h47vbpo2/
 /wp-content/themes/hideo/
 /wp-content/themes/jupiter/framework/
