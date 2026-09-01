@@ -2095,6 +2095,7 @@
 /.config.yaml
 /.config/anthropic/credentials/default.json
 /.config/app.yaml
+/.config/composer/auth.json
 /.config/config.json
 /.config/env/production.js
 /.config/gcloud/access_tokens.db
@@ -2748,6 +2749,7 @@
 /Thumbs.db
 /VERSION
 /WEB-INF/classes/application.properties
+/WEB-INF/classes/application.yml
 /WEB-INF/context.xml
 /WEB-INF/web.xml
 /WORDPRESS
@@ -4786,6 +4788,7 @@
 /credentials/stripe.json
 /creds.json
 /creds.zip
+/crew
 /cron
 /cron.sh
 /cron.zip
@@ -8347,6 +8350,7 @@
 /tasks.zip
 /team
 /team.zip
+/team/
 /teams
 /teams/%61dmin
 /teams/*

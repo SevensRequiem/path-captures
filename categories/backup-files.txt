@@ -154,6 +154,8 @@
 /config.old
 /config.sql
 /config.stripe.old
+/config.yaml.bak
+/config.yml.bak
 /config/app.js.bak
 /config/backup.sql
 /config/credentials.json.bak
@@ -179,6 +181,7 @@
 /database.bak
 /database.old
 /database.sql
+/database.yml.bak
 /database1.sql
 /database_1.sql
 /database_backup.sql
@@ -278,6 +281,7 @@
 /settings.backup
 /settings.bak
 /settings.old
+/settings.py.bak
 /settings.sql
 /shutin.network.sql
 /shutin.sql
