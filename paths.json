@@ -21,13 +21,13 @@
     "path": "/xmlrpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T04:04:14Z",
-    "hit_count": 4600
+    "hit_count": 4602
   },
   {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:20:16Z",
-    "hit_count": 1656
+    "hit_count": 1657
   },
   {
     "path": "/asc.php",
@@ -141,7 +141,7 @@
     "path": "/wp-login.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T05:48:55Z",
-    "hit_count": 13089
+    "hit_count": 13096
   },
   {
     "path": "/abc.php",
@@ -3015,7 +3015,7 @@
     "path": "/index.php",
     "category": "php-probes",
     "first_seen": "2026-02-27T23:04:30Z",
-    "hit_count": 486
+    "hit_count": 491
   },
   {
     "path": "/wordpress/wp-login.php",
@@ -3057,7 +3057,7 @@
     "path": "//xmlrpc.php",
     "category": "php-probes",
     "first_seen": "2026-02-28T07:15:50Z",
-    "hit_count": 922
+    "hit_count": 923
   },
   {
     "path": "/phpinfo.php",
@@ -3855,7 +3855,7 @@
     "path": "/.git/config",
     "category": "env-config",
     "first_seen": "2026-02-28T18:43:55Z",
-    "hit_count": 2518
+    "hit_count": 2520
   },
   {
     "path": "/www.sql",
@@ -10155,7 +10155,7 @@
     "path": "/.git/HEAD",
     "category": "env-config",
     "first_seen": "2026-03-01T04:48:29Z",
-    "hit_count": 705
+    "hit_count": 706
   },
   {
     "path": "/.svn/entries",
@@ -17541,7 +17541,7 @@
     "path": "/wp-admin/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T04:20:22Z",
-    "hit_count": 798
+    "hit_count": 799
   },
   {
     "path": "/wp-content/uploads/",
@@ -17649,7 +17649,7 @@
     "path": "/.well-known/discord",
     "category": "unknown-path",
     "first_seen": "2026-03-05T07:05:58Z",
-    "hit_count": 159
+    "hit_count": 160
   },
   {
     "path": "/img/68507e601764a789a5b3687b",
@@ -18129,31 +18129,31 @@
     "path": "/wp/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 269
+    "hit_count": 300
   },
   {
     "path": "/old/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 139
+    "hit_count": 140
   },
   {
     "path": "/new/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 133
+    "hit_count": 134
   },
   {
     "path": "/backup/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 139
+    "hit_count": 140
   },
   {
     "path": "/wordpress/",
     "category": "unknown-path",
     "first_seen": "2026-03-05T16:46:56Z",
-    "hit_count": 249
+    "hit_count": 268
   },
   {
     "path": "/app/Services/StripeService.php",
@@ -23517,7 +23517,7 @@
     "path": "/graphql",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:24Z",
-    "hit_count": 144
+    "hit_count": 145
   },
   {
     "path": "/graphql/schema",
@@ -25005,7 +25005,7 @@
     "path": "/license.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-05T19:54:33Z",
-    "hit_count": 17
+    "hit_count": 18
   },
   {
     "path": "/activation_key.txt",
@@ -27687,103 +27687,103 @@
     "path": "//wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:05Z",
-    "hit_count": 209
+    "hit_count": 210
   },
   {
     "path": "//blog/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//web/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//wordpress/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//website/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 209
+    "hit_count": 210
   },
   {
     "path": "//wp/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//news/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 209
+    "hit_count": 210
   },
   {
     "path": "//2018/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 197
+    "hit_count": 198
   },
   {
     "path": "//shop/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 206
+    "hit_count": 207
   },
   {
     "path": "//2019/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 206
+    "hit_count": 207
   },
   {
     "path": "//wp1/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//test/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//media/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 197
+    "hit_count": 198
   },
   {
     "path": "//wp2/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 209
+    "hit_count": 210
   },
   {
     "path": "//site/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:06Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//cms/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:07Z",
-    "hit_count": 210
+    "hit_count": 211
   },
   {
     "path": "//sito/wp-includes/wlwmanifest.xml",
     "category": "unknown-path",
     "first_seen": "2026-03-06T10:03:07Z",
-    "hit_count": 209
+    "hit_count": 210
   },
   {
     "path": "/.vscode/sftp.json",
@@ -28293,7 +28293,7 @@
     "path": "/llms.txt",
     "category": "unknown-path",
     "first_seen": "2026-03-07T00:04:36Z",
-    "hit_count": 16
+    "hit_count": 17
   },
   {
     "path": "/humans.txt",
@@ -30729,7 +30729,7 @@
     "path": "/feed/",
     "category": "unknown-path",
     "first_seen": "2026-03-07T13:56:23Z",
-    "hit_count": 21
+    "hit_count": 22
   },
   {
     "path": "/sitemap.xml.gz",
@@ -33501,7 +33501,7 @@
     "path": "/wp-json/",
     "category": "unknown-path",
     "first_seen": "2026-03-11T11:07:36Z",
-    "hit_count": 73
+    "hit_count": 75
   },
   {
     "path": "/wp",
@@ -33549,7 +33549,7 @@
     "path": "/home.html",
     "category": "unknown-path",
     "first_seen": "2026-03-11T15:48:55Z",
-    "hit_count": 38
+    "hit_count": 39
   },
   {
     "path": "/modules/mod_simplefileuploadv1.3/elements/filemanager.php",
@@ -63087,7 +63087,7 @@
     "path": "/images/images/cache.php",
     "category": "php-probes",
     "first_seen": "2026-03-26T04:35:59Z",
-    "hit_count": 16
+    "hit_count": 17
   },
   {
     "path": "/images/images/images/images/cache.php",
@@ -63099,7 +63099,7 @@
     "path": "/images/images/images/images/images/images/cache.php",
     "category": "php-probes",
     "first_seen": "2026-03-26T04:35:59Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/wp-admin/css/colors/coffee/coffee/cache.php",
@@ -63153,7 +63153,7 @@
     "path": "/images/images/images/images/images/cache.php",
     "category": "php-probes",
     "first_seen": "2026-03-26T04:36:00Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/wp-admin/network/network/cache.php",
@@ -63177,7 +63177,7 @@
     "path": "/images/images/images/images/images/images/images/cache.php",
     "category": "php-probes",
     "first_seen": "2026-03-26T04:36:01Z",
-    "hit_count": 3
+    "hit_count": 4
   },
   {
     "path": "/zaz.php",
@@ -63957,7 +63957,7 @@
     "path": "/favicon-32x32.png",
     "category": "unknown-path",
     "first_seen": "2026-03-26T21:21:27Z",
-    "hit_count": 18
+    "hit_count": 19
   },
   {
     "path": "/ckeditor/plugins/fontawesome/dialogs/",
@@ -68727,7 +68727,7 @@
     "path": "/console",
     "category": "unknown-path",
     "first_seen": "2026-03-28T11:21:33Z",
-    "hit_count": 36
+    "hit_count": 37
   },
   {
     "path": "/core/.gitignore",
@@ -71499,7 +71499,7 @@
     "path": "/sitecore/shell/sitecore.version.xml",
     "category": "shell-upload",
     "first_seen": "2026-03-29T23:14:43Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/faq",
@@ -94017,7 +94017,7 @@
     "path": "/.well-known/atproto-did",
     "category": "unknown-path",
     "first_seen": "2026-04-15T22:06:54Z",
-    "hit_count": 138
+    "hit_count": 139
   },
   {
     "path": "/web/app_dev.php/_profiler",
@@ -99501,7 +99501,7 @@
     "path": "/wp-json/gravitysmtp/v1/tests/mock-data",
     "category": "unknown-path",
     "first_seen": "2026-04-25T06:54:54Z",
-    "hit_count": 128
+    "hit_count": 133
   },
   {
     "path": "/wp-includes/sitemaps/providers/class-wp-sitemaps-upload.php/wp-admin/js/widgets/qlex1.php",
@@ -118077,13 +118077,13 @@
     "path": "/login.do",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:16Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/solr/",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:18Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/aspera/faspex/",
@@ -118095,49 +118095,49 @@
     "path": "/showLogin.cc",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:43:50Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/index.jsp",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:44:05Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/WebInterface/",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:44:14Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/sugar_version.json",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:44:47Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/Telerik.Web.UI.WebResource.axd",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:02Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/js/NewWindow_2_all.js",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:12Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/zabbix/favicon.ico",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:12Z",
-    "hit_count": 10
+    "hit_count": 11
   },
   {
     "path": "/identity",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:21Z",
-    "hit_count": 11
+    "hit_count": 12
   },
   {
     "path": "/cf_scripts/scripts/ajax/ckeditor/ckeditor.js",
@@ -118149,7 +118149,7 @@
     "path": "/wp-json",
     "category": "unknown-path",
     "first_seen": "2026-05-12T00:45:43Z",
-    "hit_count": 26
+    "hit_count": 27
   },
   {
     "path": "/owa/",
@@ -131877,7 +131877,7 @@
     "path": "/livewire/update",
     "category": "unknown-path",
     "first_seen": "2026-05-18T05:26:43Z",
-    "hit_count": 24
+    "hit_count": 26
   },
   {
     "path": "/livewire/upload-file",
@@ -135081,7 +135081,7 @@
     "path": "/img/68abd754699f34a48c95d1c1",
     "category": "unknown-path",
     "first_seen": "2026-06-06T19:17:01Z",
-    "hit_count": 2
+    "hit_count": 3
   },
   {
     "path": "/img/683d9d9cde874c2df237a565",
@@ -144603,7 +144603,7 @@
     "path": "/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-07-23T20:13:25Z",
-    "hit_count": 33
+    "hit_count": 34
   },
   {
     "path": "/admin/public/js/uploadify/uploadify.css",
@@ -145689,13 +145689,13 @@
     "path": "/wp/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-07-28T07:48:43Z",
-    "hit_count": 20
+    "hit_count": 24
   },
   {
     "path": "/wordpress/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-07-28T07:48:44Z",
-    "hit_count": 31
+    "hit_count": 34
   },
   {
     "path": "/old/wp-json/batch/v1",
@@ -163371,187 +163371,187 @@
     "path": "/wp/index.php",
     "category": "php-probes",
     "first_seen": "2026-08-26T02:54:05Z",
-    "hit_count": 35
+    "hit_count": 42
   },
   {
     "path": "/wp/wp-json/Batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:08Z",
-    "hit_count": 18
+    "hit_count": 22
   },
   {
     "path": "/wp//wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:08Z",
-    "hit_count": 18
+    "hit_count": 22
   },
   {
     "path": "/wp/blog/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:08Z",
-    "hit_count": 18
+    "hit_count": 22
   },
   {
     "path": "/wp/wordpress/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:08Z",
-    "hit_count": 18
+    "hit_count": 22
   },
   {
     "path": "/wp/wp-json/batch/v1/",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:08Z",
-    "hit_count": 18
+    "hit_count": 22
   },
   {
     "path": "/wp/wp/v2/posts/999999",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:12Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/pages",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:12Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/media",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:12Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/categories",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:15Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/tags",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:15Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/posts/999998",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:18Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/posts/99999",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:18Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/posts/9999999",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:18Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wp/wp/v2/users",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:18Z",
-    "hit_count": 8
+    "hit_count": 10
   },
   {
     "path": "/wordpress/index.php",
     "category": "php-probes",
     "first_seen": "2026-08-26T02:54:18Z",
-    "hit_count": 30
+    "hit_count": 36
   },
   {
     "path": "/wordpress/wp-json/Batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:21Z",
-    "hit_count": 15
+    "hit_count": 18
   },
   {
     "path": "/wordpress//wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:21Z",
-    "hit_count": 15
+    "hit_count": 18
   },
   {
     "path": "/wordpress/wp-json/batch/v1/",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:21Z",
-    "hit_count": 15
+    "hit_count": 18
   },
   {
     "path": "/wordpress/blog/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:21Z",
-    "hit_count": 15
+    "hit_count": 18
   },
   {
     "path": "/wordpress/wordpress/wp-json/batch/v1",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:21Z",
-    "hit_count": 14
+    "hit_count": 17
   },
   {
     "path": "/wordpress/wp/v2/posts/999999",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:29Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/pages",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:29Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/media",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:29Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/categories",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:29Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/tags",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:29Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/posts/999998",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:29Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/posts/99999",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:30Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/wordpress/wp/v2/posts/9999999",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:30Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/blog/index.php",
     "category": "php-probes",
     "first_seen": "2026-08-26T02:54:30Z",
-    "hit_count": 28
+    "hit_count": 32
   },
   {
     "path": "/wordpress/wp/v2/users",
     "category": "unknown-path",
     "first_seen": "2026-08-26T02:54:30Z",
-    "hit_count": 7
+    "hit_count": 8
   },
   {
     "path": "/nail.php",
@@ -164601,6 +164601,18 @@
     "path": "/kgblegacy.php",
     "category": "php-probes",
     "first_seen": "2026-09-01T18:17:54Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/cgi-bin/cgi-bin/cgi-bin/cgi-bin/cache.php",
+    "category": "php-probes",
+    "first_seen": "2026-09-02T13:23:22Z",
+    "hit_count": 1
+  },
+  {
+    "path": "/images/images/images/images/images/images/images/images/cache.php",
+    "category": "php-probes",
+    "first_seen": "2026-09-02T13:23:22Z",
     "hit_count": 1
   }
 ]
