@@ -2489,6 +2489,7 @@
 /.codex/config.toml
 /.composer/auth.json
 /.conf.php
+/.config
 /.config.js
 /.config.yaml
 /.config/.env
@@ -5652,6 +5653,7 @@
 /__debug
 /__debug__
 /__debug__/
+/__debug_toolbar__/render
 /__debugbar
 /__dev
 /__env.js
@@ -5704,6 +5706,7 @@
 /_adminer.php
 /_aliases
 /_all/_search
+/_all_dbs
 /_api/*
 /_app-build-manifest.json
 /_artisan
@@ -6415,6 +6418,7 @@
 /admin/plugins/elfinder/connectors/php/connector.php
 /admin/plugins/elfinder/php/connector.minimal.php
 /admin/plugins/elfinder/php/connector.php
+/admin/plugins/file-uploader/server/php/index.php
 /admin/plugins/jquery-file-upload/server/php/index.php
 /admin/plugins/kcfinder/upload.php
 /admin/plugins/plupload/examples/upload.php
@@ -6968,6 +6972,7 @@
 /app../config/database.yml
 /app../config/settings.py
 /app../configuration.php
+/app.config.js
 /app.default.php
 /app.js
 /app.js.bak
@@ -9695,6 +9700,7 @@
 /components/com_jea/views/form/tmpl/size.php
 /components/com_media/controller.php
 /components/com_newsfeeds/models/indexx.php
+/components/com_pagebuilderck/assets/pagebuilderck.js
 /components/com_search/controller.php
 /components/payment/config.js
 /compose.yaml
@@ -12309,6 +12315,7 @@
 /export.php
 /export.sql
 /export.zip
+/export/
 /export/.env
 /export_data.php
 /exported/phpinfo%2ephp
@@ -12437,6 +12444,7 @@
 /feed.php
 /feed.xml
 /feed/
+/feed/atom
 /feedback.php
 /feeds.php
 /fell.php
@@ -13459,6 +13467,7 @@
 /horeg.php
 /horizon
 /horizon/
+/horizon/api/jobs
 /horizon/api/jobs/completed
 /horizon/api/jobs/failed
 /horizon/api/jobs/pending
@@ -14039,6 +14048,7 @@
 /index.php~
 /index.sql
 /index.ts
+/index.xml
 /index.zip
 /index/
 /index/8.php
@@ -17303,6 +17313,7 @@
 /postnews.php
 /posts
 /posts.json
+/posts/
 /posts/*
 /pouhg.php
 /pouyaserver.php
@@ -18319,6 +18330,7 @@
 /rss-functions-session.php
 /rss.php
 /rss.xml
+/rss2.xml
 /rt.php
 /rtx.php
 /ru.php
@@ -19952,6 +19964,7 @@
 /static.zip
 /static/.env
 /static/.git/config
+/static/common/user/uedit/php/controller.php
 /static/env.js
 /static/flags/blank.gif
 /static/js/*.chunk.js
@@ -20268,6 +20281,7 @@
 /supabase-config.json
 /supabase/%2eenv
 /supabase/.env
+/supaguard-probe-does-not-exist-xyz123
 /super-admin
 /super-admin/
 /super.php

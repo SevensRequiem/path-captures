@@ -2091,6 +2091,7 @@
 /.codefresh/
 /.codex/config.toml
 /.composer/auth.json
+/.config
 /.config.js
 /.config.yaml
 /.config/anthropic/credentials/default.json
@@ -2792,6 +2793,7 @@
 /__debug
 /__debug__
 /__debug__/
+/__debug_toolbar__/render
 /__debugbar
 /__dev
 /__env.js
@@ -2840,6 +2842,7 @@
 /_admin
 /_aliases
 /_all/_search
+/_all_dbs
 /_api/*
 /_app-build-manifest.json
 /_artisan
@@ -3384,6 +3387,7 @@
 /app-config.js
 /app-config.json
 /app..%2f.htpasswd
+/app.config.js
 /app.js
 /app.js.map
 /app.json
@@ -4372,6 +4376,7 @@
 /complete-backup.zip
 /component/users/
 /components/
+/components/com_pagebuilderck/assets/pagebuilderck.js
 /components/payment/config.js
 /compose.yaml
 /composer.json
@@ -5265,6 +5270,7 @@
 /explore
 /export.json
 /export.zip
+/export/
 /exported/phpinfo%2ephp
 /exports/sendgrid.zip
 /express.zip
@@ -5292,6 +5298,7 @@
 /feed
 /feed.xml
 /feed/
+/feed/atom
 /fetch
 /figma.zip
 /filament
@@ -5617,6 +5624,7 @@
 /home/www-data/.ssh/id_rsa
 /horizon
 /horizon/
+/horizon/api/jobs
 /horizon/api/jobs/completed
 /horizon/api/jobs/failed
 /horizon/api/jobs/pending
@@ -5843,6 +5851,7 @@
 /index.json
 /index.jsp
 /index.ts
+/index.xml
 /index.zip
 /index/
 /index/key/
@@ -6969,6 +6978,7 @@
 /postmark_token.txt
 /posts
 /posts.json
+/posts/
 /posts/*
 /pre-prod
 /pre-production.zip
@@ -7334,6 +7344,7 @@
 /routes/webhook.js
 /rpc.zip
 /rss.xml
+/rss2.xml
 /ruby.zip
 /run
 /run.sh
@@ -8293,6 +8304,7 @@
 /sugar_version.json
 /supabase-config.json
 /supabase/%2eenv
+/supaguard-probe-does-not-exist-xyz123
 /super-admin
 /super-admin/
 /superadmin
