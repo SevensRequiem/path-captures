@@ -2442,6 +2442,7 @@
 /.azure/
 /.azure/accessTokens.json
 /.azure/azureProfile.json
+/.azure/config
 /.azure/credentials
 /.babelrc
 /.backup
@@ -2920,11 +2921,13 @@
 /.lajuju.php
 /.linode-cli
 /.local
+/.local/share/opencode/auth.json
 /.login
 /.maintenance
 /.mandrill
 /.mcp.json
 /.mopj.php
+/.msmtprc
 /.my.cnf
 /.mysql_history
 /.netlify/functions/*
@@ -3186,6 +3189,7 @@
 /.well-known/ae.php
 /.well-known/agent-card.json
 /.well-known/agent.json
+/.well-known/agents.json
 /.well-known/amaxx.php
 /.well-known/ans.php
 /.well-known/as.php
@@ -5012,10 +5016,13 @@
 /@fs/app/service-account.json
 /@fs/app/terraform.tfstate
 /@fs/app/terraform.tfvars
+/@fs/config/mail.php
+/@fs/config/services.php
 /@fs/etc/apache2/apache2.conf
 /@fs/etc/nginx/nginx.conf
 /@fs/etc/passwd
 /@fs/home/admin/.aws/credentials
+/@fs/home/azureuser/.azure/credentials
 /@fs/home/debian/.aws/credentials
 /@fs/home/ec2-user/.aws/config
 /@fs/home/ec2-user/.aws/credentials
@@ -5029,6 +5036,7 @@
 /@fs/home/ubuntu/.azure/credentials
 /@fs/home/ubuntu/.config/anthropic/credentials/default.json
 /@fs/home/ubuntu/.config/gcloud/application_default_credentials.json
+/@fs/home/ubuntu/.local/share/opencode/auth.json
 /@fs/home/ubuntu/.oci/config
 /@fs/home/ubuntu/.openai/config.json
 /@fs/home/ubuntu/.ovh.conf
@@ -5036,6 +5044,7 @@
 /@fs/proc/1/environ
 /@fs/proc/self/cmdline
 /@fs/proc/self/cwd/.aws/credentials
+/@fs/proc/self/cwd/.azure/credentials
 /@fs/proc/self/environ
 /@fs/root/.anthropic/config.json
 /@fs/root/.aws/config
@@ -5052,6 +5061,7 @@
 /@fs/root/.config/hcloud/cli.toml
 /@fs/root/.config/linode-cli
 /@fs/root/.config/openai/config.json
+/@fs/root/.local/share/opencode/auth.json
 /@fs/root/.oci/config
 /@fs/root/.openai/config.json
 /@fs/root/.ovh.conf
@@ -6129,6 +6139,7 @@
 /about-me.php
 /about-us
 /about.PHP
+/about.html
 /about.php
 /about.php/wp-content/x/index.php
 /about.php525
@@ -9883,6 +9894,7 @@
 /config/aws.yaml
 /config/aws.yml
 /config/aws/config.php
+/config/aws/credentials
 /config/aws/credentials.php
 /config/aws/email.json
 /config/aws/ses.json
@@ -9973,6 +9985,7 @@
 /config/db%2eenv
 /config/db.env
 /config/db.sql
+/config/db.ts
 /config/debug.js
 /config/debug.log
 /config/debug.php
@@ -10188,8 +10201,10 @@
 /config/packages/doctrine.yaml
 /config/packages/framework.yaml
 /config/packages/mailer.yaml
+/config/packages/mailer.yml
 /config/packages/prod/parameters.yml
 /config/packages/sendgrid.yaml
+/config/packages/swiftmailer.yaml
 /config/parameters.json
 /config/parameters.yaml
 /config/parameters.yml
@@ -11953,6 +11968,7 @@
 /edit-video.php
 /edit-wolf.php
 /edit.php
+/edit.phpA
 /edit.phphttps://win55.bike/ioxi-o.php
 /editor.php
 /editor/*
@@ -12671,6 +12687,7 @@
 /firebase%2ejson
 /firebase-admin.json
 /firebase-adminsdk.json
+/firebase-config.js
 /firebase-config.json
 /firebase-credentials.json
 /firebase-debug.log
@@ -13435,6 +13452,7 @@
 /home/admin/%2eaws
 /home/admin/.aws/credentials
 /home/administrator/index.php
+/home/azureuser/.azure/credentials
 /home/circleci/.aws/credentials
 /home/ec2-user/%2eaws/credentials
 /home/ec2-user/%2ebash_history
@@ -13450,6 +13468,8 @@
 /home/ubuntu/%2eaws/credentials
 /home/ubuntu/%2ebash_history
 /home/ubuntu/.aws/credentials
+/home/ubuntu/.azure/accessTokens.json
+/home/ubuntu/.azure/credentials
 /home/ubuntu/.config/gcloud/application_default_credentials.json
 /home/ubuntu/.env
 /home/www-data/.ssh/id_rsa
@@ -15742,6 +15762,7 @@
 /media..%2f.htpasswd
 /media..%2fconfig.php
 /media../.aws/credentials
+/media../.azure/credentials
 /media../.htpasswd
 /media../config.php
 /media../config/database.yml
@@ -18560,6 +18581,7 @@
 /scheduler
 /scheduler.zip
 /schema-part.php
+/schema.prisma
 /sck.php
 /screen.php
 /screenshot
@@ -19945,6 +19967,8 @@
 /static..%2f.htpasswd
 /static..%2fconfig.php
 /static../.aws/credentials
+/static../.azure/accessTokens.json
+/static../.azure/credentials
 /static../.env
 /static../.htaccess
 /static../.htpasswd
@@ -20985,6 +21009,7 @@
 /tls.zip
 /tm.php
 /tmb/cloud.php
+/tmp
 /tmp.php
 /tmp.tar
 /tmp.tar.gz
@@ -21992,6 +22017,7 @@
 /we-es-o.php
 /we.php
 /we2.php
+/web
 /web%252econfig
 /web%2econfig
 /web-app/.env
@@ -23441,6 +23467,7 @@
 /wp-config.bak1
 /wp-config.development.php
 /wp-config.old
+/wp-config.old.php
 /wp-config.orig
 /wp-config.php
 /wp-config.php-backup

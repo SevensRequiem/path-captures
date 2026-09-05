@@ -84,6 +84,7 @@
 /lib../config/database.yml
 /lib../config/settings.py
 /media../.aws/credentials
+/media../.azure/credentials
 /media../.htpasswd
 /media../config/database.yml
 /media../etc/passwd
@@ -102,6 +103,8 @@
 /share../config/settings.py
 /static%2e%2e/var/www/html/%2eenv
 /static../.aws/credentials
+/static../.azure/accessTokens.json
+/static../.azure/credentials
 /static../.env
 /static../.htaccess
 /static../.htpasswd

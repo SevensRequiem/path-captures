@@ -2063,6 +2063,7 @@
 /.azure/
 /.azure/accessTokens.json
 /.azure/azureProfile.json
+/.azure/config
 /.azure/credentials
 /.babelrc
 /.backup.tar
@@ -2225,10 +2226,12 @@
 /.jenv-version
 /.linode-cli
 /.local
+/.local/share/opencode/auth.json
 /.login
 /.maintenance
 /.mandrill
 /.mcp.json
+/.msmtprc
 /.my.cnf
 /.mysql_history
 /.netlify/functions/*
@@ -2355,6 +2358,7 @@
 /.well-known/acme-challenge/file
 /.well-known/agent-card.json
 /.well-known/agent.json
+/.well-known/agents.json
 /.well-known/atproto-did
 /.well-known/carbon.txt
 /.well-known/cf-custom-hostname-challenge/8561724b-9bd3-467a-a1e7-3317850b40e0
@@ -2588,6 +2592,7 @@
 /@fs/etc/nginx/nginx.conf
 /@fs/etc/passwd
 /@fs/home/admin/.aws/credentials
+/@fs/home/azureuser/.azure/credentials
 /@fs/home/debian/.aws/credentials
 /@fs/home/ec2-user/.aws/config
 /@fs/home/ec2-user/.aws/credentials
@@ -2601,6 +2606,7 @@
 /@fs/home/ubuntu/.azure/credentials
 /@fs/home/ubuntu/.config/anthropic/credentials/default.json
 /@fs/home/ubuntu/.config/gcloud/application_default_credentials.json
+/@fs/home/ubuntu/.local/share/opencode/auth.json
 /@fs/home/ubuntu/.oci/config
 /@fs/home/ubuntu/.openai/config.json
 /@fs/home/ubuntu/.ovh.conf
@@ -2608,6 +2614,7 @@
 /@fs/proc/1/environ
 /@fs/proc/self/cmdline
 /@fs/proc/self/cwd/.aws/credentials
+/@fs/proc/self/cwd/.azure/credentials
 /@fs/proc/self/environ
 /@fs/root/.anthropic/config.json
 /@fs/root/.aws/config
@@ -2622,6 +2629,7 @@
 /@fs/root/.config/hcloud/cli.toml
 /@fs/root/.config/linode-cli
 /@fs/root/.config/openai/config.json
+/@fs/root/.local/share/opencode/auth.json
 /@fs/root/.oci/config
 /@fs/root/.openai/config.json
 /@fs/root/.ovh.conf
@@ -3167,6 +3175,7 @@
 /aaabbbccc
 /about
 /about-us
+/about.html
 /about/
 /about/contact
 /about/privacy
@@ -4446,6 +4455,7 @@
 /config/aws.json
 /config/aws.yaml
 /config/aws.yml
+/config/aws/credentials
 /config/aws/email.json
 /config/aws/ses.json
 /config/aws/ses.yml
@@ -4488,6 +4498,7 @@
 /config/database.yml
 /config/db%2eenv
 /config/db.env
+/config/db.ts
 /config/debug.js
 /config/debug.log
 /config/default.json
@@ -4552,8 +4563,10 @@
 /config/packages/doctrine.yaml
 /config/packages/framework.yaml
 /config/packages/mailer.yaml
+/config/packages/mailer.yml
 /config/packages/prod/parameters.yml
 /config/packages/sendgrid.yaml
+/config/packages/swiftmailer.yaml
 /config/parameters.json
 /config/parameters.yaml
 /config/parameters.yml
@@ -5117,6 +5130,7 @@
 /ecs/task-credentials.json
 /ecs/v4/credentials
 /edge.zip
+/edit.phpA
 /editor/*
 /editor/FCKeditor/fckeditor.js
 /editor/fckeditor/fckeditor.js
@@ -5370,6 +5384,7 @@
 /firebase%2ejson
 /firebase-admin.json
 /firebase-adminsdk.json
+/firebase-config.js
 /firebase-config.json
 /firebase-credentials.json
 /firebase-debug.log
@@ -5607,6 +5622,7 @@
 /home/.aws/credentials
 /home/admin/%2eaws
 /home/admin/.aws/credentials
+/home/azureuser/.azure/credentials
 /home/circleci/.aws/credentials
 /home/ec2-user/%2eaws/credentials
 /home/ec2-user/%2ebash_history
@@ -5620,6 +5636,8 @@
 /home/ubuntu/%2eaws/credentials
 /home/ubuntu/%2ebash_history
 /home/ubuntu/.aws/credentials
+/home/ubuntu/.azure/accessTokens.json
+/home/ubuntu/.azure/credentials
 /home/ubuntu/.config/gcloud/application_default_credentials.json
 /home/www-data/.ssh/id_rsa
 /horizon
@@ -7448,6 +7466,7 @@
 /scalar
 /scheduler
 /scheduler.zip
+/schema.prisma
 /screenshot
 /scripts.tar
 /scripts.tar.gz
@@ -8555,6 +8574,7 @@
 /tiny
 /tinyfilemanager/
 /tls.zip
+/tmp
 /tmp.tar
 /tmp.tar.gz
 /tmp.zip
@@ -8914,6 +8934,7 @@
 /wa/
 /waf.json
 /waku/*
+/web
 /web%252econfig
 /web%2econfig
 /web-backup.tar
