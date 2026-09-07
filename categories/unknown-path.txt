@@ -2248,6 +2248,10 @@
 /.nuxt/
 /.nvmrc
 /.oci/config
+/.oci/oci_api_key.pem
+/.oci/oci_api_key_public.pem
+/.oci/sessions/DEFAULT/oci_api_key.pem
+/.oci/sessions/DEFAULT/token
 /.old.tar
 /.old.tar.gz
 /.old.zip
@@ -2366,6 +2370,7 @@
 /.well-known/discord
 /.well-known/jwks.json
 /.well-known/mcp
+/.well-known/mcp.json
 /.well-known/mcp/server-card.json
 /.well-known/openid-configuration
 /.well-known/pki-validation
@@ -2377,6 +2382,8 @@
 /.well-known/tdmrep.json
 /.well-known/ucp
 /.well-known/webfinger
+/.well-known/webmcp
+/.well-known/webmcp.json
 /.well-knownold/
 /.yarnrc
 /.yarnrc.yml
@@ -2609,6 +2616,7 @@
 /@fs/home/ubuntu/.config/gcloud/application_default_credentials.json
 /@fs/home/ubuntu/.local/share/opencode/auth.json
 /@fs/home/ubuntu/.oci/config
+/@fs/home/ubuntu/.oci/oci_api_key.pem
 /@fs/home/ubuntu/.openai/config.json
 /@fs/home/ubuntu/.ovh.conf
 /@fs/home/www-data/.aws/credentials
@@ -2632,6 +2640,7 @@
 /@fs/root/.config/openai/config.json
 /@fs/root/.local/share/opencode/auth.json
 /@fs/root/.oci/config
+/@fs/root/.oci/oci_api_key.pem
 /@fs/root/.openai/config.json
 /@fs/root/.ovh.conf
 /@fs/root/.ssh/id_ed25519
@@ -2641,6 +2650,7 @@
 /@fs/root/terraform.tfstate
 /@fs/tmp/.aws/credentials
 /@fs/usr/src/app/.aws/credentials
+/@fs/var/run/secrets/kubernetes.io/serviceaccount/ca.crt
 /@fs/var/run/secrets/kubernetes.io/serviceaccount/token
 /@fs/var/www/.aws/credentials
 /@fs/var/www/html/.aws/credentials
@@ -2843,6 +2853,7 @@
 /__test__
 /__tests__
 /__vite_ping
+/__vite_rsc_findSourceMapURL
 /__webpack-dev-server
 /__webpack_dev_server__
 /__webpack_dev_server__/sockjs.bundle.js
@@ -2856,6 +2867,7 @@
 /_app-build-manifest.json
 /_artisan
 /_astro/[chunk-name].[hash].js
+/_astro/pages/index.astro.mjs.map
 /_backup/
 /_backup/phpinfo%2ephp
 /_buildManifest.js
@@ -2898,6 +2910,7 @@
 /_ignition/share-report
 /_ignition/styles
 /_ignition/update-config
+/_image
 /_inc/phpinfo%2ephp
 /_internal
 /_layouts/*
@@ -3119,6 +3132,7 @@
 /_nuxt/builds/latest.json
 /_nuxt/manifest.json
 /_old/
+/_payload.json
 /_phpinfo%2ephp
 /_private
 /_profiler
@@ -3186,6 +3200,7 @@
 /access_key.txt
 /access_log
 /account
+/account/_payload.json
 /account/login
 /account/register
 /accounts
@@ -3205,6 +3220,7 @@
 /actuator/env.json
 /actuator/env/aws
 /actuator/env/cloud
+/actuator/env/server.port
 /actuator/gateway/globalfilters
 /actuator/gateway/refresh
 /actuator/gateway/routes
@@ -3238,6 +3254,7 @@
 /admin/.aws/credentials
 /admin/FCKeditor/fckeditor.js
 /admin/Files/
+/admin/_payload.json
 /admin/artisan
 /admin/config
 /admin/config/common.js
@@ -3332,6 +3349,7 @@
 /amplify/team-provider-info%252ejson
 /amplify/team-provider-info%2ejson
 /amplify/team-provider-info.json
+/amplify_outputs.json
 /amplifyconfiguration.json
 /amplitude.zip
 /analytics.zip
@@ -4835,6 +4853,7 @@
 /dashboard.zip
 /dashboard/
 /dashboard/*
+/dashboard/_payload.json
 /dashboard/api
 /dashboard/dashboard
 /dashboard/login
@@ -5068,6 +5087,7 @@
 /docs/.config
 /docs/api
 /docs/api.json
+/docs/mcp
 /docs/swagger
 /documentation
 /documentation.zip
@@ -6432,6 +6452,7 @@
 /master/login
 /master_key.txt
 /mc_api_key.txt
+/mcp
 /mcp-rest/test/connection
 /me
 /media%252e%252e%252f%252e%252e%252fetc/passwd
@@ -6809,6 +6830,7 @@
 /pages/_error
 /pages/api
 /pages/api/checkout.js
+/pages/api/index.astro.mjs.map
 /pages/api/payment.js
 /pages/api/send-email.js
 /pages/api/ses.js
@@ -6816,6 +6838,7 @@
 /pages/api/stripe.ts
 /pages/api/webhook.js
 /pages/doenterpagevariables.action
+/pages/index.astro.mjs.map
 /panel
 /panel.tar
 /panel.tar.gz
@@ -7082,6 +7105,7 @@
 /proc/net/tcp
 /proc/net/udp
 /proc/self
+/proc/self/cgroup
 /proc/self/cmdline
 /proc/self/cwd
 /proc/self/environ
@@ -7808,6 +7832,7 @@
 /settings.yml
 /settings.zip
 /settings/*
+/settings/_payload.json
 /settings/base.py
 /settings/local.py
 /settings/mandrill.py
@@ -8033,10 +8058,12 @@
 /src/.streamlit/secrets.toml
 /src/FileUpload.js
 /src/access.log
+/src/amplifyconfiguration.json
 /src/api/config.js
 /src/app.js
 /src/application.properties
 /src/application.yml
+/src/aws-exports.js
 /src/backup.tar.gz
 /src/bundle.js
 /src/bundle.js.map

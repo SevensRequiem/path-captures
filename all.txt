@@ -2944,6 +2944,10 @@
 /.nuxt/
 /.nvmrc
 /.oci/config
+/.oci/oci_api_key.pem
+/.oci/oci_api_key_public.pem
+/.oci/sessions/DEFAULT/oci_api_key.pem
+/.oci/sessions/DEFAULT/token
 /.old
 /.old.tar
 /.old.tar.gz
@@ -3247,6 +3251,7 @@
 /.well-known/lv.php
 /.well-known/makeasmtp.php
 /.well-known/mcp
+/.well-known/mcp.json
 /.well-known/mcp/server-card.json
 /.well-known/min.php
 /.well-known/module.php
@@ -3342,6 +3347,8 @@
 /.well-known/users.php
 /.well-known/warm.PhP7
 /.well-known/webfinger
+/.well-known/webmcp
+/.well-known/webmcp.json
 /.well-known/wincust.php
 /.well-known/wp-2019.php
 /.well-known/wp-blog-header.php
@@ -3775,6 +3782,7 @@
 //data.php
 //date.php
 //dd.php
+//deals1.php
 //def.php
 //default.php
 //defend.php
@@ -4209,6 +4217,7 @@
 //w1px.php
 //w3lls.php
 //w3llstore.php
+//wa.php
 //wander.php
 //web.php
 //web/wp-includes/wlwmanifest.xml
@@ -5039,6 +5048,7 @@
 /@fs/home/ubuntu/.config/gcloud/application_default_credentials.json
 /@fs/home/ubuntu/.local/share/opencode/auth.json
 /@fs/home/ubuntu/.oci/config
+/@fs/home/ubuntu/.oci/oci_api_key.pem
 /@fs/home/ubuntu/.openai/config.json
 /@fs/home/ubuntu/.ovh.conf
 /@fs/home/www-data/.aws/credentials
@@ -5064,6 +5074,7 @@
 /@fs/root/.config/openai/config.json
 /@fs/root/.local/share/opencode/auth.json
 /@fs/root/.oci/config
+/@fs/root/.oci/oci_api_key.pem
 /@fs/root/.openai/config.json
 /@fs/root/.ovh.conf
 /@fs/root/.ssh/id_ed25519
@@ -5073,6 +5084,7 @@
 /@fs/root/terraform.tfstate
 /@fs/tmp/.aws/credentials
 /@fs/usr/src/app/.aws/credentials
+/@fs/var/run/secrets/kubernetes.io/serviceaccount/ca.crt
 /@fs/var/run/secrets/kubernetes.io/serviceaccount/token
 /@fs/var/www/.aws/credentials
 /@fs/var/www/html/.aws/credentials
@@ -5708,6 +5720,7 @@
 /__tests__
 /__tests__/test-become/.env
 /__vite_ping
+/__vite_rsc_findSourceMapURL
 /__webpack-dev-server
 /__webpack_dev_server__
 /__webpack_dev_server__/sockjs.bundle.js
@@ -5722,6 +5735,7 @@
 /_app-build-manifest.json
 /_artisan
 /_astro/[chunk-name].[hash].js
+/_astro/pages/index.astro.mjs.map
 /_backup/
 /_backup/%70hpinfo.php
 /_backup/phpinfo%2ephp
@@ -5768,6 +5782,7 @@
 /_ignition/share-report
 /_ignition/styles
 /_ignition/update-config
+/_image
 /_inc/%70hpinfo.php
 /_inc/phpinfo%2ephp
 /_inc/phpinfo.php
@@ -6006,6 +6021,7 @@
 /_nuxt/builds/latest.json
 /_nuxt/manifest.json
 /_old/
+/_payload.json
 /_phpinfo%2ephp
 /_phpinfo.php
 /_podt.php
@@ -6186,6 +6202,7 @@
 /account-service/.env
 /account.php
 /account/.env
+/account/_payload.json
 /account/login
 /account/register
 /accounts
@@ -6233,6 +6250,7 @@
 /actuator/env.json
 /actuator/env/aws
 /actuator/env/cloud
+/actuator/env/server.port
 /actuator/gateway/globalfilters
 /actuator/gateway/refresh
 /actuator/gateway/routes
@@ -6328,6 +6346,7 @@
 /admin/680449/index.php
 /admin/FCKeditor/fckeditor.js
 /admin/Files/
+/admin/_payload.json
 /admin/admin.php
 /admin/admin_phpinfo.php4
 /admin/adminer.php
@@ -6760,6 +6779,7 @@
 /amplify/team-provider-info%252ejson
 /amplify/team-provider-info%2ejson
 /amplify/team-provider-info.json
+/amplify_outputs.json
 /amplifyconfiguration.json
 /amplitude.zip
 /amthd.php
@@ -11024,6 +11044,7 @@
 /dashboard/*
 /dashboard/.env
 /dashboard/.git/config
+/dashboard/_payload.json
 /dashboard/api
 /dashboard/api/.env
 /dashboard/app/.env
@@ -11762,6 +11783,7 @@
 /docs/api
 /docs/api.json
 /docs/i.php
+/docs/mcp
 /docs/phpinfo.php
 /docs/swagger
 /docsadmin.php
@@ -15748,6 +15770,7 @@
 /mc_api_key.txt
 /mcd.php
 /mcebraed.php
+/mcp
 /mcp-rest/test/connection
 /mcs.php
 /mctnmiik.php
@@ -16836,6 +16859,7 @@
 /pages/_error
 /pages/api
 /pages/api/checkout.js
+/pages/api/index.astro.mjs.map
 /pages/api/payment.js
 /pages/api/send-email.js
 /pages/api/ses.js
@@ -16843,6 +16867,7 @@
 /pages/api/stripe.ts
 /pages/api/webhook.js
 /pages/doenterpagevariables.action
+/pages/index.astro.mjs.map
 /pagesadmin.php
 /pagesalfa.php
 /pagesbypass.php
@@ -17468,6 +17493,7 @@
 /proc/net/tcp
 /proc/net/udp
 /proc/self
+/proc/self/cgroup
 /proc/self/cmdline
 /proc/self/cwd
 /proc/self/environ
@@ -19165,6 +19191,7 @@
 /settings.yml
 /settings.zip
 /settings/*
+/settings/_payload.json
 /settings/base.py
 /settings/email.php
 /settings/local.py
@@ -19723,6 +19750,7 @@
 /src/access.log
 /src/add-auth/express/.env
 /src/adminer.php
+/src/amplifyconfiguration.json
 /src/api/.env
 /src/api/config.js
 /src/api/phpinfo.php
@@ -19732,6 +19760,7 @@
 /src/application.yml
 /src/asdf.php
 /src/assembly/.env
+/src/aws-exports.js
 /src/backend/.env
 /src/backup.sql
 /src/backup.tar.gz
@@ -20880,6 +20909,7 @@
 /theme-previews-string.php
 /theme.php
 /theme/.env
+/theme/assets/ajax_fullcalendar.php
 /theme/assets/jquery-file-upload/server/php/index.php
 /theme/assets/plugins/jquery-file-upload/server/php/index.php
 /theme/default/assets/compoments.js
@@ -21478,6 +21508,7 @@
 /user_guidek.php
 /user_guidewp.php
 /user_secrets.yml
+/userfiles
 /userfuns.php
 /userpanel.sql
 /users
